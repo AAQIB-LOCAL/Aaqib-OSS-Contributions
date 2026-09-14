@@ -10,7 +10,6 @@ A chronological record of open-source contributions made by `Aaqibhafeezkhan`, b
 |---|---:|
 | Repositories with verified upstream contributions | 7 |
 | Merged upstream PRs | 12 |
-| Closed/unmerged PRs | 1 |
 | Years represented | 2025–2026 |
 
 ## Verified Upstream Contributions
@@ -37,12 +36,6 @@ A chronological record of open-source contributions made by `Aaqibhafeezkhan`, b
 | Date | Repository | Contribution | Status |
 |---|---|---|---|
 | 28 Jan 2025 | [ceeceeceeceecee/cms-root-orchestration](https://github.com/ceeceeceeceecee/cms-root-orchestration) | Update README.md through a pull request | Merged upstream commit verified; PR metadata no longer available through the connected GitHub API |
-
-## Closed / Not Merged
-
-| Date | Repository | PR | Contribution | Status |
-|---|---|---:|---|---|
-| 7 Sep 2026 | [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | #48 | Viewer-role implementation | Closed without merge; superseded by PR #49 |
 
 ## Contribution Areas
 

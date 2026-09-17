@@ -1,0 +1,120 @@
+name: Contribution Audit
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: contribution-audit
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate contribution audit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXCLUDED_GITHUB_OWNERS: "Aaqibhafeezkhan,AAQIB-LOCAL,AIOps-Capabilities-Hub,buildtheportfolio,stillbrainstorming,hafeez-dev-labs"
+        run: node scripts/audit-contributions.mjs
+
+      - name: Check for audit changes
+        id: changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Stop when audit is unchanged
+        if: steps.changes.outputs.changed == 'false'
+        run: echo "Contribution audit is already current."
+
+      - name: Check for an existing open audit PR
+        if: steps.changes.outputs.changed == 'true'
+        id: existing_pr
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PR_NUMBER=$(gh pr list --repo "$GITHUB_REPOSITORY" --state open --base main --json number,headRefName --jq '.[] | select(.headRefName | startswith("automation/contribution-audit-")) | .number' | head -n 1)
+          echo "number=${PR_NUMBER}" >> "$GITHUB_OUTPUT"
+
+      - name: Stop when an audit PR is already open
+        if: steps.changes.outputs.changed == 'true' && steps.existing_pr.outputs.number != ''
+        run: echo "An audit PR is already open as #${{ steps.existing_pr.outputs.number }}."
+
+      - name: Create audit branch
+        if: steps.changes.outputs.changed == 'true' && steps.existing_pr.outputs.number == ''
+        id: branch
+        run: |
+          BRANCH="automation/contribution-audit-${GITHUB_RUN_ID}"
+          git switch -c "$BRANCH"
+          echo "name=$BRANCH" >> "$GITHUB_OUTPUT"
+
+      - name: Commit the audit update
+        if: steps.changes.outputs.changed == 'true' && steps.existing_pr.outputs.number == ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --check
+          git commit -m "docs: update contribution audit"
+          test "$(git rev-list --count main..HEAD)" = "1"
+
+      - name: Push the audit branch
+        if: steps.changes.outputs.changed == 'true' && steps.existing_pr.outputs.number == ''
+        env:
+          BRANCH: ${{ steps.branch.outputs.name }}
+        run: git push --set-upstream origin "$BRANCH"
+
+      - name: Open the audit PR
+        if: steps.changes.outputs.changed == 'true' && steps.existing_pr.outputs.number == ''
+        id: pr
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: ${{ steps.branch.outputs.name }}
+        run: |
+          PR_URL=$(gh pr create \
+            --repo "$GITHUB_REPOSITORY" \
+            --base main \
+            --head "$BRANCH" \
+            --title "docs: update contribution audit" \
+            --body "Closes #1\n\nAutomated contribution audit update.\n\nWorkflow: one issue -> one PR -> exactly one commit -> self-review -> manual merge.\n\nThis workflow does not merge pull requests automatically.")
+          PR_NUMBER=$(gh pr view "$PR_URL" --repo "$GITHUB_REPOSITORY" --json number --jq '.number')
+          echo "url=$PR_URL" >> "$GITHUB_OUTPUT"
+          echo "number=$PR_NUMBER" >> "$GITHUB_OUTPUT"
+
+      - name: Self-review the audit PR
+        if: steps.pr.outputs.number != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ steps.pr.outputs.number }}
+        run: |
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            "/repos/$GITHUB_REPOSITORY/pulls/$PR_NUMBER/reviews" \
+            -f body="Self-review: verified that the contribution audit is generated from live GitHub PR data, namespace filters are applied, existing descriptions are preserved, and the change is exactly one commit. No merge performed." \
+            -f event="COMMENT"
+
+      - name: Leave the PR open for manual merge
+        if: steps.pr.outputs.number != ''
+        run: echo "Audit PR ${{ steps.pr.outputs.number }} is intentionally left open for manual merge."

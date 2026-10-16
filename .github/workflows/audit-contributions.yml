@@ -27,6 +27,9 @@ jobs:
         with:
           node-version: 20
 
+      - name: Validate audit script syntax
+        run: node --check scripts/audit-contributions.mjs
+
       - name: Generate contribution audit
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

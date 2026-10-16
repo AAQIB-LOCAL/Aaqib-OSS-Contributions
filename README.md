@@ -7,8 +7,8 @@ A technical record of verified open-source contributions by `Aaqibhafeezkhan`, b
 | Metric | Count |
 |---|---:|
 | Authored GitHub PRs discovered | 393 |
-| Verified merged upstream OSS PRs | 53 |
-| External OSS repositories with merged PRs | 29 |
+| Verified merged upstream OSS PRs | 54 |
+| External OSS repositories with merged PRs | 30 |
 
 The authored-PR search population includes personal, organization/internal, fork-based, and external repositories. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -17,6 +17,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | [#7](https://github.com/adebayomoses/mcp-detector/pull/7) | Add SARIF 2.1.0 report output | Merged |
+| [Aepzie/cutline](https://github.com/Aepzie/cutline) | [#25](https://github.com/Aepzie/cutline/pull/25) | feat(render): highlight timed caption words | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#34](https://github.com/afrigov/afrigov/pull/34) | fix(pack): accurate Maasai shield in ke.svg | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#35](https://github.com/afrigov/afrigov/pull/35) | fix(pack): document Senegal NIN format | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#40](https://github.com/afrigov/afrigov/pull/40) | fix(pack): add Senegal flag star | Merged |
@@ -88,6 +89,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 2 |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 2 |
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 1 |
+| [Aepzie/cutline](https://github.com/Aepzie/cutline) | 1 |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | 1 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 1 |
@@ -103,7 +105,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
-| **Total** | **53** |
+| **Total** | **54** |
 
 ## Contribution Areas
 

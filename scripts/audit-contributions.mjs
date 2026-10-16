@@ -73,7 +73,7 @@ function existingDescriptions(readme) {
   const descriptions = new Map();
   const rowPattern = /^\| (\[.*?\]\(https:\/\/github\.com\/([^/]+\/[^)]+)\)) \| #(\d+) \| (.*?) \| Merged \|$/gm;
   for (const match of readme.matchAll(rowPattern)) {
-    descriptions.set(\`${match[2]}#${match[3]}\`, match[4]);
+    descriptions.set(match[2] + "#" + match[3], match[4]);
   }
   return descriptions;
 }

@@ -15,7 +15,7 @@ The authored-PR search population includes personal, organization/internal, fork
 ## Verified Upstream OSS Contributions
 
 | Repository | PR | Technical contribution | Status |
-|---|---|---:|---|---|
+|---|---:|---|---|
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | #7 | Add SARIF 2.1.0 report output | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | #34 | fix(pack): accurate Maasai shield in ke.svg | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | #35 | fix(pack): document Senegal NIN format | Merged |

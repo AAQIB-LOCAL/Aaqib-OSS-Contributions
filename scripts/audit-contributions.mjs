@@ -190,7 +190,7 @@ The workflow:
 
 1. audits authored GitHub PRs through the GitHub API;
 2. regenerates date-free contribution rows and technical summaries;
-3. commits the README directly to `main` only when content changes.
+3. commits the README directly to the main branch only when content changes.
 
 
 ## Contribution Counting Rules

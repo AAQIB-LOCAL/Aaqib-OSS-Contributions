@@ -135,7 +135,7 @@ The authored-PR search population includes personal, organization/internal, fork
 ## Verified Upstream OSS Contributions
 
 | Repository | PR | Technical contribution | Status |
-|---|---|---:|---|---|
+|---|---:|---|---|
 ${auditTable}
 
 ## External OSS Contribution Breakdown

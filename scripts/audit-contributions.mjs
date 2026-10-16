@@ -71,9 +71,10 @@ function escapeMarkdown(value) {
 
 function existingDescriptions(readme) {
   const descriptions = new Map();
-  const rowPattern = /^\| (\[.*?\]\(https:\/\/github\.com\/([^/]+\/[^)]+)\)) \| #(\d+) \| (.*?) \| Merged \|$/gm;
+  const rowPattern = /^\| (\[.*?\]\(https:\/\/github\.com\/([^/]+\/[^)]+)\)) \| (?:\[#(\d+)\]\(https:\/\/github\.com\/[^/]+\/[^/]+\/pull\/\d+\)|#(\d+)) \| (.*?) \| Merged \|$/gm;
   for (const match of readme.matchAll(rowPattern)) {
-    descriptions.set(match[2] + "#" + match[3], match[4]);
+    const number = match[3] || match[4];
+    descriptions.set(match[2] + "#" + number, match[5]);
   }
   return descriptions;
 }
@@ -84,7 +85,7 @@ function buildTable(items, descriptions) {
       const repository = repositoryFromUrl(item.repository_url);
       const key = `${repository}#${item.number}`;
       const description = descriptions.get(key) || escapeMarkdown(item.title);
-      return `| ${markdownLink(repository)} | #${item.number} | ${description} | Merged |`;
+      return `| ${markdownLink(repository)} | [#${item.number}](https://github.com/${repository}/pull/${item.number}) | ${description} | Merged |`;
     })
     .join("\n");
 }

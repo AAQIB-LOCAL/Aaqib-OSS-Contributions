@@ -71,7 +71,7 @@ function escapeMarkdown(value) {
 
 function existingDescriptions(readme) {
   const descriptions = new Map();
-  const rowPattern = /^\| .*? \| \[.*?\]\(https:\/\/github\.com\/([^/]+\/[^)]+)\) \| #(\d+) \| (.*?) \| Merged \|$/gm;
+  const rowPattern = /^\| (\[.*?\]\(https:\/\/github\.com\/([^/]+\/[^)]+)\)) \| #(\d+) \| (.*?) \| Merged \|$/gm;
   for (const match of readme.matchAll(rowPattern)) {
     descriptions.set(`${match[1]}#${match[2]}`, match[3]);
   }

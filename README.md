@@ -10,7 +10,7 @@ A technical record of verified open-source contributions by `Aaqibhafeezkhan`, b
 | Verified merged upstream OSS PRs | 53 |
 | External OSS repositories with merged PRs | 29 |
 
-The authored-PR search population includes personal, organization/internal, fork-based, and external repositories. It includes personal repositories, organization/internal repositories, portfolio namespaces, fork-based work, and external repositories. The OSS ledger below intentionally counts only merged PRs in repositories outside the configured non-external namespaces.
+The authored-PR search population includes personal, organization/internal, fork-based, and external repositories. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
 ## Verified Upstream OSS Contributions
 

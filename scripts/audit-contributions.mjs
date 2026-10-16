@@ -130,7 +130,7 @@ A technical record of verified open-source contributions by \`${author}\`, based
 | Verified merged upstream OSS PRs | ${mergedCount} |
 | External OSS repositories with merged PRs | ${repositoryCount} |
 
-The authored-PR search population includes personal, organization/internal, fork-based, and external repositories. It includes personal repositories, organization/internal repositories, portfolio namespaces, fork-based work, and external repositories. The OSS ledger below intentionally counts only merged PRs in repositories outside the configured non-external namespaces.
+The authored-PR search population includes personal, organization/internal, fork-based, and external repositories. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
 ## Verified Upstream OSS Contributions
 

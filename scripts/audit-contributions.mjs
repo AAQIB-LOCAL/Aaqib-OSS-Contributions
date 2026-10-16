@@ -61,15 +61,6 @@ function repositoryFromUrl(repositoryUrl) {
   return `${match[1]}/${match[2]}`;
 }
 
-function formatDate(value) {
-  return new Intl.DateTimeFormat("en-GB", {
-    day: "2-digit",
-    month: "short",
-    year: "numeric",
-    timeZone: "Asia/Kolkata",
-  }).format(new Date(value));
-}
-
 function markdownLink(repository) {
   return `[${repository}](https://github.com/${repository})`;
 }
@@ -93,7 +84,7 @@ function buildTable(items, descriptions) {
       const repository = repositoryFromUrl(item.repository_url);
       const key = `${repository}#${item.number}`;
       const description = descriptions.get(key) || escapeMarkdown(item.title);
-      return `| ${formatDate(item.pull_request?.merged_at || item.closed_at)} | ${markdownLink(repository)} | #${item.number} | ${description} | Merged |`;
+      return `| ${markdownLink(repository)} | #${item.number} | ${description} | Merged |`;
     })
     .join("\n");
 }
@@ -107,7 +98,7 @@ const externalMerged = mergedPullRequests.items
     const repositoryOwner = repository?.split("/")[0]?.toLowerCase();
     return repositoryOwner && !excludedOwners.has(repositoryOwner);
   })
-  .sort((a, b) => new Date(a.pull_request.merged_at) - new Date(b.pull_request.merged_at));
+  .sort((a, b) => repositoryFromUrl(a.repository_url).localeCompare(repositoryFromUrl(b.repository_url)) || a.number - b.number);
 
 const readmePath = "README.md";
 const existingReadme = fs.readFileSync(readmePath, "utf8");
@@ -123,33 +114,27 @@ const repositoryBreakdown = [...repositoryCounts.entries()]
   .map(([repository, count]) => `| ${markdownLink(repository)} | ${count} |`)
   .join("\n");
 
-const lastAudited = formatDate(new Date().toISOString());
 const auditTable = buildTable(externalMerged, descriptions);
 const repositoryCount = repositoryCounts.size;
 const mergedCount = externalMerged.length;
 
 const readme = `# Aaqib OSS Contributions
 
-A chronological record of open-source contributions made by \`${author}\`, based on GitHub pull-request and commit history available through the GitHub API.
+A technical record of verified open-source contributions by \`${author}\`, based on upstream pull-request history.
 
-**Last audited:** ${lastAudited}
-
-## Full Audit Summary
+## Contribution Summary
 
 | Metric | Count |
 |---|---:|
 | Authored GitHub PRs discovered | ${allPullRequests.totalCount} |
 | Verified merged upstream OSS PRs | ${mergedCount} |
 | External OSS repositories with merged PRs | ${repositoryCount} |
-| Years represented | 2026 |
 
-The authored-PR count covers the complete GitHub pull-request search population for \`author:${author} is:pr\` at audit time. It includes personal repositories, organization/internal repositories, portfolio namespaces, fork-based work, and external repositories. The OSS ledger below intentionally counts only merged PRs in repositories outside the configured non-external namespaces.
+The authored-PR search population includes personal, organization/internal, fork-based, and external repositories. It includes personal repositories, organization/internal repositories, portfolio namespaces, fork-based work, and external repositories. The OSS ledger below intentionally counts only merged PRs in repositories outside the configured non-external namespaces.
 
 ## Verified Upstream OSS Contributions
 
-### 2026
-
-| Date | Repository | PR | Contribution | Status |
+| Repository | PR | Technical contribution | Status |
 |---|---|---:|---|---|
 ${auditTable}
 
@@ -172,6 +157,15 @@ ${repositoryBreakdown}
 - **Documentation:** Fair-Code corrections and contributor-list work
 - **First contribution:** First Contributions contributor-list entry
 
+## Technical Focus
+
+- **Java / JVM:** API contract enforcement, startup/configuration validation, and regression coverage.
+- **Persistence and infrastructure:** SQLite/PostgreSQL storage adapters, Redis-backed integration tests, atomic increments, and TTL handling.
+- **JavaScript / TypeScript:** CLI improvements, stable JSON output, parser fuzzing, type inference, and component-level concurrency handling.
+- **Security and reliability:** Route-level authorization, safe public-share state handling, concurrent key rotation, and duplicate-submission prevention.
+- **Quality engineering:** Property-based fuzzing, contract suites, integration tests, component tests, and desktop regression tests.
+- **Developer experience:** CLI quiet/report modes, machine-readable output, reusable store contracts, and contributor-facing fixes.
+
 ## Full GitHub Activity Audit
 
 The broader audit currently discovers **${allPullRequests.totalCount} authored GitHub pull requests** for \`${author}\`. The external OSS subset is derived from the merged population after namespace filtering.
@@ -190,22 +184,18 @@ Existing contribution descriptions are preserved from the current README. Newly 
 
 ## Automation
 
-The repository contains a scheduled GitHub Actions audit that runs daily at 08:30 India Standard Time and can also be started manually.
+GitHub Actions refreshes this date-free ledger weekly or on manual workflow dispatch.
 
 The workflow:
 
-1. audits authored GitHub PRs through the public GitHub API;
-2. regenerates this README only when the audit data changes;
-3. creates exactly one commit on a dedicated audit branch;
-4. opens one PR against \`main\` referencing the audit issue;
-5. posts a self-review comment on the PR; and
-6. stops without merging the PR.
+1. audits authored GitHub PRs through the GitHub API;
+2. regenerates date-free contribution rows and technical summaries;
+3. commits the README directly to `main` only when content changes.
 
-An existing open audit PR prevents another audit PR from being created, so the repository does not accumulate duplicate update PRs.
 
-## Audit Cutoff
+## Contribution Counting Rules
 
-The audit cutoff is the date shown in **Last audited** above. The source population and OSS filtering are regenerated from live GitHub data on each scheduled or manually triggered run.
+Only merged pull requests to external upstream repositories appear in the verified ledger. Open PRs, issue work, fork-only commits, and unmerged changes are not counted as completed contributions.
 `;
 
 fs.writeFileSync(readmePath, readme.endsWith("\n") ? readme : `${readme}\n`);

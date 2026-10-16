@@ -16,59 +16,59 @@ The authored-PR search population includes personal, organization/internal, fork
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
-| [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | #7 | Add SARIF 2.1.0 report output | Merged |
-| [afrigov/afrigov](https://github.com/afrigov/afrigov) | #34 | fix(pack): accurate Maasai shield in ke.svg | Merged |
-| [afrigov/afrigov](https://github.com/afrigov/afrigov) | #35 | fix(pack): document Senegal NIN format | Merged |
-| [afrigov/afrigov](https://github.com/afrigov/afrigov) | #40 | fix(pack): add Senegal flag star | Merged |
-| [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | #6 | Add unit coverage for international phone and SMS encoding | Merged |
-| [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | #19 | Run Redis integration tests with Testcontainers | Merged |
-| [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | #20 | #10: Make the follower poll interval configurable | Merged |
-| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | #27 | Add pre-commit hooks for Markdown and commit messages | Merged |
-| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | #41 | feat: add SARIF output for code scanning | Merged |
-| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | #46 | Add reference markup residue rule (#14) | Merged |
-| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | #63 | fix: encode SARIF artifact URIs and repair schema URL | Merged |
-| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | #3 | Add `SqliteStore` implementation | Merged |
-| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | #24 | Publish the reusable store contract test suite | Merged |
-| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | #25 | Add PostgreSQL-backed store implementation with atomic increments, TTL handling, and contract coverage | Merged |
-| [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | #43 | feat: add git subcommand executable alias | Merged |
-| [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | #44 | feat: add author sorting by share gap (#30) | Merged |
-| [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | #123775 | **First OSS contribution:** Add Aaqibhafeez Khan to the Contributors list | Merged |
-| [francordel/kdemos](https://github.com/francordel/kdemos) | #16 | test: cover Cloudflare input validators | Merged |
-| [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | #81 | Upgrade GitHub Actions to Node 24 | Merged |
-| [getsotto/sotto](https://github.com/getsotto/sotto) | #252 | Fix concurrent environment key rotation with regression coverage | Merged |
-| [getsotto/sotto](https://github.com/getsotto/sotto) | #275 | Add `sotto env ls --json` with stable JSON output and coverage | Merged |
-| [getsotto/sotto](https://github.com/getsotto/sotto) | #278 | Prevent duplicate environment-share submissions with component-level concurrency protection and regression coverage | Merged |
-| [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | #6 | docs: document editable installation for issue #5 | Merged |
-| [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | #9 | fix: handle unknown seed movie titles gracefully | Merged |
-| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | #26 | Improve boolean type inference for textual literals | Merged |
-| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | #27 | Add CLI quiet mode | Merged |
-| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | #28 | Add CLI report output file option | Merged |
-| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | #29 | Add CSV delimiter option | Merged |
-| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | #30 | Task 05 jsonl ndjson | Merged |
-| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | #31 | Add machine-readable JSON report output | Merged |
-| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | #39 | Add configurable input encoding | Merged |
-| [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | #14 | feat(cli): add JSON output to keys list | Merged |
-| [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | #29804 | Add a Japanese false-friend content entry | Merged |
-| [McanKul/offpdf](https://github.com/McanKul/offpdf) | #113 | Preserve Open With intake order with desktop regression coverage | Merged |
-| [openapi/contributors](https://github.com/openapi/contributors) | #4 | docs: add Aaqibhafeez Khan to contributors | Merged |
-| [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | #22 | docs: add TypeScript SDK contract examples | Merged |
-| [rexmhall09/TUFF](https://github.com/rexmhall09/TUFF) | #43 | test: cover comma-containing issue area choices | Merged |
-| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | #143 | Enforce the non-null `StartupEnvironment.get(String)` contract with regression coverage | Merged |
-| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | #144 | Enforce execution parallelism versus max-parallelism validation with regression tests | Merged |
-| [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | #12 | Enforce SPDX and copyright source-file headers | Merged |
-| [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | #13 | Add property-based fuzz coverage for the MCP JSON-RPC parser | Merged |
-| [tonianev/eonmark](https://github.com/tonianev/eonmark) | #17 | fix(rules): reject zero rules version and arms cap | Merged |
-| [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | #49 | Add viewer role with route-level authorization | Merged |
-| [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | #2134 | Fix picture existence checks without reading image data | Merged |
-| [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | #32 | docs(deployment): cover Caddy, nginx and Traefik proxies | Merged |
-| [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | #5760 | Surface OpenClaw session public-share state in Guard without storing share tokens | Merged |
-| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | #56 | Add palette import from Coolors URLs and hex codes | Merged |
-| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | #57 | perf(typography): virtualize font browser | Merged |
-| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | #58 | feat(pwa): add offline app shell | Merged |
-| [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | #526 | Correct the Benefits Denial audit number | Merged |
-| [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | #527 | Correct a numerical value in `index.html` | Merged |
-| [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | #511 | Resolve issue #510 in the 1.1.0 development line | Merged |
-| [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | #515 | Issue #504 - generate manpage automatically | Merged |
+| [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | [#7](https://github.com/adebayomoses/mcp-detector/pull/7) | Add SARIF 2.1.0 report output | Merged |
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#34](https://github.com/afrigov/afrigov/pull/34) | fix(pack): accurate Maasai shield in ke.svg | Merged |
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#35](https://github.com/afrigov/afrigov/pull/35) | fix(pack): document Senegal NIN format | Merged |
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#40](https://github.com/afrigov/afrigov/pull/40) | fix(pack): add Senegal flag star | Merged |
+| [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | [#6](https://github.com/AlphaIsYour/eno-qr-studio/pull/6) | Add unit coverage for international phone and SMS encoding | Merged |
+| [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#19](https://github.com/BitanSarkar/coalesce-java/pull/19) | Run Redis integration tests with Testcontainers | Merged |
+| [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#20](https://github.com/BitanSarkar/coalesce-java/pull/20) | #10: Make the follower poll interval configurable | Merged |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#27](https://github.com/Bubblegunn/ai-slop-linter/pull/27) | Add pre-commit hooks for Markdown and commit messages | Merged |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#41](https://github.com/Bubblegunn/ai-slop-linter/pull/41) | feat: add SARIF output for code scanning | Merged |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#46](https://github.com/Bubblegunn/ai-slop-linter/pull/46) | Add reference markup residue rule (#14) | Merged |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#63](https://github.com/Bubblegunn/ai-slop-linter/pull/63) | fix: encode SARIF artifact URIs and repair schema URL | Merged |
+| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#3](https://github.com/Bubblegunn/proactive-gate/pull/3) | Add `SqliteStore` implementation | Merged |
+| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#24](https://github.com/Bubblegunn/proactive-gate/pull/24) | Publish the reusable store contract test suite | Merged |
+| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#25](https://github.com/Bubblegunn/proactive-gate/pull/25) | Add PostgreSQL-backed store implementation with atomic increments, TTL handling, and contract coverage | Merged |
+| [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | [#43](https://github.com/Bubblegunn/surviving-lines/pull/43) | feat: add git subcommand executable alias | Merged |
+| [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | [#44](https://github.com/Bubblegunn/surviving-lines/pull/44) | feat: add author sorting by share gap (#30) | Merged |
+| [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#123775](https://github.com/firstcontributions/first-contributions/pull/123775) | **First OSS contribution:** Add Aaqibhafeez Khan to the Contributors list | Merged |
+| [francordel/kdemos](https://github.com/francordel/kdemos) | [#16](https://github.com/francordel/kdemos/pull/16) | test: cover Cloudflare input validators | Merged |
+| [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | [#81](https://github.com/gabrielmongefranco/privatium/pull/81) | Upgrade GitHub Actions to Node 24 | Merged |
+| [getsotto/sotto](https://github.com/getsotto/sotto) | [#252](https://github.com/getsotto/sotto/pull/252) | Fix concurrent environment key rotation with regression coverage | Merged |
+| [getsotto/sotto](https://github.com/getsotto/sotto) | [#275](https://github.com/getsotto/sotto/pull/275) | Add `sotto env ls --json` with stable JSON output and coverage | Merged |
+| [getsotto/sotto](https://github.com/getsotto/sotto) | [#278](https://github.com/getsotto/sotto/pull/278) | Prevent duplicate environment-share submissions with component-level concurrency protection and regression coverage | Merged |
+| [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | [#6](https://github.com/Hosein-imani/hybrid-recommendation-system/pull/6) | docs: document editable installation for issue #5 | Merged |
+| [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | [#9](https://github.com/Hosein-imani/hybrid-recommendation-system/pull/9) | fix: handle unknown seed movie titles gracefully | Merged |
+| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#26](https://github.com/ismayilzeynal/tabulint-oss-az/pull/26) | Improve boolean type inference for textual literals | Merged |
+| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#27](https://github.com/ismayilzeynal/tabulint-oss-az/pull/27) | Add CLI quiet mode | Merged |
+| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#28](https://github.com/ismayilzeynal/tabulint-oss-az/pull/28) | Add CLI report output file option | Merged |
+| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#29](https://github.com/ismayilzeynal/tabulint-oss-az/pull/29) | Add CSV delimiter option | Merged |
+| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#30](https://github.com/ismayilzeynal/tabulint-oss-az/pull/30) | Task 05 jsonl ndjson | Merged |
+| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#31](https://github.com/ismayilzeynal/tabulint-oss-az/pull/31) | Add machine-readable JSON report output | Merged |
+| [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#39](https://github.com/ismayilzeynal/tabulint-oss-az/pull/39) | Add configurable input encoding | Merged |
+| [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#14](https://github.com/LennardGeissler/blindbucket/pull/14) | feat(cli): add JSON output to keys list | Merged |
+| [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | [#29804](https://github.com/lingdojo/kana-dojo/pull/29804) | Add a Japanese false-friend content entry | Merged |
+| [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | Preserve Open With intake order with desktop regression coverage | Merged |
+| [openapi/contributors](https://github.com/openapi/contributors) | [#4](https://github.com/openapi/contributors/pull/4) | docs: add Aaqibhafeez Khan to contributors | Merged |
+| [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | [#22](https://github.com/Orbit-xyz/orbit-docs/pull/22) | docs: add TypeScript SDK contract examples | Merged |
+| [rexmhall09/TUFF](https://github.com/rexmhall09/TUFF) | [#43](https://github.com/rexmhall09/TUFF/pull/43) | test: cover comma-containing issue area choices | Merged |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#143](https://github.com/Sekelenao/Flinkboot/pull/143) | Enforce the non-null `StartupEnvironment.get(String)` contract with regression coverage | Merged |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#144](https://github.com/Sekelenao/Flinkboot/pull/144) | Enforce execution parallelism versus max-parallelism validation with regression tests | Merged |
+| [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#12](https://github.com/thearchitect0x-glitch/ratchet/pull/12) | Enforce SPDX and copyright source-file headers | Merged |
+| [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#13](https://github.com/thearchitect0x-glitch/ratchet/pull/13) | Add property-based fuzz coverage for the MCP JSON-RPC parser | Merged |
+| [tonianev/eonmark](https://github.com/tonianev/eonmark) | [#17](https://github.com/tonianev/eonmark/pull/17) | fix(rules): reject zero rules version and arms cap | Merged |
+| [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | [#49](https://github.com/TSKVenkat/osprey/pull/49) | Add viewer role with route-level authorization | Merged |
+| [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | [#2134](https://github.com/uttrflow/uttrflow-swift/pull/2134) | Fix picture existence checks without reading image data | Merged |
+| [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | [#32](https://github.com/visualfusion/feedkeeper/pull/32) | docs(deployment): cover Caddy, nginx and Traefik proxies | Merged |
+| [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | [#5760](https://github.com/vivekchand/clawmetry/pull/5760) | Surface OpenClaw session public-share state in Guard without storing share tokens | Merged |
+| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#56](https://github.com/yakew7/DesignHub/pull/56) | Add palette import from Coolors URLs and hex codes | Merged |
+| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#57](https://github.com/yakew7/DesignHub/pull/57) | perf(typography): virtualize font browser | Merged |
+| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#58](https://github.com/yakew7/DesignHub/pull/58) | feat(pwa): add offline app shell | Merged |
+| [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#526](https://github.com/yakew7/Fair-Code/pull/526) | Correct the Benefits Denial audit number | Merged |
+| [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#527](https://github.com/yakew7/Fair-Code/pull/527) | Correct a numerical value in `index.html` | Merged |
+| [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#511](https://github.com/yoavnir/specs2016/pull/511) | Resolve issue #510 in the 1.1.0 development line | Merged |
+| [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#515](https://github.com/yoavnir/specs2016/pull/515) | Issue #504 - generate manpage automatically | Merged |
 
 ## External OSS Contribution Breakdown
 

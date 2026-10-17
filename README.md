@@ -6,9 +6,9 @@ A technical record of verified open-source contributions by `Aaqibhafeezkhan`, b
 
 | Metric | Count |
 |---|---:|
-| Authored GitHub PRs discovered | 400 |
-| Verified merged upstream OSS PRs | 60 |
-| External OSS repositories with merged PRs | 33 |
+| Authored GitHub PRs discovered | 404 |
+| Verified merged upstream OSS PRs | 63 |
+| External OSS repositories with merged PRs | 36 |
 
 The authored-PR search population includes personal, organization/internal, fork-based, and external repositories. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -23,6 +23,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#40](https://github.com/afrigov/afrigov/pull/40) | fix(pack): add Senegal flag star | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#43](https://github.com/afrigov/afrigov/pull/43) | feat(pack): add Tanzania country pack | Merged |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | [#6](https://github.com/AlphaIsYour/eno-qr-studio/pull/6) | Add unit coverage for international phone and SMS encoding | Merged |
+| [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | [#149](https://github.com/ASDW51/DanmuFloat/pull/149) | docs: 修复 PR 指南中的 CI 工作流链接 | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#19](https://github.com/BitanSarkar/coalesce-java/pull/19) | Run Redis integration tests with Testcontainers | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#20](https://github.com/BitanSarkar/coalesce-java/pull/20) | #10: Make the follower poll interval configurable | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#27](https://github.com/Bubblegunn/ai-slop-linter/pull/27) | Add pre-commit hooks for Markdown and commit messages | Merged |
@@ -57,6 +58,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | Preserve Open With intake order with desktop regression coverage | Merged |
 | [openapi/contributors](https://github.com/openapi/contributors) | [#4](https://github.com/openapi/contributors/pull/4) | docs: add Aaqibhafeez Khan to contributors | Merged |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | [#22](https://github.com/Orbit-xyz/orbit-docs/pull/22) | docs: add TypeScript SDK contract examples | Merged |
+| [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#391](https://github.com/pacocartones/free-llm-api-hub/pull/391) | data(rev-ai): clarify free-credit commercial terms | Merged |
 | [rexmhall09/TUFF](https://github.com/rexmhall09/TUFF) | [#43](https://github.com/rexmhall09/TUFF/pull/43) | test: cover comma-containing issue area choices | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#10](https://github.com/RizgarOzan/tmp-glyph-audit/pull/10) | Add JSON audit reports for CI (#4) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#11](https://github.com/RizgarOzan/tmp-glyph-audit/pull/11) | Add GitHub Actions glyph annotations (#5) | Merged |
@@ -64,6 +66,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#144](https://github.com/Sekelenao/Flinkboot/pull/144) | Enforce execution parallelism versus max-parallelism validation with regression tests | Merged |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#12](https://github.com/thearchitect0x-glitch/ratchet/pull/12) | Enforce SPDX and copyright source-file headers | Merged |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#13](https://github.com/thearchitect0x-glitch/ratchet/pull/13) | Add property-based fuzz coverage for the MCP JSON-RPC parser | Merged |
+| [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | [#613](https://github.com/TheVicky1/Pact_OS/pull/613) | a11y(projects): announce accent swatch names and selection | Merged |
 | [tonianev/eonmark](https://github.com/tonianev/eonmark) | [#17](https://github.com/tonianev/eonmark/pull/17) | fix(rules): reject zero rules version and arms cap | Merged |
 | [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | [#49](https://github.com/TSKVenkat/osprey/pull/49) | Add viewer role with route-level authorization | Merged |
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | [#2134](https://github.com/uttrflow/uttrflow-swift/pull/2134) | Fix picture existence checks without reading image data | Merged |
@@ -99,6 +102,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 1 |
 | [Aepzie/cutline](https://github.com/Aepzie/cutline) | 1 |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | 1 |
+| [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | 1 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
@@ -108,13 +112,15 @@ The authored-PR search population includes personal, organization/internal, fork
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 1 |
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | 1 |
+| [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 1 |
 | [rexmhall09/TUFF](https://github.com/rexmhall09/TUFF) | 1 |
+| [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
 | [tonianev/eonmark](https://github.com/tonianev/eonmark) | 1 |
 | [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | 1 |
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
-| **Total** | **60** |
+| **Total** | **63** |
 
 ## Contribution Areas
 
@@ -139,7 +145,7 @@ The authored-PR search population includes personal, organization/internal, fork
 
 ## Full GitHub Activity Audit
 
-The broader audit currently discovers **400 authored GitHub pull requests** for `Aaqibhafeezkhan`. The external OSS subset is derived from the merged population after namespace filtering.
+The broader audit currently discovers **404 authored GitHub pull requests** for `Aaqibhafeezkhan`. The external OSS subset is derived from the merged population after namespace filtering.
 
 ### Namespace handling
 

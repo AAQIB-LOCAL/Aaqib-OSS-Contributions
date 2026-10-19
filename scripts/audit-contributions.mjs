@@ -39,41 +39,17 @@ async function github(path, searchParams) {
 }
 
 async function fetchAuthoredPullRequestCount() {
-  const response = await fetch("https://api.github.com/graphql", {
-    method: "POST",
-    headers: {
-      Accept: "application/vnd.github+json",
-      Authorization: `Bearer ${token}`,
-      "Content-Type": "application/json",
-      "X-GitHub-Api-Version": "2022-11-28",
-    },
-    body: JSON.stringify({
-      query: `query {
-        user(login: "${author}") {
-          pullRequests(states: [OPEN, CLOSED, MERGED], first: 1) {
-            totalCount
-          }
-        }
-      }`,
-    }),
+  const data = await github("/search/issues", {
+    q: `author:${author} is:pr`,
+    per_page: "1",
+    page: "1",
   });
 
-  if (!response.ok) {
-    const body = await response.text();
-    throw new Error(`GitHub GraphQL API ${response.status}: ${body}`);
+  if (!Number.isInteger(data.total_count) || data.total_count < 0) {
+    throw new Error(`GitHub Search API did not return a valid authored PR count for ${author}`);
   }
 
-  const payload = await response.json();
-  if (payload.errors?.length) {
-    throw new Error(`GitHub GraphQL query failed: ${payload.errors.map((error) => error.message).join("; ")}`);
-  }
-
-  const count = payload.data?.user?.pullRequests?.totalCount;
-  if (!Number.isInteger(count)) {
-    throw new Error(`GitHub GraphQL did not return an authored PR count for ${author}`);
-  }
-
-  return count;
+  return data.total_count;
 }
 
 async function searchPullRequests(query) {
@@ -165,11 +141,11 @@ A technical record of verified open-source contributions by \`${author}\`, based
 
 | Metric | Count |
 |---|---:|
-| Authored GitHub PRs discovered | ${authoredPullRequestCount} |
+| Publicly discoverable authored GitHub PRs (Search API) | ${authoredPullRequestCount} |
 | Verified merged upstream OSS PRs | ${mergedCount} |
 | External OSS repositories with merged PRs | ${repositoryCount} |
 
-The authored-PR count comes from GitHub's user pull-request connection. It includes personal, organization/internal, fork-based, and external repositories. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
+The authored-PR count comes from GitHub's Search API query \`author:${author} is:pr\` and reflects PRs publicly discoverable by that API; it is not guaranteed to match the signed-in \`/pulls/authored\` view, which may include activity unavailable to public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
 ## Verified Upstream OSS Contributions
 
@@ -207,7 +183,7 @@ ${repositoryBreakdown}
 
 ## Full GitHub Activity Audit
 
-The broader audit currently discovers **${authoredPullRequestCount} authored GitHub pull requests** for \`${author}\`. The external OSS subset is derived from the merged population after namespace filtering.
+The public Search API currently discovers **${authoredPullRequestCount} authored GitHub pull requests** for \`${author}\`. This count is API-discoverable public activity, not a claim about the signed-in authored-PR view. The external OSS subset is derived from the merged population after namespace filtering.
 
 ### Namespace handling
 

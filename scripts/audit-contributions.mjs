@@ -135,7 +135,7 @@ const mergedCount = externalMerged.length;
 
 const readme = `# Aaqib OSS Contributions
 
-A portfolio of shipped open-source work by \`${author}\`, based on upstream pull-request history.
+A portfolio of shipped open-source work by \`${author}\` — focused on practical engineering improvements, reliable software, and contributions merged into upstream projects.
 
 **Highlights:** backend and API reliability · developer tooling · test quality · security · TypeScript/JavaScript · Java/JVM
 

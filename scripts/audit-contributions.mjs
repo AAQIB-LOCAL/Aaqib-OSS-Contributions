@@ -200,7 +200,7 @@ ${repositoryBreakdown}
 
 The broader audit currently discovers **${authoredPullRequestCount} authored GitHub pull requests** for \`${author}\`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
-- **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update `EXCLUDED_GITHUB_OWNERS` in the workflow when needed.
+- **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.
 - **Deterministic updates:** Existing contribution descriptions are preserved; new entries use PR titles until refined. Re-running without new contribution data produces no README change.
 

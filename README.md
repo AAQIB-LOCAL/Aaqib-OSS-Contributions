@@ -6,11 +6,11 @@ A technical record of verified open-source contributions by `Aaqibhafeezkhan`, b
 
 | Metric | Count |
 |---|---:|
-| Authored GitHub PRs discovered | 436 |
+| Authored GitHub PRs discovered | 557 |
 | Verified merged upstream OSS PRs | 82 |
 | External OSS repositories with merged PRs | 45 |
 
-The authored-PR search population includes personal, organization/internal, fork-based, and external repositories. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
+The authored-PR count comes from GitHub's user pull-request connection. It includes personal, organization/internal, fork-based, and external repositories. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
 ## Verified Upstream OSS Contributions
 
@@ -173,7 +173,7 @@ The authored-PR search population includes personal, organization/internal, fork
 
 ## Full GitHub Activity Audit
 
-The broader audit currently discovers **436 authored GitHub pull requests** for `Aaqibhafeezkhan`. The external OSS subset is derived from the merged population after namespace filtering.
+The broader audit currently discovers **557 authored GitHub pull requests** for `Aaqibhafeezkhan`. The external OSS subset is derived from the merged population after namespace filtering.
 
 ### Namespace handling
 
@@ -189,7 +189,7 @@ Existing contribution descriptions are preserved from the current README. Newly 
 
 ## Automation
 
-GitHub Actions refreshes this date-free ledger weekly or on manual workflow dispatch.
+GitHub Actions refreshes this date-free ledger daily or on manual workflow dispatch.
 
 The workflow:
 

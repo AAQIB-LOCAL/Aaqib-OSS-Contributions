@@ -7,8 +7,8 @@ A technical record of verified open-source contributions by `Aaqibhafeezkhan`, b
 | Metric | Count |
 |---|---:|
 | Authored GitHub PRs discovered | 433 |
-| Verified merged upstream OSS PRs | 78 |
-| External OSS repositories with merged PRs | 42 |
+| Verified merged upstream OSS PRs | 82 |
+| External OSS repositories with merged PRs | 45 |
 
 The authored-PR search population includes personal, organization/internal, fork-based, and external repositories. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -42,6 +42,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | [#44](https://github.com/Bubblegunn/surviving-lines/pull/44) | feat: add author sorting by share gap (#30) | Merged |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#198](https://github.com/cellrishi-code/claude-skills-atlas/pull/198) | docs: add guide for maintainable skill tests | Merged |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | [#545](https://github.com/chaoss/CollectOSS/pull/545) | docs: fix sample database compose formatting | Merged |
+| [codercops/discord-bot](https://github.com/codercops/discord-bot) | [#29](https://github.com/codercops/discord-bot/pull/29) | fix: skip unchanged starter issue feed edits | Merged |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | [#156](https://github.com/creatoan/scenet/pull/156) | docs: explain building and checking comics in CI | Merged |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#123775](https://github.com/firstcontributions/first-contributions/pull/123775) | **First OSS contribution:** Add Aaqibhafeez Khan to the Contributors list | Merged |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | [#16](https://github.com/francordel/kdemos/pull/16) | test: cover Cloudflare input validators | Merged |
@@ -67,7 +68,10 @@ The authored-PR search population includes personal, organization/internal, fork
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#14](https://github.com/LennardGeissler/blindbucket/pull/14) | feat(cli): add JSON output to keys list | Merged |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | [#29804](https://github.com/lingdojo/kana-dojo/pull/29804) | Add a Japanese false-friend content entry | Merged |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | Preserve Open With intake order with desktop regression coverage | Merged |
+| [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | [#602](https://github.com/michaelegner/architecture-intelligence-platform/pull/602) | test: cover ClaimEffectSet.is_empty | Merged |
+| [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | [#603](https://github.com/michaelegner/architecture-intelligence-platform/pull/603) | test: cover utf8 helper encoding behavior | Merged |
 | [openapi/contributors](https://github.com/openapi/contributors) | [#4](https://github.com/openapi/contributors/pull/4) | docs: add Aaqibhafeez Khan to contributors | Merged |
+| [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#30](https://github.com/openapi/gknowledge/pull/30) | fix: support source re-ingestion and removal | Merged |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | [#22](https://github.com/Orbit-xyz/orbit-docs/pull/22) | docs: add TypeScript SDK contract examples | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#389](https://github.com/pacocartones/free-llm-api-hub/pull/389) | data(vercel-ai-gateway): record prompt retention policy | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#391](https://github.com/pacocartones/free-llm-api-hub/pull/391) | data(rev-ai): clarify free-credit commercial terms | Merged |
@@ -111,6 +115,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 2 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 2 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 2 |
+| [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 2 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 2 |
@@ -123,6 +128,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | 1 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
+| [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 1 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 1 |
@@ -133,6 +139,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 1 |
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
+| [openapi/gknowledge](https://github.com/openapi/gknowledge) | 1 |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | 1 |
 | [rexmhall09/TUFF](https://github.com/rexmhall09/TUFF) | 1 |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
@@ -141,7 +148,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
-| **Total** | **78** |
+| **Total** | **82** |
 
 ## Contribution Areas
 

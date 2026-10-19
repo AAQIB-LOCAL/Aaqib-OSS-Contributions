@@ -6,11 +6,11 @@ A technical record of verified open-source contributions by `Aaqibhafeezkhan`, b
 
 | Metric | Count |
 |---|---:|
-| Authored GitHub PRs discovered | 438 |
+| Publicly discoverable authored GitHub PRs (Search API) | 506 |
 | Verified merged upstream OSS PRs | 82 |
 | External OSS repositories with merged PRs | 45 |
 
-The authored-PR count comes from GitHub's user pull-request connection. It includes personal, organization/internal, fork-based, and external repositories. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
+The authored-PR count uses GitHub's public Search API query `author:Aaqibhafeezkhan is:pr` and reflects publicly discoverable pull requests. It may differ from the signed-in `/pulls/authored` view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
 ## Verified Upstream OSS Contributions
 
@@ -173,7 +173,7 @@ The authored-PR count comes from GitHub's user pull-request connection. It inclu
 
 ## Full GitHub Activity Audit
 
-The broader audit currently discovers **438 authored GitHub pull requests** for `Aaqibhafeezkhan`. The external OSS subset is derived from the merged population after namespace filtering.
+The broader audit currently discovers **506 publicly discoverable authored GitHub pull requests** for `Aaqibhafeezkhan` through the Search API. This count is not guaranteed to match GitHub's signed-in `/pulls/authored` view. The external OSS subset is derived from the merged population after namespace filtering.
 
 ### Namespace handling
 

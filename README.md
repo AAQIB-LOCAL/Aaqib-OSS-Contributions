@@ -1,8 +1,12 @@
 # Aaqib OSS Contributions
 
-A technical record of verified open-source contributions by `Aaqibhafeezkhan`, based on upstream pull-request history.
+A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on practical engineering improvements, reliable software, and contributions merged into upstream projects.
 
-## Contribution Summary
+**Highlights:** backend and API reliability · developer tooling · test quality · security · TypeScript/JavaScript · Java/JVM
+
+[Featured work](#selected-engineering-work) · [Full contribution ledger](#verified-upstream-oss-contributions) · [Engineering themes](#engineering-themes)
+
+## Contribution Snapshot
 
 | Metric | Count |
 |---|---:|
@@ -12,7 +16,21 @@ A technical record of verified open-source contributions by `Aaqibhafeezkhan`, b
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
+## Selected Engineering Work
+
+A few examples that show the kind of problems addressed across upstream projects:
+
+- **Concurrency and security:** [Prevent duplicate environment-share submissions](https://github.com/getsotto/sotto/pull/278) with component-level concurrency protection and regression coverage.
+- **Backend reliability:** [Fix concurrent environment key rotation](https://github.com/getsotto/sotto/pull/252) with regression coverage.
+- **JVM contracts:** [Enforce non-null API behavior](https://github.com/Sekelenao/Flinkboot/pull/143) and [validate execution parallelism](https://github.com/Sekelenao/Flinkboot/pull/144).
+- **Developer experience:** [Add stable JSON output](https://github.com/getsotto/sotto/pull/275) and CLI reporting improvements.
+- **Data and persistence:** [Add PostgreSQL-backed storage](https://github.com/Bubblegunn/proactive-gate/pull/25) with atomic increments, TTL handling, and contract coverage.
+- **Open-source participation:** [First Contributions contributor entry](https://github.com/firstcontributions/first-contributions/pull/123775).
+
 ## Verified Upstream OSS Contributions
+
+<details>
+<summary>Browse all 82 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -99,7 +117,12 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#511](https://github.com/yoavnir/specs2016/pull/511) | Resolve issue #510 in the 1.1.0 development line | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#515](https://github.com/yoavnir/specs2016/pull/515) | Issue #504 - generate manpage automatically | Merged |
 
+</details>
+
 ## External OSS Contribution Breakdown
+
+<details>
+<summary>Browse merged PR counts across 45 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -150,42 +173,29 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | **Total** | **82** |
 
-## Contribution Areas
+</details>
 
-- **Java / JVM:** JVM maintenance, validation, regression testing, and integration testing
-- **JavaScript / TypeScript:** CLI, web, observability, parser, and type-inference changes
-- **Databases / Infrastructure:** SQLite and PostgreSQL stores plus Redis/Testcontainers integration testing
-- **Testing / Quality:** Property-based fuzzing, contract suites, integration tests, component tests, desktop regression tests, and deterministic unit coverage
-- **Security / Reliability:** Authorization boundaries, input validation, concurrent key rotation, duplicate-submission prevention, public-share state handling, and defensive test coverage
-- **Developer tooling:** CLI JSON output, quiet/reporting modes, store contracts, and contributor-facing reliability improvements
-- **Open-source content:** Kana Dojo vocabulary/content contribution
-- **Documentation:** Fair-Code corrections and contributor-list work
-- **First contribution:** First Contributions contributor-list entry
+## Engineering Themes
 
-## Technical Focus
+- **Backend and APIs:** contract enforcement, configuration validation, persistence adapters, and safe state transitions.
+- **Reliability and security:** concurrency controls, authorization boundaries, input validation, and regression prevention.
+- **Developer tooling:** CLI JSON/report modes, parser and type-inference improvements, and contributor workflows.
+- **Quality engineering:** property-based fuzzing, contract suites, integration tests, and deterministic regression coverage.
+- **Java/JVM and TypeScript/JavaScript:** contributions across backend services, command-line tools, and web components.
 
-- **Java / JVM:** API contract enforcement, startup/configuration validation, and regression coverage.
-- **Persistence and infrastructure:** SQLite/PostgreSQL storage adapters, Redis-backed integration tests, atomic increments, and TTL handling.
-- **JavaScript / TypeScript:** CLI improvements, stable JSON output, parser fuzzing, type inference, and component-level concurrency handling.
-- **Security and reliability:** Route-level authorization, safe public-share state handling, concurrent key rotation, and duplicate-submission prevention.
-- **Quality engineering:** Property-based fuzzing, contract suites, integration tests, component tests, and desktop regression tests.
-- **Developer experience:** CLI quiet/report modes, machine-readable output, reusable store contracts, and contributor-facing fixes.
+## Audit Methodology
 
-## Full GitHub Activity Audit
+<details>
+<summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **441 authored GitHub pull requests** for `Aaqibhafeezkhan`. The external OSS subset is derived from the merged population after namespace filtering.
+The broader audit currently discovers **441 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
-### Namespace handling
+- **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update `EXCLUDED_GITHUB_OWNERS` in the workflow when needed.
+- **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.
+- **Deterministic updates:** Existing contribution descriptions are preserved; new entries use PR titles until refined. Re-running without new contribution data produces no README change.
 
-The automation excludes the configured personal, organizational, portfolio, and internal namespaces from the external OSS ledger. Update the `EXCLUDED_GITHUB_OWNERS` environment variable in the workflow when another namespace should be treated as non-external.
+</details>
 
-### Fork handling
-
-Fork-based branches are not treated as separate external repositories when the merged pull request is submitted to an external upstream repository. The upstream repository and merged PR are the canonical contribution record.
-
-### Deterministic updates
-
-Existing contribution descriptions are preserved from the current README. Newly discovered contributions use their GitHub PR titles until manually refined. Re-running the audit without new contribution data produces no README change.
 
 ## Automation
 

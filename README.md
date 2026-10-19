@@ -6,9 +6,9 @@ A technical record of verified open-source contributions by `Aaqibhafeezkhan`, b
 
 | Metric | Count |
 |---|---:|
-| Authored GitHub PRs discovered | 427 |
-| Verified merged upstream OSS PRs | 76 |
-| External OSS repositories with merged PRs | 41 |
+| Authored GitHub PRs discovered | 433 |
+| Verified merged upstream OSS PRs | 78 |
+| External OSS repositories with merged PRs | 42 |
 
 The authored-PR search population includes personal, organization/internal, fork-based, and external repositories. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -27,6 +27,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#44](https://github.com/afrigov/afrigov/pull/44) | feat(pack): add Uganda country pack | Merged |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | [#6](https://github.com/AlphaIsYour/eno-qr-studio/pull/6) | Add unit coverage for international phone and SMS encoding | Merged |
 | [andorthehood/8f4e](https://github.com/andorthehood/8f4e) | [#1083](https://github.com/andorthehood/8f4e/pull/1083) | docs: document nearestValue standard-library helper | Merged |
+| [andorthehood/8f4e](https://github.com/andorthehood/8f4e) | [#1086](https://github.com/andorthehood/8f4e/pull/1086) | fix(tokenizer): parse quoted strings before arithmetic | Merged |
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | [#149](https://github.com/ASDW51/DanmuFloat/pull/149) | docs: 修复 PR 指南中的 CI 工作流链接 | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#19](https://github.com/BitanSarkar/coalesce-java/pull/19) | Run Redis integration tests with Testcontainers | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#20](https://github.com/BitanSarkar/coalesce-java/pull/20) | #10: Make the follower poll interval configurable | Merged |
@@ -62,6 +63,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#30](https://github.com/ismayilzeynal/tabulint-oss-az/pull/30) | Task 05 jsonl ndjson | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#31](https://github.com/ismayilzeynal/tabulint-oss-az/pull/31) | Add machine-readable JSON report output | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#39](https://github.com/ismayilzeynal/tabulint-oss-az/pull/39) | Add configurable input encoding | Merged |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#211](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/211) | Implement getcwd system call (#208) | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#14](https://github.com/LennardGeissler/blindbucket/pull/14) | feat(cli): add JSON output to keys list | Merged |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | [#29804](https://github.com/lingdojo/kana-dojo/pull/29804) | Add a Japanese false-friend content entry | Merged |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | Preserve Open With intake order with desktop regression coverage | Merged |
@@ -103,6 +105,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 4 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
+| [andorthehood/8f4e](https://github.com/andorthehood/8f4e) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 2 |
@@ -117,7 +120,6 @@ The authored-PR search population includes personal, organization/internal, fork
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 1 |
 | [Aepzie/cutline](https://github.com/Aepzie/cutline) | 1 |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | 1 |
-| [andorthehood/8f4e](https://github.com/andorthehood/8f4e) | 1 |
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | 1 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
@@ -126,6 +128,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 1 |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 1 |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 1 |
@@ -138,7 +141,7 @@ The authored-PR search population includes personal, organization/internal, fork
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
-| **Total** | **76** |
+| **Total** | **78** |
 
 ## Contribution Areas
 
@@ -163,7 +166,7 @@ The authored-PR search population includes personal, organization/internal, fork
 
 ## Full GitHub Activity Audit
 
-The broader audit currently discovers **427 authored GitHub pull requests** for `Aaqibhafeezkhan`. The external OSS subset is derived from the merged population after namespace filtering.
+The broader audit currently discovers **433 authored GitHub pull requests** for `Aaqibhafeezkhan`. The external OSS subset is derived from the merged population after namespace filtering.
 
 ### Namespace handling
 

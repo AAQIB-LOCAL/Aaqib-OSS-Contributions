@@ -145,7 +145,7 @@ A technical record of verified open-source contributions by \`${author}\`, based
 | Verified merged upstream OSS PRs | ${mergedCount} |
 | External OSS repositories with merged PRs | ${repositoryCount} |
 
-The authored-PR count uses GitHub's public Search API query `author:${author} is:pr` and reflects publicly discoverable pull requests. It may differ from the signed-in `/pulls/authored` view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
+The authored-PR count uses GitHub's public Search API query \`author:${author} is:pr\` and reflects publicly discoverable pull requests. It may differ from the signed-in \`/pulls/authored\` view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
 ## Verified Upstream OSS Contributions
 

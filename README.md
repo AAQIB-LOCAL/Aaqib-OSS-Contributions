@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 441 |
-| Verified merged upstream OSS PRs | 82 |
-| External OSS repositories with merged PRs | 45 |
+| Publicly discoverable authored GitHub PRs (Search API) | 462 |
+| Verified merged upstream OSS PRs | 90 |
+| External OSS repositories with merged PRs | 47 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 82 merged pull requests</summary>
+<summary>Browse all 90 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -62,9 +62,12 @@ A few examples that show the kind of problems addressed across upstream projects
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | [#545](https://github.com/chaoss/CollectOSS/pull/545) | docs: fix sample database compose formatting | Merged |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | [#29](https://github.com/codercops/discord-bot/pull/29) | fix: skip unchanged starter issue feed edits | Merged |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | [#156](https://github.com/creatoan/scenet/pull/156) | docs: explain building and checking comics in CI | Merged |
+| [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#367](https://github.com/cubrid-lab/cubrid-mcp-server/pull/367) | test(config): cover whitespace around named selector | Merged |
+| [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#368](https://github.com/cubrid-lab/cubrid-mcp-server/pull/368) | test: cover a non-matching table-name filter | Merged |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#123775](https://github.com/firstcontributions/first-contributions/pull/123775) | **First OSS contribution:** Add Aaqibhafeez Khan to the Contributors list | Merged |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | [#16](https://github.com/francordel/kdemos/pull/16) | test: cover Cloudflare input validators | Merged |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | [#17](https://github.com/francordel/kdemos/pull/17) | fix: contract Catalan date prepositions | Merged |
+| [francordel/kdemos](https://github.com/francordel/kdemos) | [#19](https://github.com/francordel/kdemos/pull/19) | test: enforce translation key parity | Merged |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | [#81](https://github.com/gabrielmongefranco/privatium/pull/81) | Upgrade GitHub Actions to Node 24 | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#252](https://github.com/getsotto/sotto/pull/252) | Fix concurrent environment key rotation with regression coverage | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#275](https://github.com/getsotto/sotto/pull/275) | Add `sotto env ls --json` with stable JSON output and coverage | Merged |
@@ -83,6 +86,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#31](https://github.com/ismayilzeynal/tabulint-oss-az/pull/31) | Add machine-readable JSON report output | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#39](https://github.com/ismayilzeynal/tabulint-oss-az/pull/39) | Add configurable input encoding | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#211](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/211) | Implement getcwd system call (#208) | Merged |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#212](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/212) | Handle Ctrl-C at the shell prompt (#209) | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#14](https://github.com/LennardGeissler/blindbucket/pull/14) | feat(cli): add JSON output to keys list | Merged |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | [#29804](https://github.com/lingdojo/kana-dojo/pull/29804) | Add a Japanese false-friend content entry | Merged |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | Preserve Open With intake order with desktop regression coverage | Merged |
@@ -91,6 +95,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [openapi/contributors](https://github.com/openapi/contributors) | [#4](https://github.com/openapi/contributors/pull/4) | docs: add Aaqibhafeez Khan to contributors | Merged |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#30](https://github.com/openapi/gknowledge/pull/30) | fix: support source re-ingestion and removal | Merged |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | [#22](https://github.com/Orbit-xyz/orbit-docs/pull/22) | docs: add TypeScript SDK contract examples | Merged |
+| [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | [#97](https://github.com/oscarbol09/jvm-mcp/pull/97) | Fix/75 actuator default health | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#389](https://github.com/pacocartones/free-llm-api-hub/pull/389) | data(vercel-ai-gateway): record prompt retention policy | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#391](https://github.com/pacocartones/free-llm-api-hub/pull/391) | data(rev-ai): clarify free-credit commercial terms | Merged |
 | [rexmhall09/TUFF](https://github.com/rexmhall09/TUFF) | [#43](https://github.com/rexmhall09/TUFF/pull/43) | test: cover comma-containing issue area choices | Merged |
@@ -98,6 +103,8 @@ A few examples that show the kind of problems addressed across upstream projects
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#11](https://github.com/RizgarOzan/tmp-glyph-audit/pull/11) | Add GitHub Actions glyph annotations (#5) | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#143](https://github.com/Sekelenao/Flinkboot/pull/143) | Enforce the non-null `StartupEnvironment.get(String)` contract with regression coverage | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#144](https://github.com/Sekelenao/Flinkboot/pull/144) | Enforce execution parallelism versus max-parallelism validation with regression tests | Merged |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#285](https://github.com/Sekelenao/Flinkboot/pull/285) | refactor(kafka): remove dead JUnit opens directive | Merged |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#286](https://github.com/Sekelenao/Flinkboot/pull/286) | refactor(kafka): store delivery guarantees in enum field | Merged |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#12](https://github.com/thearchitect0x-glitch/ratchet/pull/12) | Enforce SPDX and copyright source-file headers | Merged |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#13](https://github.com/thearchitect0x-glitch/ratchet/pull/13) | Add property-based fuzz coverage for the MCP JSON-RPC parser | Merged |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | [#613](https://github.com/TheVicky1/Pact_OS/pull/613) | a11y(projects): announce accent swatch names and selection | Merged |
@@ -112,6 +119,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#288](https://github.com/yakew7/DesignHub/pull/288) | feat(effects): add highlighter text effect | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#289](https://github.com/yakew7/DesignHub/pull/289) | feat(export): add Nuxt UI v3 token format | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#290](https://github.com/yakew7/DesignHub/pull/290) | feat(background): add Memphis pattern generator | Merged |
+| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#292](https://github.com/yakew7/DesignHub/pull/292) | feat(social): add Etsy shop banner template | Merged |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#526](https://github.com/yakew7/Fair-Code/pull/526) | Correct the Benefits Denial audit number | Merged |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#527](https://github.com/yakew7/Fair-Code/pull/527) | Correct a numerical value in `index.html` | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#511](https://github.com/yoavnir/specs2016/pull/511) | Resolve issue #510 in the 1.1.0 development line | Merged |
@@ -122,26 +130,28 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 45 external repositories</summary>
+<summary>Browse merged PR counts across 47 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | 7 |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 7 |
-| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 6 |
+| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 7 |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 4 |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 4 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 3 |
+| [francordel/kdemos](https://github.com/francordel/kdemos) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [andorthehood/8f4e](https://github.com/andorthehood/8f4e) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
-| [francordel/kdemos](https://github.com/francordel/kdemos) | 2 |
+| [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 2 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 2 |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 2 |
-| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 2 |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 2 |
@@ -157,13 +167,13 @@ A few examples that show the kind of problems addressed across upstream projects
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
-| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 1 |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 1 |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 1 |
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | 1 |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | 1 |
+| [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 1 |
 | [rexmhall09/TUFF](https://github.com/rexmhall09/TUFF) | 1 |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
 | [tonianev/eonmark](https://github.com/tonianev/eonmark) | 1 |
@@ -171,7 +181,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
-| **Total** | **82** |
+| **Total** | **90** |
 
 </details>
 
@@ -188,14 +198,13 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **441 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **462 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
-- **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update `EXCLUDED_GITHUB_OWNERS` in the workflow when needed.
+- **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.
 - **Deterministic updates:** Existing contribution descriptions are preserved; new entries use PR titles until refined. Re-running without new contribution data produces no README change.
 
 </details>
-
 
 ## Automation
 

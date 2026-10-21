@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 463 |
-| Verified merged upstream OSS PRs | 91 |
-| External OSS repositories with merged PRs | 48 |
+| Publicly discoverable authored GitHub PRs (Search API) | 467 |
+| Verified merged upstream OSS PRs | 93 |
+| External OSS repositories with merged PRs | 49 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,10 +30,12 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 91 merged pull requests</summary>
+<summary>Browse all 93 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
+| [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1083](https://github.com/8f4e/8f4e/pull/1083) | docs: document nearestValue standard-library helper | Merged |
+| [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1086](https://github.com/8f4e/8f4e/pull/1086) | fix(tokenizer): parse quoted strings before arithmetic | Merged |
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | [#7](https://github.com/adebayomoses/mcp-detector/pull/7) | Add SARIF 2.1.0 report output | Merged |
 | [Aepzie/cutline](https://github.com/Aepzie/cutline) | [#25](https://github.com/Aepzie/cutline/pull/25) | feat(render): highlight timed caption words | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#34](https://github.com/afrigov/afrigov/pull/34) | fix(pack): accurate Maasai shield in ke.svg | Merged |
@@ -44,8 +46,6 @@ A few examples that show the kind of problems addressed across upstream projects
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#43](https://github.com/afrigov/afrigov/pull/43) | feat(pack): add Tanzania country pack | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#44](https://github.com/afrigov/afrigov/pull/44) | feat(pack): add Uganda country pack | Merged |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | [#6](https://github.com/AlphaIsYour/eno-qr-studio/pull/6) | Add unit coverage for international phone and SMS encoding | Merged |
-| [andorthehood/8f4e](https://github.com/andorthehood/8f4e) | [#1083](https://github.com/andorthehood/8f4e/pull/1083) | docs: document nearestValue standard-library helper | Merged |
-| [andorthehood/8f4e](https://github.com/andorthehood/8f4e) | [#1086](https://github.com/andorthehood/8f4e/pull/1086) | fix(tokenizer): parse quoted strings before arithmetic | Merged |
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | [#149](https://github.com/ASDW51/DanmuFloat/pull/149) | docs: 修复 PR 指南中的 CI 工作流链接 | Merged |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#23](https://github.com/basitalisandhu/agent-config-audit/pull/23) | docs: add false-positive issue form | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#19](https://github.com/BitanSarkar/coalesce-java/pull/19) | Run Redis integration tests with Testcontainers | Merged |
@@ -65,6 +65,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [creatoan/scenet](https://github.com/creatoan/scenet) | [#156](https://github.com/creatoan/scenet/pull/156) | docs: explain building and checking comics in CI | Merged |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#367](https://github.com/cubrid-lab/cubrid-mcp-server/pull/367) | test(config): cover whitespace around named selector | Merged |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#368](https://github.com/cubrid-lab/cubrid-mcp-server/pull/368) | test: cover a non-matching table-name filter | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#36](https://github.com/DhruvHarani1/lyra/pull/36) | feat: add optional Hindi and Punjabi lyric romanization | Merged |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#123775](https://github.com/firstcontributions/first-contributions/pull/123775) | **First OSS contribution:** Add Aaqibhafeez Khan to the Contributors list | Merged |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | [#16](https://github.com/francordel/kdemos/pull/16) | test: cover Cloudflare input validators | Merged |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | [#17](https://github.com/francordel/kdemos/pull/17) | fix: contract Catalan date prepositions | Merged |
@@ -102,6 +103,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [rexmhall09/TUFF](https://github.com/rexmhall09/TUFF) | [#43](https://github.com/rexmhall09/TUFF/pull/43) | test: cover comma-containing issue area choices | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#10](https://github.com/RizgarOzan/tmp-glyph-audit/pull/10) | Add JSON audit reports for CI (#4) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#11](https://github.com/RizgarOzan/tmp-glyph-audit/pull/11) | Add GitHub Actions glyph annotations (#5) | Merged |
+| [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#12](https://github.com/RizgarOzan/tmp-glyph-audit/pull/12) | feat: scan Unity Localization string tables | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#143](https://github.com/Sekelenao/Flinkboot/pull/143) | Enforce the non-null `StartupEnvironment.get(String)` contract with regression coverage | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#144](https://github.com/Sekelenao/Flinkboot/pull/144) | Enforce execution parallelism versus max-parallelism validation with regression tests | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#285](https://github.com/Sekelenao/Flinkboot/pull/285) | refactor(kafka): remove dead JUnit opens directive | Merged |
@@ -131,7 +133,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 48 external repositories</summary>
+<summary>Browse merged PR counts across 49 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -143,7 +145,8 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 3 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
-| [andorthehood/8f4e](https://github.com/andorthehood/8f4e) | 2 |
+| [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 3 |
+| [8f4e/8f4e](https://github.com/8f4e/8f4e) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
@@ -152,7 +155,6 @@ A few examples that show the kind of problems addressed across upstream projects
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
-| [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 2 |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 2 |
@@ -165,6 +167,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 1 |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 1 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
@@ -183,7 +186,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
-| **Total** | **91** |
+| **Total** | **93** |
 
 </details>
 
@@ -200,7 +203,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **463 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **467 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

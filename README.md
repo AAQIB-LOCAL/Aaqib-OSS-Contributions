@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 467 |
-| Verified merged upstream OSS PRs | 93 |
-| External OSS repositories with merged PRs | 49 |
+| Publicly discoverable authored GitHub PRs (Search API) | 468 |
+| Verified merged upstream OSS PRs | 94 |
+| External OSS repositories with merged PRs | 50 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 93 merged pull requests</summary>
+<summary>Browse all 94 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -71,6 +71,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [francordel/kdemos](https://github.com/francordel/kdemos) | [#17](https://github.com/francordel/kdemos/pull/17) | fix: contract Catalan date prepositions | Merged |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | [#19](https://github.com/francordel/kdemos/pull/19) | test: enforce translation key parity | Merged |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | [#81](https://github.com/gabrielmongefranco/privatium/pull/81) | Upgrade GitHub Actions to Node 24 | Merged |
+| [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | [#55](https://github.com/Gautam-aman/ResQNet/pull/55) | docs: correct beta installation release assets | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#252](https://github.com/getsotto/sotto/pull/252) | Fix concurrent environment key rotation with regression coverage | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#275](https://github.com/getsotto/sotto/pull/275) | Add `sotto env ls --json` with stable JSON output and coverage | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#278](https://github.com/getsotto/sotto/pull/278) | Prevent duplicate environment-share submissions with component-level concurrency protection and regression coverage | Merged |
@@ -133,7 +134,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 49 external repositories</summary>
+<summary>Browse merged PR counts across 50 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -170,6 +171,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 1 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 1 |
+| [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 1 |
@@ -186,7 +188,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
-| **Total** | **93** |
+| **Total** | **94** |
 
 </details>
 
@@ -203,7 +205,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **467 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **468 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

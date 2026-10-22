@@ -1,6 +1,6 @@
 # Aaqib OSS Contributions
 
-A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on practical engineering improvements, reliable software, and contributions merged into upstream projects.
+A portfolio of shipped open-source work by `Aaqibhafeezkhan` - focused on practical engineering improvements, reliable software, and contributions merged into upstream projects.
 
 **Highlights:** backend and API reliability · developer tooling · test quality · security · TypeScript/JavaScript · Java/JVM
 

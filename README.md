@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 488 |
-| Verified merged upstream OSS PRs | 102 |
-| External OSS repositories with merged PRs | 55 |
+| Publicly discoverable authored GitHub PRs (Search API) | 492 |
+| Verified merged upstream OSS PRs | 105 |
+| External OSS repositories with merged PRs | 56 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 102 merged pull requests</summary>
+<summary>Browse all 105 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -68,6 +68,8 @@ A few examples that show the kind of problems addressed across upstream projects
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#367](https://github.com/cubrid-lab/cubrid-mcp-server/pull/367) | test(config): cover whitespace around named selector | Merged |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#368](https://github.com/cubrid-lab/cubrid-mcp-server/pull/368) | test: cover a non-matching table-name filter | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#36](https://github.com/DhruvHarani1/lyra/pull/36) | feat: add optional Hindi and Punjabi lyric romanization | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#38](https://github.com/DhruvHarani1/lyra/pull/38) | feat(lyrics): add public-domain fallback for issue #2 | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#39](https://github.com/DhruvHarani1/lyra/pull/39) | fix(a11y): improve keyboard navigation in widget and settings | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#7](https://github.com/eklavya2201/breakinggood/pull/7) | test: cover dependency scanner findings | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#8](https://github.com/eklavya2201/breakinggood/pull/8) | fix: detect browser challenge pages during capture | Merged |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#123775](https://github.com/firstcontributions/first-contributions/pull/123775) | **First OSS contribution:** Add Aaqibhafeez Khan to the Contributors list | Merged |
@@ -83,6 +85,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#309](https://github.com/HafidIdrissi/Time-Tracker/pull/309) | docs: explain longest active session with worked example | Merged |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#377](https://github.com/HafidIdrissi/Time-Tracker/pull/377) | test(preferences): reject invalid choices before file writes | Merged |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | [#99](https://github.com/hayagrivai-labs/sciproof/pull/99) | docs: add shell pipeline reproducibility tutorial | Merged |
+| [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | [#42](https://github.com/helalrules7/tibyan/pull/42) | fix(mushaf): include Saheeh translation version in credits | Merged |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | [#1157](https://github.com/higher-kinded-j/higher-kinded-j/pull/1157) | docs(glossary): add IdPath, LazyPath and OptionalPath entries | Merged |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | [#6](https://github.com/Hosein-imani/hybrid-recommendation-system/pull/6) | docs: document editable installation for issue #5 | Merged |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | [#9](https://github.com/Hosein-imani/hybrid-recommendation-system/pull/9) | fix: handle unknown seed movie titles gracefully | Merged |
@@ -142,7 +145,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 55 external repositories</summary>
+<summary>Browse merged PR counts across 56 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -152,6 +155,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 4 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 4 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 3 |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 3 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 3 |
@@ -178,12 +182,12 @@ A few examples that show the kind of problems addressed across upstream projects
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 1 |
-| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 1 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 1 |
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 1 |
+| [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 1 |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
@@ -201,7 +205,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
-| **Total** | **102** |
+| **Total** | **105** |
 
 </details>
 
@@ -218,7 +222,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **488 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **492 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

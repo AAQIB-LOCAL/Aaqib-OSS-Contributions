@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 492 |
-| Verified merged upstream OSS PRs | 105 |
-| External OSS repositories with merged PRs | 56 |
+| Publicly discoverable authored GitHub PRs (Search API) | 495 |
+| Verified merged upstream OSS PRs | 106 |
+| External OSS repositories with merged PRs | 57 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 105 merged pull requests</summary>
+<summary>Browse all 106 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -103,6 +103,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | Preserve Open With intake order with desktop regression coverage | Merged |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | [#602](https://github.com/michaelegner/architecture-intelligence-platform/pull/602) | test: cover ClaimEffectSet.is_empty | Merged |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | [#603](https://github.com/michaelegner/architecture-intelligence-platform/pull/603) | test: cover utf8 helper encoding behavior | Merged |
+| [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#12](https://github.com/MilkteaTW1/piscout/pull/12) | i18n: add Hindi locale | Merged |
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | [#25](https://github.com/Muvon/octoweb/pull/25) | Fix host:port address bar navigation | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
 | [openapi/contributors](https://github.com/openapi/contributors) | [#4](https://github.com/openapi/contributors/pull/4) | docs: add Aaqibhafeez Khan to contributors | Merged |
@@ -145,7 +146,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 56 external repositories</summary>
+<summary>Browse merged PR counts across 57 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -192,6 +193,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 1 |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 1 |
+| [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 1 |
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | 1 |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 1 |
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
@@ -205,7 +207,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
-| **Total** | **105** |
+| **Total** | **106** |
 
 </details>
 
@@ -222,7 +224,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **492 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **495 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

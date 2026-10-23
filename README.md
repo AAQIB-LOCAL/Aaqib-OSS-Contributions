@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 531 |
-| Verified merged upstream OSS PRs | 119 |
-| External OSS repositories with merged PRs | 67 |
+| Publicly discoverable authored GitHub PRs (Search API) | 532 |
+| Verified merged upstream OSS PRs | 123 |
+| External OSS repositories with merged PRs | 69 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 119 merged pull requests</summary>
+<summary>Browse all 123 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -63,11 +63,14 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#9](https://github.com/Bytewave1/dkit/pull/9) | ci: test dkit across Windows, macOS and Linux | Merged |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#11](https://github.com/Bytewave1/dkit/pull/11) | test: broaden CLI edge-case coverage (#8) | Merged |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#198](https://github.com/cellrishi-code/claude-skills-atlas/pull/198) | docs: add guide for maintainable skill tests | Merged |
+| [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#211](https://github.com/cellrishi-code/claude-skills-atlas/pull/211) | Add static smoke tests for documented examples | Merged |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | [#545](https://github.com/chaoss/CollectOSS/pull/545) | docs: fix sample database compose formatting | Merged |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | [#29](https://github.com/codercops/discord-bot/pull/29) | fix: skip unchanged starter issue feed edits | Merged |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | [#156](https://github.com/creatoan/scenet/pull/156) | docs: explain building and checking comics in CI | Merged |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#367](https://github.com/cubrid-lab/cubrid-mcp-server/pull/367) | test(config): cover whitespace around named selector | Merged |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#368](https://github.com/cubrid-lab/cubrid-mcp-server/pull/368) | test: cover a non-matching table-name filter | Merged |
+| [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | [#234](https://github.com/dgesteves/onsystem/pull/234) | fix: explain when no components are available | Merged |
+| [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | [#207](https://github.com/dgesteves/signoff-ui/pull/207) | test: cover reasoning stream and duration | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#36](https://github.com/DhruvHarani1/lyra/pull/36) | feat: add optional Hindi and Punjabi lyric romanization | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#38](https://github.com/DhruvHarani1/lyra/pull/38) | feat(lyrics): add public-domain fallback for issue #2 | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#39](https://github.com/DhruvHarani1/lyra/pull/39) | fix(a11y): improve keyboard navigation in widget and settings | Merged |
@@ -119,6 +122,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#30](https://github.com/openapi/gknowledge/pull/30) | fix: support source re-ingestion and removal | Merged |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | [#22](https://github.com/Orbit-xyz/orbit-docs/pull/22) | docs: add TypeScript SDK contract examples | Merged |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | [#97](https://github.com/oscarbol09/jvm-mcp/pull/97) | Fix/75 actuator default health | Merged |
+| [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | [#181](https://github.com/oscarbol09/jvm-mcp/pull/181) | feat(cli): add JSON output to list, memory, and threads | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#389](https://github.com/pacocartones/free-llm-api-hub/pull/389) | data(vercel-ai-gateway): record prompt retention policy | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#391](https://github.com/pacocartones/free-llm-api-hub/pull/391) | data(rev-ai): clarify free-credit commercial terms | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#10](https://github.com/RizgarOzan/tmp-glyph-audit/pull/10) | Add JSON audit reports for CI (#4) | Merged |
@@ -159,7 +163,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 67 external repositories</summary>
+<summary>Browse merged PR counts across 69 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -178,12 +182,14 @@ A few examples that show the kind of problems addressed across upstream projects
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 2 |
+| [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 2 |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | 2 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 2 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 2 |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
+| [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 2 |
@@ -194,10 +200,11 @@ A few examples that show the kind of problems addressed across upstream projects
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | 1 |
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | 1 |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 1 |
-| [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 1 |
+| [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | 1 |
+| [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | 1 |
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | 1 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 1 |
@@ -219,7 +226,6 @@ A few examples that show the kind of problems addressed across upstream projects
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | 1 |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | 1 |
-| [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 1 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 1 |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
 | [tonianev/eonmark](https://github.com/tonianev/eonmark) | 1 |
@@ -230,7 +236,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 1 |
-| **Total** | **119** |
+| **Total** | **123** |
 
 </details>
 
@@ -247,7 +253,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **531 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **532 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 | Metric | Count |
 |---|---:|
 | Publicly discoverable authored GitHub PRs (Search API) | 535 |
-| Verified merged upstream OSS PRs | 129 |
-| External OSS repositories with merged PRs | 74 |
+| Verified merged upstream OSS PRs | 132 |
+| External OSS repositories with merged PRs | 76 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 129 merged pull requests</summary>
+<summary>Browse all 132 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -89,6 +89,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#252](https://github.com/getsotto/sotto/pull/252) | Fix concurrent environment key rotation with regression coverage | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#275](https://github.com/getsotto/sotto/pull/275) | Add `sotto env ls --json` with stable JSON output and coverage | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#278](https://github.com/getsotto/sotto/pull/278) | Prevent duplicate environment-share submissions with component-level concurrency protection and regression coverage | Merged |
+| [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | [#12](https://github.com/ggfto/DroidDeck/pull/12) | feat(i18n): add Hindi language option | Merged |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | [#69](https://github.com/GustavoBaranda/chatflow-agent/pull/69) | fix: restore session state on cancellation | Merged |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#309](https://github.com/HafidIdrissi/Time-Tracker/pull/309) | docs: explain longest active session with worked example | Merged |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#377](https://github.com/HafidIdrissi/Time-Tracker/pull/377) | test(preferences): reject invalid choices before file writes | Merged |
@@ -129,10 +130,12 @@ A few examples that show the kind of problems addressed across upstream projects
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | [#181](https://github.com/oscarbol09/jvm-mcp/pull/181) | feat(cli): add JSON output to list, memory, and threads | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#389](https://github.com/pacocartones/free-llm-api-hub/pull/389) | data(vercel-ai-gateway): record prompt retention policy | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#391](https://github.com/pacocartones/free-llm-api-hub/pull/391) | data(rev-ai): clarify free-credit commercial terms | Merged |
+| [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | [#23](https://github.com/Prabodh-dev/fairly/pull/23) | Add seeded hot-key benchmark distributions | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#10](https://github.com/RizgarOzan/tmp-glyph-audit/pull/10) | Add JSON audit reports for CI (#4) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#11](https://github.com/RizgarOzan/tmp-glyph-audit/pull/11) | Add GitHub Actions glyph annotations (#5) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#12](https://github.com/RizgarOzan/tmp-glyph-audit/pull/12) | feat: scan Unity Localization string tables | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#13](https://github.com/RizgarOzan/tmp-glyph-audit/pull/13) | test: cover AuditReport behavior | Merged |
+| [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#14](https://github.com/RizgarOzan/tmp-glyph-audit/pull/14) | feat: allow custom CLI settings file | Merged |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | [#535](https://github.com/sdlc-pro/spring-lens/pull/535) | Add transaction propagation behavior enum | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#143](https://github.com/Sekelenao/Flinkboot/pull/143) | Enforce the non-null `StartupEnvironment.get(String)` contract with regression coverage | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#144](https://github.com/Sekelenao/Flinkboot/pull/144) | Enforce execution parallelism versus max-parallelism validation with regression tests | Merged |
@@ -169,15 +172,15 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 74 external repositories</summary>
+<summary>Browse merged PR counts across 76 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 8 |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | 7 |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 7 |
+| [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 4 |
-| [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 4 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 4 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 3 |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 3 |
@@ -218,6 +221,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 1 |
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
+| [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
 | [hayagrivai-labs/phantom](https://github.com/hayagrivai-labs/phantom) | 1 |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 1 |
@@ -236,6 +240,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | 1 |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | 1 |
+| [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | 1 |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 1 |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
@@ -247,7 +252,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 1 |
-| **Total** | **129** |
+| **Total** | **132** |
 
 </details>
 

@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 524 |
-| Verified merged upstream OSS PRs | 118 |
-| External OSS repositories with merged PRs | 66 |
+| Publicly discoverable authored GitHub PRs (Search API) | 531 |
+| Verified merged upstream OSS PRs | 119 |
+| External OSS repositories with merged PRs | 67 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 118 merged pull requests</summary>
+<summary>Browse all 119 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -73,6 +73,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#39](https://github.com/DhruvHarani1/lyra/pull/39) | fix(a11y): improve keyboard navigation in widget and settings | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#7](https://github.com/eklavya2201/breakinggood/pull/7) | test: cover dependency scanner findings | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#8](https://github.com/eklavya2201/breakinggood/pull/8) | fix: detect browser challenge pages during capture | Merged |
+| [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | [#14](https://github.com/featherpanel-com/translations/pull/14) | docs: correct README clone and sync instructions | Merged |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#123775](https://github.com/firstcontributions/first-contributions/pull/123775) | **First OSS contribution:** Add Aaqibhafeez Khan to the Contributors list | Merged |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | [#16](https://github.com/francordel/kdemos/pull/16) | test: cover Cloudflare input validators | Merged |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | [#17](https://github.com/francordel/kdemos/pull/17) | fix: contract Catalan date prepositions | Merged |
@@ -158,7 +159,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 66 external repositories</summary>
+<summary>Browse merged PR counts across 67 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -197,6 +198,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 1 |
+| [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | 1 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 1 |
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
@@ -228,7 +230,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 1 |
-| **Total** | **118** |
+| **Total** | **119** |
 
 </details>
 
@@ -245,7 +247,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **524 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **531 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

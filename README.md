@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 | Metric | Count |
 |---|---:|
 | Publicly discoverable authored GitHub PRs (Search API) | 556 |
-| Verified merged upstream OSS PRs | 141 |
-| External OSS repositories with merged PRs | 82 |
+| Verified merged upstream OSS PRs | 144 |
+| External OSS repositories with merged PRs | 83 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 141 merged pull requests</summary>
+<summary>Browse all 144 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -54,6 +54,9 @@ A few examples that show the kind of problems addressed across upstream projects
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#23](https://github.com/basitalisandhu/agent-config-audit/pull/23) | docs: add false-positive issue form | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#28](https://github.com/biolend83/tubehaus/pull/28) | docs(deploy): add nginx reverse proxy example | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#29](https://github.com/biolend83/tubehaus/pull/29) | feat(player): remember playback speed between visits | Merged |
+| [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#30](https://github.com/biolend83/tubehaus/pull/30) | design(branding): give TubeHaus an original house-play icon | Merged |
+| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#132](https://github.com/BistaDinesh03/critique/pull/132) | test: fail CI when frontend render tests lack Node | Merged |
+| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#133](https://github.com/BistaDinesh03/critique/pull/133) | fix(projects): select latest active question portably | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#19](https://github.com/BitanSarkar/coalesce-java/pull/19) | Run Redis integration tests with Testcontainers | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#20](https://github.com/BitanSarkar/coalesce-java/pull/20) | #10: Make the follower poll interval configurable | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#27](https://github.com/Bubblegunn/ai-slop-linter/pull/27) | Add pre-commit hooks for Markdown and commit messages | Merged |
@@ -181,7 +184,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 82 external repositories</summary>
+<summary>Browse merged PR counts across 83 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -191,6 +194,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 4 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 4 |
+| [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 3 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 3 |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 3 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 3 |
@@ -198,7 +202,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 3 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 3 |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | 2 |
-| [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 2 |
+| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 2 |
@@ -267,7 +271,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 1 |
-| **Total** | **141** |
+| **Total** | **144** |
 
 </details>
 

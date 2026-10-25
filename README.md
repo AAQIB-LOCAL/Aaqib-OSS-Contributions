@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 567 |
-| Verified merged upstream OSS PRs | 164 |
-| External OSS repositories with merged PRs | 90 |
+| Publicly discoverable authored GitHub PRs (Search API) | 574 |
+| Verified merged upstream OSS PRs | 168 |
+| External OSS repositories with merged PRs | 94 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 164 merged pull requests</summary>
+<summary>Browse all 168 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -134,6 +134,8 @@ A few examples that show the kind of problems addressed across upstream projects
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#23](https://github.com/komallsingh/api-contract-guardian/pull/23) | docs: add API troubleshooting guidance | Merged |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#24](https://github.com/komallsingh/api-contract-guardian/pull/24) | test: assert contracts for multiple router mounts | Merged |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#25](https://github.com/komallsingh/api-contract-guardian/pull/25) | test: cover nested cross-file route discovery | Merged |
+| [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | [#6](https://github.com/Krrishkumar125/create-bullmq-app/pull/6) | fix(redis): rate-limit connection error logs | Merged |
+| [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | [#5](https://github.com/Krrishkumar125/zod-india/pull/5) | feat: add Udyam registration validator | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#14](https://github.com/LennardGeissler/blindbucket/pull/14) | feat(cli): add JSON output to keys list | Merged |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | [#71](https://github.com/Lennonhaha/fibemate-react-native/pull/71) | Fix/67 jest no tests gate | Merged |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | [#29804](https://github.com/lingdojo/kana-dojo/pull/29804) | Add a Japanese false-friend content entry | Merged |
@@ -146,6 +148,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#13](https://github.com/MilkteaTW1/piscout/pull/13) | Add Urdu locale (#11) | Merged |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#14](https://github.com/MilkteaTW1/piscout/pull/14) | Add Arabic locale (#11) | Merged |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | [#17](https://github.com/Mr-Dark-debug/Moonfold/pull/17) | Map OpenCode usage-limit errors to handoff | Merged |
+| [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | [#9](https://github.com/mrsarthi/Chorrent/pull/9) | feat: add shell completion generation | Merged |
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | [#25](https://github.com/Muvon/octoweb/pull/25) | Fix host:port address bar navigation | Merged |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | [#389](https://github.com/noruzzamans/gslider-blocks/pull/389) | fix(mcp): stop fabricating media attachment IDs | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
@@ -156,6 +159,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | [#181](https://github.com/oscarbol09/jvm-mcp/pull/181) | feat(cli): add JSON output to list, memory, and threads | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#389](https://github.com/pacocartones/free-llm-api-hub/pull/389) | data(vercel-ai-gateway): record prompt retention policy | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#391](https://github.com/pacocartones/free-llm-api-hub/pull/391) | data(rev-ai): clarify free-credit commercial terms | Merged |
+| [perfectmodelslab/ComfyUI-PerfectLab](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) | [#5](https://github.com/perfectmodelslab/ComfyUI-PerfectLab/pull/5) | feat: add fashion decade wildcard pack | Merged |
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | [#23](https://github.com/Prabodh-dev/fairly/pull/23) | Add seeded hot-key benchmark distributions | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#10](https://github.com/RizgarOzan/tmp-glyph-audit/pull/10) | Add JSON audit reports for CI (#4) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#11](https://github.com/RizgarOzan/tmp-glyph-audit/pull/11) | Add GitHub Actions glyph annotations (#5) | Merged |
@@ -204,7 +208,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 90 external repositories</summary>
+<summary>Browse merged PR counts across 94 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -271,6 +275,8 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 1 |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | 1 |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 1 |
+| [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | 1 |
+| [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 1 |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 1 |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | 1 |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
@@ -278,12 +284,14 @@ A few examples that show the kind of problems addressed across upstream projects
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 1 |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | 1 |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | 1 |
+| [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | 1 |
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | 1 |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | 1 |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 1 |
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | 1 |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | 1 |
+| [perfectmodelslab/ComfyUI-PerfectLab](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) | 1 |
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | 1 |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 1 |
@@ -298,7 +306,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 1 |
-| **Total** | **164** |
+| **Total** | **168** |
 
 </details>
 
@@ -315,7 +323,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **567 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **574 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

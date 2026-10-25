@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 566 |
-| Verified merged upstream OSS PRs | 163 |
-| External OSS repositories with merged PRs | 89 |
+| Publicly discoverable authored GitHub PRs (Search API) | 567 |
+| Verified merged upstream OSS PRs | 164 |
+| External OSS repositories with merged PRs | 90 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 163 merged pull requests</summary>
+<summary>Browse all 164 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -54,6 +54,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | [#6](https://github.com/AlphaIsYour/eno-qr-studio/pull/6) | Add unit coverage for international phone and SMS encoding | Merged |
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | [#64](https://github.com/AmineChr54/MeetScribe/pull/64) | Test/pure logic unit tests | Merged |
 | [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | [#441](https://github.com/answerLoops/answerLoops/pull/441) | Feat/article supplied context usage | Merged |
+| [arudaev/THD-Room-Finder](https://github.com/arudaev/THD-Room-Finder) | [#46](https://github.com/arudaev/THD-Room-Finder/pull/46) | feat(data): add the THD programme and intake taxonomy | Merged |
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | [#149](https://github.com/ASDW51/DanmuFloat/pull/149) | docs: 修复 PR 指南中的 CI 工作流链接 | Merged |
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | [#77](https://github.com/AtiinLabs/Ito/pull/77) | Fix Resume label for tracker-synced progress | Merged |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#23](https://github.com/basitalisandhu/agent-config-audit/pull/23) | docs: add false-positive issue form | Merged |
@@ -203,7 +204,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 89 external repositories</summary>
+<summary>Browse merged PR counts across 90 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -248,6 +249,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | 1 |
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | 1 |
 | [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | 1 |
+| [arudaev/THD-Room-Finder](https://github.com/arudaev/THD-Room-Finder) | 1 |
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | 1 |
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | 1 |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 1 |
@@ -296,7 +298,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 1 |
-| **Total** | **163** |
+| **Total** | **164** |
 
 </details>
 
@@ -313,7 +315,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **566 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **567 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.
@@ -323,12 +325,12 @@ The broader audit currently discovers **566 authored GitHub pull requests** for 
 
 ## Automation
 
-GitHub Actions refreshes this daily or on manual workflow dispatch.
+GitHub Actions refreshes this date-free ledger daily or on manual workflow dispatch.
 
 The workflow:
 
 1. audits authored GitHub PRs through the GitHub API;
-2. regenerates contribution rows and technical summaries;
+2. regenerates date-free contribution rows and technical summaries;
 3. commits the README directly to the main branch only when content changes.
 
 

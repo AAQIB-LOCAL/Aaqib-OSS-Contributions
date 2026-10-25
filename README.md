@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 561 |
-| Verified merged upstream OSS PRs | 152 |
-| External OSS repositories with merged PRs | 86 |
+| Publicly discoverable authored GitHub PRs (Search API) | 566 |
+| Verified merged upstream OSS PRs | 163 |
+| External OSS repositories with merged PRs | 89 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 152 merged pull requests</summary>
+<summary>Browse all 163 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -46,15 +46,21 @@ A few examples that show the kind of problems addressed across upstream projects
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#42](https://github.com/afrigov/afrigov/pull/42) | Add Asante Twi strings for Ghana banner | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#43](https://github.com/afrigov/afrigov/pull/43) | feat(pack): add Tanzania country pack | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#44](https://github.com/afrigov/afrigov/pull/44) | feat(pack): add Uganda country pack | Merged |
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#49](https://github.com/afrigov/afrigov/pull/49) | docs: add long-list filtering pattern | Merged |
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#50](https://github.com/afrigov/afrigov/pull/50) | feat: add contents navigation component | Merged |
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#51](https://github.com/afrigov/afrigov/pull/51) | docs: clarify header wrapping at tablet widths | Merged |
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#52](https://github.com/afrigov/afrigov/pull/52) | feat(video): support direct files and captions | Merged |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | [#7](https://github.com/AkulTyagi11/StarStruck/pull/7) | feat(themes): add Kanagawa Wave palette | Merged |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | [#6](https://github.com/AlphaIsYour/eno-qr-studio/pull/6) | Add unit coverage for international phone and SMS encoding | Merged |
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | [#64](https://github.com/AmineChr54/MeetScribe/pull/64) | Test/pure logic unit tests | Merged |
 | [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | [#441](https://github.com/answerLoops/answerLoops/pull/441) | Feat/article supplied context usage | Merged |
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | [#149](https://github.com/ASDW51/DanmuFloat/pull/149) | docs: 修复 PR 指南中的 CI 工作流链接 | Merged |
+| [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | [#77](https://github.com/AtiinLabs/Ito/pull/77) | Fix Resume label for tracker-synced progress | Merged |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#23](https://github.com/basitalisandhu/agent-config-audit/pull/23) | docs: add false-positive issue form | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#28](https://github.com/biolend83/tubehaus/pull/28) | docs(deploy): add nginx reverse proxy example | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#29](https://github.com/biolend83/tubehaus/pull/29) | feat(player): remember playback speed between visits | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#30](https://github.com/biolend83/tubehaus/pull/30) | design(branding): give TubeHaus an original house-play icon | Merged |
+| [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#31](https://github.com/biolend83/tubehaus/pull/31) | i18n: polish Spanish translations for issue #5 | Merged |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#132](https://github.com/BistaDinesh03/critique/pull/132) | test: fail CI when frontend render tests lack Node | Merged |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#133](https://github.com/BistaDinesh03/critique/pull/133) | fix(projects): select latest active question portably | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#19](https://github.com/BitanSarkar/coalesce-java/pull/19) | Run Redis integration tests with Testcontainers | Merged |
@@ -63,6 +69,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#41](https://github.com/Bubblegunn/ai-slop-linter/pull/41) | feat: add SARIF output for code scanning | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#46](https://github.com/Bubblegunn/ai-slop-linter/pull/46) | Add reference markup residue rule (#14) | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#63](https://github.com/Bubblegunn/ai-slop-linter/pull/63) | fix: encode SARIF artifact URIs and repair schema URL | Merged |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#72](https://github.com/Bubblegunn/ai-slop-linter/pull/72) | fix: avoid bold-label findings on CV role lists (#8) | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#73](https://github.com/Bubblegunn/ai-slop-linter/pull/73) | docs(bench): define external linter comparison study | Merged |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#3](https://github.com/Bubblegunn/proactive-gate/pull/3) | Add `SqliteStore` implementation | Merged |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#24](https://github.com/Bubblegunn/proactive-gate/pull/24) | Publish the reusable store contract test suite | Merged |
@@ -111,6 +118,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | [#6](https://github.com/Hosein-imani/hybrid-recommendation-system/pull/6) | docs: document editable installation for issue #5 | Merged |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | [#9](https://github.com/Hosein-imani/hybrid-recommendation-system/pull/9) | fix: handle unknown seed movie titles gracefully | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#129](https://github.com/Huerte/algo-solutions-python/pull/129) | docs: clarify solution directory structure | Merged |
+| [hydope/chunkcite](https://github.com/hydope/chunkcite) | [#5](https://github.com/hydope/chunkcite/pull/5) | Expose verification threshold in CLI | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#26](https://github.com/ismayilzeynal/tabulint-oss-az/pull/26) | Improve boolean type inference for textual literals | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#27](https://github.com/ismayilzeynal/tabulint-oss-az/pull/27) | Add CLI quiet mode | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#28](https://github.com/ismayilzeynal/tabulint-oss-az/pull/28) | Add CLI report output file option | Merged |
@@ -124,6 +132,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#74](https://github.com/JamshidS/aiset/pull/74) | test: cover transcript state transitions | Merged |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#23](https://github.com/komallsingh/api-contract-guardian/pull/23) | docs: add API troubleshooting guidance | Merged |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#24](https://github.com/komallsingh/api-contract-guardian/pull/24) | test: assert contracts for multiple router mounts | Merged |
+| [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#25](https://github.com/komallsingh/api-contract-guardian/pull/25) | test: cover nested cross-file route discovery | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#14](https://github.com/LennardGeissler/blindbucket/pull/14) | feat(cli): add JSON output to keys list | Merged |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | [#71](https://github.com/Lennonhaha/fibemate-react-native/pull/71) | Fix/67 jest no tests gate | Merged |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | [#29804](https://github.com/lingdojo/kana-dojo/pull/29804) | Add a Japanese false-friend content entry | Merged |
@@ -153,6 +162,8 @@ A few examples that show the kind of problems addressed across upstream projects
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#13](https://github.com/RizgarOzan/tmp-glyph-audit/pull/13) | test: cover AuditReport behavior | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#14](https://github.com/RizgarOzan/tmp-glyph-audit/pull/14) | feat: allow custom CLI settings file | Merged |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | [#535](https://github.com/sdlc-pro/spring-lens/pull/535) | Add transaction propagation behavior enum | Merged |
+| [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | [#12](https://github.com/seep-labs/cablegram-server/pull/12) | test: cover profile PIN and lock switch routes | Merged |
+| [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | [#13](https://github.com/seep-labs/cablegram-server/pull/13) | test: cover TV pairing PIN flows | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#143](https://github.com/Sekelenao/Flinkboot/pull/143) | Enforce the non-null `StartupEnvironment.get(String)` contract with regression coverage | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#144](https://github.com/Sekelenao/Flinkboot/pull/144) | Enforce execution parallelism versus max-parallelism validation with regression tests | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#285](https://github.com/Sekelenao/Flinkboot/pull/285) | refactor(kafka): remove dead JUnit opens directive | Merged |
@@ -192,22 +203,23 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 86 external repositories</summary>
+<summary>Browse merged PR counts across 89 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | 11 |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 8 |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 8 |
-| [afrigov/afrigov](https://github.com/afrigov/afrigov) | 7 |
-| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 5 |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 6 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
+| [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 4 |
-| [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 3 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 3 |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 3 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
+| [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 3 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 3 |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | 2 |
@@ -222,10 +234,10 @@ A few examples that show the kind of problems addressed across upstream projects
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 2 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 2 |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 2 |
-| [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
+| [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | 2 |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 2 |
@@ -237,6 +249,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | 1 |
 | [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | 1 |
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | 1 |
+| [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | 1 |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 1 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
@@ -254,6 +267,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 1 |
+| [hydope/chunkcite](https://github.com/hydope/chunkcite) | 1 |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 1 |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 1 |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | 1 |
@@ -282,7 +296,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 1 |
-| **Total** | **152** |
+| **Total** | **163** |
 
 </details>
 
@@ -299,7 +313,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **561 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **566 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

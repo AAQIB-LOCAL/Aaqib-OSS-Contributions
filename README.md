@@ -323,12 +323,12 @@ The broader audit currently discovers **566 authored GitHub pull requests** for 
 
 ## Automation
 
-GitHub Actions refreshes this date-free ledger daily or on manual workflow dispatch.
+GitHub Actions refreshes this daily or on manual workflow dispatch.
 
 The workflow:
 
 1. audits authored GitHub PRs through the GitHub API;
-2. regenerates date-free contribution rows and technical summaries;
+2. regenerates contribution rows and technical summaries;
 3. commits the README directly to the main branch only when content changes.
 
 

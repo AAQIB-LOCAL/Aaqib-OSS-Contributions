@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 581 |
-| Verified merged upstream OSS PRs | 172 |
-| External OSS repositories with merged PRs | 94 |
+| Publicly discoverable authored GitHub PRs (Search API) | 583 |
+| Verified merged upstream OSS PRs | 177 |
+| External OSS repositories with merged PRs | 96 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 172 merged pull requests</summary>
+<summary>Browse all 177 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -50,6 +50,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#50](https://github.com/afrigov/afrigov/pull/50) | feat: add contents navigation component | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#51](https://github.com/afrigov/afrigov/pull/51) | docs: clarify header wrapping at tablet widths | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#52](https://github.com/afrigov/afrigov/pull/52) | feat(video): support direct files and captions | Merged |
+| [agevenkat/vagejs](https://github.com/agevenkat/vagejs) | [#8](https://github.com/agevenkat/vagejs/pull/8) | Fix/long title description warnings | Merged |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | [#7](https://github.com/AkulTyagi11/StarStruck/pull/7) | feat(themes): add Kanagawa Wave palette | Merged |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | [#6](https://github.com/AlphaIsYour/eno-qr-studio/pull/6) | Add unit coverage for international phone and SMS encoding | Merged |
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | [#64](https://github.com/AmineChr54/MeetScribe/pull/64) | Test/pure logic unit tests | Merged |
@@ -109,6 +110,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#275](https://github.com/getsotto/sotto/pull/275) | Add `sotto env ls --json` with stable JSON output and coverage | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#278](https://github.com/getsotto/sotto/pull/278) | Prevent duplicate environment-share submissions with component-level concurrency protection and regression coverage | Merged |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | [#12](https://github.com/ggfto/DroidDeck/pull/12) | feat(i18n): add Hindi language option | Merged |
+| [glumly/unripe](https://github.com/glumly/unripe) | [#7](https://github.com/glumly/unripe/pull/7) | feat: support Elixir mix.lock and Hex publish times | Merged |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | [#69](https://github.com/GustavoBaranda/chatflow-agent/pull/69) | fix: restore session state on cancellation | Merged |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#309](https://github.com/HafidIdrissi/Time-Tracker/pull/309) | docs: explain longest active session with worked example | Merged |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#377](https://github.com/HafidIdrissi/Time-Tracker/pull/377) | test(preferences): reject invalid choices before file writes | Merged |
@@ -143,8 +145,10 @@ A few examples that show the kind of problems addressed across upstream projects
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#14](https://github.com/LennardGeissler/blindbucket/pull/14) | feat(cli): add JSON output to keys list | Merged |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | [#71](https://github.com/Lennonhaha/fibemate-react-native/pull/71) | Fix/67 jest no tests gate | Merged |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | [#29804](https://github.com/lingdojo/kana-dojo/pull/29804) | Add a Japanese false-friend content entry | Merged |
+| [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | [#8](https://github.com/Louayzouaoui1/claude-hud/pull/8) | test: cover token counting and cache pricing (#7) | Merged |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | [#32](https://github.com/malav2110/explain-diff-html/pull/32) | fix: name verification artifacts and omit attribution claims | Merged |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | Preserve Open With intake order with desktop regression coverage | Merged |
+| [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#148](https://github.com/McanKul/offpdf/pull/148) | feat(ocr): remember selected OCR languages | Merged |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | [#11](https://github.com/MeshLive/meshlive-android/pull/11) | docs: clarify release verification and terms | Merged |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | [#602](https://github.com/michaelegner/architecture-intelligence-platform/pull/602) | test: cover ClaimEffectSet.is_empty | Merged |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | [#603](https://github.com/michaelegner/architecture-intelligence-platform/pull/603) | test: cover utf8 helper encoding behavior | Merged |
@@ -156,6 +160,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | [#25](https://github.com/Muvon/octoweb/pull/25) | Fix host:port address bar navigation | Merged |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | [#389](https://github.com/noruzzamans/gslider-blocks/pull/389) | fix(mcp): stop fabricating media attachment IDs | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
+| [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#6](https://github.com/oasamz09-ctrl/standup-digest/pull/6) | docs: clarify Google Forms quick start | Merged |
 | [openapi/contributors](https://github.com/openapi/contributors) | [#4](https://github.com/openapi/contributors/pull/4) | docs: add Aaqibhafeez Khan to contributors | Merged |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#30](https://github.com/openapi/gknowledge/pull/30) | fix: support source re-ingestion and removal | Merged |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | [#22](https://github.com/Orbit-xyz/orbit-docs/pull/22) | docs: add TypeScript SDK contract examples | Merged |
@@ -181,7 +186,6 @@ A few examples that show the kind of problems addressed across upstream projects
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#477](https://github.com/StudentSuite/awesome-study-resources/pull/477) | fix: require HTTPS for study resources (#467) | Merged |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#478](https://github.com/StudentSuite/awesome-study-resources/pull/478) | docs: align PR guidance with contribution workflow (#470) | Merged |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | [#283](https://github.com/TanbirRamim/open-source-radar/pull/283) | feat(i18n): add German website locale | Merged |
-| [texWoW/unripe](https://github.com/texWoW/unripe) | [#7](https://github.com/texWoW/unripe/pull/7) | feat: support Elixir mix.lock and Hex publish times | Merged |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#12](https://github.com/thearchitect0x-glitch/ratchet/pull/12) | Enforce SPDX and copyright source-file headers | Merged |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#13](https://github.com/thearchitect0x-glitch/ratchet/pull/13) | Add property-based fuzz coverage for the MCP JSON-RPC parser | Merged |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | [#613](https://github.com/TheVicky1/Pact_OS/pull/613) | a11y(projects): announce accent swatch names and selection | Merged |
@@ -193,6 +197,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | [#32](https://github.com/visualfusion/feedkeeper/pull/32) | docs(deployment): cover Caddy, nginx and Traefik proxies | Merged |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | [#5760](https://github.com/vivekchand/clawmetry/pull/5760) | Surface OpenClaw session public-share state in Guard without storing share tokens | Merged |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#68](https://github.com/Webghost01-NG/stellar-event-sync/pull/68) | fix: centralize diagnostic secret redaction | Merged |
+| [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#71](https://github.com/Webghost01-NG/stellar-event-sync/pull/71) | Issue 46 rpc fixture builders | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#56](https://github.com/yakew7/DesignHub/pull/56) | Add palette import from Coolors URLs and hex codes | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#57](https://github.com/yakew7/DesignHub/pull/57) | perf(typography): virtualize font browser | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#58](https://github.com/yakew7/DesignHub/pull/58) | feat(pwa): add offline app shell | Merged |
@@ -212,7 +217,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 94 external repositories</summary>
+<summary>Browse merged PR counts across 96 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -243,16 +248,20 @@ A few examples that show the kind of problems addressed across upstream projects
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | 2 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 2 |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 2 |
+| [McanKul/offpdf](https://github.com/McanKul/offpdf) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
+| [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 2 |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
 | [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | 2 |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
+| [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 2 |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | 1 |
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 1 |
 | [Aepzie/cutline](https://github.com/Aepzie/cutline) | 1 |
+| [agevenkat/vagejs](https://github.com/agevenkat/vagejs) | 1 |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 1 |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | 1 |
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | 1 |
@@ -271,6 +280,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | 1 |
+| [glumly/unripe](https://github.com/glumly/unripe) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
 | [hayagrivai-labs/phantom](https://github.com/hayagrivai-labs/phantom) | 1 |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 1 |
@@ -284,14 +294,13 @@ A few examples that show the kind of problems addressed across upstream projects
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 1 |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | 1 |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
+| [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | 1 |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | 1 |
-| [McanKul/offpdf](https://github.com/McanKul/offpdf) | 1 |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | 1 |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | 1 |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | 1 |
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | 1 |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | 1 |
-| [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 1 |
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | 1 |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | 1 |
@@ -300,7 +309,6 @@ A few examples that show the kind of problems addressed across upstream projects
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 1 |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 1 |
-| [texWoW/unripe](https://github.com/texWoW/unripe) | 1 |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
 | [tonianev/eonmark](https://github.com/tonianev/eonmark) | 1 |
 | [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | 1 |
@@ -309,8 +317,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Valks-Terraria-Mods/PlatformHelper](https://github.com/Valks-Terraria-Mods/PlatformHelper) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
-| [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 1 |
-| **Total** | **172** |
+| **Total** | **177** |
 
 </details>
 
@@ -327,7 +334,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **581 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **583 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

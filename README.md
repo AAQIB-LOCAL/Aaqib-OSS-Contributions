@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 583 |
-| Verified merged upstream OSS PRs | 177 |
-| External OSS repositories with merged PRs | 96 |
+| Publicly discoverable authored GitHub PRs (Search API) | 597 |
+| Verified merged upstream OSS PRs | 181 |
+| External OSS repositories with merged PRs | 98 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 177 merged pull requests</summary>
+<summary>Browse all 181 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -59,6 +59,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | [#149](https://github.com/ASDW51/DanmuFloat/pull/149) | docs: 修复 PR 指南中的 CI 工作流链接 | Merged |
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | [#77](https://github.com/AtiinLabs/Ito/pull/77) | Fix Resume label for tracker-synced progress | Merged |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#23](https://github.com/basitalisandhu/agent-config-audit/pull/23) | docs: add false-positive issue form | Merged |
+| [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | [#8](https://github.com/BinaryBaconLabs/todo-app/pull/8) | feat: add persistent dark mode toggle (#7) | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#28](https://github.com/biolend83/tubehaus/pull/28) | docs(deploy): add nginx reverse proxy example | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#29](https://github.com/biolend83/tubehaus/pull/29) | feat(player): remember playback speed between visits | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#30](https://github.com/biolend83/tubehaus/pull/30) | design(branding): give TubeHaus an original house-play icon | Merged |
@@ -67,6 +68,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#133](https://github.com/BistaDinesh03/critique/pull/133) | fix(projects): select latest active question portably | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#19](https://github.com/BitanSarkar/coalesce-java/pull/19) | Run Redis integration tests with Testcontainers | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#20](https://github.com/BitanSarkar/coalesce-java/pull/20) | #10: Make the follower poll interval configurable | Merged |
+| [bolubo/aevrel](https://github.com/bolubo/aevrel) | [#86](https://github.com/bolubo/aevrel/pull/86) | fix(cdp): remove duplicate TargetLock definition | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#27](https://github.com/Bubblegunn/ai-slop-linter/pull/27) | Add pre-commit hooks for Markdown and commit messages | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#41](https://github.com/Bubblegunn/ai-slop-linter/pull/41) | feat: add SARIF output for code scanning | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#46](https://github.com/Bubblegunn/ai-slop-linter/pull/46) | Add reference markup residue rule (#14) | Merged |
@@ -125,6 +127,8 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | [#26](https://github.com/Hosein-imani/hybrid-recommendation-system/pull/26) | Feat/issue 15 single signal recommendations | Merged |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | [#27](https://github.com/Hosein-imani/hybrid-recommendation-system/pull/27) | Feat/issue 17 held out ranking evaluation | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#129](https://github.com/Huerte/algo-solutions-python/pull/129) | docs: clarify solution directory structure | Merged |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#132](https://github.com/Huerte/algo-solutions-python/pull/132) | docs: tag ten solutions by algorithm topic | Merged |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#133](https://github.com/Huerte/algo-solutions-python/pull/133) | test: add edge cases for letter percentage solution | Merged |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | [#5](https://github.com/hydope/chunkcite/pull/5) | Expose verification threshold in CLI | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#26](https://github.com/ismayilzeynal/tabulint-oss-az/pull/26) | Improve boolean type inference for textual literals | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#27](https://github.com/ismayilzeynal/tabulint-oss-az/pull/27) | Add CLI quiet mode | Merged |
@@ -217,7 +221,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 96 external repositories</summary>
+<summary>Browse merged PR counts across 98 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -234,6 +238,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 3 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 3 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 3 |
@@ -270,6 +275,8 @@ A few examples that show the kind of problems addressed across upstream projects
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | 1 |
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | 1 |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 1 |
+| [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 1 |
+| [bolubo/aevrel](https://github.com/bolubo/aevrel) | 1 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
@@ -286,7 +293,6 @@ A few examples that show the kind of problems addressed across upstream projects
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 1 |
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 1 |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | 1 |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 1 |
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | 1 |
@@ -317,7 +323,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Valks-Terraria-Mods/PlatformHelper](https://github.com/Valks-Terraria-Mods/PlatformHelper) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
-| **Total** | **177** |
+| **Total** | **181** |
 
 </details>
 
@@ -334,7 +340,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **583 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **597 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

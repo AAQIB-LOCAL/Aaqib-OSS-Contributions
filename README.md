@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 613 |
-| Verified merged upstream OSS PRs | 192 |
-| External OSS repositories with merged PRs | 104 |
+| Publicly discoverable authored GitHub PRs (Search API) | 614 |
+| Verified merged upstream OSS PRs | 194 |
+| External OSS repositories with merged PRs | 105 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 192 merged pull requests</summary>
+<summary>Browse all 194 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -194,6 +194,8 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#144](https://github.com/Sekelenao/Flinkboot/pull/144) | Enforce execution parallelism versus max-parallelism validation with regression tests | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#285](https://github.com/Sekelenao/Flinkboot/pull/285) | refactor(kafka): remove dead JUnit opens directive | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#286](https://github.com/Sekelenao/Flinkboot/pull/286) | refactor(kafka): store delivery guarantees in enum field | Merged |
+| [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#48](https://github.com/SpiliosDimakopoulos/fintwin/pull/48) | Document public export and universe functions | Merged |
+| [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#49](https://github.com/SpiliosDimakopoulos/fintwin/pull/49) | Fix accessible names for scenario and forecast charts | Merged |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#9](https://github.com/stlynnxx/Slippery-Penguin/pull/9) | feat: allow bypassing startup update check | Merged |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#477](https://github.com/StudentSuite/awesome-study-resources/pull/477) | fix: require HTTPS for study resources (#467) | Merged |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#478](https://github.com/StudentSuite/awesome-study-resources/pull/478) | docs: align PR guidance with contribution workflow (#470) | Merged |
@@ -232,7 +234,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 104 external repositories</summary>
+<summary>Browse merged PR counts across 105 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -273,6 +275,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
 | [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | 2 |
+| [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | 2 |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
@@ -340,7 +343,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| **Total** | **192** |
+| **Total** | **194** |
 
 </details>
 
@@ -357,7 +360,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **613 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **614 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

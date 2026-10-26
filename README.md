@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 597 |
-| Verified merged upstream OSS PRs | 181 |
-| External OSS repositories with merged PRs | 98 |
+| Publicly discoverable authored GitHub PRs (Search API) | 600 |
+| Verified merged upstream OSS PRs | 185 |
+| External OSS repositories with merged PRs | 100 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 181 merged pull requests</summary>
+<summary>Browse all 185 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -55,6 +55,8 @@ A few examples that show the kind of problems addressed across upstream projects
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | [#6](https://github.com/AlphaIsYour/eno-qr-studio/pull/6) | Add unit coverage for international phone and SMS encoding | Merged |
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | [#64](https://github.com/AmineChr54/MeetScribe/pull/64) | Test/pure logic unit tests | Merged |
 | [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | [#441](https://github.com/answerLoops/answerLoops/pull/441) | Feat/article supplied context usage | Merged |
+| [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | [#1161](https://github.com/arminazimi/evergreen/pull/1161) | feat: add Spring Boot lifecycle rules and migration fixtures | Merged |
+| [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | [#1162](https://github.com/arminazimi/evergreen/pull/1162) | feat: add Markdown scan report format | Merged |
 | [arudaev/THD-Room-Finder](https://github.com/arudaev/THD-Room-Finder) | [#46](https://github.com/arudaev/THD-Room-Finder/pull/46) | feat(data): add the THD programme and intake taxonomy | Merged |
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | [#149](https://github.com/ASDW51/DanmuFloat/pull/149) | docs: 修复 PR 指南中的 CI 工作流链接 | Merged |
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | [#77](https://github.com/AtiinLabs/Ito/pull/77) | Fix Resume label for tracker-synced progress | Merged |
@@ -99,6 +101,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#8](https://github.com/eklavya2201/breakinggood/pull/8) | fix: detect browser challenge pages during capture | Merged |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#27](https://github.com/enlike21/ClimbUp/pull/27) | Mantener el foco del teclado dentro del menú de pausa | Merged |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#31](https://github.com/enlike21/ClimbUp/pull/31) | Añadir tests unitarios para StatisticsService | Merged |
+| [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | [#24](https://github.com/fatihserhatturan/noCap/pull/24) | feat: export report as PNG | Merged |
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | [#14](https://github.com/featherpanel-com/translations/pull/14) | docs: correct README clone and sync instructions | Merged |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#123775](https://github.com/firstcontributions/first-contributions/pull/123775) | **First OSS contribution:** Add Aaqibhafeez Khan to the Contributors list | Merged |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | [#16](https://github.com/francordel/kdemos/pull/16) | test: cover Cloudflare input validators | Merged |
@@ -215,13 +218,14 @@ A few examples that show the kind of problems addressed across upstream projects
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#1141](https://github.com/yakew7/Fair-Code/pull/1141) | Fix/1098 explainer python smoke tests | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#511](https://github.com/yoavnir/specs2016/pull/511) | Resolve issue #510 in the 1.1.0 development line | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#515](https://github.com/yoavnir/specs2016/pull/515) | Issue #504 - generate manpage automatically | Merged |
+| [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#532](https://github.com/yoavnir/specs2016/pull/532) | docs: add TODclock conversion examples (#496) | Merged |
 
 </details>
 
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 98 external repositories</summary>
+<summary>Browse merged PR counts across 100 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -242,7 +246,9 @@ A few examples that show the kind of problems addressed across upstream projects
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 3 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 3 |
+| [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 3 |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | 2 |
+| [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | 2 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
@@ -262,7 +268,6 @@ A few examples that show the kind of problems addressed across upstream projects
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
-| [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 2 |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | 1 |
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 1 |
 | [Aepzie/cutline](https://github.com/Aepzie/cutline) | 1 |
@@ -283,6 +288,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 1 |
 | [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | 1 |
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | 1 |
+| [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | 1 |
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | 1 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
@@ -323,7 +329,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Valks-Terraria-Mods/PlatformHelper](https://github.com/Valks-Terraria-Mods/PlatformHelper) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
-| **Total** | **181** |
+| **Total** | **185** |
 
 </details>
 
@@ -340,7 +346,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **597 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **600 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

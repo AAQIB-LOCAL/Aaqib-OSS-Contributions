@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 | Metric | Count |
 |---|---:|
 | Publicly discoverable authored GitHub PRs (Search API) | 614 |
-| Verified merged upstream OSS PRs | 194 |
-| External OSS repositories with merged PRs | 105 |
+| Verified merged upstream OSS PRs | 195 |
+| External OSS repositories with merged PRs | 106 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 194 merged pull requests</summary>
+<summary>Browse all 195 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -114,6 +114,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | [#81](https://github.com/gabrielmongefranco/privatium/pull/81) | Upgrade GitHub Actions to Node 24 | Merged |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | [#94](https://github.com/gabrielmongefranco/privatium/pull/94) | Fix/52 directory sizes | Merged |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | [#95](https://github.com/gabrielmongefranco/privatium/pull/95) | feat: give launcher an app-store layout | Merged |
+| [gabrielvieiraf/finitemonkey](https://github.com/gabrielvieiraf/finitemonkey) | [#129](https://github.com/gabrielvieiraf/finitemonkey/pull/129) | docs(generators): add workflow and flow templates | Merged |
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | [#55](https://github.com/Gautam-aman/ResQNet/pull/55) | docs: correct beta installation release assets | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#252](https://github.com/getsotto/sotto/pull/252) | Fix concurrent environment key rotation with regression coverage | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#275](https://github.com/getsotto/sotto/pull/275) | Add `sotto env ls --json` with stable JSON output and coverage | Merged |
@@ -234,7 +235,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 105 external repositories</summary>
+<summary>Browse merged PR counts across 106 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -303,6 +304,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | 1 |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 1 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
+| [gabrielvieiraf/finitemonkey](https://github.com/gabrielvieiraf/finitemonkey) | 1 |
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | 1 |
 | [glumly/unripe](https://github.com/glumly/unripe) | 1 |
@@ -343,7 +345,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| **Total** | **194** |
+| **Total** | **195** |
 
 </details>
 

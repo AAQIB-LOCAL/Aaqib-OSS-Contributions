@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 615 |
-| Verified merged upstream OSS PRs | 202 |
-| External OSS repositories with merged PRs | 111 |
+| Publicly discoverable authored GitHub PRs (Search API) | 631 |
+| Verified merged upstream OSS PRs | 204 |
+| External OSS repositories with merged PRs | 113 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 202 merged pull requests</summary>
+<summary>Browse all 204 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -178,6 +178,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | [#389](https://github.com/noruzzamans/gslider-blocks/pull/389) | fix(mcp): stop fabricating media attachment IDs | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#6](https://github.com/oasamz09-ctrl/standup-digest/pull/6) | docs: clarify Google Forms quick start | Merged |
+| [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | [#200](https://github.com/olo-labs/olo-toolgate/pull/200) | Docs/json validate examples | Merged |
 | [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | [#1316](https://github.com/open-telemetry/opentelemetry-kotlin/pull/1316) | fix(logging): isolate failures during log emission | Merged |
 | [openapi/contributors](https://github.com/openapi/contributors) | [#4](https://github.com/openapi/contributors/pull/4) | docs: add Aaqibhafeez Khan to contributors | Merged |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#30](https://github.com/openapi/gknowledge/pull/30) | fix: support source re-ingestion and removal | Merged |
@@ -218,6 +219,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Veinar/draincheck](https://github.com/Veinar/draincheck) | [#140](https://github.com/Veinar/draincheck/pull/140) | docs: json report jq recipes | Merged |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | [#32](https://github.com/visualfusion/feedkeeper/pull/32) | docs(deployment): cover Caddy, nginx and Traefik proxies | Merged |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | [#5760](https://github.com/vivekchand/clawmetry/pull/5760) | Surface OpenClaw session public-share state in Guard without storing share tokens | Merged |
+| [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | [#24](https://github.com/VOLPAROSSA/volparossa-code/pull/24) | test: cover fragmented SSE framing and invalid UTF-8 | Merged |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#68](https://github.com/Webghost01-NG/stellar-event-sync/pull/68) | fix: centralize diagnostic secret redaction | Merged |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#71](https://github.com/Webghost01-NG/stellar-event-sync/pull/71) | Issue 46 rpc fixture builders | Merged |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | [#2](https://github.com/xlebore3o4ka/llvnim23/pull/2) | Fix/issue 1 static linking | Merged |
@@ -242,7 +244,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 111 external repositories</summary>
+<summary>Browse merged PR counts across 113 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -336,6 +338,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | 1 |
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | 1 |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | 1 |
+| [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | 1 |
 | [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | 1 |
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | 1 |
@@ -355,9 +358,10 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Veinar/draincheck](https://github.com/Veinar/draincheck) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
+| [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| **Total** | **202** |
+| **Total** | **204** |
 
 </details>
 
@@ -374,7 +378,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **615 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **631 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

@@ -10,8 +10,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 644 |
-| Verified merged upstream OSS PRs | 220 |
+| Publicly discoverable authored GitHub PRs (Search API) | 646 |
+| Verified merged upstream OSS PRs | 225 |
 | External OSS repositories with merged PRs | 121 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 220 merged pull requests</summary>
+<summary>Browse all 225 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -56,6 +56,9 @@ A few examples that show the kind of problems addressed across upstream projects
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | [#64](https://github.com/AmineChr54/MeetScribe/pull/64) | Test/pure logic unit tests | Merged |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#232](https://github.com/AnayDhawan/UCIP/pull/232) | fix: update indicator count to five | Merged |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#233](https://github.com/AnayDhawan/UCIP/pull/233) | fix: add root error boundaries and branded 404 | Merged |
+| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#234](https://github.com/AnayDhawan/UCIP/pull/234) | fix: reject invalid API limits | Merged |
+| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#235](https://github.com/AnayDhawan/UCIP/pull/235) | Fix/cells pagination total | Merged |
+| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#236](https://github.com/AnayDhawan/UCIP/pull/236) | fix(embed): show rank uncertainty and data freshness | Merged |
 | [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | [#441](https://github.com/answerLoops/answerLoops/pull/441) | Feat/article supplied context usage | Merged |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | [#1161](https://github.com/arminazimi/evergreen/pull/1161) | feat: add Spring Boot lifecycle rules and migration fixtures | Merged |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | [#1162](https://github.com/arminazimi/evergreen/pull/1162) | feat: add Markdown scan report format | Merged |
@@ -153,6 +156,8 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#132](https://github.com/Huerte/algo-solutions-python/pull/132) | docs: tag ten solutions by algorithm topic | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#133](https://github.com/Huerte/algo-solutions-python/pull/133) | test: add edge cases for letter percentage solution | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#97](https://github.com/Huseynteymurzade28/tuiba/pull/97) | Add cargo-binstall release metadata | Merged |
+| [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#99](https://github.com/Huseynteymurzade28/tuiba/pull/99) | Feat/configurable colour themes | Merged |
+| [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#100](https://github.com/Huseynteymurzade28/tuiba/pull/100) | packaging: add Nix flake | Merged |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | [#5](https://github.com/hydope/chunkcite/pull/5) | Expose verification threshold in CLI | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#26](https://github.com/ismayilzeynal/tabulint-oss-az/pull/26) | Improve boolean type inference for textual literals | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#27](https://github.com/ismayilzeynal/tabulint-oss-az/pull/27) | Add CLI quiet mode | Merged |
@@ -270,6 +275,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 8 |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 6 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
+| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
@@ -280,11 +286,11 @@ A few examples that show the kind of problems addressed across upstream projects
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 3 |
+| [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 3 |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 3 |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | 2 |
-| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 2 |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | 2 |
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
@@ -343,7 +349,6 @@ A few examples that show the kind of problems addressed across upstream projects
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 1 |
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
-| [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 1 |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | 1 |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 1 |
 | [JExcellence/JEHibernate](https://github.com/JExcellence/JEHibernate) | 1 |
@@ -385,7 +390,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| **Total** | **220** |
+| **Total** | **225** |
 
 </details>
 
@@ -402,7 +407,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **644 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **646 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

@@ -10,8 +10,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 638 |
-| Verified merged upstream OSS PRs | 217 |
+| Publicly discoverable authored GitHub PRs (Search API) | 641 |
+| Verified merged upstream OSS PRs | 218 |
 | External OSS repositories with merged PRs | 120 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 217 merged pull requests</summary>
+<summary>Browse all 218 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -64,6 +64,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | [#77](https://github.com/AtiinLabs/Ito/pull/77) | Fix Resume label for tracker-synced progress | Merged |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#23](https://github.com/basitalisandhu/agent-config-audit/pull/23) | docs: add false-positive issue form | Merged |
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | [#8](https://github.com/BinaryBaconLabs/todo-app/pull/8) | feat: add persistent dark mode toggle (#7) | Merged |
+| [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | [#10](https://github.com/BinaryBaconLabs/todo-app/pull/10) | Feat/issue 9 todo filters | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#28](https://github.com/biolend83/tubehaus/pull/28) | docs(deploy): add nginx reverse proxy example | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#29](https://github.com/biolend83/tubehaus/pull/29) | feat(player): remember playback speed between visits | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#30](https://github.com/biolend83/tubehaus/pull/30) | design(branding): give TubeHaus an original house-play icon | Merged |
@@ -283,6 +284,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | 2 |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 2 |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | 2 |
+| [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
@@ -315,7 +317,6 @@ A few examples that show the kind of problems addressed across upstream projects
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | 1 |
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | 1 |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 1 |
-| [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 1 |
 | [bolubo/aevrel](https://github.com/bolubo/aevrel) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
@@ -381,7 +382,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| **Total** | **217** |
+| **Total** | **218** |
 
 </details>
 
@@ -398,7 +399,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **638 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **641 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

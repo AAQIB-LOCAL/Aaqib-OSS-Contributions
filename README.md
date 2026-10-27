@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 631 |
-| Verified merged upstream OSS PRs | 204 |
-| External OSS repositories with merged PRs | 113 |
+| Publicly discoverable authored GitHub PRs (Search API) | 633 |
+| Verified merged upstream OSS PRs | 213 |
+| External OSS repositories with merged PRs | 117 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 204 merged pull requests</summary>
+<summary>Browse all 213 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -92,15 +92,23 @@ A few examples that show the kind of problems addressed across upstream projects
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#211](https://github.com/cellrishi-code/claude-skills-atlas/pull/211) | Add static smoke tests for documented examples | Merged |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | [#545](https://github.com/chaoss/CollectOSS/pull/545) | docs: fix sample database compose formatting | Merged |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | [#29](https://github.com/codercops/discord-bot/pull/29) | fix: skip unchanged starter issue feed edits | Merged |
+| [codercops/toolbelt](https://github.com/codercops/toolbelt) | [#332](https://github.com/codercops/toolbelt/pull/332) | fix(base64): report original invalid character positions | Merged |
 | [crbtgab/housing-records](https://github.com/crbtgab/housing-records) | [#7](https://github.com/crbtgab/housing-records/pull/7) | Fix/borough border hit testing | Merged |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | [#156](https://github.com/creatoan/scenet/pull/156) | docs: explain building and checking comics in CI | Merged |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#367](https://github.com/cubrid-lab/cubrid-mcp-server/pull/367) | test(config): cover whitespace around named selector | Merged |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#368](https://github.com/cubrid-lab/cubrid-mcp-server/pull/368) | test: cover a non-matching table-name filter | Merged |
 | [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | [#234](https://github.com/dgesteves/onsystem/pull/234) | fix: explain when no components are available | Merged |
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | [#207](https://github.com/dgesteves/signoff-ui/pull/207) | test: cover reasoning stream and duration | Merged |
+| [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | [#367](https://github.com/dheerajjha/mcp-migrate/pull/367) | fix: use UTF-8 in findings renderer and tests | Merged |
+| [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | [#126](https://github.com/dheerajjha/reviewer/pull/126) | fix: choose the correct default compare base | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#36](https://github.com/DhruvHarani1/lyra/pull/36) | feat: add optional Hindi and Punjabi lyric romanization | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#38](https://github.com/DhruvHarani1/lyra/pull/38) | feat(lyrics): add public-domain fallback for issue #2 | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#39](https://github.com/DhruvHarani1/lyra/pull/39) | fix(a11y): improve keyboard navigation in widget and settings | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#40](https://github.com/DhruvHarani1/lyra/pull/40) | feat: add Hindi UI translations for settings and shared screens | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#41](https://github.com/DhruvHarani1/lyra/pull/41) | fix(ui): improve light-theme contrast in settings | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#42](https://github.com/DhruvHarani1/lyra/pull/42) | Fix/issue 22 youtube control overlay | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#43](https://github.com/DhruvHarani1/lyra/pull/43) | Fix/issue 31 android compatibility report | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#44](https://github.com/DhruvHarani1/lyra/pull/44) | feat(studio): add deterministic motion backgrounds | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#7](https://github.com/eklavya2201/breakinggood/pull/7) | test: cover dependency scanner findings | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#8](https://github.com/eklavya2201/breakinggood/pull/8) | fix: detect browser challenge pages during capture | Merged |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#27](https://github.com/enlike21/ClimbUp/pull/27) | Mantener el foco del teclado dentro del menú de pausa | Merged |
@@ -202,6 +210,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#144](https://github.com/Sekelenao/Flinkboot/pull/144) | Enforce execution parallelism versus max-parallelism validation with regression tests | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#285](https://github.com/Sekelenao/Flinkboot/pull/285) | refactor(kafka): remove dead JUnit opens directive | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#286](https://github.com/Sekelenao/Flinkboot/pull/286) | refactor(kafka): store delivery guarantees in enum field | Merged |
+| [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | [#13](https://github.com/sid-lakhani/erml/pull/13) | docs: document edge cases and CPU inference benchmarks | Merged |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#48](https://github.com/SpiliosDimakopoulos/fintwin/pull/48) | Document public export and universe functions | Merged |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#49](https://github.com/SpiliosDimakopoulos/fintwin/pull/49) | Fix accessible names for scenario and forecast charts | Merged |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#9](https://github.com/stlynnxx/Slippery-Penguin/pull/9) | feat: allow bypassing startup update check | Merged |
@@ -244,11 +253,12 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 113 external repositories</summary>
+<summary>Browse merged PR counts across 117 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | 11 |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 8 |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 8 |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 8 |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 6 |
@@ -260,7 +270,6 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 4 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 3 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 3 |
-| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 3 |
@@ -306,10 +315,13 @@ A few examples that show the kind of problems addressed across upstream projects
 | [bolubo/aevrel](https://github.com/bolubo/aevrel) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
+| [codercops/toolbelt](https://github.com/codercops/toolbelt) | 1 |
 | [crbtgab/housing-records](https://github.com/crbtgab/housing-records) | 1 |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 1 |
 | [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | 1 |
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | 1 |
+| [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | 1 |
+| [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 1 |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | 1 |
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | 1 |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 1 |
@@ -347,6 +359,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [perfectmodelslab/ComfyUI-PerfectLab](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) | 1 |
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | 1 |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
+| [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | 1 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 1 |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 1 |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
@@ -361,7 +374,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| **Total** | **204** |
+| **Total** | **213** |
 
 </details>
 
@@ -378,7 +391,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **631 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **633 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 | Metric | Count |
 |---|---:|
 | Publicly discoverable authored GitHub PRs (Search API) | 646 |
-| Verified merged upstream OSS PRs | 225 |
-| External OSS repositories with merged PRs | 121 |
+| Verified merged upstream OSS PRs | 226 |
+| External OSS repositories with merged PRs | 122 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 225 merged pull requests</summary>
+<summary>Browse all 226 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -115,6 +115,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#42](https://github.com/DhruvHarani1/lyra/pull/42) | Fix/issue 22 youtube control overlay | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#43](https://github.com/DhruvHarani1/lyra/pull/43) | Fix/issue 31 android compatibility report | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#44](https://github.com/DhruvHarani1/lyra/pull/44) | feat(studio): add deterministic motion backgrounds | Merged |
+| [dominikgobel/kern](https://github.com/dominikgobel/kern) | [#26](https://github.com/dominikgobel/kern/pull/26) | fix: insert Alt-modified characters | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#7](https://github.com/eklavya2201/breakinggood/pull/7) | test: cover dependency scanner findings | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#8](https://github.com/eklavya2201/breakinggood/pull/8) | fix: detect browser challenge pages during capture | Merged |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#27](https://github.com/enlike21/ClimbUp/pull/27) | Mantener el foco del teclado dentro del menú de pausa | Merged |
@@ -265,7 +266,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 121 external repositories</summary>
+<summary>Browse merged PR counts across 122 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -337,6 +338,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | 1 |
 | [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | 1 |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 1 |
+| [dominikgobel/kern](https://github.com/dominikgobel/kern) | 1 |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | 1 |
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | 1 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
@@ -390,7 +392,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| **Total** | **225** |
+| **Total** | **226** |
 
 </details>
 

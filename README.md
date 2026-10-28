@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 665 |
-| Verified merged upstream OSS PRs | 235 |
-| External OSS repositories with merged PRs | 130 |
+| Publicly discoverable authored GitHub PRs (Search API) | 668 |
+| Verified merged upstream OSS PRs | 239 |
+| External OSS repositories with merged PRs | 132 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 235 merged pull requests</summary>
+<summary>Browse all 239 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -67,6 +67,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [ashfall-sh/unripe](https://github.com/ashfall-sh/unripe) | [#7](https://github.com/ashfall-sh/unripe/pull/7) | feat: support Elixir mix.lock and Hex publish times | Merged |
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | [#77](https://github.com/AtiinLabs/Ito/pull/77) | Fix Resume label for tracker-synced progress | Merged |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#23](https://github.com/basitalisandhu/agent-config-audit/pull/23) | docs: add false-positive issue form | Merged |
+| [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#25](https://github.com/basitalisandhu/agent-config-audit/pull/25) | feat: add baseline mode for existing findings | Merged |
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | [#8](https://github.com/BinaryBaconLabs/todo-app/pull/8) | feat: add persistent dark mode toggle (#7) | Merged |
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | [#10](https://github.com/BinaryBaconLabs/todo-app/pull/10) | Feat/issue 9 todo filters | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#28](https://github.com/biolend83/tubehaus/pull/28) | docs(deploy): add nginx reverse proxy example | Merged |
@@ -143,6 +144,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#275](https://github.com/getsotto/sotto/pull/275) | Add `sotto env ls --json` with stable JSON output and coverage | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#278](https://github.com/getsotto/sotto/pull/278) | Prevent duplicate environment-share submissions with component-level concurrency protection and regression coverage | Merged |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | [#12](https://github.com/ggfto/DroidDeck/pull/12) | feat(i18n): add Hindi language option | Merged |
+| [got-a-page/website](https://github.com/got-a-page/website) | [#21](https://github.com/got-a-page/website/pull/21) | feat: add answer-engine metadata and llms.txt | Merged |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | [#69](https://github.com/GustavoBaranda/chatflow-agent/pull/69) | fix: restore session state on cancellation | Merged |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#309](https://github.com/HafidIdrissi/Time-Tracker/pull/309) | docs: explain longest active session with worked example | Merged |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#377](https://github.com/HafidIdrissi/Time-Tracker/pull/377) | test(preferences): reject invalid choices before file writes | Merged |
@@ -202,6 +204,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | [#25](https://github.com/Muvon/octoweb/pull/25) | Fix host:port address bar navigation | Merged |
 | [netweir/netweir](https://github.com/netweir/netweir) | [#163](https://github.com/netweir/netweir/pull/163) | fix(records): limit row selectors to read rows | Merged |
 | [ngpdf/ngpdf](https://github.com/ngpdf/ngpdf) | [#111](https://github.com/ngpdf/ngpdf/pull/111) | feat(core): complete document metadata | Merged |
+| [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#14](https://github.com/nitturkaryash/open-bpo/pull/14) | feat(console): show session elapsed duration | Merged |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | [#389](https://github.com/noruzzamans/gslider-blocks/pull/389) | fix(mcp): stop fabricating media attachment IDs | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#6](https://github.com/oasamz09-ctrl/standup-digest/pull/6) | docs: clarify Google Forms quick start | Merged |
@@ -268,6 +271,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#511](https://github.com/yoavnir/specs2016/pull/511) | Resolve issue #510 in the 1.1.0 development line | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#515](https://github.com/yoavnir/specs2016/pull/515) | Issue #504 - generate manpage automatically | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#532](https://github.com/yoavnir/specs2016/pull/532) | docs: add TODclock conversion examples (#496) | Merged |
+| [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | [#5](https://github.com/zovo-one/crx-permission-risk/pull/5) | feat: classify common Chrome permissions | Merged |
 | [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | [#6](https://github.com/zovo-one/crx-permission-risk/pull/6) | test: compile README example as doctest | Merged |
 
 </details>
@@ -275,7 +279,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 130 external repositories</summary>
+<summary>Browse merged PR counts across 132 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -302,6 +306,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 3 |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | 2 |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | 2 |
+| [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 2 |
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 2 |
@@ -324,6 +329,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
+| [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | 2 |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | 1 |
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 1 |
 | [Aepzie/cutline](https://github.com/Aepzie/cutline) | 1 |
@@ -336,7 +342,6 @@ A few examples that show the kind of problems addressed across upstream projects
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | 1 |
 | [ashfall-sh/unripe](https://github.com/ashfall-sh/unripe) | 1 |
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | 1 |
-| [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 1 |
 | [bolubo/aevrel](https://github.com/bolubo/aevrel) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
@@ -358,6 +363,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [gabrielvieiraf/finitemonkey](https://github.com/gabrielvieiraf/finitemonkey) | 1 |
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | 1 |
+| [got-a-page/website](https://github.com/got-a-page/website) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
 | [hayagrivai-labs/phantom](https://github.com/hayagrivai-labs/phantom) | 1 |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 1 |
@@ -382,6 +388,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | 1 |
 | [netweir/netweir](https://github.com/netweir/netweir) | 1 |
 | [ngpdf/ngpdf](https://github.com/ngpdf/ngpdf) | 1 |
+| [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 1 |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | 1 |
 | [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | 1 |
 | [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | 1 |
@@ -408,8 +415,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | 1 |
-| **Total** | **235** |
+| **Total** | **239** |
 
 </details>
 
@@ -426,7 +432,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **665 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **668 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

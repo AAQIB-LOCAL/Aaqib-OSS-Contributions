@@ -135,33 +135,66 @@ const mergedCount = externalMerged.length;
 
 const readme = `# Aaqib OSS Contributions
 
-A portfolio of shipped open-source work by \`${author}\` — focused on practical engineering improvements, reliable software, and contributions merged into upstream projects.
+A portfolio of shipped open-source work by \`${author}\` , focused on practical engineering improvements, reliable software, and contributions merged into upstream projects.
 
 **Highlights:** backend and API reliability · developer tooling · test quality · security · TypeScript/JavaScript · Java/JVM
+
 
 [Featured work](#selected-engineering-work) · [Full contribution ledger](#verified-upstream-oss-contributions) · [Engineering themes](#engineering-themes)
 
 ## Contribution Snapshot
 
-| Metric | Count |
-|---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | ${authoredPullRequestCount} |
-| Verified merged upstream OSS PRs | ${mergedCount} |
-| External OSS repositories with merged PRs | ${repositoryCount} |
+<table>
+  <tr>
+    <td align="center"><strong>${mergedCount}</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>${repositoryCount}</strong><br/>External repositories</td>
+    <td align="center"><strong>${authoredPullRequestCount}</strong><br/>Publicly discoverable authored PRs</td>
+  </tr>
+</table>
 
 The authored-PR count uses GitHub's public Search API query author:${author} is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
-
 ## Selected Engineering Work
 
-A few examples that show the kind of problems addressed across upstream projects:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Concurrency &amp; Security</strong><br/>
+      <a href="https://github.com/getsotto/sotto/pull/278">Prevent duplicate environment-share submissions</a><br/>
+      Component-level concurrency protection with regression coverage.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Backend Reliability</strong><br/>
+      <a href="https://github.com/getsotto/sotto/pull/252">Fix concurrent environment key rotation</a><br/>
+      Addresses a concurrency edge case with regression coverage.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>JVM &amp; API Contracts</strong><br/>
+      <a href="https://github.com/Sekelenao/Flinkboot/pull/143">Enforce non-null API behavior</a> · <a href="https://github.com/Sekelenao/Flinkboot/pull/144">Validate execution parallelism</a><br/>
+      Makes API and execution constraints explicit.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Developer Experience</strong><br/>
+      <a href="https://github.com/getsotto/sotto/pull/275">Add stable JSON output</a><br/>
+      Improves machine-readable CLI output and reporting workflows.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Data &amp; Persistence</strong><br/>
+      <a href="https://github.com/Bubblegunn/proactive-gate/pull/25">Add PostgreSQL-backed storage</a><br/>
+      Includes atomic increments, TTL handling, and contract coverage.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Open-Source Participation</strong><br/>
+      <a href="https://github.com/firstcontributions/first-contributions/pull/123775">Add contributor entry to First Contributions</a><br/>
+      A direct link to an early upstream contribution.
+    </td>
+  </tr>
+</table>
 
-- **Concurrency and security:** [Prevent duplicate environment-share submissions](https://github.com/getsotto/sotto/pull/278) with component-level concurrency protection and regression coverage.
-- **Backend reliability:** [Fix concurrent environment key rotation](https://github.com/getsotto/sotto/pull/252) with regression coverage.
-- **JVM contracts:** [Enforce non-null API behavior](https://github.com/Sekelenao/Flinkboot/pull/143) and [validate execution parallelism](https://github.com/Sekelenao/Flinkboot/pull/144).
-- **Developer experience:** [Add stable JSON output](https://github.com/getsotto/sotto/pull/275) and CLI reporting improvements.
-- **Data and persistence:** [Add PostgreSQL-backed storage](https://github.com/Bubblegunn/proactive-gate/pull/25) with atomic increments, TTL handling, and contract coverage.
-- **Open-source participation:** [First Contributions contributor entry](https://github.com/firstcontributions/first-contributions/pull/123775).
-
+Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>

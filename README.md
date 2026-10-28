@@ -10,9 +10,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 654 |
-| Verified merged upstream OSS PRs | 234 |
-| External OSS repositories with merged PRs | 129 |
+| Publicly discoverable authored GitHub PRs (Search API) | 665 |
+| Verified merged upstream OSS PRs | 235 |
+| External OSS repositories with merged PRs | 130 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
 
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 234 merged pull requests</summary>
+<summary>Browse all 235 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -268,13 +268,14 @@ A few examples that show the kind of problems addressed across upstream projects
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#511](https://github.com/yoavnir/specs2016/pull/511) | Resolve issue #510 in the 1.1.0 development line | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#515](https://github.com/yoavnir/specs2016/pull/515) | Issue #504 - generate manpage automatically | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#532](https://github.com/yoavnir/specs2016/pull/532) | docs: add TODclock conversion examples (#496) | Merged |
+| [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | [#6](https://github.com/zovo-one/crx-permission-risk/pull/6) | test: compile README example as doctest | Merged |
 
 </details>
 
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 129 external repositories</summary>
+<summary>Browse merged PR counts across 130 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -407,7 +408,8 @@ A few examples that show the kind of problems addressed across upstream projects
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| **Total** | **234** |
+| [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | 1 |
+| **Total** | **235** |
 
 </details>
 
@@ -424,7 +426,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **654 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **665 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

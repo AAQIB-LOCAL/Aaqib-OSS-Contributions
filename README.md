@@ -35,14 +35,38 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <strong>Java &amp; Spring Boot</strong><br/>
+      <a href="https://github.com/arminazimi/evergreen/pull/1161">Add Spring Boot lifecycle rules and migration fixtures</a><br/>
+      Documents supported versions, migration constraints, and upgrade verification steps.
+    </td>
+    <td width="50%" valign="top">
       <strong>JVM &amp; API Contracts</strong><br/>
       <a href="https://github.com/Sekelenao/Flinkboot/pull/143">Enforce non-null API behavior</a> · <a href="https://github.com/Sekelenao/Flinkboot/pull/144">Validate execution parallelism</a><br/>
       Makes API and execution constraints explicit.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <strong>Developer Experience</strong><br/>
-      <a href="https://github.com/getsotto/sotto/pull/275">Add stable JSON output</a><br/>
-      Improves machine-readable CLI output and reporting workflows.
+      <strong>TypeScript SDK Integration</strong><br/>
+      <a href="https://github.com/Orbit-xyz/orbit-docs/pull/22">Add TypeScript SDK contract examples</a><br/>
+      Adds SDK examples alongside CLI examples across contract reference pages.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Frontend Test Quality</strong><br/>
+      <a href="https://github.com/adarshrkumar/ViaBay/pull/89">Add meaningful Playwright browser assertions</a><br/>
+      Replaces placeholder checks with assertions for map rendering, vehicle markers, and redirects.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Integration Testing</strong><br/>
+      <a href="https://github.com/BitanSarkar/coalesce-java/pull/19">Run Redis integration tests with Testcontainers</a><br/>
+      Adds a container-backed Redis integration test job.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Authorization</strong><br/>
+      <a href="https://github.com/TSKVenkat/osprey/pull/49">Add viewer role with route-level authorization</a><br/>
+      Introduces a viewer role and enforces authorization at route boundaries.
     </td>
   </tr>
   <tr>
@@ -50,6 +74,18 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
       <strong>Data &amp; Persistence</strong><br/>
       <a href="https://github.com/Bubblegunn/proactive-gate/pull/25">Add PostgreSQL-backed storage</a><br/>
       Includes atomic increments, TTL handling, and contract coverage.
+    </td>
+    <td width="50%" valign="top">
+      <strong>AI Agent Reliability</strong><br/>
+      <a href="https://github.com/GustavoBaranda/chatflow-agent/pull/69">Restore session state on cancellation</a><br/>
+      Restores session history, active agent, and metadata when an asynchronous run is cancelled.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Developer Experience</strong><br/>
+      <a href="https://github.com/getsotto/sotto/pull/275">Add stable JSON output</a><br/>
+      Improves machine-readable CLI output and reporting workflows.
     </td>
     <td width="50%" valign="top">
       <strong>Open-Source Participation</strong><br/>

@@ -139,18 +139,6 @@ A portfolio of shipped open-source work by \`${author}\` — focused on practica
 
 **Highlights:** backend and API reliability · developer tooling · test quality · security · TypeScript/JavaScript · Java/JVM
 
-## Recruiter Quick View
-
-**Senior Software Engineer | Full Stack Developer**
-
-I build and improve web applications, backend services, APIs, and developer tooling, with a focus on reliability, clear contracts, and regression-tested changes.
-
-- **Core technologies:** Java, Spring Boot, TypeScript/JavaScript, React, Next.js, REST and GraphQL APIs
-- **Engineering strengths:** backend reliability, API validation, concurrency safety, automated testing, persistence, and CLI tooling
-- **Profiles:** [LinkedIn](https://www.linkedin.com/in/aaqibhafeezkhan/) · [GitHub](https://github.com/Aaqibhafeezkhan) · [Portfolio](https://aaqibhafeezkhan.github.io/aaqibhafeezkhan.cv/extended-cv/)
-- **Review the evidence:** start with the selected merged PRs below, then expand the full contribution ledger for the complete record.
-
-
 [Featured work](#selected-engineering-work) · [Full contribution ledger](#verified-upstream-oss-contributions) · [Engineering themes](#engineering-themes)
 
 ## Contribution Snapshot

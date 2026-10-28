@@ -10,8 +10,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` — focused on prac
 
 | Metric | Count |
 |---|---:|
-| Publicly discoverable authored GitHub PRs (Search API) | 672 |
-| Verified merged upstream OSS PRs | 240 |
+| Publicly discoverable authored GitHub PRs (Search API) | 682 |
+| Verified merged upstream OSS PRs | 241 |
 | External OSS repositories with merged PRs | 133 |
 
 The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
@@ -30,7 +30,7 @@ A few examples that show the kind of problems addressed across upstream projects
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 240 merged pull requests</summary>
+<summary>Browse all 241 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -86,6 +86,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#63](https://github.com/Bubblegunn/ai-slop-linter/pull/63) | fix: encode SARIF artifact URIs and repair schema URL | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#72](https://github.com/Bubblegunn/ai-slop-linter/pull/72) | fix: avoid bold-label findings on CV role lists (#8) | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#73](https://github.com/Bubblegunn/ai-slop-linter/pull/73) | docs(bench): define external linter comparison study | Merged |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#79](https://github.com/Bubblegunn/ai-slop-linter/pull/79) | feat: detect chatbot tracking parameters | Merged |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#3](https://github.com/Bubblegunn/proactive-gate/pull/3) | Add `SqliteStore` implementation | Merged |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#24](https://github.com/Bubblegunn/proactive-gate/pull/24) | Publish the reusable store contract test suite | Merged |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#25](https://github.com/Bubblegunn/proactive-gate/pull/25) | Add PostgreSQL-backed store implementation with atomic increments, TTL handling, and contract coverage | Merged |
@@ -288,7 +289,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 8 |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 8 |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 8 |
-| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 6 |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 7 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
@@ -417,7 +418,7 @@ A few examples that show the kind of problems addressed across upstream projects
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| **Total** | **240** |
+| **Total** | **241** |
 
 </details>
 
@@ -434,7 +435,7 @@ A few examples that show the kind of problems addressed across upstream projects
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **672 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **682 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

@@ -11,7 +11,7 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>253</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>256</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>141</strong><br/>External repositories</td>
     <td align="center"><strong>701</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
@@ -99,7 +99,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 253 merged pull requests</summary>
+<summary>Browse all 256 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -317,6 +317,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#48](https://github.com/SpiliosDimakopoulos/fintwin/pull/48) | Document public export and universe functions | Merged |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#49](https://github.com/SpiliosDimakopoulos/fintwin/pull/49) | Fix accessible names for scenario and forecast charts | Merged |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#9](https://github.com/stlynnxx/Slippery-Penguin/pull/9) | feat: allow bypassing startup update check | Merged |
+| [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#23](https://github.com/stlynnxx/Slippery-Penguin/pull/23) | fix: clarify empty GTFOBins PDF results | Merged |
+| [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#24](https://github.com/stlynnxx/Slippery-Penguin/pull/24) | feat: add CSV report generation | Merged |
+| [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#25](https://github.com/stlynnxx/Slippery-Penguin/pull/25) | docs: add wiki installation guide for issue #10 | Merged |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#477](https://github.com/StudentSuite/awesome-study-resources/pull/477) | fix: require HTTPS for study resources (#467) | Merged |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#478](https://github.com/StudentSuite/awesome-study-resources/pull/478) | docs: align PR guidance with contribution workflow (#470) | Merged |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | [#283](https://github.com/TanbirRamim/open-source-radar/pull/283) | feat(i18n): add German website locale | Merged |
@@ -378,6 +381,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 4 |
+| [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 3 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 3 |
@@ -490,7 +494,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | 1 |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
 | [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | 1 |
-| [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 1 |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 1 |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
 | [thiagomvas/haven](https://github.com/thiagomvas/haven) | 1 |
@@ -507,7 +510,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| **Total** | **253** |
+| **Total** | **256** |
 
 </details>
 

@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>245</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>136</strong><br/>External repositories</td>
-    <td align="center"><strong>695</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>251</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>139</strong><br/>External repositories</td>
+    <td align="center"><strong>701</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -99,7 +99,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 245 merged pull requests</summary>
+<summary>Browse all 251 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -137,6 +137,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | [#149](https://github.com/ASDW51/DanmuFloat/pull/149) | docs: 修复 PR 指南中的 CI 工作流链接 | Merged |
 | [ashfall-sh/unripe](https://github.com/ashfall-sh/unripe) | [#7](https://github.com/ashfall-sh/unripe/pull/7) | feat: support Elixir mix.lock and Hex publish times | Merged |
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | [#77](https://github.com/AtiinLabs/Ito/pull/77) | Fix Resume label for tracker-synced progress | Merged |
+| [BaryoDev/Vouch](https://github.com/BaryoDev/Vouch) | [#5](https://github.com/BaryoDev/Vouch/pull/5) | fix: reject empty strings in containment assertions | Merged |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#23](https://github.com/basitalisandhu/agent-config-audit/pull/23) | docs: add false-positive issue form | Merged |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#25](https://github.com/basitalisandhu/agent-config-audit/pull/25) | feat: add baseline mode for existing findings | Merged |
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | [#8](https://github.com/BinaryBaconLabs/todo-app/pull/8) | feat: add persistent dark mode toggle (#7) | Merged |
@@ -196,6 +197,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#27](https://github.com/enlike21/ClimbUp/pull/27) | Mantener el foco del teclado dentro del menú de pausa | Merged |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#31](https://github.com/enlike21/ClimbUp/pull/31) | Añadir tests unitarios para StatisticsService | Merged |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | [#1237](https://github.com/eugenioenko/ttt/pull/1237) | test(e2e): isolate find-bar clipboard test | Merged |
+| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#59](https://github.com/eyadstein/leaklens/pull/59) | Add CITATION.cff for GitHub citation metadata | Merged |
+| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#111](https://github.com/eyadstein/leaklens/pull/111) | feat(cli): color severity labels in terminal output | Merged |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | [#24](https://github.com/fatihserhatturan/noCap/pull/24) | feat: export report as PNG | Merged |
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | [#14](https://github.com/featherpanel-com/translations/pull/14) | docs: correct README clone and sync instructions | Merged |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | [#58](https://github.com/feimacode/open-design-agent-kit/pull/58) | docs: update bundled content counts | Merged |
@@ -218,6 +221,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#278](https://github.com/getsotto/sotto/pull/278) | Prevent duplicate environment-share submissions with component-level concurrency protection and regression coverage | Merged |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | [#12](https://github.com/ggfto/DroidDeck/pull/12) | feat(i18n): add Hindi language option | Merged |
 | [got-a-page/website](https://github.com/got-a-page/website) | [#21](https://github.com/got-a-page/website/pull/21) | feat: add answer-engine metadata and llms.txt | Merged |
+| [got-a-page/website](https://github.com/got-a-page/website) | [#30](https://github.com/got-a-page/website/pull/30) | feat: add sitemap and canonical page metadata | Merged |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | [#69](https://github.com/GustavoBaranda/chatflow-agent/pull/69) | fix: restore session state on cancellation | Merged |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#309](https://github.com/HafidIdrissi/Time-Tracker/pull/309) | docs: explain longest active session with worked example | Merged |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#377](https://github.com/HafidIdrissi/Time-Tracker/pull/377) | test(preferences): reject invalid choices before file writes | Merged |
@@ -307,6 +311,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#285](https://github.com/Sekelenao/Flinkboot/pull/285) | refactor(kafka): remove dead JUnit opens directive | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#286](https://github.com/Sekelenao/Flinkboot/pull/286) | refactor(kafka): store delivery guarantees in enum field | Merged |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | [#50](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices/pull/50) | ci: lint and typecheck frontend in PR validation | Merged |
+| [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | [#53](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices/pull/53) | docs: add community issue and pull request templates | Merged |
 | [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | [#13](https://github.com/sid-lakhani/erml/pull/13) | docs: document edge cases and CPU inference benchmarks | Merged |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#48](https://github.com/SpiliosDimakopoulos/fintwin/pull/48) | Document public export and universe functions | Merged |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#49](https://github.com/SpiliosDimakopoulos/fintwin/pull/49) | Fix accessible names for scenario and forecast charts | Merged |
@@ -317,6 +322,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#12](https://github.com/thearchitect0x-glitch/ratchet/pull/12) | Enforce SPDX and copyright source-file headers | Merged |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#13](https://github.com/thearchitect0x-glitch/ratchet/pull/13) | Add property-based fuzz coverage for the MCP JSON-RPC parser | Merged |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | [#613](https://github.com/TheVicky1/Pact_OS/pull/613) | a11y(projects): announce accent swatch names and selection | Merged |
+| [thiagomvas/haven](https://github.com/thiagomvas/haven) | [#160](https://github.com/thiagomvas/haven/pull/160) | feat(dashboard): refine service attention criteria (#152) | Merged |
 | [tonianev/eonmark](https://github.com/tonianev/eonmark) | [#17](https://github.com/tonianev/eonmark/pull/17) | fix(rules): reject zero rules version and arms cap | Merged |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | [#169](https://github.com/tranquilo-art/tranquilo-app/pull/169) | docs: audit user-facing UI strings for #33 | Merged |
 | [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | [#49](https://github.com/TSKVenkat/osprey/pull/49) | Add viewer role with route-level authorization | Merged |
@@ -354,7 +360,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 136 external repositories</summary>
+<summary>Browse merged PR counts across 139 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -392,7 +398,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | 2 |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | 2 |
+| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 2 |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 2 |
+| [got-a-page/website](https://github.com/got-a-page/website) | 2 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 2 |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 2 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 2 |
@@ -401,6 +409,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
 | [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | 2 |
+| [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 2 |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | 2 |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
@@ -418,6 +427,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | 1 |
 | [ashfall-sh/unripe](https://github.com/ashfall-sh/unripe) | 1 |
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | 1 |
+| [BaryoDev/Vouch](https://github.com/BaryoDev/Vouch) | 1 |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1 |
 | [bolubo/aevrel](https://github.com/bolubo/aevrel) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
@@ -440,7 +450,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [gabrielvieiraf/finitemonkey](https://github.com/gabrielvieiraf/finitemonkey) | 1 |
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | 1 |
-| [got-a-page/website](https://github.com/got-a-page/website) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
 | [hayagrivai-labs/phantom](https://github.com/hayagrivai-labs/phantom) | 1 |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 1 |
@@ -477,11 +486,11 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [petertzy/deeplocal-chat-adapter](https://github.com/petertzy/deeplocal-chat-adapter) | 1 |
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | 1 |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
-| [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 1 |
 | [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | 1 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 1 |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 1 |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
+| [thiagomvas/haven](https://github.com/thiagomvas/haven) | 1 |
 | [tonianev/eonmark](https://github.com/tonianev/eonmark) | 1 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 1 |
 | [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | 1 |
@@ -494,7 +503,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| **Total** | **245** |
+| **Total** | **251** |
 
 </details>
 
@@ -511,7 +520,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **695 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **701 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

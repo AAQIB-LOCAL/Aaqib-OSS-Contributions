@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>251</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>139</strong><br/>External repositories</td>
+    <td align="center"><strong>253</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>141</strong><br/>External repositories</td>
     <td align="center"><strong>701</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
@@ -99,7 +99,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 251 merged pull requests</summary>
+<summary>Browse all 253 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -297,6 +297,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#391](https://github.com/pacocartones/free-llm-api-hub/pull/391) | data(rev-ai): clarify free-credit commercial terms | Merged |
 | [perfectmodelslab/ComfyUI-PerfectLab](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) | [#5](https://github.com/perfectmodelslab/ComfyUI-PerfectLab/pull/5) | feat: add fashion decade wildcard pack | Merged |
 | [petertzy/deeplocal-chat-adapter](https://github.com/petertzy/deeplocal-chat-adapter) | [#88](https://github.com/petertzy/deeplocal-chat-adapter/pull/88) | feat: discover project verification commands | Merged |
+| [PocketLLM/pocketllm-lite](https://github.com/PocketLLM/pocketllm-lite) | [#392](https://github.com/PocketLLM/pocketllm-lite/pull/392) | feat: localize skill details screen | Merged |
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | [#23](https://github.com/Prabodh-dev/fairly/pull/23) | Add seeded hot-key benchmark distributions | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#10](https://github.com/RizgarOzan/tmp-glyph-audit/pull/10) | Add JSON audit reports for CI (#4) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#11](https://github.com/RizgarOzan/tmp-glyph-audit/pull/11) | Add GitHub Actions glyph annotations (#5) | Merged |
@@ -323,6 +324,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#13](https://github.com/thearchitect0x-glitch/ratchet/pull/13) | Add property-based fuzz coverage for the MCP JSON-RPC parser | Merged |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | [#613](https://github.com/TheVicky1/Pact_OS/pull/613) | a11y(projects): announce accent swatch names and selection | Merged |
 | [thiagomvas/haven](https://github.com/thiagomvas/haven) | [#160](https://github.com/thiagomvas/haven/pull/160) | feat(dashboard): refine service attention criteria (#152) | Merged |
+| [timihack/authwarden](https://github.com/timihack/authwarden) | [#47](https://github.com/timihack/authwarden/pull/47) | Fix/sqlmodel user store example | Merged |
 | [tonianev/eonmark](https://github.com/tonianev/eonmark) | [#17](https://github.com/tonianev/eonmark/pull/17) | fix(rules): reject zero rules version and arms cap | Merged |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | [#169](https://github.com/tranquilo-art/tranquilo-app/pull/169) | docs: audit user-facing UI strings for #33 | Merged |
 | [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | [#49](https://github.com/TSKVenkat/osprey/pull/49) | Add viewer role with route-level authorization | Merged |
@@ -360,7 +362,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 139 external repositories</summary>
+<summary>Browse merged PR counts across 141 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -484,6 +486,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [osrep/Runes2P.jl](https://github.com/osrep/Runes2P.jl) | 1 |
 | [perfectmodelslab/ComfyUI-PerfectLab](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) | 1 |
 | [petertzy/deeplocal-chat-adapter](https://github.com/petertzy/deeplocal-chat-adapter) | 1 |
+| [PocketLLM/pocketllm-lite](https://github.com/PocketLLM/pocketllm-lite) | 1 |
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | 1 |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
 | [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | 1 |
@@ -491,6 +494,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 1 |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
 | [thiagomvas/haven](https://github.com/thiagomvas/haven) | 1 |
+| [timihack/authwarden](https://github.com/timihack/authwarden) | 1 |
 | [tonianev/eonmark](https://github.com/tonianev/eonmark) | 1 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 1 |
 | [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | 1 |
@@ -503,7 +507,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| **Total** | **251** |
+| **Total** | **253** |
 
 </details>
 

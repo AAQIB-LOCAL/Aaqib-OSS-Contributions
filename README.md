@@ -11,7 +11,7 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>256</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>257</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>141</strong><br/>External repositories</td>
     <td align="center"><strong>701</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
@@ -99,7 +99,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 256 merged pull requests</summary>
+<summary>Browse all 257 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -149,6 +149,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#132](https://github.com/BistaDinesh03/critique/pull/132) | test: fail CI when frontend render tests lack Node | Merged |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#133](https://github.com/BistaDinesh03/critique/pull/133) | fix(projects): select latest active question portably | Merged |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#170](https://github.com/BistaDinesh03/critique/pull/170) | docs: remove stale localized README test counts | Merged |
+| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#235](https://github.com/BistaDinesh03/critique/pull/235) | test: cover Discover eligibility and pagination for #222 | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#19](https://github.com/BitanSarkar/coalesce-java/pull/19) | Run Redis integration tests with Testcontainers | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#20](https://github.com/BitanSarkar/coalesce-java/pull/20) | #10: Make the follower poll interval configurable | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#17](https://github.com/blixvip/NullMotion/pull/17) | feat: add frame-step keyboard shortcuts | Merged |
@@ -379,11 +380,11 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
+| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 4 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 4 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
-| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 3 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
@@ -510,7 +511,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
-| **Total** | **256** |
+| **Total** | **257** |
 
 </details>
 

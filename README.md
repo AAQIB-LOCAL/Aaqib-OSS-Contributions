@@ -13,7 +13,7 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
   <tr>
     <td align="center"><strong>257</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>141</strong><br/>External repositories</td>
-    <td align="center"><strong>701</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>773</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -91,6 +91,18 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
       <strong>Open-Source Participation</strong><br/>
       <a href="https://github.com/firstcontributions/first-contributions/pull/123775">Add contributor entry to First Contributions</a><br/>
       A direct link to an early upstream contribution.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Property-Based Testing</strong><br/>
+      <a href="https://github.com/thearchitect0x-glitch/ratchet/pull/13">Add property-based fuzz coverage for the MCP JSON-RPC parser</a><br/>
+      Exercises parser edge cases with generated inputs.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Reusable Contract Testing</strong><br/>
+      <a href="https://github.com/Bubblegunn/proactive-gate/pull/24">Publish the reusable store contract test suite</a><br/>
+      Makes shared storage behavior easier to validate across implementations.
     </td>
   </tr>
 </table>
@@ -528,7 +540,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **701 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **773 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

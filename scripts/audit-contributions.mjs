@@ -39,16 +39,29 @@ async function github(path, searchParams) {
 }
 
 async function fetchAuthoredPullRequestCount() {
-  const data = await github("/search/issues", {
-    q: `author:${author} is:pr`,
-    per_page: "1",
-    page: "1",
+  const url = new URL("https://api.github.com/search/issues");
+  url.searchParams.set("q", `author:${author} is:pr`);
+  url.searchParams.set("per_page", "1");
+  url.searchParams.set("page", "1");
+
+  const response = await fetch(url, {
+    headers: {
+      Accept: "application/vnd.github+json",
+      "X-GitHub-Api-Version": "2022-11-28",
+    },
   });
 
+  if (!response.ok) {
+    const body = await response.text();
+    throw new Error(`Public GitHub Search API ${response.status}: ${body}`);
+  }
+
+  const data = await response.json();
   if (!Number.isInteger(data.total_count) || data.total_count < 0) {
     throw new Error(`GitHub Search API did not return a valid authored PR count for ${author}`);
   }
 
+  console.log(`Public authored PR count from unauthenticated Search API: ${data.total_count}`);
   return data.total_count;
 }
 
@@ -226,6 +239,18 @@ The authored-PR count uses GitHub's public Search API query author:${author} is:
       <strong>Open-Source Participation</strong><br/>
       <a href="https://github.com/firstcontributions/first-contributions/pull/123775">Add contributor entry to First Contributions</a><br/>
       A direct link to an early upstream contribution.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Property-Based Testing</strong><br/>
+      <a href="https://github.com/thearchitect0x-glitch/ratchet/pull/13">Add property-based fuzz coverage for the MCP JSON-RPC parser</a><br/>
+      Exercises parser edge cases with generated inputs.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Reusable Contract Testing</strong><br/>
+      <a href="https://github.com/Bubblegunn/proactive-gate/pull/24">Publish the reusable store contract test suite</a><br/>
+      Makes shared storage behavior easier to validate across implementations.
     </td>
   </tr>
 </table>

@@ -11,7 +11,7 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>264</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>267</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>145</strong><br/>External repositories</td>
     <td align="center"><strong>727</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 264 merged pull requests</summary>
+<summary>Browse all 267 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -161,6 +161,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#132](https://github.com/BistaDinesh03/critique/pull/132) | test: fail CI when frontend render tests lack Node | Merged |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#133](https://github.com/BistaDinesh03/critique/pull/133) | fix(projects): select latest active question portably | Merged |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#170](https://github.com/BistaDinesh03/critique/pull/170) | docs: remove stale localized README test counts | Merged |
+| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#233](https://github.com/BistaDinesh03/critique/pull/233) | Docs/first contributor guide | Merged |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#235](https://github.com/BistaDinesh03/critique/pull/235) | test: cover Discover eligibility and pagination for #222 | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#19](https://github.com/BitanSarkar/coalesce-java/pull/19) | Run Redis integration tests with Testcontainers | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#20](https://github.com/BitanSarkar/coalesce-java/pull/20) | #10: Make the follower poll interval configurable | Merged |
@@ -177,8 +178,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#3](https://github.com/Bubblegunn/proactive-gate/pull/3) | Add `SqliteStore` implementation | Merged |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#24](https://github.com/Bubblegunn/proactive-gate/pull/24) | Publish the reusable store contract test suite | Merged |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#25](https://github.com/Bubblegunn/proactive-gate/pull/25) | Add PostgreSQL-backed store implementation with atomic increments, TTL handling, and contract coverage | Merged |
+| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#85](https://github.com/Bubblegunn/proactive-gate/pull/85) | docs: add adopter list and issue form (#67) | Merged |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | [#44](https://github.com/Bubblegunn/product-engineer/pull/44) | feat: add npm hook install command | Merged |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | [#46](https://github.com/Bubblegunn/product-engineer/pull/46) | feat(notes): generate customer changelog from commit blocks | Merged |
+| [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | [#49](https://github.com/Bubblegunn/product-engineer/pull/49) | Fix/check commits | Merged |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | [#43](https://github.com/Bubblegunn/surviving-lines/pull/43) | feat: add git subcommand executable alias | Merged |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | [#44](https://github.com/Bubblegunn/surviving-lines/pull/44) | feat: add author sorting by share gap (#30) | Merged |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#9](https://github.com/Bytewave1/dkit/pull/9) | ci: test dkit across Windows, macOS and Linux | Merged |
@@ -396,15 +399,16 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 7 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 5 |
+| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
-| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 4 |
+| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 4 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 4 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
-| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 3 |
+| [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 3 |
@@ -419,7 +423,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 2 |
-| [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 2 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 2 |
@@ -534,7 +537,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **264** |
+| **Total** | **267** |
 
 </details>
 

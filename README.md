@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>259</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>142</strong><br/>External repositories</td>
-    <td align="center"><strong>702</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>263</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>144</strong><br/>External repositories</td>
+    <td align="center"><strong>726</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 259 merged pull requests</summary>
+<summary>Browse all 263 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -165,6 +165,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#19](https://github.com/BitanSarkar/coalesce-java/pull/19) | Run Redis integration tests with Testcontainers | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#20](https://github.com/BitanSarkar/coalesce-java/pull/20) | #10: Make the follower poll interval configurable | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#17](https://github.com/blixvip/NullMotion/pull/17) | feat: add frame-step keyboard shortcuts | Merged |
+| [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#18](https://github.com/blixvip/NullMotion/pull/18) | feat(export): show estimated time remaining | Merged |
 | [bolubo/aevrel](https://github.com/bolubo/aevrel) | [#86](https://github.com/bolubo/aevrel/pull/86) | fix(cdp): remove duplicate TargetLock definition | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#27](https://github.com/Bubblegunn/ai-slop-linter/pull/27) | Add pre-commit hooks for Markdown and commit messages | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#41](https://github.com/Bubblegunn/ai-slop-linter/pull/41) | feat: add SARIF output for code scanning | Merged |
@@ -312,6 +313,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [petertzy/deeplocal-chat-adapter](https://github.com/petertzy/deeplocal-chat-adapter) | [#88](https://github.com/petertzy/deeplocal-chat-adapter/pull/88) | feat: discover project verification commands | Merged |
 | [PocketLLM/pocketllm-lite](https://github.com/PocketLLM/pocketllm-lite) | [#392](https://github.com/PocketLLM/pocketllm-lite/pull/392) | feat: localize skill details screen | Merged |
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | [#23](https://github.com/Prabodh-dev/fairly/pull/23) | Add seeded hot-key benchmark distributions | Merged |
+| [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#216](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/216) | feat(ai-voice-studio): show active voice sample playback | Merged |
+| [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#217](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/217) | feat(luxury-realms): add curated luxury amenity badges | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#10](https://github.com/RizgarOzan/tmp-glyph-audit/pull/10) | Add JSON audit reports for CI (#4) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#11](https://github.com/RizgarOzan/tmp-glyph-audit/pull/11) | Add GitHub Actions glyph annotations (#5) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#12](https://github.com/RizgarOzan/tmp-glyph-audit/pull/12) | feat: scan Unity Localization string tables | Merged |
@@ -328,6 +331,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | [#52](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices/pull/52) | fix: parse structured Ollama anomaly scores | Merged |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | [#53](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices/pull/53) | docs: add community issue and pull request templates | Merged |
 | [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | [#13](https://github.com/sid-lakhani/erml/pull/13) | docs: document edge cases and CPU inference benchmarks | Merged |
+| [skdas20/SkeoTrace](https://github.com/skdas20/SkeoTrace) | [#7](https://github.com/skdas20/SkeoTrace/pull/7) | test: cover ledger hash chain and Merkle integrity | Merged |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#48](https://github.com/SpiliosDimakopoulos/fintwin/pull/48) | Document public export and universe functions | Merged |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#49](https://github.com/SpiliosDimakopoulos/fintwin/pull/49) | Fix accessible names for scenario and forecast charts | Merged |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#9](https://github.com/stlynnxx/Slippery-Penguin/pull/9) | feat: allow bypassing startup update check | Merged |
@@ -380,7 +384,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 142 external repositories</summary>
+<summary>Browse merged PR counts across 144 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -413,6 +417,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 2 |
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
+| [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 2 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 2 |
@@ -430,6 +435,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 2 |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
+| [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | 2 |
 | [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | 2 |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | 2 |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | 2 |
@@ -449,7 +455,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [ashfall-sh/unripe](https://github.com/ashfall-sh/unripe) | 1 |
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | 1 |
 | [BaryoDev/Vouch](https://github.com/BaryoDev/Vouch) | 1 |
-| [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 1 |
 | [bolubo/aevrel](https://github.com/bolubo/aevrel) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
@@ -509,6 +514,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | 1 |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
 | [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | 1 |
+| [skdas20/SkeoTrace](https://github.com/skdas20/SkeoTrace) | 1 |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 1 |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
 | [thiagomvas/haven](https://github.com/thiagomvas/haven) | 1 |
@@ -526,7 +532,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **259** |
+| **Total** | **263** |
 
 </details>
 
@@ -543,7 +549,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **702 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **726 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

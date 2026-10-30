@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>270</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>272</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>146</strong><br/>External repositories</td>
-    <td align="center"><strong>726</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>728</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 270 merged pull requests</summary>
+<summary>Browse all 272 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -270,6 +270,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#211](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/211) | Implement getcwd system call (#208) | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#212](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/212) | Handle Ctrl-C at the shell prompt (#209) | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#74](https://github.com/JamshidS/aiset/pull/74) | test: cover transcript state transitions | Merged |
+| [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#104](https://github.com/JamshidS/aiset/pull/104) | Feat/teammap outline | Merged |
+| [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#105](https://github.com/JamshidS/aiset/pull/105) | feat: add teammap run command | Merged |
 | [JExcellence/JEHibernate](https://github.com/JExcellence/JEHibernate) | [#11](https://github.com/JExcellence/JEHibernate/pull/11) | Add project style EditorConfig | Merged |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | [#81](https://github.com/KHolodilin/spring-transactional-outbox-kafka/pull/81) | Fix VT observability and naming | Merged |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | [#124](https://github.com/knnmelprop/YAADO/pull/124) | test(ackeret-polar): add hand-checked reference cases | Merged |
@@ -416,6 +418,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 3 |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
+| [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 3 |
@@ -490,7 +493,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | 1 |
-| [JamshidS/aiset](https://github.com/JamshidS/aiset) | 1 |
 | [JExcellence/JEHibernate](https://github.com/JExcellence/JEHibernate) | 1 |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | 1 |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 1 |
@@ -541,7 +543,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **270** |
+| **Total** | **272** |
 
 </details>
 
@@ -558,7 +560,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **726 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **728 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

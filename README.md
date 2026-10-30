@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>263</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>144</strong><br/>External repositories</td>
-    <td align="center"><strong>726</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>264</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>145</strong><br/>External repositories</td>
+    <td align="center"><strong>727</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 263 merged pull requests</summary>
+<summary>Browse all 264 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -358,6 +358,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | [#24](https://github.com/VOLPAROSSA/volparossa-code/pull/24) | test: cover fragmented SSE framing and invalid UTF-8 | Merged |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#68](https://github.com/Webghost01-NG/stellar-event-sync/pull/68) | fix: centralize diagnostic secret redaction | Merged |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#71](https://github.com/Webghost01-NG/stellar-event-sync/pull/71) | Issue 46 rpc fixture builders | Merged |
+| [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | [#32](https://github.com/Xdabier/themerchantengine/pull/32) | fix(admin-services): return geo validation errors as observables | Merged |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | [#2](https://github.com/xlebore3o4ka/llvnim23/pull/2) | Fix/issue 1 static linking | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#56](https://github.com/yakew7/DesignHub/pull/56) | Add palette import from Coolors URLs and hex codes | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#57](https://github.com/yakew7/DesignHub/pull/57) | perf(typography): virtualize font browser | Merged |
@@ -384,7 +385,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 144 external repositories</summary>
+<summary>Browse merged PR counts across 145 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -529,10 +530,11 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
+| [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **263** |
+| **Total** | **264** |
 
 </details>
 
@@ -549,7 +551,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **726 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **727 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>267</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>145</strong><br/>External repositories</td>
-    <td align="center"><strong>727</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>270</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>146</strong><br/>External repositories</td>
+    <td align="center"><strong>726</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 267 merged pull requests</summary>
+<summary>Browse all 270 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -283,6 +283,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | [#29804](https://github.com/lingdojo/kana-dojo/pull/29804) | Add a Japanese false-friend content entry | Merged |
 | [livesport/homer](https://github.com/livesport/homer) | [#79](https://github.com/livesport/homer/pull/79) | test(console): cover download utilities (#51) | Merged |
 | [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | [#8](https://github.com/Louayzouaoui1/claude-hud/pull/8) | test: cover token counting and cache pricing (#7) | Merged |
+| [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | [#16](https://github.com/MAKHMUDuz/melyar/pull/16) | test(innertube): cover parser response fixtures | Merged |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | [#32](https://github.com/malav2110/explain-diff-html/pull/32) | fix: name verification artifacts and omit attribution claims | Merged |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | Preserve Open With intake order with desktop regression coverage | Merged |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#148](https://github.com/McanKul/offpdf/pull/148) | feat(ocr): remember selected OCR languages | Merged |
@@ -376,6 +377,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#1141](https://github.com/yakew7/Fair-Code/pull/1141) | Fix/1098 explainer python smoke tests | Merged |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#1212](https://github.com/yakew7/Fair-Code/pull/1212) | test: cover generated file validation edge cases | Merged |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#6](https://github.com/Yjnnev/Kat-Notes/pull/6) | Cancel todo editing on outside click | Merged |
+| [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#10](https://github.com/Yjnnev/Kat-Notes/pull/10) | feat(todo): make list selection functional | Merged |
+| [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#11](https://github.com/Yjnnev/Kat-Notes/pull/11) | fix(todo): make deleting todos functional | Merged |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | [#27](https://github.com/Yjnnev/Lab-Track/pull/27) | feat(survey): add post-slip satisfaction survey | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#511](https://github.com/yoavnir/specs2016/pull/511) | Resolve issue #510 in the 1.1.0 development line | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#515](https://github.com/yoavnir/specs2016/pull/515) | Issue #504 - generate manpage automatically | Merged |
@@ -388,7 +391,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 145 external repositories</summary>
+<summary>Browse merged PR counts across 146 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -415,6 +418,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
+| [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 3 |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 3 |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | 2 |
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | 2 |
@@ -497,6 +501,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
 | [livesport/homer](https://github.com/livesport/homer) | 1 |
 | [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | 1 |
+| [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | 1 |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | 1 |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | 1 |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | 1 |
@@ -535,9 +540,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
-| [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **267** |
+| **Total** | **270** |
 
 </details>
 
@@ -554,7 +558,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **727 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **726 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

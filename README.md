@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>273</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>147</strong><br/>External repositories</td>
-    <td align="center"><strong>729</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>276</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>149</strong><br/>External repositories</td>
+    <td align="center"><strong>733</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 273 merged pull requests</summary>
+<summary>Browse all 276 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -143,6 +143,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#234](https://github.com/AnayDhawan/UCIP/pull/234) | fix: reject invalid API limits | Merged |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#235](https://github.com/AnayDhawan/UCIP/pull/235) | Fix/cells pagination total | Merged |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#236](https://github.com/AnayDhawan/UCIP/pull/236) | fix(embed): show rank uncertainty and data freshness | Merged |
+| [anonhym/latelier](https://github.com/anonhym/latelier) | [#595](https://github.com/anonhym/latelier/pull/595) | test: reduce role queries in drawer tree coverage test (#550) | Merged |
 | [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | [#441](https://github.com/answerLoops/answerLoops/pull/441) | Feat/article supplied context usage | Merged |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | [#1161](https://github.com/arminazimi/evergreen/pull/1161) | feat: add Spring Boot lifecycle rules and migration fixtures | Merged |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | [#1162](https://github.com/arminazimi/evergreen/pull/1162) | feat: add Markdown scan report format | Merged |
@@ -302,6 +303,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | [#25](https://github.com/Muvon/octoweb/pull/25) | Fix host:port address bar navigation | Merged |
 | [netweir/netweir](https://github.com/netweir/netweir) | [#163](https://github.com/netweir/netweir/pull/163) | fix(records): limit row selectors to read rows | Merged |
 | [ngpdf/ngpdf](https://github.com/ngpdf/ngpdf) | [#111](https://github.com/ngpdf/ngpdf/pull/111) | feat(core): complete document metadata | Merged |
+| [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#595](https://github.com/nikhilb2/simple_invoicing/pull/595) | fix(a11y): label company and marketplace fields | Merged |
+| [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#596](https://github.com/nikhilb2/simple_invoicing/pull/596) | fix(backend): validate invoice item tax overrides | Merged |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#14](https://github.com/nitturkaryash/open-bpo/pull/14) | feat(console): show session elapsed duration | Merged |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | [#389](https://github.com/noruzzamans/gslider-blocks/pull/389) | fix(mcp): stop fabricating media attachment IDs | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
@@ -394,7 +397,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 147 external repositories</summary>
+<summary>Browse merged PR counts across 149 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -444,6 +447,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 2 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
+| [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 2 |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 2 |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
@@ -462,6 +466,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [alok-108/phantom](https://github.com/alok-108/phantom) | 1 |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | 1 |
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | 1 |
+| [anonhym/latelier](https://github.com/anonhym/latelier) | 1 |
 | [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | 1 |
 | [arudaev/THD-Room-Finder](https://github.com/arudaev/THD-Room-Finder) | 1 |
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | 1 |
@@ -545,7 +550,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **273** |
+| **Total** | **276** |
 
 </details>
 
@@ -562,7 +567,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **729 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **733 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

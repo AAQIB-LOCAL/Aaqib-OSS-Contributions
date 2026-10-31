@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>276</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>149</strong><br/>External repositories</td>
-    <td align="center"><strong>733</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>280</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>152</strong><br/>External repositories</td>
+    <td align="center"><strong>750</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 276 merged pull requests</summary>
+<summary>Browse all 280 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -200,6 +200,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [DeandreT/ferrule](https://github.com/DeandreT/ferrule) | [#1120](https://github.com/DeandreT/ferrule/pull/1120) | feat(linux): add desktop and AppStream metadata | Merged |
 | [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | [#234](https://github.com/dgesteves/onsystem/pull/234) | fix: explain when no components are available | Merged |
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | [#207](https://github.com/dgesteves/signoff-ui/pull/207) | test: cover reasoning stream and duration | Merged |
+| [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | [#19](https://github.com/DhanushNehru/pdf-xss-checker/pull/19) | fix: serialize pdf parsing across concurrent scans | Merged |
 | [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | [#367](https://github.com/dheerajjha/mcp-migrate/pull/367) | fix: use UTF-8 in findings renderer and tests | Merged |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | [#126](https://github.com/dheerajjha/reviewer/pull/126) | fix: choose the correct default compare base | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#36](https://github.com/DhruvHarani1/lyra/pull/36) | feat: add optional Hindi and Punjabi lyric romanization | Merged |
@@ -210,6 +211,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#42](https://github.com/DhruvHarani1/lyra/pull/42) | Fix/issue 22 youtube control overlay | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#43](https://github.com/DhruvHarani1/lyra/pull/43) | Fix/issue 31 android compatibility report | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#44](https://github.com/DhruvHarani1/lyra/pull/44) | feat(studio): add deterministic motion backgrounds | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#59](https://github.com/DhruvHarani1/lyra/pull/59) | feat: add fullscreen keyboard shortcuts (#52) | Merged |
 | [dominikgobel/kern](https://github.com/dominikgobel/kern) | [#26](https://github.com/dominikgobel/kern/pull/26) | fix: insert Alt-modified characters | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#7](https://github.com/eklavya2201/breakinggood/pull/7) | test: cover dependency scanner findings | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#8](https://github.com/eklavya2201/breakinggood/pull/8) | fix: detect browser challenge pages during capture | Merged |
@@ -330,6 +332,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#12](https://github.com/RizgarOzan/tmp-glyph-audit/pull/12) | feat: scan Unity Localization string tables | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#13](https://github.com/RizgarOzan/tmp-glyph-audit/pull/13) | test: cover AuditReport behavior | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#14](https://github.com/RizgarOzan/tmp-glyph-audit/pull/14) | feat: allow custom CLI settings file | Merged |
+| [sdageltc/agent-durability-bench](https://github.com/sdageltc/agent-durability-bench) | [#8](https://github.com/sdageltc/agent-durability-bench/pull/8) | feat: add AutoGen AgentChat v0.4 adapter (#4) | Merged |
+| [sdageltc/letitloop](https://github.com/sdageltc/letitloop) | [#113](https://github.com/sdageltc/letitloop/pull/113) | feat: add interactive WAL crash recovery visualizer (#90) | Merged |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | [#535](https://github.com/sdlc-pro/spring-lens/pull/535) | Add transaction propagation behavior enum | Merged |
 | [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | [#12](https://github.com/seep-labs/cablegram-server/pull/12) | test: cover profile PIN and lock switch routes | Merged |
 | [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | [#13](https://github.com/seep-labs/cablegram-server/pull/13) | test: cover TV pairing PIN flows | Merged |
@@ -397,12 +401,12 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 149 external repositories</summary>
+<summary>Browse merged PR counts across 152 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | 11 |
-| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 8 |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 9 |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 8 |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 8 |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 7 |
@@ -482,6 +486,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [DeandreT/ferrule](https://github.com/DeandreT/ferrule) | 1 |
 | [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | 1 |
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | 1 |
+| [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | 1 |
 | [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | 1 |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 1 |
 | [dominikgobel/kern](https://github.com/dominikgobel/kern) | 1 |
@@ -530,6 +535,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [petertzy/deeplocal-chat-adapter](https://github.com/petertzy/deeplocal-chat-adapter) | 1 |
 | [PocketLLM/pocketllm-lite](https://github.com/PocketLLM/pocketllm-lite) | 1 |
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | 1 |
+| [sdageltc/agent-durability-bench](https://github.com/sdageltc/agent-durability-bench) | 1 |
+| [sdageltc/letitloop](https://github.com/sdageltc/letitloop) | 1 |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
 | [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | 1 |
 | [skdas20/SkeoTrace](https://github.com/skdas20/SkeoTrace) | 1 |
@@ -550,7 +557,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **276** |
+| **Total** | **280** |
 
 </details>
 
@@ -567,7 +574,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **733 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **750 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

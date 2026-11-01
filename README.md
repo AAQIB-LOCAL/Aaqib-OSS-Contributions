@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>280</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>152</strong><br/>External repositories</td>
-    <td align="center"><strong>750</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>291</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>156</strong><br/>External repositories</td>
+    <td align="center"><strong>757</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 280 merged pull requests</summary>
+<summary>Browse all 291 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -203,6 +203,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | [#19](https://github.com/DhanushNehru/pdf-xss-checker/pull/19) | fix: serialize pdf parsing across concurrent scans | Merged |
 | [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | [#367](https://github.com/dheerajjha/mcp-migrate/pull/367) | fix: use UTF-8 in findings renderer and tests | Merged |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | [#126](https://github.com/dheerajjha/reviewer/pull/126) | fix: choose the correct default compare base | Merged |
+| [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | [#134](https://github.com/dheerajjha/reviewer/pull/134) | fix: persist the review baseline commit for staleness checks | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#36](https://github.com/DhruvHarani1/lyra/pull/36) | feat: add optional Hindi and Punjabi lyric romanization | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#38](https://github.com/DhruvHarani1/lyra/pull/38) | feat(lyrics): add public-domain fallback for issue #2 | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#39](https://github.com/DhruvHarani1/lyra/pull/39) | fix(a11y): improve keyboard navigation in widget and settings | Merged |
@@ -212,6 +213,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#43](https://github.com/DhruvHarani1/lyra/pull/43) | Fix/issue 31 android compatibility report | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#44](https://github.com/DhruvHarani1/lyra/pull/44) | feat(studio): add deterministic motion backgrounds | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#59](https://github.com/DhruvHarani1/lyra/pull/59) | feat: add fullscreen keyboard shortcuts (#52) | Merged |
+| [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#25](https://github.com/DhruvHarani1/vega/pull/25) | feat(library): recover unavailable local music files | Merged |
+| [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#26](https://github.com/DhruvHarani1/vega/pull/26) | Improve provider failure diagnostics and recovery | Merged |
+| [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#28](https://github.com/DhruvHarani1/vega/pull/28) | Handle YouTube background pauses with tap to resume | Merged |
 | [dominikgobel/kern](https://github.com/dominikgobel/kern) | [#26](https://github.com/dominikgobel/kern/pull/26) | fix: insert Alt-modified characters | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#7](https://github.com/eklavya2201/breakinggood/pull/7) | test: cover dependency scanner findings | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#8](https://github.com/eklavya2201/breakinggood/pull/8) | fix: detect browser challenge pages during capture | Merged |
@@ -258,6 +262,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#129](https://github.com/Huerte/algo-solutions-python/pull/129) | docs: clarify solution directory structure | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#132](https://github.com/Huerte/algo-solutions-python/pull/132) | docs: tag ten solutions by algorithm topic | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#133](https://github.com/Huerte/algo-solutions-python/pull/133) | test: add edge cases for letter percentage solution | Merged |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#146](https://github.com/Huerte/algo-solutions-python/pull/146) | docs: add issue and pull request templates | Merged |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#147](https://github.com/Huerte/algo-solutions-python/pull/147) | docs(python): add type hints and docstrings to solutions | Merged |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#148](https://github.com/Huerte/algo-solutions-python/pull/148) | docs(python): add complexity notes to solutions | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#97](https://github.com/Huseynteymurzade28/tuiba/pull/97) | Add cargo-binstall release metadata | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#99](https://github.com/Huseynteymurzade28/tuiba/pull/99) | Feat/configurable colour themes | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#100](https://github.com/Huseynteymurzade28/tuiba/pull/100) | packaging: add Nix flake | Merged |
@@ -327,6 +334,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | [#23](https://github.com/Prabodh-dev/fairly/pull/23) | Add seeded hot-key benchmark distributions | Merged |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#216](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/216) | feat(ai-voice-studio): show active voice sample playback | Merged |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#217](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/217) | feat(luxury-realms): add curated luxury amenity badges | Merged |
+| [pug-sh/pug](https://github.com/pug-sh/pug) | [#197](https://github.com/pug-sh/pug/pull/197) | Fix/190 expired token cleanup | Merged |
+| [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | [#162](https://github.com/rakeshnitb23/toolism/pull/162) | Feat/action mcp timeout | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#10](https://github.com/RizgarOzan/tmp-glyph-audit/pull/10) | Add JSON audit reports for CI (#4) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#11](https://github.com/RizgarOzan/tmp-glyph-audit/pull/11) | Add GitHub Actions glyph annotations (#5) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#12](https://github.com/RizgarOzan/tmp-glyph-audit/pull/12) | feat: scan Unity Localization string tables | Merged |
@@ -355,6 +364,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#477](https://github.com/StudentSuite/awesome-study-resources/pull/477) | fix: require HTTPS for study resources (#467) | Merged |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#478](https://github.com/StudentSuite/awesome-study-resources/pull/478) | docs: align PR guidance with contribution workflow (#470) | Merged |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | [#283](https://github.com/TanbirRamim/open-source-radar/pull/283) | feat(i18n): add German website locale | Merged |
+| [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#13](https://github.com/Tektrix/pinfold/pull/13) | Fix tab count for group-name searches | Merged |
+| [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#14](https://github.com/Tektrix/pinfold/pull/14) | Add tests for format helpers | Merged |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#12](https://github.com/thearchitect0x-glitch/ratchet/pull/12) | Enforce SPDX and copyright source-file headers | Merged |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#13](https://github.com/thearchitect0x-glitch/ratchet/pull/13) | Add property-based fuzz coverage for the MCP JSON-RPC parser | Merged |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | [#613](https://github.com/TheVicky1/Pact_OS/pull/613) | a11y(projects): announce accent swatch names and selection | Merged |
@@ -401,7 +412,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 152 external repositories</summary>
+<summary>Browse merged PR counts across 156 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -411,6 +422,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 8 |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 7 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 6 |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 5 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
@@ -422,9 +434,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 3 |
+| [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 3 |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
@@ -442,6 +454,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 2 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 2 |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
+| [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 2 |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | 2 |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | 2 |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 2 |
@@ -459,6 +472,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | 2 |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | 2 |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | 2 |
+| [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
 | [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | 2 |
@@ -488,7 +502,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | 1 |
 | [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | 1 |
 | [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | 1 |
-| [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 1 |
 | [dominikgobel/kern](https://github.com/dominikgobel/kern) | 1 |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 1 |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | 1 |
@@ -535,6 +548,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [petertzy/deeplocal-chat-adapter](https://github.com/petertzy/deeplocal-chat-adapter) | 1 |
 | [PocketLLM/pocketllm-lite](https://github.com/PocketLLM/pocketllm-lite) | 1 |
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | 1 |
+| [pug-sh/pug](https://github.com/pug-sh/pug) | 1 |
+| [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | 1 |
 | [sdageltc/agent-durability-bench](https://github.com/sdageltc/agent-durability-bench) | 1 |
 | [sdageltc/letitloop](https://github.com/sdageltc/letitloop) | 1 |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
@@ -557,7 +572,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **280** |
+| **Total** | **291** |
 
 </details>
 
@@ -574,7 +589,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **750 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **757 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

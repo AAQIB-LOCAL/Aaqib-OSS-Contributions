@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>300</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>304</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>160</strong><br/>External repositories</td>
-    <td align="center"><strong>774</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>778</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 300 merged pull requests</summary>
+<summary>Browse all 304 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -299,6 +299,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | [#5](https://github.com/Krrishkumar125/zod-india/pull/5) | feat: add Udyam registration validator | Merged |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | [#114](https://github.com/Larson-Logan/medal-sync/pull/114) | fix(cli): align help command categories | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#14](https://github.com/LennardGeissler/blindbucket/pull/14) | feat(cli): add JSON output to keys list | Merged |
+| [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#192](https://github.com/LennardGeissler/blindbucket/pull/192) | feat(cli): report Go build metadata in version output | Merged |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | [#71](https://github.com/Lennonhaha/fibemate-react-native/pull/71) | Fix/67 jest no tests gate | Merged |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | [#29804](https://github.com/lingdojo/kana-dojo/pull/29804) | Add a Japanese false-friend content entry | Merged |
 | [livesport/homer](https://github.com/livesport/homer) | [#79](https://github.com/livesport/homer/pull/79) | test(console): cover download utilities (#51) | Merged |
@@ -359,6 +360,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#285](https://github.com/Sekelenao/Flinkboot/pull/285) | refactor(kafka): remove dead JUnit opens directive | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#286](https://github.com/Sekelenao/Flinkboot/pull/286) | refactor(kafka): store delivery guarantees in enum field | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#287](https://github.com/Sekelenao/Flinkboot/pull/287) | refactor(savepoint): remove legacy restore mode | Merged |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#293](https://github.com/Sekelenao/Flinkboot/pull/293) | feat(savepoint): configure default savepoints directory | Merged |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#294](https://github.com/Sekelenao/Flinkboot/pull/294) | feat(fluss): add sink builder customizer overload | Merged |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#295](https://github.com/Sekelenao/Flinkboot/pull/295) | feat(fluss): add source builder customizer overload | Merged |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | [#50](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices/pull/50) | ci: lint and typecheck frontend in PR validation | Merged |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | [#52](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices/pull/52) | fix: parse structured Ollama anomaly scores | Merged |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | [#53](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices/pull/53) | docs: add community issue and pull request templates | Merged |
@@ -428,6 +432,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | 11 |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 9 |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 8 |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 8 |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 8 |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 7 |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 6 |
@@ -436,7 +441,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
-| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 5 |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 4 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
@@ -473,6 +477,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 2 |
 | [got-a-page/website](https://github.com/got-a-page/website) | 2 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 2 |
+| [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 2 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 2 |
@@ -536,7 +541,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | 1 |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 1 |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | 1 |
-| [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 1 |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | 1 |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
 | [livesport/homer](https://github.com/livesport/homer) | 1 |
@@ -585,7 +589,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **300** |
+| **Total** | **304** |
 
 </details>
 
@@ -602,7 +606,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **774 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **778 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

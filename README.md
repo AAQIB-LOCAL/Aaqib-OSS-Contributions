@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>294</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>157</strong><br/>External repositories</td>
-    <td align="center"><strong>773</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>296</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>158</strong><br/>External repositories</td>
+    <td align="center"><strong>774</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 294 merged pull requests</summary>
+<summary>Browse all 296 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -271,6 +271,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#99](https://github.com/Huseynteymurzade28/tuiba/pull/99) | Feat/configurable colour themes | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#100](https://github.com/Huseynteymurzade28/tuiba/pull/100) | packaging: add Nix flake | Merged |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | [#5](https://github.com/hydope/chunkcite/pull/5) | Expose verification threshold in CLI | Merged |
+| [ika100/sdlc-foundry](https://github.com/ika100/sdlc-foundry) | [#306](https://github.com/ika100/sdlc-foundry/pull/306) | fix(cplat): resolve sibling component clones (#272) | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#26](https://github.com/ismayilzeynal/tabulint-oss-az/pull/26) | Improve boolean type inference for textual literals | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#27](https://github.com/ismayilzeynal/tabulint-oss-az/pull/27) | Add CLI quiet mode | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#28](https://github.com/ismayilzeynal/tabulint-oss-az/pull/28) | Add CLI report output file option | Merged |
@@ -317,6 +318,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [ngpdf/ngpdf](https://github.com/ngpdf/ngpdf) | [#111](https://github.com/ngpdf/ngpdf/pull/111) | feat(core): complete document metadata | Merged |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#595](https://github.com/nikhilb2/simple_invoicing/pull/595) | fix(a11y): label company and marketplace fields | Merged |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#596](https://github.com/nikhilb2/simple_invoicing/pull/596) | fix(backend): validate invoice item tax overrides | Merged |
+| [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#624](https://github.com/nikhilb2/simple_invoicing/pull/624) | fix: exclude purchase invoices from GSTR-1 validation | Merged |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#14](https://github.com/nitturkaryash/open-bpo/pull/14) | feat(console): show session elapsed duration | Merged |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | [#389](https://github.com/noruzzamans/gslider-blocks/pull/389) | fix(mcp): stop fabricating media attachment IDs | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
@@ -415,7 +417,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 157 external repositories</summary>
+<summary>Browse merged PR counts across 158 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -443,6 +445,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
+| [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 3 |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 3 |
@@ -468,7 +471,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 2 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
-| [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 2 |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 2 |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
@@ -520,6 +522,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | 1 |
+| [ika100/sdlc-foundry](https://github.com/ika100/sdlc-foundry) | 1 |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | 1 |
 | [JExcellence/JEHibernate](https://github.com/JExcellence/JEHibernate) | 1 |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | 1 |
@@ -576,7 +579,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **294** |
+| **Total** | **296** |
 
 </details>
 
@@ -593,7 +596,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **773 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **774 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>291</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>156</strong><br/>External repositories</td>
-    <td align="center"><strong>757</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>294</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>157</strong><br/>External repositories</td>
+    <td align="center"><strong>773</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 291 merged pull requests</summary>
+<summary>Browse all 294 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -143,6 +143,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#234](https://github.com/AnayDhawan/UCIP/pull/234) | fix: reject invalid API limits | Merged |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#235](https://github.com/AnayDhawan/UCIP/pull/235) | Fix/cells pagination total | Merged |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#236](https://github.com/AnayDhawan/UCIP/pull/236) | fix(embed): show rank uncertainty and data freshness | Merged |
+| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#245](https://github.com/AnayDhawan/UCIP/pull/245) | test: cover supported client runtime versions | Merged |
 | [anonhym/latelier](https://github.com/anonhym/latelier) | [#595](https://github.com/anonhym/latelier/pull/595) | test: reduce role queries in drawer tree coverage test (#550) | Merged |
 | [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | [#441](https://github.com/answerLoops/answerLoops/pull/441) | Feat/article supplied context usage | Merged |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | [#1161](https://github.com/arminazimi/evergreen/pull/1161) | feat: add Spring Boot lifecycle rules and migration fixtures | Merged |
@@ -222,6 +223,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#27](https://github.com/enlike21/ClimbUp/pull/27) | Mantener el foco del teclado dentro del menú de pausa | Merged |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#31](https://github.com/enlike21/ClimbUp/pull/31) | Añadir tests unitarios para StatisticsService | Merged |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | [#1237](https://github.com/eugenioenko/ttt/pull/1237) | test(e2e): isolate find-bar clipboard test | Merged |
+| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | [#1288](https://github.com/eugenioenko/ttt/pull/1288) | fix(plugin): clean up debug plugin replacements | Merged |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#59](https://github.com/eyadstein/leaklens/pull/59) | Add CITATION.cff for GitHub citation metadata | Merged |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#111](https://github.com/eyadstein/leaklens/pull/111) | feat(cli): color severity labels in terminal output | Merged |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | [#24](https://github.com/fatihserhatturan/noCap/pull/24) | feat: export report as PNG | Merged |
@@ -279,6 +281,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#60](https://github.com/ismayilzeynal/tabulint-oss-az/pull/60) | Add string-length validation rules | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#211](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/211) | Implement getcwd system call (#208) | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#212](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/212) | Handle Ctrl-C at the shell prompt (#209) | Merged |
+| [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#169](https://github.com/jaikaran109/51_Web_Projects/pull/169) | Fix: add playable shapes game and correct layout | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#74](https://github.com/JamshidS/aiset/pull/74) | test: cover transcript state transitions | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#104](https://github.com/JamshidS/aiset/pull/104) | Feat/teammap outline | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#105](https://github.com/JamshidS/aiset/pull/105) | feat: add teammap run command | Merged |
@@ -412,7 +415,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 156 external repositories</summary>
+<summary>Browse merged PR counts across 157 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -421,9 +424,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 8 |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 8 |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 7 |
+| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 6 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 6 |
-| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 5 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
@@ -457,6 +460,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 2 |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | 2 |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | 2 |
+| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 2 |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 2 |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 2 |
 | [got-a-page/website](https://github.com/got-a-page/website) | 2 |
@@ -503,7 +507,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | 1 |
 | [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | 1 |
 | [dominikgobel/kern](https://github.com/dominikgobel/kern) | 1 |
-| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 1 |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | 1 |
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | 1 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
@@ -517,6 +520,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | 1 |
+| [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | 1 |
 | [JExcellence/JEHibernate](https://github.com/JExcellence/JEHibernate) | 1 |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | 1 |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 1 |
@@ -572,7 +576,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **291** |
+| **Total** | **294** |
 
 </details>
 
@@ -589,7 +593,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **757 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **773 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

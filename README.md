@@ -104,6 +104,7 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
       <a href="https://github.com/Bubblegunn/proactive-gate/pull/24">Publish the reusable store contract test suite</a><br/>
       Makes shared storage behavior easier to validate across implementations.
     </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>Embedded Persistence</strong><br/>
@@ -163,7 +164,6 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
       <a href="https://github.com/atomityhq/atomity-cms/pull/14">Return 415 for unsupported media types</a><br/>
       Enforces HTTP media-type handling with an explicit unsupported-content response.
     </td>
-  </tr>
   </tr>
 </table>
 

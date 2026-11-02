@@ -76,9 +76,9 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
       Includes atomic increments, TTL handling, and contract coverage.
     </td>
     <td width="50%" valign="top">
-      <strong>AI Agent Reliability</strong><br/>
+      <strong>AI Agent State Management</strong><br/>
       <a href="https://github.com/GustavoBaranda/chatflow-agent/pull/69">Restore session state on cancellation</a><br/>
-      Restores session history, active agent, and metadata when an asynchronous run is cancelled.
+      Restores conversation history, active agent, and metadata after async cancellation.
     </td>
   </tr>
   <tr>
@@ -95,9 +95,9 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Property-Based Testing</strong><br/>
+      <strong>MCP Protocol Robustness</strong><br/>
       <a href="https://github.com/thearchitect0x-glitch/ratchet/pull/13">Add property-based fuzz coverage for the MCP JSON-RPC parser</a><br/>
-      Exercises parser edge cases with generated inputs.
+      Exercises parser invariants and edge cases with generated inputs.
     </td>
     <td width="50%" valign="top">
       <strong>Reusable Contract Testing</strong><br/>
@@ -124,16 +124,16 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
       Extends source lifecycle handling to support reprocessing and removal workflows.
     </td>
     <td width="50%" valign="top">
-      <strong>Spring Transaction Semantics</strong><br/>
+      <strong>Java Transaction Semantics</strong><br/>
       <a href="https://github.com/sdlc-pro/spring-lens/pull/535">Add transaction propagation behavior enum</a><br/>
-      Represents transaction propagation modes as an explicit typed contract.
+      Models Spring transaction propagation modes as an explicit typed contract.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>MCP Execution Reliability</strong><br/>
+      <strong>MCP Tool Execution</strong><br/>
       <a href="https://github.com/rakeshnitb23/toolism/pull/162">Add action-level MCP timeouts</a><br/>
-      Adds bounded execution time to MCP actions to prevent unbounded waits.
+      Adds bounded execution time for MCP actions to avoid indefinite waits.
     </td>
     <td width="50%" valign="top">
       <strong>AI Runtime Integration</strong><br/>
@@ -155,9 +155,9 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Observability Fault Isolation</strong><br/>
+      <strong>Observability &amp; Fault Isolation</strong><br/>
       <a href="https://github.com/open-telemetry/opentelemetry-kotlin/pull/1316">Isolate failures during log emission</a><br/>
-      Prevents failures in log emission from escaping into application execution.
+      Prevents logging failures from propagating into application execution.
     </td>
     <td width="50%" valign="top">
       <strong>API Input Validation</strong><br/>
@@ -165,25 +165,11 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
       Enforces HTTP media-type handling with an explicit unsupported-content response.
     </td>
   </tr>
-</table>
-
   <tr>
-    <td width="50%" valign="top">
-      <strong>MCP Protocol Robustness</strong><br/>
-      <a href="https://github.com/thearchitect0x-glitch/ratchet/pull/13">Add property-based fuzz coverage for the MCP JSON-RPC parser</a><br/>
-      Exercises parser invariants and edge cases with generated inputs.
-    </td>
     <td width="50%" valign="top">
       <strong>Streaming &amp; Encoding</strong><br/>
       <a href="https://github.com/VOLPAROSSA/volparossa-code/pull/24">Test fragmented SSE framing and invalid UTF-8</a><br/>
       Covers partial event boundaries and malformed byte sequences in streaming responses.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Observability &amp; Fault Isolation</strong><br/>
-      <a href="https://github.com/open-telemetry/opentelemetry-kotlin/pull/1316">Isolate failures during log emission</a><br/>
-      Prevents logging failures from propagating into application execution.
     </td>
     <td width="50%" valign="top">
       <strong>Security &amp; Diagnostics</strong><br/>
@@ -193,28 +179,13 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Java Transaction Semantics</strong><br/>
-      <a href="https://github.com/sdlc-pro/spring-lens/pull/535">Add transaction propagation behavior enum</a><br/>
-      Models Spring transaction propagation modes as an explicit typed contract.
-    </td>
-    <td width="50%" valign="top">
-      <strong>AI Agent State Management</strong><br/>
-      <a href="https://github.com/GustavoBaranda/chatflow-agent/pull/69">Restore session state on cancellation</a><br/>
-      Restores conversation history, active agent, and metadata after async cancellation.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <strong>Concurrent Processing</strong><br/>
       <a href="https://github.com/DhanushNehru/pdf-xss-checker/pull/19">Serialize PDF parsing across concurrent scans</a><br/>
       Prevents overlapping scans from entering the PDF parsing path concurrently.
     </td>
-    <td width="50%" valign="top">
-      <strong>MCP Tool Execution</strong><br/>
-      <a href="https://github.com/rakeshnitb23/toolism/pull/162">Add action-level MCP timeouts</a><br/>
-      Adds bounded execution time for MCP actions to avoid indefinite waits.
-    </td>
+    <td width="50%" valign="top"></td>
   </tr>
+</table>
 
 Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions

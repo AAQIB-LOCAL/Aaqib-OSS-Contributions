@@ -105,6 +105,66 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
       Makes shared storage behavior easier to validate across implementations.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Embedded Persistence</strong><br/>
+      <a href="https://github.com/Bubblegunn/proactive-gate/pull/3">Add SQLite store implementation</a><br/>
+      Adds a concrete SQLite-backed persistence implementation to the shared storage layer.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Static Analysis &amp; Security Reporting</strong><br/>
+      <a href="https://github.com/adebayomoses/mcp-detector/pull/7">Add SARIF 2.1.0 report output</a> · <a href="https://github.com/Bubblegunn/ai-slop-linter/pull/63">Encode SARIF artifact URIs</a><br/>
+      Produces interoperable code-scanning results and handles artifact URI and schema references correctly.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Source Lifecycle Management</strong><br/>
+      <a href="https://github.com/openapi/gknowledge/pull/30">Support source re-ingestion and removal</a><br/>
+      Extends source lifecycle handling to support reprocessing and removal workflows.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Spring Transaction Semantics</strong><br/>
+      <a href="https://github.com/sdlc-pro/spring-lens/pull/535">Add transaction propagation behavior enum</a><br/>
+      Represents transaction propagation modes as an explicit typed contract.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>MCP Execution Reliability</strong><br/>
+      <a href="https://github.com/rakeshnitb23/toolism/pull/162">Add action-level MCP timeouts</a><br/>
+      Adds bounded execution time to MCP actions to prevent unbounded waits.
+    </td>
+    <td width="50%" valign="top">
+      <strong>AI Runtime Integration</strong><br/>
+      <a href="https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices/pull/52">Parse structured Ollama anomaly scores</a><br/>
+      Handles structured model output when extracting anomaly scores from Ollama responses.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Unicode &amp; Output Correctness</strong><br/>
+      <a href="https://github.com/dheerajjha/mcp-migrate/pull/367">Use UTF-8 in findings renderer</a><br/>
+      Keeps findings rendering and its tests consistent with UTF-8 text handling.
+    </td>
+    <td width="50%" valign="top">
+      <strong>JVM Developer Tooling</strong><br/>
+      <a href="https://github.com/oscarbol09/jvm-mcp/pull/181">Add JSON output to CLI commands</a><br/>
+      Exposes machine-readable output for list, memory, and thread inspection commands.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Observability Fault Isolation</strong><br/>
+      <a href="https://github.com/open-telemetry/opentelemetry-kotlin/pull/1316">Isolate failures during log emission</a><br/>
+      Prevents failures in log emission from escaping into application execution.
+    </td>
+    <td width="50%" valign="top">
+      <strong>API Input Validation</strong><br/>
+      <a href="https://github.com/atomityhq/atomity-cms/pull/14">Return 415 for unsupported media types</a><br/>
+      Enforces HTTP media-type handling with an explicit unsupported-content response.
+    </td>
+  </tr>
 </table>
 
   <tr>

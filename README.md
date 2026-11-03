@@ -105,6 +105,42 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
       Makes shared storage behavior easier to validate across implementations.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>JVM Numeric Semantics</strong><br/>
+      <a href="https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/241">Implement hexadecimal floating-point formatting</a><br/>
+      Matches JDK formatting across signed zero, subnormal values, infinities, NaN, and numeric boundaries.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Authentication Lifecycle</strong><br/>
+      <a href="https://github.com/pug-sh/pug/pull/197">Prune expired authentication tokens</a><br/>
+      Adds transaction-scoped advisory locking, expiry indexes, and integration coverage for refresh and email-action tokens.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>HTTP API Semantics</strong><br/>
+      <a href="https://github.com/atomityhq/atomity-cms/pull/14">Return 415 for unsupported request media types</a><br/>
+      Adds a dedicated exception handler and integration tests while preserving malformed-JSON error handling.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Financial Domain Validation</strong><br/>
+      <a href="https://github.com/nikhilb2/simple_invoicing/pull/596">Validate invoice item tax overrides</a><br/>
+      Enforces GST and HSN/SAC constraints while preserving product-level inheritance and schema regression coverage.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Distributed Provider Resilience</strong><br/>
+      <a href="https://github.com/DhruvHarani1/vega/pull/26">Improve provider failure diagnostics and recovery</a><br/>
+      Isolates failed sources, retains healthy provider results, supports retries, and sanitizes diagnostic output.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Cross-Runtime Compatibility</strong><br/>
+      <a href="https://github.com/AnayDhawan/UCIP/pull/245">Test supported client runtime versions</a><br/>
+      Exercises Python and TypeScript clients across supported runtimes, including a built-package import smoke test.
+    </td>
+  </tr>
 </table>
 
 Explore the complete verified ledger below for every counted merged upstream PR.

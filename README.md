@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>315</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>317</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>167</strong><br/>External repositories</td>
-    <td align="center"><strong>796</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>799</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -105,49 +105,13 @@ The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkh
       Makes shared storage behavior easier to validate across implementations.
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>JVM Numeric Semantics</strong><br/>
-      <a href="https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/241">Implement hexadecimal floating-point formatting</a><br/>
-      Matches JDK formatting across signed zero, subnormal values, infinities, NaN, and numeric boundaries.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Authentication Lifecycle</strong><br/>
-      <a href="https://github.com/pug-sh/pug/pull/197">Prune expired authentication tokens</a><br/>
-      Adds transaction-scoped advisory locking, expiry indexes, and integration coverage for refresh and email-action tokens.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>HTTP API Semantics</strong><br/>
-      <a href="https://github.com/atomityhq/atomity-cms/pull/14">Return 415 for unsupported request media types</a><br/>
-      Adds a dedicated exception handler and integration tests while preserving malformed-JSON error handling.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Financial Domain Validation</strong><br/>
-      <a href="https://github.com/nikhilb2/simple_invoicing/pull/596">Validate invoice item tax overrides</a><br/>
-      Enforces GST and HSN/SAC constraints while preserving product-level inheritance and schema regression coverage.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Distributed Provider Resilience</strong><br/>
-      <a href="https://github.com/DhruvHarani1/vega/pull/26">Improve provider failure diagnostics and recovery</a><br/>
-      Isolates failed sources, retains healthy provider results, supports retries, and sanitizes diagnostic output.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Cross-Runtime Compatibility</strong><br/>
-      <a href="https://github.com/AnayDhawan/UCIP/pull/245">Test supported client runtime versions</a><br/>
-      Exercises Python and TypeScript clients across supported runtimes, including a built-package import smoke test.
-    </td>
-  </tr>
 </table>
 
 Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 315 merged pull requests</summary>
+<summary>Browse all 317 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -297,6 +261,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#309](https://github.com/HafidIdrissi/Time-Tracker/pull/309) | docs: explain longest active session with worked example | Merged |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#377](https://github.com/HafidIdrissi/Time-Tracker/pull/377) | test(preferences): reject invalid choices before file writes | Merged |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | [#99](https://github.com/hayagrivai-labs/sciproof/pull/99) | docs: add shell pipeline reproducibility tutorial | Merged |
+| [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | [#257](https://github.com/hayagrivai-labs/sciproof/pull/257) | Add tests for manifest output validation | Merged |
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | [#42](https://github.com/helalrules7/tibyan/pull/42) | fix(mushaf): include Saheeh translation version in credits | Merged |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | [#1157](https://github.com/higher-kinded-j/higher-kinded-j/pull/1157) | docs(glossary): add IdPath, LazyPath and OptionalPath entries | Merged |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | [#6](https://github.com/Hosein-imani/hybrid-recommendation-system/pull/6) | docs: document editable installation for issue #5 | Merged |
@@ -423,6 +388,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#477](https://github.com/StudentSuite/awesome-study-resources/pull/477) | fix: require HTTPS for study resources (#467) | Merged |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#478](https://github.com/StudentSuite/awesome-study-resources/pull/478) | docs: align PR guidance with contribution workflow (#470) | Merged |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | [#283](https://github.com/TanbirRamim/open-source-radar/pull/283) | feat(i18n): add German website locale | Merged |
+| [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | [#412](https://github.com/TanbirRamim/open-source-radar/pull/412) | feat(languages): add PowerShell quickstart | Merged |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#13](https://github.com/Tektrix/pinfold/pull/13) | Fix tab count for group-name searches | Merged |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#14](https://github.com/Tektrix/pinfold/pull/14) | Add tests for format helpers | Merged |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#12](https://github.com/thearchitect0x-glitch/ratchet/pull/12) | Enforce SPDX and copyright source-file headers | Merged |
@@ -524,6 +490,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 2 |
 | [got-a-page/website](https://github.com/got-a-page/website) | 2 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 2 |
+| [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 2 |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 2 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
@@ -536,6 +503,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [skdas20/SkeoTrace](https://github.com/skdas20/SkeoTrace) | 2 |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | 2 |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | 2 |
+| [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 2 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
@@ -583,7 +551,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
-| [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 1 |
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | 1 |
@@ -625,7 +592,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [sdageltc/letitloop](https://github.com/sdageltc/letitloop) | 1 |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
 | [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | 1 |
-| [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 1 |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
 | [thiagomvas/haven](https://github.com/thiagomvas/haven) | 1 |
 | [timihack/authwarden](https://github.com/timihack/authwarden) | 1 |
@@ -643,7 +609,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **315** |
+| **Total** | **317** |
 
 </details>
 
@@ -660,7 +626,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **796 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **799 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

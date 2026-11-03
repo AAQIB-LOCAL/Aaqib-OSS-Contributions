@@ -11,7 +11,7 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>317</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>320</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>167</strong><br/>External repositories</td>
     <td align="center"><strong>799</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 317 merged pull requests</summary>
+<summary>Browse all 320 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -300,6 +300,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JExcellence/JEHibernate](https://github.com/JExcellence/JEHibernate) | [#11](https://github.com/JExcellence/JEHibernate/pull/11) | Add project style EditorConfig | Merged |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | [#81](https://github.com/KHolodilin/spring-transactional-outbox-kafka/pull/81) | Fix VT observability and naming | Merged |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | [#124](https://github.com/knnmelprop/YAADO/pull/124) | test(ackeret-polar): add hand-checked reference cases | Merged |
+| [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | [#125](https://github.com/knnmelprop/YAADO/pull/125) | Fix/102 openvsp script builder tests | Merged |
+| [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | [#126](https://github.com/knnmelprop/YAADO/pull/126) | fix: [launch-angle-sweep] replace result dictionaries with typed cont… | Merged |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#23](https://github.com/komallsingh/api-contract-guardian/pull/23) | docs: add API troubleshooting guidance | Merged |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#24](https://github.com/komallsingh/api-contract-guardian/pull/24) | test: assert contracts for multiple router mounts | Merged |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#25](https://github.com/komallsingh/api-contract-guardian/pull/25) | test: cover nested cross-file route discovery | Merged |
@@ -410,6 +412,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#68](https://github.com/Webghost01-NG/stellar-event-sync/pull/68) | fix: centralize diagnostic secret redaction | Merged |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#71](https://github.com/Webghost01-NG/stellar-event-sync/pull/71) | Issue 46 rpc fixture builders | Merged |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | [#32](https://github.com/Xdabier/themerchantengine/pull/32) | fix(admin-services): return geo validation errors as observables | Merged |
+| [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | [#59](https://github.com/Xdabier/themerchantengine/pull/59) | fix(admin-services): return category validation errors as observables | Merged |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | [#2](https://github.com/xlebore3o4ka/llvnim23/pull/2) | Fix/issue 1 static linking | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#56](https://github.com/yakew7/DesignHub/pull/56) | Add palette import from Coolors URLs and hex codes | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#57](https://github.com/yakew7/DesignHub/pull/57) | perf(typography): virtualize font browser | Merged |
@@ -466,6 +469,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 3 |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
+| [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 3 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
@@ -507,6 +511,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
+| [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 2 |
 | [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | 2 |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | 1 |
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 1 |
@@ -558,7 +563,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | 1 |
 | [JExcellence/JEHibernate](https://github.com/JExcellence/JEHibernate) | 1 |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | 1 |
-| [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 1 |
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | 1 |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 1 |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | 1 |
@@ -606,10 +610,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 1 |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
-| [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **317** |
+| **Total** | **320** |
 
 </details>
 

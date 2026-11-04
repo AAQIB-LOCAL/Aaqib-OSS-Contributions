@@ -66,18 +66,73 @@ async function fetchAuthoredPullRequestCount() {
 }
 
 async function searchPullRequests(query) {
-  const results = [];
-  for (let page = 1; ; page += 1) {
-    const data = await github("/search/issues", {
-      q: query,
-      per_page: "100",
-      page: String(page),
-    });
-    results.push(...data.items);
-    if (data.items.length < 100 || results.length >= data.total_count) {
-      return { totalCount: data.total_count, items: results };
+  const maxAttempts = 3;
+  let lastError;
+
+  for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
+    try {
+      const firstPage = await github("/search/issues", {
+        q: query,
+        per_page: "100",
+        page: "1",
+      });
+      const totalCount = firstPage.total_count;
+
+      if (!Number.isInteger(totalCount) || totalCount < 0) {
+        throw new Error("GitHub Search API returned an invalid result count");
+      }
+      if (firstPage.incomplete_results) {
+        throw new Error("GitHub Search API marked the first page as incomplete");
+      }
+      if (totalCount > 1000) {
+        throw new Error(
+          `GitHub Search API returned ${totalCount} results, exceeding its 1,000-result pagination limit; refusing to publish an incomplete audit`,
+        );
+      }
+
+      const pageCount = Math.ceil(totalCount / 100);
+      const results = [...firstPage.items];
+
+      for (let page = 2; page <= pageCount; page += 1) {
+        const data = await github("/search/issues", {
+          q: query,
+          per_page: "100",
+          page: String(page),
+        });
+
+        if (data.incomplete_results) {
+          throw new Error(`GitHub Search API marked page ${page} as incomplete`);
+        }
+        if (data.total_count !== totalCount) {
+          throw new Error(
+            `GitHub Search API result count changed from ${totalCount} to ${data.total_count} while paging`,
+          );
+        }
+        results.push(...data.items);
+      }
+
+      const uniqueResults = [...new Map(
+        results.map((item) => [item.id ?? item.html_url, item]),
+      ).values()];
+
+      if (uniqueResults.length !== totalCount) {
+        throw new Error(
+          `GitHub Search API reported ${totalCount} results but returned ${uniqueResults.length} unique items across ${pageCount} pages`,
+        );
+      }
+
+      return { totalCount, items: uniqueResults };
+    } catch (error) {
+      lastError = error;
+      console.warn(
+        `Contribution search attempt ${attempt}/${maxAttempts} failed: ${error.message}`,
+      );
     }
   }
+
+  throw new Error(
+    `Unable to retrieve a complete, consistent contribution result set after ${maxAttempts} attempts. README.md was not updated. Last error: ${lastError?.message ?? "unknown error"}`,
+  );
 }
 
 function repositoryFromUrl(repositoryUrl) {

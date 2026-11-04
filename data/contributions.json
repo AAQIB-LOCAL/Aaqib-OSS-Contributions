@@ -1,0 +1,2298 @@
+{
+  "schemaVersion": 1,
+  "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+  "authoredPullRequestHighWatermark": 832,
+  "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
+  "lastObservedPublicAuthoredPullRequestCount": 796,
+  "contributions": [
+    {
+      "repository": "8f4e/8f4e",
+      "number": 1083,
+      "description": "docs: document nearestValue standard-library helper",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "8f4e/8f4e",
+      "number": 1086,
+      "description": "fix(tokenizer): parse quoted strings before arithmetic",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "aamirtechs/beforeyoupaste",
+      "number": 9,
+      "description": "feat: add Aadhaar Verhoeff detector",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "adarshrkumar/ViaBay",
+      "number": 89,
+      "description": "test: add meaningful Playwright browser assertions (#87)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "adarshrkumar/ViaBay",
+      "number": 90,
+      "description": "test: cover modal backdrop clicks under scroll and zoom (#84)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "adebayomoses/mcp-detector",
+      "number": 7,
+      "description": "Add SARIF 2.1.0 report output",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Aepzie/cutline",
+      "number": 25,
+      "description": "feat(render): highlight timed caption words",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "afrigov/afrigov",
+      "number": 34,
+      "description": "fix(pack): accurate Maasai shield in ke.svg",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "afrigov/afrigov",
+      "number": 35,
+      "description": "fix(pack): document Senegal NIN format",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "afrigov/afrigov",
+      "number": 40,
+      "description": "fix(pack): add Senegal flag star",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "afrigov/afrigov",
+      "number": 41,
+      "description": "Review French Senegal banner strings (#11)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "afrigov/afrigov",
+      "number": 42,
+      "description": "Add Asante Twi strings for Ghana banner",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "afrigov/afrigov",
+      "number": 43,
+      "description": "feat(pack): add Tanzania country pack",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "afrigov/afrigov",
+      "number": 44,
+      "description": "feat(pack): add Uganda country pack",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "afrigov/afrigov",
+      "number": 49,
+      "description": "docs: add long-list filtering pattern",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "afrigov/afrigov",
+      "number": 50,
+      "description": "feat: add contents navigation component",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "afrigov/afrigov",
+      "number": 51,
+      "description": "docs: clarify header wrapping at tablet widths",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "afrigov/afrigov",
+      "number": 52,
+      "description": "feat(video): support direct files and captions",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "agevenkat/vagejs",
+      "number": 8,
+      "description": "Fix/long title description warnings",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "AkulTyagi11/StarStruck",
+      "number": 7,
+      "description": "feat(themes): add Kanagawa Wave palette",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "alok-108/phantom",
+      "number": 41,
+      "description": "docs: add Hindi README and quickstart (#34)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "AlphaIsYour/eno-qr-studio",
+      "number": 6,
+      "description": "Add unit coverage for international phone and SMS encoding",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "AmineChr54/MeetScribe",
+      "number": 64,
+      "description": "Test/pure logic unit tests",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "amirbena/code-review-skill",
+      "number": 835,
+      "description": "test: use canonical REPO_ROOT in seven test files",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "amirbena/code-review-skill",
+      "number": 836,
+      "description": "test: make capability manifest schema checks exact",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "AnayDhawan/UCIP",
+      "number": 232,
+      "description": "fix: update indicator count to five",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "AnayDhawan/UCIP",
+      "number": 233,
+      "description": "fix: add root error boundaries and branded 404",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "AnayDhawan/UCIP",
+      "number": 234,
+      "description": "fix: reject invalid API limits",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "AnayDhawan/UCIP",
+      "number": 235,
+      "description": "Fix/cells pagination total",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "AnayDhawan/UCIP",
+      "number": 236,
+      "description": "fix(embed): show rank uncertainty and data freshness",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "AnayDhawan/UCIP",
+      "number": 245,
+      "description": "test: cover supported client runtime versions",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "anonhym/latelier",
+      "number": 595,
+      "description": "test: reduce role queries in drawer tree coverage test (#550)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "answerLoops/answerLoops",
+      "number": 441,
+      "description": "Feat/article supplied context usage",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ArijitGupta-in/geo-core",
+      "number": 5,
+      "description": "feat(validation): export decimal axis validators",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "arminazimi/evergreen",
+      "number": 1161,
+      "description": "feat: add Spring Boot lifecycle rules and migration fixtures",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "arminazimi/evergreen",
+      "number": 1162,
+      "description": "feat: add Markdown scan report format",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "arudaev/THD-Room-Finder",
+      "number": 46,
+      "description": "feat(data): add the THD programme and intake taxonomy",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ASDW51/DanmuFloat",
+      "number": 149,
+      "description": "docs: 修复 PR 指南中的 CI 工作流链接",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ashfall-sh/unripe",
+      "number": 7,
+      "description": "feat: support Elixir mix.lock and Hex publish times",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "AtiinLabs/Ito",
+      "number": 77,
+      "description": "Fix Resume label for tracker-synced progress",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "atomityhq/atomity-cms",
+      "number": 14,
+      "description": "fix: return 415 for unsupported request media types",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "BaryoDev/Vouch",
+      "number": 5,
+      "description": "fix: reject empty strings in containment assertions",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "basitalisandhu/agent-config-audit",
+      "number": 23,
+      "description": "docs: add false-positive issue form",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "basitalisandhu/agent-config-audit",
+      "number": 25,
+      "description": "feat: add baseline mode for existing findings",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "BinaryBaconLabs/todo-app",
+      "number": 8,
+      "description": "feat: add persistent dark mode toggle (#7)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "BinaryBaconLabs/todo-app",
+      "number": 10,
+      "description": "Feat/issue 9 todo filters",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "biolend83/tubehaus",
+      "number": 28,
+      "description": "docs(deploy): add nginx reverse proxy example",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "biolend83/tubehaus",
+      "number": 29,
+      "description": "feat(player): remember playback speed between visits",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "biolend83/tubehaus",
+      "number": 30,
+      "description": "design(branding): give TubeHaus an original house-play icon",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "biolend83/tubehaus",
+      "number": 31,
+      "description": "i18n: polish Spanish translations for issue #5",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "BistaDinesh03/critique",
+      "number": 132,
+      "description": "test: fail CI when frontend render tests lack Node",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "BistaDinesh03/critique",
+      "number": 133,
+      "description": "fix(projects): select latest active question portably",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "BistaDinesh03/critique",
+      "number": 170,
+      "description": "docs: remove stale localized README test counts",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "BistaDinesh03/critique",
+      "number": 233,
+      "description": "Docs/first contributor guide",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "BistaDinesh03/critique",
+      "number": 235,
+      "description": "test: cover Discover eligibility and pagination for #222",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "BitanSarkar/coalesce-java",
+      "number": 19,
+      "description": "Run Redis integration tests with Testcontainers",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "BitanSarkar/coalesce-java",
+      "number": 20,
+      "description": "#10: Make the follower poll interval configurable",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "blixvip/NullMotion",
+      "number": 17,
+      "description": "feat: add frame-step keyboard shortcuts",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "blixvip/NullMotion",
+      "number": 18,
+      "description": "feat(export): show estimated time remaining",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "bolubo/checkpoint-governor",
+      "number": 86,
+      "description": "fix(cdp): remove duplicate TargetLock definition",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Bubblegunn/ai-slop-linter",
+      "number": 27,
+      "description": "Add pre-commit hooks for Markdown and commit messages",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/ai-slop-linter",
+      "number": 41,
+      "description": "feat: add SARIF output for code scanning",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/ai-slop-linter",
+      "number": 46,
+      "description": "Add reference markup residue rule (#14)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/ai-slop-linter",
+      "number": 63,
+      "description": "fix: encode SARIF artifact URIs and repair schema URL",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/ai-slop-linter",
+      "number": 72,
+      "description": "fix: avoid bold-label findings on CV role lists (#8)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/ai-slop-linter",
+      "number": 73,
+      "description": "docs(bench): define external linter comparison study",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/ai-slop-linter",
+      "number": 79,
+      "description": "feat: detect chatbot tracking parameters",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/proactive-gate",
+      "number": 3,
+      "description": "Add `SqliteStore` implementation",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/proactive-gate",
+      "number": 24,
+      "description": "Publish the reusable store contract test suite",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/proactive-gate",
+      "number": 25,
+      "description": "Add PostgreSQL-backed store implementation with atomic increments, TTL handling, and contract coverage",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/proactive-gate",
+      "number": 85,
+      "description": "docs: add adopter list and issue form (#67)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/product-engineer",
+      "number": 44,
+      "description": "feat: add npm hook install command",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/product-engineer",
+      "number": 46,
+      "description": "feat(notes): generate customer changelog from commit blocks",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/product-engineer",
+      "number": 49,
+      "description": "Fix/check commits",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/surviving-lines",
+      "number": 43,
+      "description": "feat: add git subcommand executable alias",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bubblegunn/surviving-lines",
+      "number": 44,
+      "description": "feat: add author sorting by share gap (#30)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "Bytewave1/dkit",
+      "number": 9,
+      "description": "ci: test dkit across Windows, macOS and Linux",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Bytewave1/dkit",
+      "number": 11,
+      "description": "test: broaden CLI edge-case coverage (#8)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "cellrishi-code/claude-skills-atlas",
+      "number": 198,
+      "description": "docs: add guide for maintainable skill tests",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "cellrishi-code/claude-skills-atlas",
+      "number": 211,
+      "description": "Add static smoke tests for documented examples",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "chaoss/CollectOSS",
+      "number": 545,
+      "description": "docs: fix sample database compose formatting",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "chipfighter/framekeeper",
+      "number": 17,
+      "description": "Add custom endpoint troubleshooting checklist",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "codercops/discord-bot",
+      "number": 29,
+      "description": "fix: skip unchanged starter issue feed edits",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "codercops/toolbelt",
+      "number": 332,
+      "description": "fix(base64): report original invalid character positions",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "crbtgab/housing-records",
+      "number": 7,
+      "description": "Fix/borough border hit testing",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "creatoan/scenet",
+      "number": 156,
+      "description": "docs: explain building and checking comics in CI",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "creatoan/scenet",
+      "number": 206,
+      "description": "feat(cli): rebuild when source files change (`scenet build --watch`) (#78)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "creatoan/scenet",
+      "number": 207,
+      "description": "docs: PDF print spike (#80)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "cubrid-lab/cubrid-mcp-server",
+      "number": 367,
+      "description": "test(config): cover whitespace around named selector",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "cubrid-lab/cubrid-mcp-server",
+      "number": 368,
+      "description": "test: cover a non-matching table-name filter",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DeandreT/ferrule",
+      "number": 1120,
+      "description": "feat(linux): add desktop and AppStream metadata",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "dgesteves/onsystem",
+      "number": 234,
+      "description": "fix: explain when no components are available",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "dgesteves/signoff-ui",
+      "number": 207,
+      "description": "test: cover reasoning stream and duration",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhanushNehru/pdf-xss-checker",
+      "number": 19,
+      "description": "fix: serialize pdf parsing across concurrent scans",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "dheerajjha/mcp-migrate",
+      "number": 367,
+      "description": "fix: use UTF-8 in findings renderer and tests",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "dheerajjha/reviewer",
+      "number": 126,
+      "description": "fix: choose the correct default compare base",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "dheerajjha/reviewer",
+      "number": 134,
+      "description": "fix: persist the review baseline commit for staleness checks",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhruvHarani1/lyra",
+      "number": 36,
+      "description": "feat: add optional Hindi and Punjabi lyric romanization",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhruvHarani1/lyra",
+      "number": 38,
+      "description": "feat(lyrics): add public-domain fallback for issue #2",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhruvHarani1/lyra",
+      "number": 39,
+      "description": "fix(a11y): improve keyboard navigation in widget and settings",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhruvHarani1/lyra",
+      "number": 40,
+      "description": "feat: add Hindi UI translations for settings and shared screens",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhruvHarani1/lyra",
+      "number": 41,
+      "description": "fix(ui): improve light-theme contrast in settings",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhruvHarani1/lyra",
+      "number": 42,
+      "description": "Fix/issue 22 youtube control overlay",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhruvHarani1/lyra",
+      "number": 43,
+      "description": "Fix/issue 31 android compatibility report",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhruvHarani1/lyra",
+      "number": 44,
+      "description": "feat(studio): add deterministic motion backgrounds",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhruvHarani1/lyra",
+      "number": 59,
+      "description": "feat: add fullscreen keyboard shortcuts (#52)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhruvHarani1/vega",
+      "number": 25,
+      "description": "feat(library): recover unavailable local music files",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhruvHarani1/vega",
+      "number": 26,
+      "description": "Improve provider failure diagnostics and recovery",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhruvHarani1/vega",
+      "number": 27,
+      "description": "feat(playlists): import and export M3U8 and JSON playlists",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DhruvHarani1/vega",
+      "number": 28,
+      "description": "Handle YouTube background pauses with tap to resume",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "dominikgobel/kern",
+      "number": 26,
+      "description": "fix: insert Alt-modified characters",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "eklavya2201/breakinggood",
+      "number": 7,
+      "description": "test: cover dependency scanner findings",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "eklavya2201/breakinggood",
+      "number": 8,
+      "description": "fix: detect browser challenge pages during capture",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "embedcatalog/embedcatalog",
+      "number": 27,
+      "description": "Add social media icons to public profiles",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "enlike21/ClimbUp",
+      "number": 27,
+      "description": "Mantener el foco del teclado dentro del menú de pausa",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "enlike21/ClimbUp",
+      "number": 31,
+      "description": "Añadir tests unitarios para StatisticsService",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Erfouni/solidworks-GPT-plugin",
+      "number": 29,
+      "description": "Fix/issue 26 feedback host validation",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "eugenioenko/ttt",
+      "number": 1237,
+      "description": "test(e2e): isolate find-bar clipboard test",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "eugenioenko/ttt",
+      "number": 1288,
+      "description": "fix(plugin): clean up debug plugin replacements",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "eyadstein/leaklens",
+      "number": 59,
+      "description": "Add CITATION.cff for GitHub citation metadata",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "eyadstein/leaklens",
+      "number": 111,
+      "description": "feat(cli): color severity labels in terminal output",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "fatihserhatturan/noCap",
+      "number": 24,
+      "description": "feat: export report as PNG",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "featherpanel-com/translations",
+      "number": 14,
+      "description": "docs: correct README clone and sync instructions",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "feimacode/open-design-agent-kit",
+      "number": 58,
+      "description": "docs: update bundled content counts",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "feimacode/open-design-agent-kit",
+      "number": 59,
+      "description": "Feat/issue 48 pinterest pin format",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "firstcontributions/first-contributions",
+      "number": 123775,
+      "description": "**First OSS contribution:** Add Aaqibhafeez Khan to the Contributors list",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "flisk-sh/run-my-agents",
+      "number": 80,
+      "description": "test(hook): add node:test suite for check.mjs",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ForNeVeR/Fabricator",
+      "number": 116,
+      "description": "Document required DigitalOcean domain:update scope",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Foxworks-Studios/riftward",
+      "number": 19,
+      "description": "fix(combat): expire abandoned prepared moves",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "francordel/kdemos",
+      "number": 16,
+      "description": "test: cover Cloudflare input validators",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "francordel/kdemos",
+      "number": 17,
+      "description": "fix: contract Catalan date prepositions",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "francordel/kdemos",
+      "number": 19,
+      "description": "test: enforce translation key parity",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "francordel/kdemos",
+      "number": 32,
+      "description": "fix: add accessible labels to icon-only buttons",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "francordel/kdemos",
+      "number": 33,
+      "description": "refactor(i18n): extract English and Spanish translations",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "gabrielmongefranco/privatium",
+      "number": 81,
+      "description": "Upgrade GitHub Actions to Node 24",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "gabrielmongefranco/privatium",
+      "number": 94,
+      "description": "Fix/52 directory sizes",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "gabrielmongefranco/privatium",
+      "number": 95,
+      "description": "feat: give launcher an app-store layout",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "gabrielvieiraf/finitemonkey",
+      "number": 129,
+      "description": "docs(generators): add workflow and flow templates",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Gautam-aman/ResQNet",
+      "number": 55,
+      "description": "docs: correct beta installation release assets",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "getsotto/sotto",
+      "number": 252,
+      "description": "Fix concurrent environment key rotation with regression coverage",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "getsotto/sotto",
+      "number": 275,
+      "description": "Add `sotto env ls --json` with stable JSON output and coverage",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "getsotto/sotto",
+      "number": 278,
+      "description": "Prevent duplicate environment-share submissions with component-level concurrency protection and regression coverage",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ggfto/DroidDeck",
+      "number": 12,
+      "description": "feat(i18n): add Hindi language option",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "got-a-page/website",
+      "number": 21,
+      "description": "feat: add answer-engine metadata and llms.txt",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "got-a-page/website",
+      "number": 30,
+      "description": "feat: add sitemap and canonical page metadata",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "GustavoBaranda/chatflow-agent",
+      "number": 69,
+      "description": "fix: restore session state on cancellation",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "HafidIdrissi/Time-Tracker",
+      "number": 309,
+      "description": "docs: explain longest active session with worked example",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "HafidIdrissi/Time-Tracker",
+      "number": 377,
+      "description": "test(preferences): reject invalid choices before file writes",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "hayagrivai-labs/sciproof",
+      "number": 99,
+      "description": "docs: add shell pipeline reproducibility tutorial",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "hayagrivai-labs/sciproof",
+      "number": 257,
+      "description": "Add tests for manifest output validation",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "helalrules7/tibyan",
+      "number": 42,
+      "description": "fix(mushaf): include Saheeh translation version in credits",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "higher-kinded-j/higher-kinded-j",
+      "number": 1157,
+      "description": "docs(glossary): add IdPath, LazyPath and OptionalPath entries",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Hosein-imani/hybrid-recommendation-system",
+      "number": 6,
+      "description": "docs: document editable installation for issue #5",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Hosein-imani/hybrid-recommendation-system",
+      "number": 9,
+      "description": "fix: handle unknown seed movie titles gracefully",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Hosein-imani/hybrid-recommendation-system",
+      "number": 24,
+      "description": "fix(collaborative): handle empty recommendation candidates",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Hosein-imani/hybrid-recommendation-system",
+      "number": 25,
+      "description": "fix: validate hybrid section category consistency",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Hosein-imani/hybrid-recommendation-system",
+      "number": 26,
+      "description": "Feat/issue 15 single signal recommendations",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Hosein-imani/hybrid-recommendation-system",
+      "number": 27,
+      "description": "Feat/issue 17 held out ranking evaluation",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Huerte/algo-solutions-python",
+      "number": 129,
+      "description": "docs: clarify solution directory structure",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Huerte/algo-solutions-python",
+      "number": 132,
+      "description": "docs: tag ten solutions by algorithm topic",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Huerte/algo-solutions-python",
+      "number": 133,
+      "description": "test: add edge cases for letter percentage solution",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Huerte/algo-solutions-python",
+      "number": 146,
+      "description": "docs: add issue and pull request templates",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Huerte/algo-solutions-python",
+      "number": 147,
+      "description": "docs(python): add type hints and docstrings to solutions",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Huerte/algo-solutions-python",
+      "number": 148,
+      "description": "docs(python): add complexity notes to solutions",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Huerte/algo-solutions-python",
+      "number": 155,
+      "description": "ci: validate headers in changed solution files",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Huerte/algo-solutions-python",
+      "number": 156,
+      "description": "test: add sort012 edge-case assertions",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Huseynteymurzade28/tuiba",
+      "number": 97,
+      "description": "Add cargo-binstall release metadata",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Huseynteymurzade28/tuiba",
+      "number": 99,
+      "description": "Feat/configurable colour themes",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Huseynteymurzade28/tuiba",
+      "number": 100,
+      "description": "packaging: add Nix flake",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "hydope/chunkcite",
+      "number": 5,
+      "description": "Expose verification threshold in CLI",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ika100/sdlc-foundry",
+      "number": 306,
+      "description": "fix(cplat): resolve sibling component clones (#272)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ismayilzeynal/tabulint-oss-az",
+      "number": 26,
+      "description": "Improve boolean type inference for textual literals",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ismayilzeynal/tabulint-oss-az",
+      "number": 27,
+      "description": "Add CLI quiet mode",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ismayilzeynal/tabulint-oss-az",
+      "number": 28,
+      "description": "Add CLI report output file option",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ismayilzeynal/tabulint-oss-az",
+      "number": 29,
+      "description": "Add CSV delimiter option",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ismayilzeynal/tabulint-oss-az",
+      "number": 30,
+      "description": "Task 05 jsonl ndjson",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ismayilzeynal/tabulint-oss-az",
+      "number": 31,
+      "description": "Add machine-readable JSON report output",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ismayilzeynal/tabulint-oss-az",
+      "number": 39,
+      "description": "Add configurable input encoding",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ismayilzeynal/tabulint-oss-az",
+      "number": 60,
+      "description": "Add string-length validation rules",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "JackFurton/who-would-build-a-kernel-in-java",
+      "number": 211,
+      "description": "Implement getcwd system call (#208)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "JackFurton/who-would-build-a-kernel-in-java",
+      "number": 212,
+      "description": "Handle Ctrl-C at the shell prompt (#209)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "JackFurton/who-would-build-a-kernel-in-java",
+      "number": 241,
+      "description": "feat: add hexadecimal floating-point formatting",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "jaikaran109/51_Web_Projects",
+      "number": 169,
+      "description": "Fix: add playable shapes game and correct layout",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "JamshidS/aiset",
+      "number": 74,
+      "description": "test: cover transcript state transitions",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "JamshidS/aiset",
+      "number": 104,
+      "description": "Feat/teammap outline",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "JamshidS/aiset",
+      "number": 105,
+      "description": "feat: add teammap run command",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "JExcellence/JEHibernate",
+      "number": 11,
+      "description": "Add project style EditorConfig",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "KHolodilin/spring-transactional-outbox-kafka",
+      "number": 81,
+      "description": "Fix VT observability and naming",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "knnmelprop/YAADO",
+      "number": 124,
+      "description": "test(ackeret-polar): add hand-checked reference cases",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "knnmelprop/YAADO",
+      "number": 125,
+      "description": "Fix/102 openvsp script builder tests",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "knnmelprop/YAADO",
+      "number": 126,
+      "description": "fix: [launch-angle-sweep] replace result dictionaries with typed cont…",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "komallsingh/api-contract-guardian",
+      "number": 23,
+      "description": "docs: add API troubleshooting guidance",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "komallsingh/api-contract-guardian",
+      "number": 24,
+      "description": "test: assert contracts for multiple router mounts",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "komallsingh/api-contract-guardian",
+      "number": 25,
+      "description": "test: cover nested cross-file route discovery",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Krrishkumar125/create-bullmq-app",
+      "number": 6,
+      "description": "fix(redis): rate-limit connection error logs",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Krrishkumar125/zod-india",
+      "number": 5,
+      "description": "feat: add Udyam registration validator",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Larson-Logan/medal-sync",
+      "number": 114,
+      "description": "fix(cli): align help command categories",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "LennardGeissler/blindbucket",
+      "number": 14,
+      "description": "feat(cli): add JSON output to keys list",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "LennardGeissler/blindbucket",
+      "number": 192,
+      "description": "feat(cli): report Go build metadata in version output",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Lennonhaha/fibemate-react-native",
+      "number": 71,
+      "description": "Fix/67 jest no tests gate",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "lingdojo/kana-dojo",
+      "number": 29804,
+      "description": "Add a Japanese false-friend content entry",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "livesport/homer",
+      "number": 79,
+      "description": "test(console): cover download utilities (#51)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Louayzouaoui1/claude-hud",
+      "number": 8,
+      "description": "test: cover token counting and cache pricing (#7)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "MAKHMUDuz/melyar",
+      "number": 16,
+      "description": "test(innertube): cover parser response fixtures",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "malav2110/explain-diff-html",
+      "number": 32,
+      "description": "fix: name verification artifacts and omit attribution claims",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "McanKul/offpdf",
+      "number": 113,
+      "description": "Preserve Open With intake order with desktop regression coverage",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "McanKul/offpdf",
+      "number": 148,
+      "description": "feat(ocr): remember selected OCR languages",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "MeshLive/meshlive-android",
+      "number": 11,
+      "description": "docs: clarify release verification and terms",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "michaelegner/architecture-intelligence-platform",
+      "number": 602,
+      "description": "test: cover ClaimEffectSet.is_empty",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "michaelegner/architecture-intelligence-platform",
+      "number": 603,
+      "description": "test: cover utf8 helper encoding behavior",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "MilkteaTW1/piscout",
+      "number": 12,
+      "description": "i18n: add Hindi locale",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "MilkteaTW1/piscout",
+      "number": 13,
+      "description": "Add Urdu locale (#11)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "MilkteaTW1/piscout",
+      "number": 14,
+      "description": "Add Arabic locale (#11)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "MilkteaTW1/piscout",
+      "number": 17,
+      "description": "Add Spanish locale",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Mr-Dark-debug/Moonfold",
+      "number": 17,
+      "description": "Map OpenCode usage-limit errors to handoff",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "mrsarthi/Chorrent",
+      "number": 9,
+      "description": "feat: add shell completion generation",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "mrsarthi/Chorrent",
+      "number": 10,
+      "description": "Add machine-readable JSON CLI output",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Muvon/octoweb",
+      "number": 25,
+      "description": "Fix host:port address bar navigation",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "netweir/netweir",
+      "number": 163,
+      "description": "fix(records): limit row selectors to read rows",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ngpdf/ngpdf",
+      "number": 111,
+      "description": "feat(core): complete document metadata",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "nikhilb2/simple_invoicing",
+      "number": 595,
+      "description": "fix(a11y): label company and marketplace fields",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "nikhilb2/simple_invoicing",
+      "number": 596,
+      "description": "fix(backend): validate invoice item tax overrides",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "nikhilb2/simple_invoicing",
+      "number": 624,
+      "description": "fix: exclude purchase invoices from GSTR-1 validation",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "nitturkaryash/open-bpo",
+      "number": 14,
+      "description": "feat(console): show session elapsed duration",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "noruzzamans/gslider-blocks",
+      "number": 389,
+      "description": "fix(mcp): stop fabricating media attachment IDs",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "oasamz09-ctrl/standup-digest",
+      "number": 4,
+      "description": "Add ready-made question templates",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "oasamz09-ctrl/standup-digest",
+      "number": 6,
+      "description": "docs: clarify Google Forms quick start",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "olo-labs/olo-toolgate",
+      "number": 200,
+      "description": "Docs/json validate examples",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "open-telemetry/opentelemetry-kotlin",
+      "number": 1316,
+      "description": "fix(logging): isolate failures during log emission",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "openapi/contributors",
+      "number": 4,
+      "description": "docs: add Aaqibhafeez Khan to contributors",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "openapi/gknowledge",
+      "number": 30,
+      "description": "fix: support source re-ingestion and removal",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Orbit-xyz/orbit-docs",
+      "number": 22,
+      "description": "docs: add TypeScript SDK contract examples",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "oscarbol09/jvm-mcp",
+      "number": 97,
+      "description": "Fix/75 actuator default health",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "oscarbol09/jvm-mcp",
+      "number": 181,
+      "description": "feat(cli): add JSON output to list, memory, and threads",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "osrep/Runes2P.jl",
+      "number": 117,
+      "description": "docs: refer to the first radial face (#22)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "pacocartones/free-llm-api-hub",
+      "number": 389,
+      "description": "data(vercel-ai-gateway): record prompt retention policy",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "pacocartones/free-llm-api-hub",
+      "number": 391,
+      "description": "data(rev-ai): clarify free-credit commercial terms",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "perfectmodelslab/ComfyUI-PerfectLab",
+      "number": 5,
+      "description": "feat: add fashion decade wildcard pack",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "petertzy/deeplocal-chat-adapter",
+      "number": 88,
+      "description": "feat: discover project verification commands",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "PocketLLM/pocketllm-lite",
+      "number": 392,
+      "description": "feat: localize skill details screen",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Prabodh-dev/fairly",
+      "number": 23,
+      "description": "Add seeded hot-key benchmark distributions",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Pratyush-Panda-2006/CAREERFORGE",
+      "number": 216,
+      "description": "feat(ai-voice-studio): show active voice sample playback",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Pratyush-Panda-2006/CAREERFORGE",
+      "number": 217,
+      "description": "feat(luxury-realms): add curated luxury amenity badges",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "pug-sh/pug",
+      "number": 197,
+      "description": "Fix/190 expired token cleanup",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "rafaelsilvabr/pdfHandler",
+      "number": 23,
+      "description": "Allow reordering images before creating a PDF",
+      "firstRecordedIn": "GitHub Search API snapshot 2026-11-04",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "rakeshnitb23/toolism",
+      "number": 162,
+      "description": "Feat/action mcp timeout",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "RizgarOzan/tmp-glyph-audit",
+      "number": 10,
+      "description": "Add JSON audit reports for CI (#4)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "RizgarOzan/tmp-glyph-audit",
+      "number": 11,
+      "description": "Add GitHub Actions glyph annotations (#5)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "RizgarOzan/tmp-glyph-audit",
+      "number": 12,
+      "description": "feat: scan Unity Localization string tables",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "RizgarOzan/tmp-glyph-audit",
+      "number": 13,
+      "description": "test: cover AuditReport behavior",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "RizgarOzan/tmp-glyph-audit",
+      "number": 14,
+      "description": "feat: allow custom CLI settings file",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "scs0209/claude-locator",
+      "number": 8,
+      "description": "Feat/issue 2 svelte 4 example",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "sdageltc/agent-durability-bench",
+      "number": 8,
+      "description": "feat: add AutoGen AgentChat v0.4 adapter (#4)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "sdageltc/letitloop",
+      "number": 113,
+      "description": "feat: add interactive WAL crash recovery visualizer (#90)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "sdlc-pro/spring-lens",
+      "number": 535,
+      "description": "Add transaction propagation behavior enum",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "seep-labs/cablegram-server",
+      "number": 12,
+      "description": "test: cover profile PIN and lock switch routes",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "seep-labs/cablegram-server",
+      "number": 13,
+      "description": "test: cover TV pairing PIN flows",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Sekelenao/Flinkboot",
+      "number": 143,
+      "description": "Enforce the non-null `StartupEnvironment.get(String)` contract with regression coverage",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Sekelenao/Flinkboot",
+      "number": 144,
+      "description": "Enforce execution parallelism versus max-parallelism validation with regression tests",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Sekelenao/Flinkboot",
+      "number": 285,
+      "description": "refactor(kafka): remove dead JUnit opens directive",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Sekelenao/Flinkboot",
+      "number": 286,
+      "description": "refactor(kafka): store delivery guarantees in enum field",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Sekelenao/Flinkboot",
+      "number": 287,
+      "description": "refactor(savepoint): remove legacy restore mode",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Sekelenao/Flinkboot",
+      "number": 293,
+      "description": "feat(savepoint): configure default savepoints directory",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Sekelenao/Flinkboot",
+      "number": 294,
+      "description": "feat(fluss): add sink builder customizer overload",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Sekelenao/Flinkboot",
+      "number": 295,
+      "description": "feat(fluss): add source builder customizer overload",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Sekelenao/Flinkboot",
+      "number": 296,
+      "description": "feat(kafka): add source client ID prefix",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices",
+      "number": 50,
+      "description": "ci: lint and typecheck frontend in PR validation",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices",
+      "number": 52,
+      "description": "fix: parse structured Ollama anomaly scores",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices",
+      "number": 53,
+      "description": "docs: add community issue and pull request templates",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "sid-lakhani/erml",
+      "number": 13,
+      "description": "docs: document edge cases and CPU inference benchmarks",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "skdas20/SkeoTrace",
+      "number": 7,
+      "description": "test: cover ledger hash chain and Merkle integrity",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "skdas20/SkeoTrace",
+      "number": 8,
+      "description": "Add Hindi translations to public trace page",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "SpiliosDimakopoulos/fintwin",
+      "number": 48,
+      "description": "Document public export and universe functions",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "SpiliosDimakopoulos/fintwin",
+      "number": 49,
+      "description": "Fix accessible names for scenario and forecast charts",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "stlynnxx/PartsandStock",
+      "number": 16,
+      "description": "Improve JSON file formatting with trailing newline",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "stlynnxx/Slippery-Penguin",
+      "number": 9,
+      "description": "feat: allow bypassing startup update check",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "stlynnxx/Slippery-Penguin",
+      "number": 23,
+      "description": "fix: clarify empty GTFOBins PDF results",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "stlynnxx/Slippery-Penguin",
+      "number": 24,
+      "description": "feat: add CSV report generation",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "stlynnxx/Slippery-Penguin",
+      "number": 25,
+      "description": "docs: add wiki installation guide for issue #10",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "StudentSuite/awesome-study-resources",
+      "number": 477,
+      "description": "fix: require HTTPS for study resources (#467)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "StudentSuite/awesome-study-resources",
+      "number": 478,
+      "description": "docs: align PR guidance with contribution workflow (#470)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "TanbirRamim/open-source-radar",
+      "number": 283,
+      "description": "feat(i18n): add German website locale",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "TanbirRamim/open-source-radar",
+      "number": 412,
+      "description": "feat(languages): add PowerShell quickstart",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Tektrix/pinfold",
+      "number": 13,
+      "description": "Fix tab count for group-name searches",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Tektrix/pinfold",
+      "number": 14,
+      "description": "Add tests for format helpers",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "thearchitect0x-glitch/ratchet",
+      "number": 12,
+      "description": "Enforce SPDX and copyright source-file headers",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "thearchitect0x-glitch/ratchet",
+      "number": 13,
+      "description": "Add property-based fuzz coverage for the MCP JSON-RPC parser",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "TheVicky1/Pact_OS",
+      "number": 613,
+      "description": "a11y(projects): announce accent swatch names and selection",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "thiagomvas/haven",
+      "number": 160,
+      "description": "feat(dashboard): refine service attention criteria (#152)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "timihack/authwarden",
+      "number": 47,
+      "description": "Fix/sqlmodel user store example",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "tonianev/eonmark",
+      "number": 17,
+      "description": "fix(rules): reject zero rules version and arms cap",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "tranquilo-art/tranquilo-app",
+      "number": 169,
+      "description": "docs: audit user-facing UI strings for #33",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "TSKVenkat/osprey",
+      "number": 49,
+      "description": "Add viewer role with route-level authorization",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "tuff-app/TUFF",
+      "number": 43,
+      "description": "test: cover comma-containing issue area choices",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "uttrflow/uttrflow-swift",
+      "number": 2134,
+      "description": "Fix picture existence checks without reading image data",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Valks-Terraria-Mods/PlatformHelper",
+      "number": 8,
+      "description": "Prevent extra placement of non-placeable and multi-tile items",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Veinar/draincheck",
+      "number": 140,
+      "description": "docs: json report jq recipes",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "visualfusion/feedkeeper",
+      "number": 32,
+      "description": "docs(deployment): cover Caddy, nginx and Traefik proxies",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "vivekchand/clawmetry",
+      "number": 5760,
+      "description": "Surface OpenClaw session public-share state in Guard without storing share tokens",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "VladPetrariu/Qullamaggie-breakout-scanner",
+      "number": 25,
+      "description": "Issue 10 expectancy confidence gate",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "VOLPAROSSA/volparossa-code",
+      "number": 24,
+      "description": "test: cover fragmented SSE framing and invalid UTF-8",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Webghost01-NG/stellar-event-sync",
+      "number": 68,
+      "description": "fix: centralize diagnostic secret redaction",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Webghost01-NG/stellar-event-sync",
+      "number": 71,
+      "description": "Issue 46 rpc fixture builders",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Xdabier/themerchantengine",
+      "number": 32,
+      "description": "fix(admin-services): return geo validation errors as observables",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Xdabier/themerchantengine",
+      "number": 59,
+      "description": "fix(admin-services): return category validation errors as observables",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "xlebore3o4ka/llvnim23",
+      "number": 2,
+      "description": "Fix/issue 1 static linking",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yakew7/DesignHub",
+      "number": 56,
+      "description": "Add palette import from Coolors URLs and hex codes",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yakew7/DesignHub",
+      "number": 57,
+      "description": "perf(typography): virtualize font browser",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yakew7/DesignHub",
+      "number": 58,
+      "description": "feat(pwa): add offline app shell",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yakew7/DesignHub",
+      "number": 288,
+      "description": "feat(effects): add highlighter text effect",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yakew7/DesignHub",
+      "number": 289,
+      "description": "feat(export): add Nuxt UI v3 token format",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yakew7/DesignHub",
+      "number": 290,
+      "description": "feat(background): add Memphis pattern generator",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yakew7/DesignHub",
+      "number": 292,
+      "description": "feat(social): add Etsy shop banner template",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yakew7/DesignHub",
+      "number": 340,
+      "description": "feat(colors): add EyeDropper support (#332)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yakew7/Fair-Code",
+      "number": 526,
+      "description": "Correct the Benefits Denial audit number",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yakew7/Fair-Code",
+      "number": 527,
+      "description": "Correct a numerical value in `index.html`",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yakew7/Fair-Code",
+      "number": 1141,
+      "description": "Fix/1098 explainer python smoke tests",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yakew7/Fair-Code",
+      "number": 1212,
+      "description": "test: cover generated file validation edge cases",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Yjnnev/Kat-Notes",
+      "number": 6,
+      "description": "Cancel todo editing on outside click",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Yjnnev/Kat-Notes",
+      "number": 10,
+      "description": "feat(todo): make list selection functional",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Yjnnev/Kat-Notes",
+      "number": 11,
+      "description": "fix(todo): make deleting todos functional",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Yjnnev/Lab-Track",
+      "number": 27,
+      "description": "feat(survey): add post-slip satisfaction survey",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yoavnir/specs2016",
+      "number": 511,
+      "description": "Resolve issue #510 in the 1.1.0 development line",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yoavnir/specs2016",
+      "number": 515,
+      "description": "Issue #504 - generate manpage automatically",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yoavnir/specs2016",
+      "number": 532,
+      "description": "docs: add TODclock conversion examples (#496)",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "zovo-one/crx-permission-risk",
+      "number": 5,
+      "description": "feat: classify common Chrome permissions",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "zovo-one/crx-permission-risk",
+      "number": 6,
+      "description": "test: compile README example as doctest",
+      "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    }
+  ]
+}

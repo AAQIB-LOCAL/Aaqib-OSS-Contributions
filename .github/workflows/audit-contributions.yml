@@ -1,6 +1,13 @@
 name: Contribution Audit
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/audit-contributions.yml"
+      - "data/contributions.json"
+      - "scripts/audit-contributions.mjs"
   schedule:
     - cron: "30 3 * * *"
   workflow_dispatch:
@@ -39,13 +46,13 @@ jobs:
 
       - name: Commit directly when content changes
         run: |
-          if git diff --quiet -- README.md; then
+          if git diff --quiet -- README.md data/contributions.json; then
             echo "Contribution audit is already current."
             exit 0
           fi
           git diff --check
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md data/contributions.json
           git commit -m "docs: refresh OSS contribution audit"
           git push origin HEAD:main

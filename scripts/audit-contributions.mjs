@@ -161,45 +161,104 @@ function existingDescriptions(readme) {
   return descriptions;
 }
 
-function buildTable(items, descriptions) {
+function buildTable(items) {
   return items
-    .map((item) => {
-      const repository = repositoryFromUrl(item.repository_url);
-      const key = `${repository}#${item.number}`;
-      const description = descriptions.get(key) || escapeMarkdown(item.title);
-      return `| ${markdownLink(repository)} | [#${item.number}](https://github.com/${repository}/pull/${item.number}) | ${description} | Merged |`;
-    })
+    .map(({ repository, number, description }) =>
+      `| ${markdownLink(repository)} | [#${number}](https://github.com/${repository}/pull/${number}) | ${description} | Merged |`,
+    )
     .join("\n");
 }
 
-const authoredPullRequestCount = await fetchAuthoredPullRequestCount();
+const observedAuthoredPullRequestCount = await fetchAuthoredPullRequestCount();
 const mergedPullRequests = await searchPullRequests(`author:${author} is:pr is:merged`);
-const externalMerged = mergedPullRequests.items
-  .filter((item) => item.pull_request?.merged_at)
-  .filter((item) => {
-    const repository = repositoryFromUrl(item.repository_url);
-    const repositoryOwner = repository?.split("/")[0]?.toLowerCase();
-    return repositoryOwner && !excludedOwners.has(repositoryOwner);
-  })
-  .sort((a, b) => repositoryFromUrl(a.repository_url).localeCompare(repositoryFromUrl(b.repository_url)) || a.number - b.number);
 
 const readmePath = "README.md";
+const ledgerPath = "data/contributions.json";
 const existingReadme = fs.readFileSync(readmePath, "utf8");
 const descriptions = existingDescriptions(existingReadme);
-const repositoryCounts = new Map();
-for (const item of externalMerged) {
-  const repository = repositoryFromUrl(item.repository_url);
-  repositoryCounts.set(repository, (repositoryCounts.get(repository) || 0) + 1);
+const storedLedger = JSON.parse(fs.readFileSync(ledgerPath, "utf8"));
+
+if (!Array.isArray(storedLedger.contributions)) {
+  throw new Error("data/contributions.json must contain a contributions array");
 }
 
-const repositoryBreakdown = [...repositoryCounts.entries()]
-  .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
-  .map(([repository, count]) => `| ${markdownLink(repository)} | ${count} |`)
+const contributionMap = new Map();
+for (const record of storedLedger.contributions) {
+  if (
+    typeof record.repository !== "string" ||
+    !/^([^/]+)\/([^/]+)$/.test(record.repository) ||
+    !Number.isInteger(record.number) ||
+    record.number < 1 ||
+    typeof record.description !== "string"
+  ) {
+    throw new Error("data/contributions.json contains an invalid contribution record");
+  }
+  const key = `${record.repository.toLowerCase()}#${record.number}`;
+  contributionMap.set(key, { ...record, lastSeenInSearch: false });
+}
+
+for (const item of mergedPullRequests.items) {
+  if (!item.pull_request?.merged_at) {
+    continue;
+  }
+
+  const repository = repositoryFromUrl(item.repository_url);
+  const repositoryOwner = repository?.split("/")[0]?.toLowerCase();
+  if (!repository || !repositoryOwner || excludedOwners.has(repositoryOwner)) {
+    continue;
+  }
+
+  const key = `${repository.toLowerCase()}#${item.number}`;
+  const previous = contributionMap.get(key);
+  contributionMap.set(key, {
+    repository: previous?.repository ?? repository,
+    number: item.number,
+    description:
+      descriptions.get(key) ??
+      previous?.description ??
+      escapeMarkdown(item.title),
+    firstRecordedIn: previous?.firstRecordedIn ?? "GitHub Search API",
+    lastSeenInSearch: true,
+  });
+}
+
+const externalContributions = [...contributionMap.values()].sort(
+  (a, b) =>
+    a.repository.toLowerCase().localeCompare(b.repository.toLowerCase()) ||
+    a.number - b.number,
+);
+const authoredPullRequestCount = Math.max(
+  Number(storedLedger.authoredPullRequestHighWatermark) || 0,
+  observedAuthoredPullRequestCount,
+);
+const repositoryCounts = new Map();
+for (const item of externalContributions) {
+  const key = item.repository.toLowerCase();
+  const existing = repositoryCounts.get(key);
+  if (existing) {
+    existing.count += 1;
+  } else {
+    repositoryCounts.set(key, { repository: item.repository, count: 1 });
+  }
+}
+
+const repositoryBreakdown = [...repositoryCounts.values()]
+  .sort((a, b) => b.count - a.count || a.repository.localeCompare(b.repository))
+  .map(({ repository, count }) => `| ${markdownLink(repository)} | ${count} |`)
   .join("\n");
 
-const auditTable = buildTable(externalMerged, descriptions);
+const auditTable = buildTable(externalContributions);
 const repositoryCount = repositoryCounts.size;
-const mergedCount = externalMerged.length;
+const mergedCount = externalContributions.length;
+
+const updatedLedger = {
+  ...storedLedger,
+  schemaVersion: 1,
+  authoredPullRequestHighWatermark: authoredPullRequestCount,
+  lastObservedPublicAuthoredPullRequestCount: observedAuthoredPullRequestCount,
+  contributions: externalContributions,
+};
+
 
 const readme = `# Aaqib OSS Contributions
 
@@ -216,11 +275,11 @@ A portfolio of shipped open-source work by \`${author}\` , focused on practical 
   <tr>
     <td align="center"><strong>${mergedCount}</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>${repositoryCount}</strong><br/>External repositories</td>
-    <td align="center"><strong>${authoredPullRequestCount}</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>${authoredPullRequestCount}</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
-The authored-PR count uses GitHub's public Search API query author:${author} is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
+The public authored-PR metric retains its highest previously observed public Search API count so a temporary drop in GitHub search results cannot lower the published total. The OSS ledger is backed by a committed historical dataset and only grows when new merged external PRs are discovered.
 ## Selected Engineering Work
 
 <table>
@@ -351,6 +410,8 @@ The broader audit currently discovers **${authoredPullRequestCount} authored Git
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.
+- **Historical retention:** `data/contributions.json` is the durable contribution ledger. Previously recorded merged PRs remain included if an upstream repository is deleted, made private, or disappears from GitHub Search.
+- **Authored-PR high-water mark:** The published public authored-PR total never decreases below the highest previously observed public count. The latest raw Search API observation is retained separately for diagnostics.
 - **Deterministic updates:** Existing contribution descriptions are preserved; new entries use PR titles until refined. Re-running without new contribution data produces no README change.
 
 </details>
@@ -362,8 +423,9 @@ GitHub Actions refreshes this date-free ledger daily or on manual workflow dispa
 The workflow:
 
 1. audits authored GitHub PRs through the GitHub API;
-2. regenerates date-free contribution rows and technical summaries;
-3. commits the README directly to the main branch only when content changes.
+2. merges newly discovered PRs into the durable historical ledger;
+3. regenerates date-free contribution rows and technical summaries;
+4. commits the README and ledger directly to the main branch only when content changes.
 
 
 ## Contribution Counting Rules
@@ -371,4 +433,6 @@ The workflow:
 Only merged pull requests to external upstream repositories appear in the verified ledger. Open PRs, issue work, fork-only commits, and unmerged changes are not counted as completed contributions.
 `;
 
+fs.mkdirSync("data", { recursive: true });
+fs.writeFileSync(ledgerPath, `${JSON.stringify(updatedLedger, null, 2)}\n`);
 fs.writeFileSync(readmePath, readme.endsWith("\n") ? readme : `${readme}\n`);

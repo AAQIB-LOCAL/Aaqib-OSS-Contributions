@@ -410,7 +410,7 @@ The broader audit currently discovers **${authoredPullRequestCount} authored Git
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.
-- **Historical retention:** `data/contributions.json` is the durable contribution ledger. Previously recorded merged PRs remain included if an upstream repository is deleted, made private, or disappears from GitHub Search.
+- **Historical retention:** \`data/contributions.json\` is the durable contribution ledger. Previously recorded merged PRs remain included if an upstream repository is deleted, made private, or disappears from GitHub Search.
 - **Authored-PR high-water mark:** The published public authored-PR total never decreases below the highest previously observed public count. The latest raw Search API observation is retained separately for diagnostics.
 - **Deterministic updates:** Existing contribution descriptions are preserved; new entries use PR titles until refined. Re-running without new contribution data produces no README change.
 

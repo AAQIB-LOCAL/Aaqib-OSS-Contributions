@@ -3,7 +3,7 @@
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
   "authoredPullRequestHighWatermark": 832,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 798,
+  "lastObservedPublicAuthoredPullRequestCount": 802,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -157,7 +157,7 @@
       "number": 6,
       "description": "Add unit coverage for international phone and SMS encoding",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "AmineChr54/MeetScribe",
@@ -423,6 +423,13 @@
       "number": 86,
       "description": "fix(cdp): remove duplicate TargetLock definition",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "bolubo/checkpoint-governor",
+      "number": 227,
+      "description": "feat(waste): support explicit Megatron save intervals",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -1007,6 +1014,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "GianlucaBave/murmury",
+      "number": 15,
+      "description": "Add Ollama and LM Studio local providers",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "got-a-page/website",
       "number": 21,
       "description": "feat: add answer-engine metadata and llms.txt",
@@ -1529,6 +1543,13 @@
       "number": 25,
       "description": "Fix host:port address bar navigation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "necoz-oss/is-kit",
+      "number": 385,
+      "description": "test: verify oneOf evaluation order and short-circuiting",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

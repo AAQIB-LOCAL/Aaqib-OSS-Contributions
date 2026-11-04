@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>327</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>169</strong><br/>External repositories</td>
+    <td align="center"><strong>330</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>171</strong><br/>External repositories</td>
     <td align="center"><strong>832</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 327 merged pull requests</summary>
+<summary>Browse all 330 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -175,6 +175,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#17](https://github.com/blixvip/NullMotion/pull/17) | feat: add frame-step keyboard shortcuts | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#18](https://github.com/blixvip/NullMotion/pull/18) | feat(export): show estimated time remaining | Merged |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#86](https://github.com/bolubo/checkpoint-governor/pull/86) | fix(cdp): remove duplicate TargetLock definition | Merged |
+| [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#227](https://github.com/bolubo/checkpoint-governor/pull/227) | feat(waste): support explicit Megatron save intervals | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#27](https://github.com/Bubblegunn/ai-slop-linter/pull/27) | Add pre-commit hooks for Markdown and commit messages | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#41](https://github.com/Bubblegunn/ai-slop-linter/pull/41) | feat: add SARIF output for code scanning | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#46](https://github.com/Bubblegunn/ai-slop-linter/pull/46) | Add reference markup residue rule (#14) | Merged |
@@ -258,6 +259,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#275](https://github.com/getsotto/sotto/pull/275) | Fix/250 env ls json | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#278](https://github.com/getsotto/sotto/pull/278) | fix(web): prevent duplicate environment shares | Merged |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | [#12](https://github.com/ggfto/DroidDeck/pull/12) | feat(i18n): add Hindi language option | Merged |
+| [GianlucaBave/murmury](https://github.com/GianlucaBave/murmury) | [#15](https://github.com/GianlucaBave/murmury/pull/15) | Add Ollama and LM Studio local providers | Merged |
 | [got-a-page/website](https://github.com/got-a-page/website) | [#21](https://github.com/got-a-page/website/pull/21) | feat: add answer-engine metadata and llms.txt | Merged |
 | [got-a-page/website](https://github.com/got-a-page/website) | [#30](https://github.com/got-a-page/website/pull/30) | feat: add sitemap and canonical page metadata | Merged |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | [#69](https://github.com/GustavoBaranda/chatflow-agent/pull/69) | fix: restore session state on cancellation | Merged |
@@ -333,6 +335,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | [#9](https://github.com/mrsarthi/Chorrent/pull/9) | feat: add shell completion generation | Merged |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | [#10](https://github.com/mrsarthi/Chorrent/pull/10) | Add machine-readable JSON CLI output | Merged |
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | [#25](https://github.com/Muvon/octoweb/pull/25) | Fix host:port address bar navigation | Merged |
+| [necoz-oss/is-kit](https://github.com/necoz-oss/is-kit) | [#385](https://github.com/necoz-oss/is-kit/pull/385) | test: verify oneOf evaluation order and short-circuiting | Merged |
 | [netweir/netweir](https://github.com/netweir/netweir) | [#163](https://github.com/netweir/netweir/pull/163) | fix(records): limit row selectors to read rows | Merged |
 | [ngpdf/ngpdf](https://github.com/ngpdf/ngpdf) | [#111](https://github.com/ngpdf/ngpdf/pull/111) | feat(core): complete document metadata | Merged |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#595](https://github.com/nikhilb2/simple_invoicing/pull/595) | fix(a11y): label company and marketplace fields | Merged |
@@ -448,7 +451,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 169 external repositories</summary>
+<summary>Browse merged PR counts across 171 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -491,6 +494,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 2 |
+| [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 2 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 2 |
@@ -539,7 +543,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | 1 |
 | [atomityhq/atomity-cms](https://github.com/atomityhq/atomity-cms) | 1 |
 | [BaryoDev/Vouch](https://github.com/BaryoDev/Vouch) | 1 |
-| [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [chipfighter/framekeeper](https://github.com/chipfighter/framekeeper) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
@@ -562,6 +565,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [gabrielvieiraf/finitemonkey](https://github.com/gabrielvieiraf/finitemonkey) | 1 |
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | 1 |
+| [GianlucaBave/murmury](https://github.com/GianlucaBave/murmury) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
@@ -582,6 +586,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | 1 |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | 1 |
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | 1 |
+| [necoz-oss/is-kit](https://github.com/necoz-oss/is-kit) | 1 |
 | [netweir/netweir](https://github.com/netweir/netweir) | 1 |
 | [ngpdf/ngpdf](https://github.com/ngpdf/ngpdf) | 1 |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 1 |
@@ -621,7 +626,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **327** |
+| **Total** | **330** |
 
 </details>
 

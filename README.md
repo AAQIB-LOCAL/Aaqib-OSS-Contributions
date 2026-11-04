@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>62</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>40</strong><br/>External repositories</td>
-    <td align="center"><strong>810</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>219</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>130</strong><br/>External repositories</td>
+    <td align="center"><strong>808</strong><br/>Publicly discoverable authored PRs</td>
   </tr>
 </table>
 
@@ -111,123 +111,370 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 62 merged pull requests</summary>
+<summary>Browse all 219 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
+| [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | [#9](https://github.com/aamirtechs/beforeyoupaste/pull/9) | feat: add Aadhaar Verhoeff detector | Merged |
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | [#89](https://github.com/adarshrkumar/ViaBay/pull/89) | test: add meaningful Playwright browser assertions (#87) | Merged |
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | [#90](https://github.com/adarshrkumar/ViaBay/pull/90) | test: cover modal backdrop clicks under scroll and zoom (#84) | Merged |
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#49](https://github.com/afrigov/afrigov/pull/49) | docs: add long-list filtering pattern | Merged |
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#50](https://github.com/afrigov/afrigov/pull/50) | feat: add contents navigation component | Merged |
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#51](https://github.com/afrigov/afrigov/pull/51) | docs: clarify header wrapping at tablet widths | Merged |
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#52](https://github.com/afrigov/afrigov/pull/52) | feat(video): support direct files and captions | Merged |
+| [agevenkat/vagejs](https://github.com/agevenkat/vagejs) | [#8](https://github.com/agevenkat/vagejs/pull/8) | Fix/long title description warnings | Merged |
+| [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | [#7](https://github.com/AkulTyagi11/StarStruck/pull/7) | feat(themes): add Kanagawa Wave palette | Merged |
+| [alok-108/phantom](https://github.com/alok-108/phantom) | [#41](https://github.com/alok-108/phantom/pull/41) | docs: add Hindi README and quickstart (#34) | Merged |
+| [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | [#64](https://github.com/AmineChr54/MeetScribe/pull/64) | Test/pure logic unit tests | Merged |
 | [amirbena/code-review-skill](https://github.com/amirbena/code-review-skill) | [#835](https://github.com/amirbena/code-review-skill/pull/835) | test: use canonical REPO_ROOT in seven test files | Merged |
 | [amirbena/code-review-skill](https://github.com/amirbena/code-review-skill) | [#836](https://github.com/amirbena/code-review-skill/pull/836) | test: make capability manifest schema checks exact | Merged |
+| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#232](https://github.com/AnayDhawan/UCIP/pull/232) | fix: update indicator count to five | Merged |
+| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#233](https://github.com/AnayDhawan/UCIP/pull/233) | fix: add root error boundaries and branded 404 | Merged |
+| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#234](https://github.com/AnayDhawan/UCIP/pull/234) | fix: reject invalid API limits | Merged |
+| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#235](https://github.com/AnayDhawan/UCIP/pull/235) | Fix/cells pagination total | Merged |
+| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#236](https://github.com/AnayDhawan/UCIP/pull/236) | fix(embed): show rank uncertainty and data freshness | Merged |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#245](https://github.com/AnayDhawan/UCIP/pull/245) | test: cover supported client runtime versions | Merged |
+| [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | [#441](https://github.com/answerLoops/answerLoops/pull/441) | Feat/article supplied context usage | Merged |
 | [ArijitGupta-in/geo-core](https://github.com/ArijitGupta-in/geo-core) | [#5](https://github.com/ArijitGupta-in/geo-core/pull/5) | feat(validation): export decimal axis validators | Merged |
+| [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | [#1161](https://github.com/arminazimi/evergreen/pull/1161) | feat: add Spring Boot lifecycle rules and migration fixtures | Merged |
+| [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | [#1162](https://github.com/arminazimi/evergreen/pull/1162) | feat: add Markdown scan report format | Merged |
+| [ashfall-sh/unripe](https://github.com/ashfall-sh/unripe) | [#7](https://github.com/ashfall-sh/unripe/pull/7) | feat: support Elixir mix.lock and Hex publish times | Merged |
+| [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | [#77](https://github.com/AtiinLabs/Ito/pull/77) | Fix Resume label for tracker-synced progress | Merged |
 | [atomityhq/atomity-cms](https://github.com/atomityhq/atomity-cms) | [#14](https://github.com/atomityhq/atomity-cms/pull/14) | fix: return 415 for unsupported request media types | Merged |
+| [BaryoDev/Vouch](https://github.com/BaryoDev/Vouch) | [#5](https://github.com/BaryoDev/Vouch/pull/5) | fix: reject empty strings in containment assertions | Merged |
+| [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#23](https://github.com/basitalisandhu/agent-config-audit/pull/23) | docs: add false-positive issue form | Merged |
+| [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#25](https://github.com/basitalisandhu/agent-config-audit/pull/25) | feat: add baseline mode for existing findings | Merged |
+| [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | [#8](https://github.com/BinaryBaconLabs/todo-app/pull/8) | feat: add persistent dark mode toggle (#7) | Merged |
+| [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | [#10](https://github.com/BinaryBaconLabs/todo-app/pull/10) | Feat/issue 9 todo filters | Merged |
+| [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#28](https://github.com/biolend83/tubehaus/pull/28) | docs(deploy): add nginx reverse proxy example | Merged |
+| [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#29](https://github.com/biolend83/tubehaus/pull/29) | feat(player): remember playback speed between visits | Merged |
+| [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#30](https://github.com/biolend83/tubehaus/pull/30) | design(branding): give TubeHaus an original house-play icon | Merged |
+| [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#31](https://github.com/biolend83/tubehaus/pull/31) | i18n: polish Spanish translations for issue #5 | Merged |
+| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#132](https://github.com/BistaDinesh03/critique/pull/132) | test: fail CI when frontend render tests lack Node | Merged |
+| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#133](https://github.com/BistaDinesh03/critique/pull/133) | fix(projects): select latest active question portably | Merged |
+| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#170](https://github.com/BistaDinesh03/critique/pull/170) | docs: remove stale localized README test counts | Merged |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#233](https://github.com/BistaDinesh03/critique/pull/233) | Docs/first contributor guide | Merged |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#235](https://github.com/BistaDinesh03/critique/pull/235) | test: cover Discover eligibility and pagination for #222 | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#17](https://github.com/blixvip/NullMotion/pull/17) | feat: add frame-step keyboard shortcuts | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#18](https://github.com/blixvip/NullMotion/pull/18) | feat(export): show estimated time remaining | Merged |
+| [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#86](https://github.com/bolubo/checkpoint-governor/pull/86) | fix(cdp): remove duplicate TargetLock definition | Merged |
+| [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#9](https://github.com/Bytewave1/dkit/pull/9) | ci: test dkit across Windows, macOS and Linux | Merged |
+| [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#11](https://github.com/Bytewave1/dkit/pull/11) | test: broaden CLI edge-case coverage (#8) | Merged |
+| [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#211](https://github.com/cellrishi-code/claude-skills-atlas/pull/211) | Add static smoke tests for documented examples | Merged |
 | [chipfighter/framekeeper](https://github.com/chipfighter/framekeeper) | [#17](https://github.com/chipfighter/framekeeper/pull/17) | Add custom endpoint troubleshooting checklist | Merged |
+| [codercops/toolbelt](https://github.com/codercops/toolbelt) | [#332](https://github.com/codercops/toolbelt/pull/332) | fix(base64): report original invalid character positions | Merged |
+| [crbtgab/housing-records](https://github.com/crbtgab/housing-records) | [#7](https://github.com/crbtgab/housing-records/pull/7) | Fix/borough border hit testing | Merged |
+| [DeandreT/ferrule](https://github.com/DeandreT/ferrule) | [#1120](https://github.com/DeandreT/ferrule/pull/1120) | feat(linux): add desktop and AppStream metadata | Merged |
+| [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | [#234](https://github.com/dgesteves/onsystem/pull/234) | fix: explain when no components are available | Merged |
+| [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | [#207](https://github.com/dgesteves/signoff-ui/pull/207) | test: cover reasoning stream and duration | Merged |
 | [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | [#19](https://github.com/DhanushNehru/pdf-xss-checker/pull/19) | fix: serialize pdf parsing across concurrent scans | Merged |
+| [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | [#367](https://github.com/dheerajjha/mcp-migrate/pull/367) | fix: use UTF-8 in findings renderer and tests | Merged |
+| [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | [#126](https://github.com/dheerajjha/reviewer/pull/126) | fix: choose the correct default compare base | Merged |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | [#134](https://github.com/dheerajjha/reviewer/pull/134) | fix: persist the review baseline commit for staleness checks | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#36](https://github.com/DhruvHarani1/lyra/pull/36) | feat: add optional Hindi and Punjabi lyric romanization | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#38](https://github.com/DhruvHarani1/lyra/pull/38) | feat(lyrics): add public-domain fallback for issue #2 | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#39](https://github.com/DhruvHarani1/lyra/pull/39) | fix(a11y): improve keyboard navigation in widget and settings | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#40](https://github.com/DhruvHarani1/lyra/pull/40) | feat: add Hindi UI translations for settings and shared screens | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#41](https://github.com/DhruvHarani1/lyra/pull/41) | fix(ui): improve light-theme contrast in settings | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#42](https://github.com/DhruvHarani1/lyra/pull/42) | Fix/issue 22 youtube control overlay | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#43](https://github.com/DhruvHarani1/lyra/pull/43) | Fix/issue 31 android compatibility report | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#44](https://github.com/DhruvHarani1/lyra/pull/44) | feat(studio): add deterministic motion backgrounds | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#59](https://github.com/DhruvHarani1/lyra/pull/59) | feat: add fullscreen keyboard shortcuts (#52) | Merged |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#25](https://github.com/DhruvHarani1/vega/pull/25) | feat(library): recover unavailable local music files | Merged |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#26](https://github.com/DhruvHarani1/vega/pull/26) | Improve provider failure diagnostics and recovery | Merged |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#27](https://github.com/DhruvHarani1/vega/pull/27) | feat(playlists): import and export M3U8 and JSON playlists | Merged |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#28](https://github.com/DhruvHarani1/vega/pull/28) | Handle YouTube background pauses with tap to resume | Merged |
+| [dominikgobel/kern](https://github.com/dominikgobel/kern) | [#26](https://github.com/dominikgobel/kern/pull/26) | fix: insert Alt-modified characters | Merged |
+| [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#7](https://github.com/eklavya2201/breakinggood/pull/7) | test: cover dependency scanner findings | Merged |
+| [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#8](https://github.com/eklavya2201/breakinggood/pull/8) | fix: detect browser challenge pages during capture | Merged |
+| [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | [#27](https://github.com/embedcatalog/embedcatalog/pull/27) | Add social media icons to public profiles | Merged |
+| [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#27](https://github.com/enlike21/ClimbUp/pull/27) | Mantener el foco del teclado dentro del menú de pausa | Merged |
+| [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#31](https://github.com/enlike21/ClimbUp/pull/31) | Añadir tests unitarios para StatisticsService | Merged |
+| [Erfouni/solidworks-GPT-plugin](https://github.com/Erfouni/solidworks-GPT-plugin) | [#29](https://github.com/Erfouni/solidworks-GPT-plugin/pull/29) | Fix/issue 26 feedback host validation | Merged |
+| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | [#1237](https://github.com/eugenioenko/ttt/pull/1237) | test(e2e): isolate find-bar clipboard test | Merged |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | [#1288](https://github.com/eugenioenko/ttt/pull/1288) | fix(plugin): clean up debug plugin replacements | Merged |
+| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#59](https://github.com/eyadstein/leaklens/pull/59) | Add CITATION.cff for GitHub citation metadata | Merged |
+| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#111](https://github.com/eyadstein/leaklens/pull/111) | feat(cli): color severity labels in terminal output | Merged |
+| [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | [#24](https://github.com/fatihserhatturan/noCap/pull/24) | feat: export report as PNG | Merged |
+| [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | [#14](https://github.com/featherpanel-com/translations/pull/14) | docs: correct README clone and sync instructions | Merged |
+| [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | [#58](https://github.com/feimacode/open-design-agent-kit/pull/58) | docs: update bundled content counts | Merged |
+| [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | [#59](https://github.com/feimacode/open-design-agent-kit/pull/59) | Feat/issue 48 pinterest pin format | Merged |
 | [flisk-sh/run-my-agents](https://github.com/flisk-sh/run-my-agents) | [#80](https://github.com/flisk-sh/run-my-agents/pull/80) | test(hook): add node:test suite for check.mjs | Merged |
+| [ForNeVeR/Fabricator](https://github.com/ForNeVeR/Fabricator) | [#116](https://github.com/ForNeVeR/Fabricator/pull/116) | Document required DigitalOcean domain:update scope | Merged |
+| [Foxworks-Studios/riftward](https://github.com/Foxworks-Studios/riftward) | [#19](https://github.com/Foxworks-Studios/riftward/pull/19) | fix(combat): expire abandoned prepared moves | Merged |
+| [francordel/kdemos](https://github.com/francordel/kdemos) | [#32](https://github.com/francordel/kdemos/pull/32) | fix: add accessible labels to icon-only buttons | Merged |
+| [francordel/kdemos](https://github.com/francordel/kdemos) | [#33](https://github.com/francordel/kdemos/pull/33) | refactor(i18n): extract English and Spanish translations | Merged |
+| [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | [#94](https://github.com/gabrielmongefranco/privatium/pull/94) | Fix/52 directory sizes | Merged |
+| [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | [#95](https://github.com/gabrielmongefranco/privatium/pull/95) | feat: give launcher an app-store layout | Merged |
+| [gabrielvieiraf/finitemonkey](https://github.com/gabrielvieiraf/finitemonkey) | [#129](https://github.com/gabrielvieiraf/finitemonkey/pull/129) | docs(generators): add workflow and flow templates | Merged |
+| [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | [#55](https://github.com/Gautam-aman/ResQNet/pull/55) | docs: correct beta installation release assets | Merged |
+| [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | [#12](https://github.com/ggfto/DroidDeck/pull/12) | feat(i18n): add Hindi language option | Merged |
+| [got-a-page/website](https://github.com/got-a-page/website) | [#21](https://github.com/got-a-page/website/pull/21) | feat: add answer-engine metadata and llms.txt | Merged |
 | [got-a-page/website](https://github.com/got-a-page/website) | [#30](https://github.com/got-a-page/website/pull/30) | feat: add sitemap and canonical page metadata | Merged |
+| [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | [#99](https://github.com/hayagrivai-labs/sciproof/pull/99) | docs: add shell pipeline reproducibility tutorial | Merged |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | [#257](https://github.com/hayagrivai-labs/sciproof/pull/257) | Add tests for manifest output validation | Merged |
+| [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | [#42](https://github.com/helalrules7/tibyan/pull/42) | fix(mushaf): include Saheeh translation version in credits | Merged |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#129](https://github.com/Huerte/algo-solutions-python/pull/129) | docs: clarify solution directory structure | Merged |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#132](https://github.com/Huerte/algo-solutions-python/pull/132) | docs: tag ten solutions by algorithm topic | Merged |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#133](https://github.com/Huerte/algo-solutions-python/pull/133) | test: add edge cases for letter percentage solution | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#146](https://github.com/Huerte/algo-solutions-python/pull/146) | docs: add issue and pull request templates | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#147](https://github.com/Huerte/algo-solutions-python/pull/147) | docs(python): add type hints and docstrings to solutions | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#148](https://github.com/Huerte/algo-solutions-python/pull/148) | docs(python): add complexity notes to solutions | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#155](https://github.com/Huerte/algo-solutions-python/pull/155) | ci: validate headers in changed solution files | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#156](https://github.com/Huerte/algo-solutions-python/pull/156) | test: add sort012 edge-case assertions | Merged |
+| [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#97](https://github.com/Huseynteymurzade28/tuiba/pull/97) | Add cargo-binstall release metadata | Merged |
+| [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#99](https://github.com/Huseynteymurzade28/tuiba/pull/99) | Feat/configurable colour themes | Merged |
+| [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#100](https://github.com/Huseynteymurzade28/tuiba/pull/100) | packaging: add Nix flake | Merged |
+| [hydope/chunkcite](https://github.com/hydope/chunkcite) | [#5](https://github.com/hydope/chunkcite/pull/5) | Expose verification threshold in CLI | Merged |
 | [ika100/sdlc-foundry](https://github.com/ika100/sdlc-foundry) | [#306](https://github.com/ika100/sdlc-foundry/pull/306) | fix(cplat): resolve sibling component clones (#272) | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#241](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/241) | feat: add hexadecimal floating-point formatting | Merged |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#169](https://github.com/jaikaran109/51_Web_Projects/pull/169) | Fix: add playable shapes game and correct layout | Merged |
+| [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#74](https://github.com/JamshidS/aiset/pull/74) | test: cover transcript state transitions | Merged |
+| [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#104](https://github.com/JamshidS/aiset/pull/104) | Feat/teammap outline | Merged |
+| [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#105](https://github.com/JamshidS/aiset/pull/105) | feat: add teammap run command | Merged |
+| [JExcellence/JEHibernate](https://github.com/JExcellence/JEHibernate) | [#11](https://github.com/JExcellence/JEHibernate/pull/11) | Add project style EditorConfig | Merged |
+| [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | [#81](https://github.com/KHolodilin/spring-transactional-outbox-kafka/pull/81) | Fix VT observability and naming | Merged |
+| [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | [#124](https://github.com/knnmelprop/YAADO/pull/124) | test(ackeret-polar): add hand-checked reference cases | Merged |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | [#125](https://github.com/knnmelprop/YAADO/pull/125) | Fix/102 openvsp script builder tests | Merged |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | [#126](https://github.com/knnmelprop/YAADO/pull/126) | fix: [launch-angle-sweep] replace result dictionaries with typed cont… | Merged |
+| [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#23](https://github.com/komallsingh/api-contract-guardian/pull/23) | docs: add API troubleshooting guidance | Merged |
+| [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#24](https://github.com/komallsingh/api-contract-guardian/pull/24) | test: assert contracts for multiple router mounts | Merged |
+| [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#25](https://github.com/komallsingh/api-contract-guardian/pull/25) | test: cover nested cross-file route discovery | Merged |
+| [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | [#6](https://github.com/Krrishkumar125/create-bullmq-app/pull/6) | fix(redis): rate-limit connection error logs | Merged |
+| [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | [#5](https://github.com/Krrishkumar125/zod-india/pull/5) | feat: add Udyam registration validator | Merged |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | [#114](https://github.com/Larson-Logan/medal-sync/pull/114) | fix(cli): align help command categories | Merged |
+| [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#192](https://github.com/LennardGeissler/blindbucket/pull/192) | feat(cli): report Go build metadata in version output | Merged |
+| [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | [#71](https://github.com/Lennonhaha/fibemate-react-native/pull/71) | Fix/67 jest no tests gate | Merged |
+| [livesport/homer](https://github.com/livesport/homer) | [#79](https://github.com/livesport/homer/pull/79) | test(console): cover download utilities (#51) | Merged |
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | [#16](https://github.com/MAKHMUDuz/melyar/pull/16) | test(innertube): cover parser response fixtures | Merged |
+| [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | [#32](https://github.com/malav2110/explain-diff-html/pull/32) | fix: name verification artifacts and omit attribution claims | Merged |
+| [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#148](https://github.com/McanKul/offpdf/pull/148) | feat(ocr): remember selected OCR languages | Merged |
+| [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | [#11](https://github.com/MeshLive/meshlive-android/pull/11) | docs: clarify release verification and terms | Merged |
+| [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | [#602](https://github.com/michaelegner/architecture-intelligence-platform/pull/602) | test: cover ClaimEffectSet.is_empty | Merged |
+| [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | [#603](https://github.com/michaelegner/architecture-intelligence-platform/pull/603) | test: cover utf8 helper encoding behavior | Merged |
+| [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#12](https://github.com/MilkteaTW1/piscout/pull/12) | i18n: add Hindi locale | Merged |
+| [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#13](https://github.com/MilkteaTW1/piscout/pull/13) | Add Urdu locale (#11) | Merged |
+| [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#14](https://github.com/MilkteaTW1/piscout/pull/14) | Add Arabic locale (#11) | Merged |
+| [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#17](https://github.com/MilkteaTW1/piscout/pull/17) | Add Spanish locale | Merged |
+| [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | [#17](https://github.com/Mr-Dark-debug/Moonfold/pull/17) | Map OpenCode usage-limit errors to handoff | Merged |
+| [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | [#9](https://github.com/mrsarthi/Chorrent/pull/9) | feat: add shell completion generation | Merged |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | [#10](https://github.com/mrsarthi/Chorrent/pull/10) | Add machine-readable JSON CLI output | Merged |
+| [Muvon/octoweb](https://github.com/Muvon/octoweb) | [#25](https://github.com/Muvon/octoweb/pull/25) | Fix host:port address bar navigation | Merged |
+| [netweir/netweir](https://github.com/netweir/netweir) | [#163](https://github.com/netweir/netweir/pull/163) | fix(records): limit row selectors to read rows | Merged |
+| [ngpdf/ngpdf](https://github.com/ngpdf/ngpdf) | [#111](https://github.com/ngpdf/ngpdf/pull/111) | feat(core): complete document metadata | Merged |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#595](https://github.com/nikhilb2/simple_invoicing/pull/595) | fix(a11y): label company and marketplace fields | Merged |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#596](https://github.com/nikhilb2/simple_invoicing/pull/596) | fix(backend): validate invoice item tax overrides | Merged |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#624](https://github.com/nikhilb2/simple_invoicing/pull/624) | fix: exclude purchase invoices from GSTR-1 validation | Merged |
+| [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#14](https://github.com/nitturkaryash/open-bpo/pull/14) | feat(console): show session elapsed duration | Merged |
+| [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | [#389](https://github.com/noruzzamans/gslider-blocks/pull/389) | fix(mcp): stop fabricating media attachment IDs | Merged |
+| [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
+| [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#6](https://github.com/oasamz09-ctrl/standup-digest/pull/6) | docs: clarify Google Forms quick start | Merged |
+| [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | [#200](https://github.com/olo-labs/olo-toolgate/pull/200) | Docs/json validate examples | Merged |
+| [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | [#1316](https://github.com/open-telemetry/opentelemetry-kotlin/pull/1316) | fix(logging): isolate failures during log emission | Merged |
+| [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | [#181](https://github.com/oscarbol09/jvm-mcp/pull/181) | feat(cli): add JSON output to list, memory, and threads | Merged |
+| [osrep/Runes2P.jl](https://github.com/osrep/Runes2P.jl) | [#117](https://github.com/osrep/Runes2P.jl/pull/117) | docs: refer to the first radial face (#22) | Merged |
+| [perfectmodelslab/ComfyUI-PerfectLab](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) | [#5](https://github.com/perfectmodelslab/ComfyUI-PerfectLab/pull/5) | feat: add fashion decade wildcard pack | Merged |
+| [petertzy/deeplocal-chat-adapter](https://github.com/petertzy/deeplocal-chat-adapter) | [#88](https://github.com/petertzy/deeplocal-chat-adapter/pull/88) | feat: discover project verification commands | Merged |
+| [PocketLLM/pocketllm-lite](https://github.com/PocketLLM/pocketllm-lite) | [#392](https://github.com/PocketLLM/pocketllm-lite/pull/392) | feat: localize skill details screen | Merged |
+| [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | [#23](https://github.com/Prabodh-dev/fairly/pull/23) | Add seeded hot-key benchmark distributions | Merged |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#216](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/216) | feat(ai-voice-studio): show active voice sample playback | Merged |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#217](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/217) | feat(luxury-realms): add curated luxury amenity badges | Merged |
 | [pug-sh/pug](https://github.com/pug-sh/pug) | [#197](https://github.com/pug-sh/pug/pull/197) | Fix/190 expired token cleanup | Merged |
+| [rafaelsilvabr/pdfHandler](https://github.com/rafaelsilvabr/pdfHandler) | [#23](https://github.com/rafaelsilvabr/pdfHandler/pull/23) | Allow reordering images before creating a PDF | Merged |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | [#162](https://github.com/rakeshnitb23/toolism/pull/162) | Feat/action mcp timeout | Merged |
+| [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#13](https://github.com/RizgarOzan/tmp-glyph-audit/pull/13) | test: cover AuditReport behavior | Merged |
+| [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#14](https://github.com/RizgarOzan/tmp-glyph-audit/pull/14) | feat: allow custom CLI settings file | Merged |
 | [scs0209/claude-locator](https://github.com/scs0209/claude-locator) | [#8](https://github.com/scs0209/claude-locator/pull/8) | Feat/issue 2 svelte 4 example | Merged |
+| [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | [#535](https://github.com/sdlc-pro/spring-lens/pull/535) | Add transaction propagation behavior enum | Merged |
+| [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | [#12](https://github.com/seep-labs/cablegram-server/pull/12) | test: cover profile PIN and lock switch routes | Merged |
+| [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | [#13](https://github.com/seep-labs/cablegram-server/pull/13) | test: cover TV pairing PIN flows | Merged |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#293](https://github.com/Sekelenao/Flinkboot/pull/293) | feat(savepoint): configure default savepoints directory | Merged |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#294](https://github.com/Sekelenao/Flinkboot/pull/294) | feat(fluss): add sink builder customizer overload | Merged |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#295](https://github.com/Sekelenao/Flinkboot/pull/295) | feat(fluss): add source builder customizer overload | Merged |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#296](https://github.com/Sekelenao/Flinkboot/pull/296) | feat(kafka): add source client ID prefix | Merged |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | [#50](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices/pull/50) | ci: lint and typecheck frontend in PR validation | Merged |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | [#52](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices/pull/52) | fix: parse structured Ollama anomaly scores | Merged |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | [#53](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices/pull/53) | docs: add community issue and pull request templates | Merged |
+| [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | [#13](https://github.com/sid-lakhani/erml/pull/13) | docs: document edge cases and CPU inference benchmarks | Merged |
+| [skdas20/SkeoTrace](https://github.com/skdas20/SkeoTrace) | [#7](https://github.com/skdas20/SkeoTrace/pull/7) | test: cover ledger hash chain and Merkle integrity | Merged |
+| [skdas20/SkeoTrace](https://github.com/skdas20/SkeoTrace) | [#8](https://github.com/skdas20/SkeoTrace/pull/8) | Add Hindi translations to public trace page | Merged |
+| [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#48](https://github.com/SpiliosDimakopoulos/fintwin/pull/48) | Document public export and universe functions | Merged |
+| [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#49](https://github.com/SpiliosDimakopoulos/fintwin/pull/49) | Fix accessible names for scenario and forecast charts | Merged |
 | [stlynnxx/PartsandStock](https://github.com/stlynnxx/PartsandStock) | [#16](https://github.com/stlynnxx/PartsandStock/pull/16) | Improve JSON file formatting with trailing newline | Merged |
+| [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#9](https://github.com/stlynnxx/Slippery-Penguin/pull/9) | feat: allow bypassing startup update check | Merged |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#23](https://github.com/stlynnxx/Slippery-Penguin/pull/23) | fix: clarify empty GTFOBins PDF results | Merged |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#24](https://github.com/stlynnxx/Slippery-Penguin/pull/24) | feat: add CSV report generation | Merged |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#25](https://github.com/stlynnxx/Slippery-Penguin/pull/25) | docs: add wiki installation guide for issue #10 | Merged |
+| [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#477](https://github.com/StudentSuite/awesome-study-resources/pull/477) | fix: require HTTPS for study resources (#467) | Merged |
+| [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#478](https://github.com/StudentSuite/awesome-study-resources/pull/478) | docs: align PR guidance with contribution workflow (#470) | Merged |
+| [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | [#283](https://github.com/TanbirRamim/open-source-radar/pull/283) | feat(i18n): add German website locale | Merged |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | [#412](https://github.com/TanbirRamim/open-source-radar/pull/412) | feat(languages): add PowerShell quickstart | Merged |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#13](https://github.com/Tektrix/pinfold/pull/13) | Fix tab count for group-name searches | Merged |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#14](https://github.com/Tektrix/pinfold/pull/14) | Add tests for format helpers | Merged |
 | [thiagomvas/haven](https://github.com/thiagomvas/haven) | [#160](https://github.com/thiagomvas/haven/pull/160) | feat(dashboard): refine service attention criteria (#152) | Merged |
+| [timihack/authwarden](https://github.com/timihack/authwarden) | [#47](https://github.com/timihack/authwarden/pull/47) | Fix/sqlmodel user store example | Merged |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | [#169](https://github.com/tranquilo-art/tranquilo-app/pull/169) | docs: audit user-facing UI strings for #33 | Merged |
+| [Valks-Terraria-Mods/PlatformHelper](https://github.com/Valks-Terraria-Mods/PlatformHelper) | [#8](https://github.com/Valks-Terraria-Mods/PlatformHelper/pull/8) | Prevent extra placement of non-placeable and multi-tile items | Merged |
+| [Veinar/draincheck](https://github.com/Veinar/draincheck) | [#140](https://github.com/Veinar/draincheck/pull/140) | docs: json report jq recipes | Merged |
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | [#25](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner/pull/25) | Issue 10 expectancy confidence gate | Merged |
+| [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | [#24](https://github.com/VOLPAROSSA/volparossa-code/pull/24) | test: cover fragmented SSE framing and invalid UTF-8 | Merged |
+| [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#68](https://github.com/Webghost01-NG/stellar-event-sync/pull/68) | fix: centralize diagnostic secret redaction | Merged |
+| [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#71](https://github.com/Webghost01-NG/stellar-event-sync/pull/71) | Issue 46 rpc fixture builders | Merged |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | [#32](https://github.com/Xdabier/themerchantengine/pull/32) | fix(admin-services): return geo validation errors as observables | Merged |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | [#59](https://github.com/Xdabier/themerchantengine/pull/59) | fix(admin-services): return category validation errors as observables | Merged |
+| [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | [#2](https://github.com/xlebore3o4ka/llvnim23/pull/2) | Fix/issue 1 static linking | Merged |
+| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#292](https://github.com/yakew7/DesignHub/pull/292) | feat(social): add Etsy shop banner template | Merged |
+| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#340](https://github.com/yakew7/DesignHub/pull/340) | feat(colors): add EyeDropper support (#332) | Merged |
+| [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#1141](https://github.com/yakew7/Fair-Code/pull/1141) | Fix/1098 explainer python smoke tests | Merged |
+| [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#1212](https://github.com/yakew7/Fair-Code/pull/1212) | test: cover generated file validation edge cases | Merged |
+| [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#6](https://github.com/Yjnnev/Kat-Notes/pull/6) | Cancel todo editing on outside click | Merged |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#10](https://github.com/Yjnnev/Kat-Notes/pull/10) | feat(todo): make list selection functional | Merged |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#11](https://github.com/Yjnnev/Kat-Notes/pull/11) | fix(todo): make deleting todos functional | Merged |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | [#27](https://github.com/Yjnnev/Lab-Track/pull/27) | feat(survey): add post-slip satisfaction survey | Merged |
+| [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#532](https://github.com/yoavnir/specs2016/pull/532) | docs: add TODclock conversion examples (#496) | Merged |
+| [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | [#5](https://github.com/zovo-one/crx-permission-risk/pull/5) | feat: classify common Chrome permissions | Merged |
+| [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | [#6](https://github.com/zovo-one/crx-permission-risk/pull/6) | test: compile README example as doctest | Merged |
 
 </details>
 
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 40 external repositories</summary>
+<summary>Browse merged PR counts across 130 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 5 |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 9 |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 8 |
+| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 6 |
+| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | 4 |
+| [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | 4 |
+| [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 4 |
+| [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 4 |
+| [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
+| [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
+| [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 3 |
+| [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
-| [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 3 |
+| [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 3 |
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | 2 |
 | [amirbena/code-review-skill](https://github.com/amirbena/code-review-skill) | 2 |
-| [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 2 |
+| [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | 2 |
+| [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 2 |
+| [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 2 |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 2 |
-| [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 2 |
+| [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 2 |
+| [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 2 |
+| [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | 2 |
+| [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | 2 |
+| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 2 |
+| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 2 |
+| [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 2 |
+| [francordel/kdemos](https://github.com/francordel/kdemos) | 2 |
+| [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 2 |
+| [got-a-page/website](https://github.com/got-a-page/website) | 2 |
+| [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 2 |
+| [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
+| [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | 2 |
+| [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 2 |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | 2 |
+| [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 2 |
+| [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | 2 |
+| [skdas20/SkeoTrace](https://github.com/skdas20/SkeoTrace) | 2 |
+| [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | 2 |
+| [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | 2 |
+| [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 2 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 2 |
+| [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 2 |
-| [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 2 |
-| [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 1 |
+| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 2 |
+| [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 2 |
+| [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | 2 |
+| [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | 1 |
+| [agevenkat/vagejs](https://github.com/agevenkat/vagejs) | 1 |
+| [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 1 |
+| [alok-108/phantom](https://github.com/alok-108/phantom) | 1 |
+| [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | 1 |
+| [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | 1 |
 | [ArijitGupta-in/geo-core](https://github.com/ArijitGupta-in/geo-core) | 1 |
+| [ashfall-sh/unripe](https://github.com/ashfall-sh/unripe) | 1 |
+| [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | 1 |
 | [atomityhq/atomity-cms](https://github.com/atomityhq/atomity-cms) | 1 |
+| [BaryoDev/Vouch](https://github.com/BaryoDev/Vouch) | 1 |
+| [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | 1 |
+| [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 1 |
 | [chipfighter/framekeeper](https://github.com/chipfighter/framekeeper) | 1 |
+| [codercops/toolbelt](https://github.com/codercops/toolbelt) | 1 |
+| [crbtgab/housing-records](https://github.com/crbtgab/housing-records) | 1 |
+| [DeandreT/ferrule](https://github.com/DeandreT/ferrule) | 1 |
+| [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | 1 |
+| [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | 1 |
 | [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | 1 |
-| [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 1 |
-| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 1 |
-| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 1 |
+| [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | 1 |
+| [dominikgobel/kern](https://github.com/dominikgobel/kern) | 1 |
+| [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | 1 |
+| [Erfouni/solidworks-GPT-plugin](https://github.com/Erfouni/solidworks-GPT-plugin) | 1 |
+| [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | 1 |
+| [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | 1 |
 | [flisk-sh/run-my-agents](https://github.com/flisk-sh/run-my-agents) | 1 |
-| [got-a-page/website](https://github.com/got-a-page/website) | 1 |
-| [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 1 |
+| [ForNeVeR/Fabricator](https://github.com/ForNeVeR/Fabricator) | 1 |
+| [Foxworks-Studios/riftward](https://github.com/Foxworks-Studios/riftward) | 1 |
+| [gabrielvieiraf/finitemonkey](https://github.com/gabrielvieiraf/finitemonkey) | 1 |
+| [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
+| [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | 1 |
+| [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
+| [hydope/chunkcite](https://github.com/hydope/chunkcite) | 1 |
 | [ika100/sdlc-foundry](https://github.com/ika100/sdlc-foundry) | 1 |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 1 |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | 1 |
+| [JExcellence/JEHibernate](https://github.com/JExcellence/JEHibernate) | 1 |
+| [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | 1 |
+| [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | 1 |
+| [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 1 |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | 1 |
+| [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 1 |
+| [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | 1 |
+| [livesport/homer](https://github.com/livesport/homer) | 1 |
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | 1 |
-| [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | 1 |
+| [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | 1 |
+| [McanKul/offpdf](https://github.com/McanKul/offpdf) | 1 |
+| [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | 1 |
+| [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | 1 |
+| [Muvon/octoweb](https://github.com/Muvon/octoweb) | 1 |
+| [netweir/netweir](https://github.com/netweir/netweir) | 1 |
+| [ngpdf/ngpdf](https://github.com/ngpdf/ngpdf) | 1 |
+| [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 1 |
+| [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | 1 |
+| [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | 1 |
+| [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | 1 |
+| [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 1 |
+| [osrep/Runes2P.jl](https://github.com/osrep/Runes2P.jl) | 1 |
+| [perfectmodelslab/ComfyUI-PerfectLab](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) | 1 |
+| [petertzy/deeplocal-chat-adapter](https://github.com/petertzy/deeplocal-chat-adapter) | 1 |
+| [PocketLLM/pocketllm-lite](https://github.com/PocketLLM/pocketllm-lite) | 1 |
+| [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | 1 |
 | [pug-sh/pug](https://github.com/pug-sh/pug) | 1 |
+| [rafaelsilvabr/pdfHandler](https://github.com/rafaelsilvabr/pdfHandler) | 1 |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | 1 |
 | [scs0209/claude-locator](https://github.com/scs0209/claude-locator) | 1 |
+| [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
+| [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | 1 |
 | [stlynnxx/PartsandStock](https://github.com/stlynnxx/PartsandStock) | 1 |
-| [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 1 |
 | [thiagomvas/haven](https://github.com/thiagomvas/haven) | 1 |
+| [timihack/authwarden](https://github.com/timihack/authwarden) | 1 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 1 |
+| [Valks-Terraria-Mods/PlatformHelper](https://github.com/Valks-Terraria-Mods/PlatformHelper) | 1 |
+| [Veinar/draincheck](https://github.com/Veinar/draincheck) | 1 |
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 1 |
+| [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
+| [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **62** |
+| [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 1 |
+| **Total** | **219** |
 
 </details>
 
@@ -244,7 +491,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **810 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **808 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

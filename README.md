@@ -11,13 +11,13 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>311</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>165</strong><br/>External repositories</td>
-    <td align="center"><strong>796</strong><br/>Publicly discoverable authored PRs</td>
+    <td align="center"><strong>327</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>169</strong><br/>External repositories</td>
+    <td align="center"><strong>832</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
-The authored-PR count uses GitHub's public Search API query author:Aaqibhafeezkhan is:pr and reflects publicly discoverable pull requests. It may differ from the signed-in pulls/authored view because that view can include results not exposed by public search. The OSS ledger below counts only merged PRs in repositories outside the configured non-external namespaces.
+The public authored-PR metric retains its highest previously observed public Search API count so a temporary drop in GitHub search results cannot lower the published total. The OSS ledger is backed by a committed historical dataset and only grows when new merged external PRs are discovered.
 ## Selected Engineering Work
 
 <table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 311 merged pull requests</summary>
+<summary>Browse all 327 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -136,7 +136,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [agevenkat/vagejs](https://github.com/agevenkat/vagejs) | [#8](https://github.com/agevenkat/vagejs/pull/8) | Fix/long title description warnings | Merged |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | [#7](https://github.com/AkulTyagi11/StarStruck/pull/7) | feat(themes): add Kanagawa Wave palette | Merged |
 | [alok-108/phantom](https://github.com/alok-108/phantom) | [#41](https://github.com/alok-108/phantom/pull/41) | docs: add Hindi README and quickstart (#34) | Merged |
-| [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | [#6](https://github.com/AlphaIsYour/eno-qr-studio/pull/6) | test: cover international phone and SMS encoding | Merged |
+| [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | [#6](https://github.com/AlphaIsYour/eno-qr-studio/pull/6) | Add unit coverage for international phone and SMS encoding | Merged |
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | [#64](https://github.com/AmineChr54/MeetScribe/pull/64) | Test/pure logic unit tests | Merged |
 | [amirbena/code-review-skill](https://github.com/amirbena/code-review-skill) | [#835](https://github.com/amirbena/code-review-skill/pull/835) | test: use canonical REPO_ROOT in seven test files | Merged |
 | [amirbena/code-review-skill](https://github.com/amirbena/code-review-skill) | [#836](https://github.com/amirbena/code-review-skill/pull/836) | test: make capability manifest schema checks exact | Merged |
@@ -170,11 +170,27 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#170](https://github.com/BistaDinesh03/critique/pull/170) | docs: remove stale localized README test counts | Merged |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#233](https://github.com/BistaDinesh03/critique/pull/233) | Docs/first contributor guide | Merged |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#235](https://github.com/BistaDinesh03/critique/pull/235) | test: cover Discover eligibility and pagination for #222 | Merged |
-| [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#19](https://github.com/BitanSarkar/coalesce-java/pull/19) | Run Redis integration tests with Testcontainers [skip release] | Merged |
+| [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#19](https://github.com/BitanSarkar/coalesce-java/pull/19) | Run Redis integration tests with Testcontainers | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#20](https://github.com/BitanSarkar/coalesce-java/pull/20) | #10: Make the follower poll interval configurable | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#17](https://github.com/blixvip/NullMotion/pull/17) | feat: add frame-step keyboard shortcuts | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#18](https://github.com/blixvip/NullMotion/pull/18) | feat(export): show estimated time remaining | Merged |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#86](https://github.com/bolubo/checkpoint-governor/pull/86) | fix(cdp): remove duplicate TargetLock definition | Merged |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#27](https://github.com/Bubblegunn/ai-slop-linter/pull/27) | Add pre-commit hooks for Markdown and commit messages | Merged |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#41](https://github.com/Bubblegunn/ai-slop-linter/pull/41) | feat: add SARIF output for code scanning | Merged |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#46](https://github.com/Bubblegunn/ai-slop-linter/pull/46) | Add reference markup residue rule (#14) | Merged |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#63](https://github.com/Bubblegunn/ai-slop-linter/pull/63) | fix: encode SARIF artifact URIs and repair schema URL | Merged |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#72](https://github.com/Bubblegunn/ai-slop-linter/pull/72) | fix: avoid bold-label findings on CV role lists (#8) | Merged |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#73](https://github.com/Bubblegunn/ai-slop-linter/pull/73) | docs(bench): define external linter comparison study | Merged |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#79](https://github.com/Bubblegunn/ai-slop-linter/pull/79) | feat: detect chatbot tracking parameters | Merged |
+| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#3](https://github.com/Bubblegunn/proactive-gate/pull/3) | Add `SqliteStore` implementation | Merged |
+| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#24](https://github.com/Bubblegunn/proactive-gate/pull/24) | Publish the reusable store contract test suite | Merged |
+| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#25](https://github.com/Bubblegunn/proactive-gate/pull/25) | Add PostgreSQL-backed store implementation with atomic increments, TTL handling, and contract coverage | Merged |
+| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | [#85](https://github.com/Bubblegunn/proactive-gate/pull/85) | docs: add adopter list and issue form (#67) | Merged |
+| [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | [#44](https://github.com/Bubblegunn/product-engineer/pull/44) | feat: add npm hook install command | Merged |
+| [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | [#46](https://github.com/Bubblegunn/product-engineer/pull/46) | feat(notes): generate customer changelog from commit blocks | Merged |
+| [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | [#49](https://github.com/Bubblegunn/product-engineer/pull/49) | Fix/check commits | Merged |
+| [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | [#43](https://github.com/Bubblegunn/surviving-lines/pull/43) | feat: add git subcommand executable alias | Merged |
+| [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | [#44](https://github.com/Bubblegunn/surviving-lines/pull/44) | feat: add author sorting by share gap (#30) | Merged |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#9](https://github.com/Bytewave1/dkit/pull/9) | ci: test dkit across Windows, macOS and Linux | Merged |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#11](https://github.com/Bytewave1/dkit/pull/11) | test: broaden CLI edge-case coverage (#8) | Merged |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#198](https://github.com/cellrishi-code/claude-skills-atlas/pull/198) | docs: add guide for maintainable skill tests | Merged |
@@ -304,7 +320,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | [#8](https://github.com/Louayzouaoui1/claude-hud/pull/8) | test: cover token counting and cache pricing (#7) | Merged |
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | [#16](https://github.com/MAKHMUDuz/melyar/pull/16) | test(innertube): cover parser response fixtures | Merged |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | [#32](https://github.com/malav2110/explain-diff-html/pull/32) | fix: name verification artifacts and omit attribution claims | Merged |
-| [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | test(desktop): preserve Open With intake order | Merged |
+| [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | Preserve Open With intake order with desktop regression coverage | Merged |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#148](https://github.com/McanKul/offpdf/pull/148) | feat(ocr): remember selected OCR languages | Merged |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | [#11](https://github.com/MeshLive/meshlive-android/pull/11) | docs: clarify release verification and terms | Merged |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | [#602](https://github.com/michaelegner/architecture-intelligence-platform/pull/602) | test: cover ClaimEffectSet.is_empty | Merged |
@@ -356,8 +372,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | [#535](https://github.com/sdlc-pro/spring-lens/pull/535) | Add transaction propagation behavior enum | Merged |
 | [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | [#12](https://github.com/seep-labs/cablegram-server/pull/12) | test: cover profile PIN and lock switch routes | Merged |
 | [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | [#13](https://github.com/seep-labs/cablegram-server/pull/13) | test: cover TV pairing PIN flows | Merged |
-| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#143](https://github.com/Sekelenao/Flinkboot/pull/143) | #134 fix(core): enforce non-null startup environment keys | Merged |
-| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#144](https://github.com/Sekelenao/Flinkboot/pull/144) | #138: Enforce execution parallelism validation | Merged |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#143](https://github.com/Sekelenao/Flinkboot/pull/143) | Enforce the non-null `StartupEnvironment.get(String)` contract with regression coverage | Merged |
+| [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#144](https://github.com/Sekelenao/Flinkboot/pull/144) | Enforce execution parallelism versus max-parallelism validation with regression tests | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#285](https://github.com/Sekelenao/Flinkboot/pull/285) | refactor(kafka): remove dead JUnit opens directive | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#286](https://github.com/Sekelenao/Flinkboot/pull/286) | refactor(kafka): store delivery guarantees in enum field | Merged |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | [#287](https://github.com/Sekelenao/Flinkboot/pull/287) | refactor(savepoint): remove legacy restore mode | Merged |
@@ -391,7 +407,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [timihack/authwarden](https://github.com/timihack/authwarden) | [#47](https://github.com/timihack/authwarden/pull/47) | Fix/sqlmodel user store example | Merged |
 | [tonianev/eonmark](https://github.com/tonianev/eonmark) | [#17](https://github.com/tonianev/eonmark/pull/17) | fix(rules): reject zero rules version and arms cap | Merged |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | [#169](https://github.com/tranquilo-art/tranquilo-app/pull/169) | docs: audit user-facing UI strings for #33 | Merged |
-| [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | [#49](https://github.com/TSKVenkat/osprey/pull/49) | feat: add viewer role with route-level authorization | Merged |
+| [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | [#49](https://github.com/TSKVenkat/osprey/pull/49) | Add viewer role with route-level authorization | Merged |
 | [tuff-app/TUFF](https://github.com/tuff-app/TUFF) | [#43](https://github.com/tuff-app/TUFF/pull/43) | test: cover comma-containing issue area choices | Merged |
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | [#2134](https://github.com/uttrflow/uttrflow-swift/pull/2134) | Fix picture existence checks without reading image data | Merged |
 | [Valks-Terraria-Mods/PlatformHelper](https://github.com/Valks-Terraria-Mods/PlatformHelper) | [#8](https://github.com/Valks-Terraria-Mods/PlatformHelper/pull/8) | Prevent extra placement of non-placeable and multi-tile items | Merged |
@@ -413,8 +429,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#290](https://github.com/yakew7/DesignHub/pull/290) | feat(background): add Memphis pattern generator | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#292](https://github.com/yakew7/DesignHub/pull/292) | feat(social): add Etsy shop banner template | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#340](https://github.com/yakew7/DesignHub/pull/340) | feat(colors): add EyeDropper support (#332) | Merged |
-| [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#526](https://github.com/yakew7/Fair-Code/pull/526) | docs: correct Benefits Denial audit number | Merged |
-| [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#527](https://github.com/yakew7/Fair-Code/pull/527) | Fix numerical value in index.html | Merged |
+| [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#526](https://github.com/yakew7/Fair-Code/pull/526) | Correct the Benefits Denial audit number | Merged |
+| [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#527](https://github.com/yakew7/Fair-Code/pull/527) | Correct a numerical value in `index.html` | Merged |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#1141](https://github.com/yakew7/Fair-Code/pull/1141) | Fix/1098 explainer python smoke tests | Merged |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#1212](https://github.com/yakew7/Fair-Code/pull/1212) | test: cover generated file validation edge cases | Merged |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#6](https://github.com/Yjnnev/Kat-Notes/pull/6) | Cancel todo editing on outside click | Merged |
@@ -432,7 +448,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 165 external repositories</summary>
+<summary>Browse merged PR counts across 169 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -442,16 +458,19 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 8 |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 8 |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 8 |
+| [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 7 |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 6 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
+| [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 4 |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | 4 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
+| [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 3 |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
@@ -472,6 +491,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 2 |
+| [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 2 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 2 |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
@@ -601,7 +621,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **311** |
+| **Total** | **327** |
 
 </details>
 
@@ -618,10 +638,12 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **796 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **832 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.
+- **Historical retention:** `data/contributions.json` is the durable contribution ledger. Previously recorded merged PRs remain included if an upstream repository is deleted, made private, or disappears from GitHub Search.
+- **Authored-PR high-water mark:** The published public authored-PR total never decreases below the highest previously observed public count. The latest raw Search API observation is retained separately for diagnostics.
 - **Deterministic updates:** Existing contribution descriptions are preserved; new entries use PR titles until refined. Re-running without new contribution data produces no README change.
 
 </details>
@@ -633,8 +655,9 @@ GitHub Actions refreshes this date-free ledger daily or on manual workflow dispa
 The workflow:
 
 1. audits authored GitHub PRs through the GitHub API;
-2. regenerates date-free contribution rows and technical summaries;
-3. commits the README directly to the main branch only when content changes.
+2. merges newly discovered PRs into the durable historical ledger;
+3. regenerates date-free contribution rows and technical summaries;
+4. commits the README and ledger directly to the main branch only when content changes.
 
 
 ## Contribution Counting Rules

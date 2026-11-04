@@ -3,7 +3,7 @@
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
   "authoredPullRequestHighWatermark": 832,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 796,
+  "lastObservedPublicAuthoredPullRequestCount": 798,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -883,7 +883,7 @@
     {
       "repository": "firstcontributions/first-contributions",
       "number": 123775,
-      "description": "**First OSS contribution:** Add Aaqibhafeez Khan to the Contributors list",
+      "description": "Add Aaqibhafeez Khan to Contributors list",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true
     },
@@ -981,21 +981,21 @@
     {
       "repository": "getsotto/sotto",
       "number": 252,
-      "description": "Fix concurrent environment key rotation with regression coverage",
+      "description": "Fix concurrent environment key rotation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true
     },
     {
       "repository": "getsotto/sotto",
       "number": 275,
-      "description": "Add `sotto env ls --json` with stable JSON output and coverage",
+      "description": "Fix/250 env ls json",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true
     },
     {
       "repository": "getsotto/sotto",
       "number": 278,
-      "description": "Prevent duplicate environment-share submissions with component-level concurrency protection and regression coverage",
+      "description": "fix(web): prevent duplicate environment shares",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true
     },
@@ -1408,7 +1408,7 @@
     {
       "repository": "lingdojo/kana-dojo",
       "number": 29804,
-      "description": "Add a Japanese false-friend content entry",
+      "description": "content: add new japanese false friend #36",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true
     },
@@ -2003,14 +2003,14 @@
     {
       "repository": "thearchitect0x-glitch/ratchet",
       "number": 12,
-      "description": "Enforce SPDX and copyright source-file headers",
+      "description": "test: enforce source file headers",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true
     },
     {
       "repository": "thearchitect0x-glitch/ratchet",
       "number": 13,
-      "description": "Add property-based fuzz coverage for the MCP JSON-RPC parser",
+      "description": "test: fuzz MCP JSON-RPC parser",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true
     },
@@ -2094,7 +2094,7 @@
     {
       "repository": "vivekchand/clawmetry",
       "number": 5760,
-      "description": "Surface OpenClaw session public-share state in Guard without storing share tokens",
+      "description": "fix: surface OpenClaw session share state",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true
     },
@@ -2262,7 +2262,7 @@
     {
       "repository": "yoavnir/specs2016",
       "number": 511,
-      "description": "Resolve issue #510 in the 1.1.0 development line",
+      "description": "Dev 1.1.0 issue510",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true
     },

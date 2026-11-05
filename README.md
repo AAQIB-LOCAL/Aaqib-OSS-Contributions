@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>332</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>172</strong><br/>External repositories</td>
+    <td align="center"><strong>336</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>173</strong><br/>External repositories</td>
     <td align="center"><strong>832</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 332 merged pull requests</summary>
+<summary>Browse all 336 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -121,6 +121,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | [#89](https://github.com/adarshrkumar/ViaBay/pull/89) | test: add meaningful Playwright browser assertions (#87) | Merged |
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | [#90](https://github.com/adarshrkumar/ViaBay/pull/90) | test: cover modal backdrop clicks under scroll and zoom (#84) | Merged |
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | [#7](https://github.com/adebayomoses/mcp-detector/pull/7) | Add SARIF 2.1.0 report output | Merged |
+| [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | [#9](https://github.com/adebayomoses/mcp-detector/pull/9) | Improve web app accessibility | Merged |
 | [Aepzie/cutline](https://github.com/Aepzie/cutline) | [#25](https://github.com/Aepzie/cutline/pull/25) | feat(render): highlight timed caption words | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#34](https://github.com/afrigov/afrigov/pull/34) | fix(pack): accurate Maasai shield in ke.svg | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#35](https://github.com/afrigov/afrigov/pull/35) | fix(pack): document Senegal NIN format | Merged |
@@ -301,6 +302,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#211](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/211) | Implement getcwd system call (#208) | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#212](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/212) | Handle Ctrl-C at the shell prompt (#209) | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#241](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/241) | feat: add hexadecimal floating-point formatting | Merged |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#247](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/247) | Add insertion-ordered LinkedHashMap | Merged |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#169](https://github.com/jaikaran109/51_Web_Projects/pull/169) | Fix: add playable shapes game and correct layout | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#74](https://github.com/JamshidS/aiset/pull/74) | test: cover transcript state transitions | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#104](https://github.com/JamshidS/aiset/pull/104) | Feat/teammap outline | Merged |
@@ -357,6 +359,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [osrep/Runes2P.jl](https://github.com/osrep/Runes2P.jl) | [#117](https://github.com/osrep/Runes2P.jl/pull/117) | docs: refer to the first radial face (#22) | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#389](https://github.com/pacocartones/free-llm-api-hub/pull/389) | data(vercel-ai-gateway): record prompt retention policy | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#391](https://github.com/pacocartones/free-llm-api-hub/pull/391) | data(rev-ai): clarify free-credit commercial terms | Merged |
+| [PatrickAttankurugu/AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP) | [#79](https://github.com/PatrickAttankurugu/AfricaPEP/pull/79) | test: cover Wikidata party affiliation extraction | Merged |
+| [PatrickAttankurugu/AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP) | [#80](https://github.com/PatrickAttankurugu/AfricaPEP/pull/80) | Feat/arabic name transliteration | Merged |
 | [perfectmodelslab/ComfyUI-PerfectLab](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) | [#5](https://github.com/perfectmodelslab/ComfyUI-PerfectLab/pull/5) | feat: add fashion decade wildcard pack | Merged |
 | [petertzy/deeplocal-chat-adapter](https://github.com/petertzy/deeplocal-chat-adapter) | [#88](https://github.com/petertzy/deeplocal-chat-adapter/pull/88) | feat: discover project verification commands | Merged |
 | [PocketLLM/pocketllm-lite](https://github.com/PocketLLM/pocketllm-lite) | [#392](https://github.com/PocketLLM/pocketllm-lite/pull/392) | feat: localize skill details screen | Merged |
@@ -453,7 +457,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 172 external repositories</summary>
+<summary>Browse merged PR counts across 173 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -472,6 +476,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 4 |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | 4 |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 4 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
@@ -481,7 +486,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
-| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 3 |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 3 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
@@ -491,6 +495,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 3 |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | 2 |
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | 2 |
+| [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 2 |
 | [amirbena/code-review-skill](https://github.com/amirbena/code-review-skill) | 2 |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | 2 |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 2 |
@@ -517,6 +522,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 2 |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
+| [PatrickAttankurugu/AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP) | 2 |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | 2 |
 | [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | 2 |
 | [skdas20/SkeoTrace](https://github.com/skdas20/SkeoTrace) | 2 |
@@ -529,7 +535,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 2 |
 | [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | 2 |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | 1 |
-| [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 1 |
 | [Aepzie/cutline](https://github.com/Aepzie/cutline) | 1 |
 | [agevenkat/vagejs](https://github.com/agevenkat/vagejs) | 1 |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 1 |
@@ -629,7 +634,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **332** |
+| **Total** | **336** |
 
 </details>
 

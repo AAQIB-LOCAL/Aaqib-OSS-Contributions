@@ -3,7 +3,7 @@
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
   "authoredPullRequestHighWatermark": 832,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 814,
+  "lastObservedPublicAuthoredPullRequestCount": 817,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -703,6 +703,13 @@
       "number": 19,
       "description": "fix: serialize pdf parsing across concurrent scans",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "DHEENA0007/typebridge",
+      "number": 6,
+      "description": "feat(cli): add dry-run previews and colorized drift diffs",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -2110,6 +2117,13 @@
       "number": 14,
       "description": "Add tests for format helpers",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Tektrix/pinfold",
+      "number": 35,
+      "description": "test: add coverage for icon utility helpers",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

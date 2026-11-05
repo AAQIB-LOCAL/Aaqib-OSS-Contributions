@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>345</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>180</strong><br/>External repositories</td>
+    <td align="center"><strong>347</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>181</strong><br/>External repositories</td>
     <td align="center"><strong>832</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 345 merged pull requests</summary>
+<summary>Browse all 347 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -215,6 +215,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | [#234](https://github.com/dgesteves/onsystem/pull/234) | fix: explain when no components are available | Merged |
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | [#207](https://github.com/dgesteves/signoff-ui/pull/207) | test: cover reasoning stream and duration | Merged |
 | [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | [#19](https://github.com/DhanushNehru/pdf-xss-checker/pull/19) | fix: serialize pdf parsing across concurrent scans | Merged |
+| [DHEENA0007/typebridge](https://github.com/DHEENA0007/typebridge) | [#6](https://github.com/DHEENA0007/typebridge/pull/6) | feat(cli): add dry-run previews and colorized drift diffs | Merged |
 | [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | [#367](https://github.com/dheerajjha/mcp-migrate/pull/367) | fix: use UTF-8 in findings renderer and tests | Merged |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | [#126](https://github.com/dheerajjha/reviewer/pull/126) | fix: choose the correct default compare base | Merged |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | [#134](https://github.com/dheerajjha/reviewer/pull/134) | fix: persist the review baseline commit for staleness checks | Merged |
@@ -416,6 +417,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | [#412](https://github.com/TanbirRamim/open-source-radar/pull/412) | feat(languages): add PowerShell quickstart | Merged |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#13](https://github.com/Tektrix/pinfold/pull/13) | Fix tab count for group-name searches | Merged |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#14](https://github.com/Tektrix/pinfold/pull/14) | Add tests for format helpers | Merged |
+| [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#35](https://github.com/Tektrix/pinfold/pull/35) | test: add coverage for icon utility helpers | Merged |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#12](https://github.com/thearchitect0x-glitch/ratchet/pull/12) | test: enforce source file headers | Merged |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#13](https://github.com/thearchitect0x-glitch/ratchet/pull/13) | test: fuzz MCP JSON-RPC parser | Merged |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | [#613](https://github.com/TheVicky1/Pact_OS/pull/613) | a11y(projects): announce accent swatch names and selection | Merged |
@@ -466,7 +468,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 180 external repositories</summary>
+<summary>Browse merged PR counts across 181 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -500,6 +502,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
+| [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 3 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 3 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 3 |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 3 |
@@ -539,7 +542,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | 2 |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | 2 |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 2 |
-| [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 2 |
@@ -572,6 +574,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | 1 |
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | 1 |
 | [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | 1 |
+| [DHEENA0007/typebridge](https://github.com/DHEENA0007/typebridge) | 1 |
 | [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | 1 |
 | [dominikgobel/kern](https://github.com/dominikgobel/kern) | 1 |
 | [elimu-ai/VoltAir](https://github.com/elimu-ai/VoltAir) | 1 |
@@ -650,7 +653,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **345** |
+| **Total** | **347** |
 
 </details>
 

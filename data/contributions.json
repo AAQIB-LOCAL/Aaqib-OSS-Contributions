@@ -3,7 +3,7 @@
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
   "authoredPullRequestHighWatermark": 832,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 807,
+  "lastObservedPublicAuthoredPullRequestCount": 813,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -972,6 +972,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "G4SBO/PatchLight",
+      "number": 5,
+      "description": "feat: add BleepingComputer news feed",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "gabrielmongefranco/privatium",
       "number": 81,
       "description": "Upgrade GitHub Actions to Node 24",
@@ -1144,6 +1151,13 @@
       "number": 27,
       "description": "Feat/issue 17 held out ranking evaluation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "hslee16/Archy",
+      "number": 816,
+      "description": "test(affected): cover question mark path separator boundary",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -1739,6 +1753,13 @@
       "number": 88,
       "description": "feat: discover project verification commands",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "petertzy/markdown-reader",
+      "number": 463,
+      "description": "docs: refresh README and organize user documentation",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

@@ -3,7 +3,7 @@
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
   "authoredPullRequestHighWatermark": 832,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 813,
+  "lastObservedPublicAuthoredPullRequestCount": 814,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -51,6 +51,13 @@
       "repository": "adebayomoses/mcp-detector",
       "number": 9,
       "description": "Improve web app accessibility",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "adlerqa/wardeniq",
+      "number": 228,
+      "description": "fix: handle installer runs without a tty",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
@@ -622,6 +629,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "ColinGPT9/clips-studio",
+      "number": 217,
+      "description": "fix(i18n): translate UI attributes across components",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "crbtgab/housing-records",
       "number": 7,
       "description": "Fix/borough border hit testing",
@@ -822,6 +836,13 @@
       "number": 8,
       "description": "fix: detect browser challenge pages during capture",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "elimu-ai/VoltAir",
+      "number": 91,
+      "description": "Update Android package name to ai.elimu.voltair",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -1045,6 +1066,13 @@
       "repository": "GianlucaBave/murmury",
       "number": 15,
       "description": "Add Ollama and LM Studio local providers",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "gmi-software/react-native-better-maps",
+      "number": 202,
+      "description": "fix(ios): expose localized provider configuration errors",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
@@ -2131,6 +2159,20 @@
       "number": 169,
       "description": "docs: audit user-facing UI strings for #33",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "tranquilo-art/tranquilo-app",
+      "number": 197,
+      "description": "test: make shelf share tests independent of build output",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "tranquilo-art/tranquilo-app",
+      "number": 198,
+      "description": "test: tighten image proxy origin handler tests",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

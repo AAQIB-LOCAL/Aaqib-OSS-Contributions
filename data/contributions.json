@@ -62,6 +62,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "adlerqa/wardeniq",
+      "number": 229,
+      "description": "fix(config): make Ollama settings fields optional",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "Aepzie/cutline",
       "number": 25,
       "description": "feat(render): highlight timed caption words",
@@ -2229,6 +2236,13 @@
       "number": 43,
       "description": "test: cover comma-containing issue area choices",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ujjwalv01/releaseproof",
+      "number": 141,
+      "description": "test: rebuild latest published releaseproof release",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

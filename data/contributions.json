@@ -3,7 +3,7 @@
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
   "authoredPullRequestHighWatermark": 832,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 817,
+  "lastObservedPublicAuthoredPullRequestCount": 824,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -457,6 +457,13 @@
       "repository": "bolubo/checkpoint-governor",
       "number": 229,
       "description": "test(python): measure step glue overhead at 100k steps",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "boromat/polanon",
+      "number": 26,
+      "description": "fix(guards): mask Polish phones with bare 48 prefix",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
@@ -1648,20 +1655,41 @@
       "number": 595,
       "description": "fix(a11y): label company and marketplace fields",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "nikhilb2/simple_invoicing",
       "number": 596,
       "description": "fix(backend): validate invoice item tax overrides",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "nikhilb2/simple_invoicing",
       "number": 624,
       "description": "fix: exclude purchase invoices from GSTR-1 validation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": false
+    },
+    {
+      "repository": "nikhilb2/simple-invoicing-free-gst-billing-software",
+      "number": 595,
+      "description": "fix(a11y): label company and marketplace fields",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "nikhilb2/simple-invoicing-free-gst-billing-software",
+      "number": 596,
+      "description": "fix(backend): validate invoice item tax overrides",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "nikhilb2/simple-invoicing-free-gst-billing-software",
+      "number": 624,
+      "description": "fix: exclude purchase invoices from GSTR-1 validation",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

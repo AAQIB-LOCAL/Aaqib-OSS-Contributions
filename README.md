@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>347</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>181</strong><br/>External repositories</td>
+    <td align="center"><strong>351</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>183</strong><br/>External repositories</td>
     <td align="center"><strong>832</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 347 merged pull requests</summary>
+<summary>Browse all 351 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -180,6 +180,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#86](https://github.com/bolubo/checkpoint-governor/pull/86) | fix(cdp): remove duplicate TargetLock definition | Merged |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#227](https://github.com/bolubo/checkpoint-governor/pull/227) | feat(waste): support explicit Megatron save intervals | Merged |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#229](https://github.com/bolubo/checkpoint-governor/pull/229) | test(python): measure step glue overhead at 100k steps | Merged |
+| [boromat/polanon](https://github.com/boromat/polanon) | [#26](https://github.com/boromat/polanon/pull/26) | fix(guards): mask Polish phones with bare 48 prefix | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#27](https://github.com/Bubblegunn/ai-slop-linter/pull/27) | Add pre-commit hooks for Markdown and commit messages | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#41](https://github.com/Bubblegunn/ai-slop-linter/pull/41) | feat: add SARIF output for code scanning | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#46](https://github.com/Bubblegunn/ai-slop-linter/pull/46) | Add reference markup residue rule (#14) | Merged |
@@ -352,6 +353,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#595](https://github.com/nikhilb2/simple_invoicing/pull/595) | fix(a11y): label company and marketplace fields | Merged |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#596](https://github.com/nikhilb2/simple_invoicing/pull/596) | fix(backend): validate invoice item tax overrides | Merged |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#624](https://github.com/nikhilb2/simple_invoicing/pull/624) | fix: exclude purchase invoices from GSTR-1 validation | Merged |
+| [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#595](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/595) | fix(a11y): label company and marketplace fields | Merged |
+| [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#596](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/596) | fix(backend): validate invoice item tax overrides | Merged |
+| [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#624](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/624) | fix: exclude purchase invoices from GSTR-1 validation | Merged |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#14](https://github.com/nitturkaryash/open-bpo/pull/14) | feat(console): show session elapsed duration | Merged |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | [#389](https://github.com/noruzzamans/gslider-blocks/pull/389) | fix(mcp): stop fabricating media attachment IDs | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
@@ -468,7 +472,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 181 external repositories</summary>
+<summary>Browse merged PR counts across 183 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -501,6 +505,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 3 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 3 |
+| [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 3 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 3 |
@@ -564,6 +569,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | 1 |
 | [atomityhq/atomity-cms](https://github.com/atomityhq/atomity-cms) | 1 |
 | [BaryoDev/Vouch](https://github.com/BaryoDev/Vouch) | 1 |
+| [boromat/polanon](https://github.com/boromat/polanon) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [chipfighter/framekeeper](https://github.com/chipfighter/framekeeper) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
@@ -653,7 +659,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **347** |
+| **Total** | **351** |
 
 </details>
 

@@ -1483,6 +1483,20 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "laaielichter/Ai-edit-studio",
+      "number": 34,
+      "description": "docs: sync tool counts and version labels",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "laaielichter/Ai-edit-studio",
+      "number": 37,
+      "description": "docs: add troubleshooting guidance for common errors",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "Larson-Logan/medal-sync",
       "number": 114,
       "description": "fix(cli): align help command categories",
@@ -1529,6 +1543,13 @@
       "number": 8,
       "description": "test: cover token counting and cache pricing (#7)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "mahanmntz/pa-varaq",
+      "number": 32,
+      "description": "feat(api): redact personal data from logs",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

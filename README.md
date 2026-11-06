@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>353</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>184</strong><br/>External repositories</td>
+    <td align="center"><strong>356</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>186</strong><br/>External repositories</td>
     <td align="center"><strong>832</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 353 merged pull requests</summary>
+<summary>Browse all 356 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -326,6 +326,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#25](https://github.com/komallsingh/api-contract-guardian/pull/25) | test: cover nested cross-file route discovery | Merged |
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | [#6](https://github.com/Krrishkumar125/create-bullmq-app/pull/6) | fix(redis): rate-limit connection error logs | Merged |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | [#5](https://github.com/Krrishkumar125/zod-india/pull/5) | feat: add Udyam registration validator | Merged |
+| [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#34](https://github.com/laaielichter/Ai-edit-studio/pull/34) | docs: sync tool counts and version labels | Merged |
+| [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#37](https://github.com/laaielichter/Ai-edit-studio/pull/37) | docs: add troubleshooting guidance for common errors | Merged |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | [#114](https://github.com/Larson-Logan/medal-sync/pull/114) | fix(cli): align help command categories | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#14](https://github.com/LennardGeissler/blindbucket/pull/14) | feat(cli): add JSON output to keys list | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#192](https://github.com/LennardGeissler/blindbucket/pull/192) | feat(cli): report Go build metadata in version output | Merged |
@@ -333,6 +335,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | [#29804](https://github.com/lingdojo/kana-dojo/pull/29804) | content: add new japanese false friend #36 | Merged |
 | [livesport/homer](https://github.com/livesport/homer) | [#79](https://github.com/livesport/homer/pull/79) | test(console): cover download utilities (#51) | Merged |
 | [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | [#8](https://github.com/Louayzouaoui1/claude-hud/pull/8) | test: cover token counting and cache pricing (#7) | Merged |
+| [mahanmntz/pa-varaq](https://github.com/mahanmntz/pa-varaq) | [#32](https://github.com/mahanmntz/pa-varaq/pull/32) | feat(api): redact personal data from logs | Merged |
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | [#16](https://github.com/MAKHMUDuz/melyar/pull/16) | test(innertube): cover parser response fixtures | Merged |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | [#32](https://github.com/malav2110/explain-diff-html/pull/32) | fix: name verification artifacts and omit attribution claims | Merged |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | Preserve Open With intake order with desktop regression coverage | Merged |
@@ -474,7 +477,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 184 external repositories</summary>
+<summary>Browse merged PR counts across 186 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -536,6 +539,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [got-a-page/website](https://github.com/got-a-page/website) | 2 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 2 |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 2 |
+| [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | 2 |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 2 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
@@ -616,6 +620,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
 | [livesport/homer](https://github.com/livesport/homer) | 1 |
 | [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | 1 |
+| [mahanmntz/pa-varaq](https://github.com/mahanmntz/pa-varaq) | 1 |
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | 1 |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | 1 |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | 1 |
@@ -662,7 +667,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **353** |
+| **Total** | **356** |
 
 </details>
 

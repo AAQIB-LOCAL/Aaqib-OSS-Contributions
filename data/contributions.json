@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 833,
+  "authoredPullRequestHighWatermark": 836,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 833,
+  "lastObservedPublicAuthoredPullRequestCount": 836,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -1977,6 +1977,13 @@
       "number": 14,
       "description": "feat: allow custom CLI settings file",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "rp2839/visio-mcp",
+      "number": 97,
+      "description": "docs: [A01] Document second-user named-pipe isolation acceptance procedure",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

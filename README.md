@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>365</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>189</strong><br/>External repositories</td>
-    <td align="center"><strong>833</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>366</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>190</strong><br/>External repositories</td>
+    <td align="center"><strong>836</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 365 merged pull requests</summary>
+<summary>Browse all 366 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -397,6 +397,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#12](https://github.com/RizgarOzan/tmp-glyph-audit/pull/12) | feat: scan Unity Localization string tables | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#13](https://github.com/RizgarOzan/tmp-glyph-audit/pull/13) | test: cover AuditReport behavior | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#14](https://github.com/RizgarOzan/tmp-glyph-audit/pull/14) | feat: allow custom CLI settings file | Merged |
+| [rp2839/visio-mcp](https://github.com/rp2839/visio-mcp) | [#97](https://github.com/rp2839/visio-mcp/pull/97) | docs: [A01] Document second-user named-pipe isolation acceptance procedure | Merged |
 | [scs0209/claude-locator](https://github.com/scs0209/claude-locator) | [#8](https://github.com/scs0209/claude-locator/pull/8) | Feat/issue 2 svelte 4 example | Merged |
 | [sdageltc/agent-durability-bench](https://github.com/sdageltc/agent-durability-bench) | [#8](https://github.com/sdageltc/agent-durability-bench/pull/8) | feat: add AutoGen AgentChat v0.4 adapter (#4) | Merged |
 | [sdageltc/letitloop](https://github.com/sdageltc/letitloop) | [#113](https://github.com/sdageltc/letitloop/pull/113) | feat: add interactive WAL crash recovery visualizer (#90) | Merged |
@@ -486,7 +487,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 189 external repositories</summary>
+<summary>Browse merged PR counts across 190 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -659,6 +660,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [pug-sh/pug](https://github.com/pug-sh/pug) | 1 |
 | [rafaelsilvabr/pdfHandler](https://github.com/rafaelsilvabr/pdfHandler) | 1 |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | 1 |
+| [rp2839/visio-mcp](https://github.com/rp2839/visio-mcp) | 1 |
 | [scs0209/claude-locator](https://github.com/scs0209/claude-locator) | 1 |
 | [sdageltc/agent-durability-bench](https://github.com/sdageltc/agent-durability-bench) | 1 |
 | [sdageltc/letitloop](https://github.com/sdageltc/letitloop) | 1 |
@@ -679,7 +681,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 1 |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **365** |
+| **Total** | **366** |
 
 </details>
 
@@ -696,7 +698,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **833 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **836 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

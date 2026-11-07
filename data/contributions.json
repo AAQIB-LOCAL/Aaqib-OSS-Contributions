@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 832,
+  "authoredPullRequestHighWatermark": 833,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 824,
+  "lastObservedPublicAuthoredPullRequestCount": 833,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -356,6 +356,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "BinaryBaconLabs/todo-app",
+      "number": 31,
+      "description": "Add text search for todos",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "biolend83/tubehaus",
       "number": 28,
       "description": "docs(deploy): add nginx reverse proxy example",
@@ -444,6 +451,13 @@
       "number": 18,
       "description": "feat(export): show estimated time remaining",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "blixvip/NullMotion",
+      "number": 22,
+      "description": "fix: improve preview page accessibility",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -622,11 +636,18 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "chipfighter/context-attachment-manager",
+      "number": 17,
+      "description": "Add custom endpoint troubleshooting checklist",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "chipfighter/framekeeper",
       "number": 17,
       "description": "Add custom endpoint troubleshooting checklist",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "codercops/discord-bot",
@@ -1301,6 +1322,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "isaaclins/taskboard",
+      "number": 13,
+      "description": "Fix issue 6 mobile topbar",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "ismayilzeynal/tabulint-oss-az",
       "number": 26,
       "description": "Improve boolean type inference for textual literals",
@@ -1480,6 +1508,13 @@
       "number": 5,
       "description": "feat: add Udyam registration validator",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "laaielichter/Ai-edit-studio",
+      "number": 33,
+      "description": "feat: export timeline captions as SRT and VTT",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -1725,6 +1760,13 @@
       "number": 14,
       "description": "feat(console): show session elapsed duration",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "nooriegarg/ContribIQ",
+      "number": 59,
+      "description": "fix: Handle unavailable password reset requests correctly",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -2267,6 +2309,20 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "ujjwalv01/releaseproof",
+      "number": 142,
+      "description": "ci: retain staged release verification report",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "ujjwalv01/releaseproof",
+      "number": 143,
+      "description": "ci: report scheduled live test failures",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "uttrflow/uttrflow-swift",
       "number": 2134,
       "description": "Fix picture existence checks without reading image data",
@@ -2348,6 +2404,13 @@
       "number": 2,
       "description": "Fix/issue 1 static linking",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "xlebore3o4ka/llvnim23",
+      "number": 4,
+      "description": "Add missing LLVM target data bindings",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>356</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>186</strong><br/>External repositories</td>
-    <td align="center"><strong>832</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>365</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>189</strong><br/>External repositories</td>
+    <td align="center"><strong>833</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 356 merged pull requests</summary>
+<summary>Browse all 365 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -165,6 +165,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#25](https://github.com/basitalisandhu/agent-config-audit/pull/25) | feat: add baseline mode for existing findings | Merged |
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | [#8](https://github.com/BinaryBaconLabs/todo-app/pull/8) | feat: add persistent dark mode toggle (#7) | Merged |
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | [#10](https://github.com/BinaryBaconLabs/todo-app/pull/10) | Feat/issue 9 todo filters | Merged |
+| [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | [#31](https://github.com/BinaryBaconLabs/todo-app/pull/31) | Add text search for todos | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#28](https://github.com/biolend83/tubehaus/pull/28) | docs(deploy): add nginx reverse proxy example | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#29](https://github.com/biolend83/tubehaus/pull/29) | feat(player): remember playback speed between visits | Merged |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | [#30](https://github.com/biolend83/tubehaus/pull/30) | design(branding): give TubeHaus an original house-play icon | Merged |
@@ -178,6 +179,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#20](https://github.com/BitanSarkar/coalesce-java/pull/20) | #10: Make the follower poll interval configurable | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#17](https://github.com/blixvip/NullMotion/pull/17) | feat: add frame-step keyboard shortcuts | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#18](https://github.com/blixvip/NullMotion/pull/18) | feat(export): show estimated time remaining | Merged |
+| [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#22](https://github.com/blixvip/NullMotion/pull/22) | fix: improve preview page accessibility | Merged |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#86](https://github.com/bolubo/checkpoint-governor/pull/86) | fix(cdp): remove duplicate TargetLock definition | Merged |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#227](https://github.com/bolubo/checkpoint-governor/pull/227) | feat(waste): support explicit Megatron save intervals | Merged |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#229](https://github.com/bolubo/checkpoint-governor/pull/229) | test(python): measure step glue overhead at 100k steps | Merged |
@@ -203,6 +205,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#198](https://github.com/cellrishi-code/claude-skills-atlas/pull/198) | docs: add guide for maintainable skill tests | Merged |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#211](https://github.com/cellrishi-code/claude-skills-atlas/pull/211) | Add static smoke tests for documented examples | Merged |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | [#545](https://github.com/chaoss/CollectOSS/pull/545) | docs: fix sample database compose formatting | Merged |
+| [chipfighter/context-attachment-manager](https://github.com/chipfighter/context-attachment-manager) | [#17](https://github.com/chipfighter/context-attachment-manager/pull/17) | Add custom endpoint troubleshooting checklist | Merged |
 | [chipfighter/framekeeper](https://github.com/chipfighter/framekeeper) | [#17](https://github.com/chipfighter/framekeeper/pull/17) | Add custom endpoint troubleshooting checklist | Merged |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | [#29](https://github.com/codercops/discord-bot/pull/29) | fix: skip unchanged starter issue feed edits | Merged |
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) | [#332](https://github.com/codercops/toolbelt/pull/332) | fix(base64): report original invalid character positions | Merged |
@@ -300,6 +303,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#100](https://github.com/Huseynteymurzade28/tuiba/pull/100) | packaging: add Nix flake | Merged |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | [#5](https://github.com/hydope/chunkcite/pull/5) | Expose verification threshold in CLI | Merged |
 | [ika100/sdlc-foundry](https://github.com/ika100/sdlc-foundry) | [#306](https://github.com/ika100/sdlc-foundry/pull/306) | fix(cplat): resolve sibling component clones (#272) | Merged |
+| [isaaclins/taskboard](https://github.com/isaaclins/taskboard) | [#13](https://github.com/isaaclins/taskboard/pull/13) | Fix issue 6 mobile topbar | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#26](https://github.com/ismayilzeynal/tabulint-oss-az/pull/26) | Improve boolean type inference for textual literals | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#27](https://github.com/ismayilzeynal/tabulint-oss-az/pull/27) | Add CLI quiet mode | Merged |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | [#28](https://github.com/ismayilzeynal/tabulint-oss-az/pull/28) | Add CLI report output file option | Merged |
@@ -326,6 +330,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#25](https://github.com/komallsingh/api-contract-guardian/pull/25) | test: cover nested cross-file route discovery | Merged |
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | [#6](https://github.com/Krrishkumar125/create-bullmq-app/pull/6) | fix(redis): rate-limit connection error logs | Merged |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | [#5](https://github.com/Krrishkumar125/zod-india/pull/5) | feat: add Udyam registration validator | Merged |
+| [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#33](https://github.com/laaielichter/Ai-edit-studio/pull/33) | feat: export timeline captions as SRT and VTT | Merged |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#34](https://github.com/laaielichter/Ai-edit-studio/pull/34) | docs: sync tool counts and version labels | Merged |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#37](https://github.com/laaielichter/Ai-edit-studio/pull/37) | docs: add troubleshooting guidance for common errors | Merged |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | [#114](https://github.com/Larson-Logan/medal-sync/pull/114) | fix(cli): align help command categories | Merged |
@@ -361,6 +366,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#596](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/596) | fix(backend): validate invoice item tax overrides | Merged |
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#624](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/624) | fix: exclude purchase invoices from GSTR-1 validation | Merged |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#14](https://github.com/nitturkaryash/open-bpo/pull/14) | feat(console): show session elapsed duration | Merged |
+| [nooriegarg/ContribIQ](https://github.com/nooriegarg/ContribIQ) | [#59](https://github.com/nooriegarg/ContribIQ/pull/59) | fix: Handle unavailable password reset requests correctly | Merged |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | [#389](https://github.com/noruzzamans/gslider-blocks/pull/389) | fix(mcp): stop fabricating media attachment IDs | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#6](https://github.com/oasamz09-ctrl/standup-digest/pull/6) | docs: clarify Google Forms quick start | Merged |
@@ -438,6 +444,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | [#49](https://github.com/TSKVenkat/osprey/pull/49) | Add viewer role with route-level authorization | Merged |
 | [tuff-app/TUFF](https://github.com/tuff-app/TUFF) | [#43](https://github.com/tuff-app/TUFF/pull/43) | test: cover comma-containing issue area choices | Merged |
 | [ujjwalv01/releaseproof](https://github.com/ujjwalv01/releaseproof) | [#141](https://github.com/ujjwalv01/releaseproof/pull/141) | test: rebuild latest published releaseproof release | Merged |
+| [ujjwalv01/releaseproof](https://github.com/ujjwalv01/releaseproof) | [#142](https://github.com/ujjwalv01/releaseproof/pull/142) | ci: retain staged release verification report | Merged |
+| [ujjwalv01/releaseproof](https://github.com/ujjwalv01/releaseproof) | [#143](https://github.com/ujjwalv01/releaseproof/pull/143) | ci: report scheduled live test failures | Merged |
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | [#2134](https://github.com/uttrflow/uttrflow-swift/pull/2134) | Fix picture existence checks without reading image data | Merged |
 | [Valks-Terraria-Mods/PlatformHelper](https://github.com/Valks-Terraria-Mods/PlatformHelper) | [#8](https://github.com/Valks-Terraria-Mods/PlatformHelper/pull/8) | Prevent extra placement of non-placeable and multi-tile items | Merged |
 | [Veinar/draincheck](https://github.com/Veinar/draincheck) | [#140](https://github.com/Veinar/draincheck/pull/140) | docs: json report jq recipes | Merged |
@@ -450,6 +458,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | [#32](https://github.com/Xdabier/themerchantengine/pull/32) | fix(admin-services): return geo validation errors as observables | Merged |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | [#59](https://github.com/Xdabier/themerchantengine/pull/59) | fix(admin-services): return category validation errors as observables | Merged |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | [#2](https://github.com/xlebore3o4ka/llvnim23/pull/2) | Fix/issue 1 static linking | Merged |
+| [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | [#4](https://github.com/xlebore3o4ka/llvnim23/pull/4) | Add missing LLVM target data bindings | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#56](https://github.com/yakew7/DesignHub/pull/56) | Add palette import from Coolors URLs and hex codes | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#57](https://github.com/yakew7/DesignHub/pull/57) | perf(typography): virtualize font browser | Merged |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | [#58](https://github.com/yakew7/DesignHub/pull/58) | feat(pwa): add offline app shell | Merged |
@@ -477,7 +486,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 186 external repositories</summary>
+<summary>Browse merged PR counts across 189 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -500,6 +509,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
+| [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 3 |
+| [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 3 |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | 3 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 3 |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 3 |
@@ -509,11 +520,13 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 3 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
+| [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | 3 |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 3 |
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 3 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 3 |
+| [ujjwalv01/releaseproof](https://github.com/ujjwalv01/releaseproof) | 3 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 3 |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 3 |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | 2 |
@@ -523,9 +536,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [amirbena/code-review-skill](https://github.com/amirbena/code-review-skill) | 2 |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | 2 |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 2 |
-| [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
-| [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 2 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 2 |
@@ -539,7 +550,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [got-a-page/website](https://github.com/got-a-page/website) | 2 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 2 |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 2 |
-| [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | 2 |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 2 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
@@ -557,6 +567,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 2 |
+| [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 2 |
 | [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | 2 |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | 1 |
 | [Aepzie/cutline](https://github.com/Aepzie/cutline) | 1 |
@@ -577,6 +588,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BaryoDev/Vouch](https://github.com/BaryoDev/Vouch) | 1 |
 | [boromat/polanon](https://github.com/boromat/polanon) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
+| [chipfighter/context-attachment-manager](https://github.com/chipfighter/context-attachment-manager) | 1 |
 | [chipfighter/framekeeper](https://github.com/chipfighter/framekeeper) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) | 1 |
@@ -610,6 +622,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [hslee16/Archy](https://github.com/hslee16/Archy) | 1 |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | 1 |
 | [ika100/sdlc-foundry](https://github.com/ika100/sdlc-foundry) | 1 |
+| [isaaclins/taskboard](https://github.com/isaaclins/taskboard) | 1 |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | 1 |
 | [JExcellence/JEHibernate](https://github.com/JExcellence/JEHibernate) | 1 |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | 1 |
@@ -630,6 +643,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [netweir/netweir](https://github.com/netweir/netweir) | 1 |
 | [ngpdf/ngpdf](https://github.com/ngpdf/ngpdf) | 1 |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 1 |
+| [nooriegarg/ContribIQ](https://github.com/nooriegarg/ContribIQ) | 1 |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | 1 |
 | [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | 1 |
 | [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | 1 |
@@ -657,7 +671,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [tonianev/eonmark](https://github.com/tonianev/eonmark) | 1 |
 | [TSKVenkat/osprey](https://github.com/TSKVenkat/osprey) | 1 |
 | [tuff-app/TUFF](https://github.com/tuff-app/TUFF) | 1 |
-| [ujjwalv01/releaseproof](https://github.com/ujjwalv01/releaseproof) | 1 |
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | 1 |
 | [Valks-Terraria-Mods/PlatformHelper](https://github.com/Valks-Terraria-Mods/PlatformHelper) | 1 |
 | [Veinar/draincheck](https://github.com/Veinar/draincheck) | 1 |
@@ -665,9 +678,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 1 |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
-| [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **356** |
+| **Total** | **365** |
 
 </details>
 
@@ -684,7 +696,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **832 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **833 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

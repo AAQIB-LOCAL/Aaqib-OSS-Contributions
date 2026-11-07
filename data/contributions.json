@@ -440,6 +440,20 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "blixvip/GenMotion",
+      "number": 18,
+      "description": "fix: make npm test work on Node 20",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "blixvip/MotionClone",
+      "number": 33,
+      "description": "fix: validate pasted video URLs before creating projects",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "blixvip/NullMotion",
       "number": 17,
       "description": "feat: add frame-step keyboard shortcuts",
@@ -457,6 +471,13 @@
       "repository": "blixvip/NullMotion",
       "number": 22,
       "description": "fix: improve preview page accessibility",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "blixvip/NullMotion",
+      "number": 51,
+      "description": "test: comprehensively cover media streaming routes",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
@@ -2383,6 +2404,13 @@
       "number": 8,
       "description": "Prevent extra placement of non-placeable and multi-tile items",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "VarshithReddy2006/DevTrack",
+      "number": 107,
+      "description": "feat(projects): add project task deletion API",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

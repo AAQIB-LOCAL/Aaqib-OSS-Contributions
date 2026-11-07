@@ -1539,6 +1539,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "laaielichter/Godotwright",
+      "number": 155,
+      "description": "feat(ci): emit GitHub workflow annotations",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "Larson-Logan/medal-sync",
       "number": 114,
       "description": "fix(cli): align help command categories",
@@ -1949,6 +1956,13 @@
       "number": 162,
       "description": "Feat/action mcp timeout",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "rakeshnitb23/toolism",
+      "number": 165,
+      "description": "docs: add feature request issue form",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

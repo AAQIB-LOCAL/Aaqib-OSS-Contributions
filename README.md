@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>368</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>190</strong><br/>External repositories</td>
+    <td align="center"><strong>370</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>191</strong><br/>External repositories</td>
     <td align="center"><strong>840</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 368 merged pull requests</summary>
+<summary>Browse all 370 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -334,6 +334,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#33](https://github.com/laaielichter/Ai-edit-studio/pull/33) | feat: export timeline captions as SRT and VTT | Merged |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#34](https://github.com/laaielichter/Ai-edit-studio/pull/34) | docs: sync tool counts and version labels | Merged |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#37](https://github.com/laaielichter/Ai-edit-studio/pull/37) | docs: add troubleshooting guidance for common errors | Merged |
+| [laaielichter/Godotwright](https://github.com/laaielichter/Godotwright) | [#155](https://github.com/laaielichter/Godotwright/pull/155) | feat(ci): emit GitHub workflow annotations | Merged |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | [#114](https://github.com/Larson-Logan/medal-sync/pull/114) | fix(cli): align help command categories | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#14](https://github.com/LennardGeissler/blindbucket/pull/14) | feat(cli): add JSON output to keys list | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#192](https://github.com/LennardGeissler/blindbucket/pull/192) | feat(cli): report Go build metadata in version output | Merged |
@@ -393,6 +394,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [pug-sh/pug](https://github.com/pug-sh/pug) | [#197](https://github.com/pug-sh/pug/pull/197) | Fix/190 expired token cleanup | Merged |
 | [rafaelsilvabr/pdfHandler](https://github.com/rafaelsilvabr/pdfHandler) | [#23](https://github.com/rafaelsilvabr/pdfHandler/pull/23) | Allow reordering images before creating a PDF | Merged |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | [#162](https://github.com/rakeshnitb23/toolism/pull/162) | Feat/action mcp timeout | Merged |
+| [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | [#165](https://github.com/rakeshnitb23/toolism/pull/165) | docs: add feature request issue form | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#10](https://github.com/RizgarOzan/tmp-glyph-audit/pull/10) | Add JSON audit reports for CI (#4) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#11](https://github.com/RizgarOzan/tmp-glyph-audit/pull/11) | Add GitHub Actions glyph annotations (#5) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#12](https://github.com/RizgarOzan/tmp-glyph-audit/pull/12) | feat: scan Unity Localization string tables | Merged |
@@ -489,7 +491,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 190 external repositories</summary>
+<summary>Browse merged PR counts across 191 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -562,6 +564,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
 | [PatrickAttankurugu/AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP) | 2 |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | 2 |
+| [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | 2 |
 | [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | 2 |
 | [skdas20/SkeoTrace](https://github.com/skdas20/SkeoTrace) | 2 |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | 2 |
@@ -631,6 +634,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | 1 |
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | 1 |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 1 |
+| [laaielichter/Godotwright](https://github.com/laaielichter/Godotwright) | 1 |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | 1 |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | 1 |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
@@ -661,7 +665,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | 1 |
 | [pug-sh/pug](https://github.com/pug-sh/pug) | 1 |
 | [rafaelsilvabr/pdfHandler](https://github.com/rafaelsilvabr/pdfHandler) | 1 |
-| [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | 1 |
 | [rp2839/visio-mcp](https://github.com/rp2839/visio-mcp) | 1 |
 | [scs0209/claude-locator](https://github.com/scs0209/claude-locator) | 1 |
 | [sdageltc/agent-durability-bench](https://github.com/sdageltc/agent-durability-bench) | 1 |
@@ -683,7 +686,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 1 |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **368** |
+| **Total** | **370** |
 
 </details>
 

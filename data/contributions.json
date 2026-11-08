@@ -3,7 +3,7 @@
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
   "authoredPullRequestHighWatermark": 849,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 844,
+  "lastObservedPublicAuthoredPullRequestCount": 847,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -965,6 +965,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "eugenioenko/ttt",
+      "number": 1411,
+      "description": "feat: prompt to create missing save directories",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "eyadstein/leaklens",
       "number": 59,
       "description": "Add CITATION.cff for GitHub citation metadata",
@@ -1150,6 +1157,13 @@
       "repository": "GianlucaBave/murmury",
       "number": 15,
       "description": "Add Ollama and LM Studio local providers",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "GillMacedo/racesift",
+      "number": 11,
+      "description": "test: cover Windows race report paths",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
@@ -1494,6 +1508,13 @@
       "number": 11,
       "description": "Add project style EditorConfig",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "jzheaux/reader",
+      "number": 212,
+      "description": "Refresh open deck overview when slides or theme change",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -1865,6 +1886,13 @@
       "number": 200,
       "description": "Docs/json validate examples",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "olo-labs/olo-toolgate",
+      "number": 276,
+      "description": "docs: add automated Markdown link validation",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

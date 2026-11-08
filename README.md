@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>381</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>198</strong><br/>External repositories</td>
+    <td align="center"><strong>385</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>200</strong><br/>External repositories</td>
     <td align="center"><strong>849</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 381 merged pull requests</summary>
+<summary>Browse all 385 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -252,6 +252,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Erfouni/solidworks-GPT-plugin](https://github.com/Erfouni/solidworks-GPT-plugin) | [#29](https://github.com/Erfouni/solidworks-GPT-plugin/pull/29) | Fix/issue 26 feedback host validation | Merged |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | [#1237](https://github.com/eugenioenko/ttt/pull/1237) | test(e2e): isolate find-bar clipboard test | Merged |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | [#1288](https://github.com/eugenioenko/ttt/pull/1288) | fix(plugin): clean up debug plugin replacements | Merged |
+| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | [#1411](https://github.com/eugenioenko/ttt/pull/1411) | feat: prompt to create missing save directories | Merged |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#59](https://github.com/eyadstein/leaklens/pull/59) | Add CITATION.cff for GitHub citation metadata | Merged |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#111](https://github.com/eyadstein/leaklens/pull/111) | feat(cli): color severity labels in terminal output | Merged |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | [#24](https://github.com/fatihserhatturan/noCap/pull/24) | feat: export report as PNG | Merged |
@@ -279,6 +280,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#278](https://github.com/getsotto/sotto/pull/278) | fix(web): prevent duplicate environment shares | Merged |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | [#12](https://github.com/ggfto/DroidDeck/pull/12) | feat(i18n): add Hindi language option | Merged |
 | [GianlucaBave/murmury](https://github.com/GianlucaBave/murmury) | [#15](https://github.com/GianlucaBave/murmury/pull/15) | Add Ollama and LM Studio local providers | Merged |
+| [GillMacedo/racesift](https://github.com/GillMacedo/racesift) | [#11](https://github.com/GillMacedo/racesift/pull/11) | test: cover Windows race report paths | Merged |
 | [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) | [#202](https://github.com/gmi-software/react-native-better-maps/pull/202) | fix(ios): expose localized provider configuration errors | Merged |
 | [got-a-page/website](https://github.com/got-a-page/website) | [#21](https://github.com/got-a-page/website/pull/21) | feat: add answer-engine metadata and llms.txt | Merged |
 | [got-a-page/website](https://github.com/got-a-page/website) | [#30](https://github.com/got-a-page/website/pull/30) | feat: add sitemap and canonical page metadata | Merged |
@@ -328,6 +330,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#104](https://github.com/JamshidS/aiset/pull/104) | Feat/teammap outline | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#105](https://github.com/JamshidS/aiset/pull/105) | feat: add teammap run command | Merged |
 | [JExcellence/JEHibernate](https://github.com/JExcellence/JEHibernate) | [#11](https://github.com/JExcellence/JEHibernate/pull/11) | Add project style EditorConfig | Merged |
+| [jzheaux/reader](https://github.com/jzheaux/reader) | [#212](https://github.com/jzheaux/reader/pull/212) | Refresh open deck overview when slides or theme change | Merged |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | [#81](https://github.com/KHolodilin/spring-transactional-outbox-kafka/pull/81) | Fix VT observability and naming | Merged |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | [#124](https://github.com/knnmelprop/YAADO/pull/124) | test(ackeret-polar): add hand-checked reference cases | Merged |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | [#125](https://github.com/knnmelprop/YAADO/pull/125) | Fix/102 openvsp script builder tests | Merged |
@@ -381,6 +384,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#6](https://github.com/oasamz09-ctrl/standup-digest/pull/6) | docs: clarify Google Forms quick start | Merged |
 | [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | [#200](https://github.com/olo-labs/olo-toolgate/pull/200) | Docs/json validate examples | Merged |
+| [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | [#276](https://github.com/olo-labs/olo-toolgate/pull/276) | docs: add automated Markdown link validation | Merged |
 | [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | [#1316](https://github.com/open-telemetry/opentelemetry-kotlin/pull/1316) | fix(logging): isolate failures during log emission | Merged |
 | [openapi/contributors](https://github.com/openapi/contributors) | [#4](https://github.com/openapi/contributors/pull/4) | docs: add Aaqibhafeez Khan to contributors | Merged |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#30](https://github.com/openapi/gknowledge/pull/30) | fix: support source re-ingestion and removal | Merged |
@@ -502,7 +506,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 198 external repositories</summary>
+<summary>Browse merged PR counts across 200 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -531,6 +535,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 3 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 3 |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 3 |
+| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
@@ -560,7 +565,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 2 |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | 2 |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | 2 |
-| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 2 |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 2 |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 2 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 2 |
@@ -572,6 +576,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | 2 |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 2 |
+| [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | 2 |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
 | [PatrickAttankurugu/AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP) | 2 |
@@ -635,6 +640,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | 1 |
 | [GianlucaBave/murmury](https://github.com/GianlucaBave/murmury) | 1 |
+| [GillMacedo/racesift](https://github.com/GillMacedo/racesift) | 1 |
 | [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
@@ -645,6 +651,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [isaaclins/taskboard](https://github.com/isaaclins/taskboard) | 1 |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | 1 |
 | [JExcellence/JEHibernate](https://github.com/JExcellence/JEHibernate) | 1 |
+| [jzheaux/reader](https://github.com/jzheaux/reader) | 1 |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | 1 |
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | 1 |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 1 |
@@ -667,7 +674,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 1 |
 | [nooriegarg/ContribIQ](https://github.com/nooriegarg/ContribIQ) | 1 |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | 1 |
-| [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | 1 |
 | [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | 1 |
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | 1 |
@@ -704,7 +710,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **381** |
+| **Total** | **385** |
 
 </details>
 

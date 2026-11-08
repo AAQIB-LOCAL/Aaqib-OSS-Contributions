@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>376</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>194</strong><br/>External repositories</td>
-    <td align="center"><strong>842</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>378</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>195</strong><br/>External repositories</td>
+    <td align="center"><strong>849</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 376 merged pull requests</summary>
+<summary>Browse all 378 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -246,6 +246,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#8](https://github.com/eklavya2201/breakinggood/pull/8) | fix: detect browser challenge pages during capture | Merged |
 | [elimu-ai/VoltAir](https://github.com/elimu-ai/VoltAir) | [#91](https://github.com/elimu-ai/VoltAir/pull/91) | Update Android package name to ai.elimu.voltair | Merged |
 | [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | [#27](https://github.com/embedcatalog/embedcatalog/pull/27) | Add social media icons to public profiles | Merged |
+| [endercodezz/BYDLO](https://github.com/endercodezz/BYDLO) | [#471](https://github.com/endercodezz/BYDLO/pull/471) | Update setup-dotnet to v6.1.0 | Merged |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#27](https://github.com/enlike21/ClimbUp/pull/27) | Mantener el foco del teclado dentro del menú de pausa | Merged |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#31](https://github.com/enlike21/ClimbUp/pull/31) | Añadir tests unitarios para StatisticsService | Merged |
 | [Erfouni/solidworks-GPT-plugin](https://github.com/Erfouni/solidworks-GPT-plugin) | [#29](https://github.com/Erfouni/solidworks-GPT-plugin/pull/29) | Fix/issue 26 feedback host validation | Merged |
@@ -258,6 +259,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | [#58](https://github.com/feimacode/open-design-agent-kit/pull/58) | docs: update bundled content counts | Merged |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | [#59](https://github.com/feimacode/open-design-agent-kit/pull/59) | Feat/issue 48 pinterest pin format | Merged |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#123775](https://github.com/firstcontributions/first-contributions/pull/123775) | Add Aaqibhafeez Khan to Contributors list | Merged |
+| [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#128079](https://github.com/firstcontributions/first-contributions/pull/128079) | Add aaqibhafeez khan to contributors | Merged |
 | [flisk-sh/run-my-agents](https://github.com/flisk-sh/run-my-agents) | [#80](https://github.com/flisk-sh/run-my-agents/pull/80) | test(hook): add node:test suite for check.mjs | Merged |
 | [ForNeVeR/Fabricator](https://github.com/ForNeVeR/Fabricator) | [#116](https://github.com/ForNeVeR/Fabricator/pull/116) | Document required DigitalOcean domain:update scope | Merged |
 | [Foxworks-Studios/riftward](https://github.com/Foxworks-Studios/riftward) | [#19](https://github.com/Foxworks-Studios/riftward/pull/19) | fix(combat): expire abandoned prepared moves | Merged |
@@ -497,7 +499,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 194 external repositories</summary>
+<summary>Browse merged PR counts across 195 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -558,6 +560,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 2 |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 2 |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 2 |
+| [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 2 |
 | [got-a-page/website](https://github.com/got-a-page/website) | 2 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 2 |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 2 |
@@ -617,10 +620,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [dominikgobel/kern](https://github.com/dominikgobel/kern) | 1 |
 | [elimu-ai/VoltAir](https://github.com/elimu-ai/VoltAir) | 1 |
 | [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | 1 |
+| [endercodezz/BYDLO](https://github.com/endercodezz/BYDLO) | 1 |
 | [Erfouni/solidworks-GPT-plugin](https://github.com/Erfouni/solidworks-GPT-plugin) | 1 |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | 1 |
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | 1 |
-| [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 1 |
 | [flisk-sh/run-my-agents](https://github.com/flisk-sh/run-my-agents) | 1 |
 | [ForNeVeR/Fabricator](https://github.com/ForNeVeR/Fabricator) | 1 |
 | [Foxworks-Studios/riftward](https://github.com/Foxworks-Studios/riftward) | 1 |
@@ -695,7 +698,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 1 |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **376** |
+| **Total** | **378** |
 
 </details>
 
@@ -712,7 +715,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **842 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **849 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

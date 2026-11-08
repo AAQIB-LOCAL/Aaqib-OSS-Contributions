@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 842,
+  "authoredPullRequestHighWatermark": 849,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 842,
+  "lastObservedPublicAuthoredPullRequestCount": 849,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -444,42 +444,42 @@
       "number": 18,
       "description": "fix: make npm test work on Node 20",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "blixvip/MotionClone",
       "number": 33,
       "description": "fix: validate pasted video URLs before creating projects",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "blixvip/NullMotion",
       "number": 17,
       "description": "feat: add frame-step keyboard shortcuts",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "blixvip/NullMotion",
       "number": 18,
       "description": "feat(export): show estimated time remaining",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "blixvip/NullMotion",
       "number": 22,
       "description": "fix: improve preview page accessibility",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "blixvip/NullMotion",
       "number": 51,
       "description": "test: comprehensively cover media streaming routes",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "bolubo/checkpoint-governor",
@@ -923,6 +923,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "endercodezz/BYDLO",
+      "number": 471,
+      "description": "Update setup-dotnet to v6.1.0",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "enlike21/ClimbUp",
       "number": 27,
       "description": "Mantener el foco del teclado dentro del menú de pausa",
@@ -1004,6 +1011,13 @@
       "number": 123775,
       "description": "Add Aaqibhafeez Khan to Contributors list",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "firstcontributions/first-contributions",
+      "number": 128079,
+      "description": "Add aaqibhafeez khan to contributors",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

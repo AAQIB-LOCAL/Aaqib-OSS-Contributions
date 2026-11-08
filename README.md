@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>378</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>195</strong><br/>External repositories</td>
+    <td align="center"><strong>381</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>198</strong><br/>External repositories</td>
     <td align="center"><strong>849</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 378 merged pull requests</summary>
+<summary>Browse all 381 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -367,6 +367,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [necoz-oss/is-kit](https://github.com/necoz-oss/is-kit) | [#385](https://github.com/necoz-oss/is-kit/pull/385) | test: verify oneOf evaluation order and short-circuiting | Merged |
 | [netweir/netweir](https://github.com/netweir/netweir) | [#163](https://github.com/netweir/netweir/pull/163) | fix(records): limit row selectors to read rows | Merged |
 | [ngpdf/ngpdf](https://github.com/ngpdf/ngpdf) | [#111](https://github.com/ngpdf/ngpdf/pull/111) | feat(core): complete document metadata | Merged |
+| [nicanor-korir/kenya-regions](https://github.com/nicanor-korir/kenya-regions) | [#44](https://github.com/nicanor-korir/kenya-regions/pull/44) | Add TypeScript checks for documentation examples | Merged |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#595](https://github.com/nikhilb2/simple_invoicing/pull/595) | fix(a11y): label company and marketplace fields | Merged |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#596](https://github.com/nikhilb2/simple_invoicing/pull/596) | fix(backend): validate invoice item tax overrides | Merged |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#624](https://github.com/nikhilb2/simple_invoicing/pull/624) | fix: exclude purchase invoices from GSTR-1 validation | Merged |
@@ -407,6 +408,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#12](https://github.com/RizgarOzan/tmp-glyph-audit/pull/12) | feat: scan Unity Localization string tables | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#13](https://github.com/RizgarOzan/tmp-glyph-audit/pull/13) | test: cover AuditReport behavior | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#14](https://github.com/RizgarOzan/tmp-glyph-audit/pull/14) | feat: allow custom CLI settings file | Merged |
+| [rohit746/pdf-view.nvim](https://github.com/rohit746/pdf-view.nvim) | [#69](https://github.com/rohit746/pdf-view.nvim/pull/69) | fix: clamp restored viewer positions | Merged |
 | [rp2839/visio-mcp](https://github.com/rp2839/visio-mcp) | [#97](https://github.com/rp2839/visio-mcp/pull/97) | docs: [A01] Document second-user named-pipe isolation acceptance procedure | Merged |
 | [scs0209/claude-locator](https://github.com/scs0209/claude-locator) | [#8](https://github.com/scs0209/claude-locator/pull/8) | Feat/issue 2 svelte 4 example | Merged |
 | [sdageltc/agent-durability-bench](https://github.com/sdageltc/agent-durability-bench) | [#8](https://github.com/sdageltc/agent-durability-bench/pull/8) | feat: add AutoGen AgentChat v0.4 adapter (#4) | Merged |
@@ -488,6 +490,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#10](https://github.com/Yjnnev/Kat-Notes/pull/10) | feat(todo): make list selection functional | Merged |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#11](https://github.com/Yjnnev/Kat-Notes/pull/11) | fix(todo): make deleting todos functional | Merged |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | [#27](https://github.com/Yjnnev/Lab-Track/pull/27) | feat(survey): add post-slip satisfaction survey | Merged |
+| [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | [#64](https://github.com/YO-WHATS-UP2/minigit/pull/64) | docs: publish MkDocs site with GitHub Pages | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#511](https://github.com/yoavnir/specs2016/pull/511) | Dev 1.1.0 issue510 | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#515](https://github.com/yoavnir/specs2016/pull/515) | Issue #504 - generate manpage automatically | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#532](https://github.com/yoavnir/specs2016/pull/532) | docs: add TODclock conversion examples (#496) | Merged |
@@ -499,7 +502,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 195 external repositories</summary>
+<summary>Browse merged PR counts across 198 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -660,6 +663,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [necoz-oss/is-kit](https://github.com/necoz-oss/is-kit) | 1 |
 | [netweir/netweir](https://github.com/netweir/netweir) | 1 |
 | [ngpdf/ngpdf](https://github.com/ngpdf/ngpdf) | 1 |
+| [nicanor-korir/kenya-regions](https://github.com/nicanor-korir/kenya-regions) | 1 |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 1 |
 | [nooriegarg/ContribIQ](https://github.com/nooriegarg/ContribIQ) | 1 |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | 1 |
@@ -676,6 +680,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | 1 |
 | [pug-sh/pug](https://github.com/pug-sh/pug) | 1 |
 | [rafaelsilvabr/pdfHandler](https://github.com/rafaelsilvabr/pdfHandler) | 1 |
+| [rohit746/pdf-view.nvim](https://github.com/rohit746/pdf-view.nvim) | 1 |
 | [rp2839/visio-mcp](https://github.com/rp2839/visio-mcp) | 1 |
 | [scs0209/claude-locator](https://github.com/scs0209/claude-locator) | 1 |
 | [sdageltc/agent-durability-bench](https://github.com/sdageltc/agent-durability-bench) | 1 |
@@ -698,7 +703,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 1 |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
-| **Total** | **378** |
+| [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
+| **Total** | **381** |
 
 </details>
 

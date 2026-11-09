@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>388</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>203</strong><br/>External repositories</td>
+    <td align="center"><strong>396</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>205</strong><br/>External repositories</td>
     <td align="center"><strong>853</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 388 merged pull requests</summary>
+<summary>Browse all 396 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -138,6 +138,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#52](https://github.com/afrigov/afrigov/pull/52) | feat(video): support direct files and captions | Merged |
 | [agevenkat/vagejs](https://github.com/agevenkat/vagejs) | [#8](https://github.com/agevenkat/vagejs/pull/8) | Fix/long title description warnings | Merged |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | [#7](https://github.com/AkulTyagi11/StarStruck/pull/7) | feat(themes): add Kanagawa Wave palette | Merged |
+| [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | [#9](https://github.com/AkulTyagi11/StarStruck/pull/9) | feat: add themed top languages card | Merged |
 | [alok-108/phantom](https://github.com/alok-108/phantom) | [#41](https://github.com/alok-108/phantom/pull/41) | docs: add Hindi README and quickstart (#34) | Merged |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | [#6](https://github.com/AlphaIsYour/eno-qr-studio/pull/6) | Add unit coverage for international phone and SMS encoding | Merged |
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | [#64](https://github.com/AmineChr54/MeetScribe/pull/64) | Test/pure logic unit tests | Merged |
@@ -246,7 +247,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#7](https://github.com/eklavya2201/breakinggood/pull/7) | test: cover dependency scanner findings | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#8](https://github.com/eklavya2201/breakinggood/pull/8) | fix: detect browser challenge pages during capture | Merged |
 | [elimu-ai/VoltAir](https://github.com/elimu-ai/VoltAir) | [#91](https://github.com/elimu-ai/VoltAir/pull/91) | Update Android package name to ai.elimu.voltair | Merged |
+| [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | [#26](https://github.com/embedcatalog/embedcatalog/pull/26) | Add Discord to footer social links | Merged |
 | [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | [#27](https://github.com/embedcatalog/embedcatalog/pull/27) | Add social media icons to public profiles | Merged |
+| [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | [#28](https://github.com/embedcatalog/embedcatalog/pull/28) | Add a smooth scroll-to-top button | Merged |
+| [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | [#29](https://github.com/embedcatalog/embedcatalog/pull/29) | Add projects tab to public profiles | Merged |
 | [endercodezz/BYDLO](https://github.com/endercodezz/BYDLO) | [#471](https://github.com/endercodezz/BYDLO/pull/471) | Update setup-dotnet to v6.1.0 | Merged |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#27](https://github.com/enlike21/ClimbUp/pull/27) | Mantener el foco del teclado dentro del menú de pausa | Merged |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#31](https://github.com/enlike21/ClimbUp/pull/31) | Añadir tests unitarios para StatisticsService | Merged |
@@ -285,9 +289,11 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) | [#202](https://github.com/gmi-software/react-native-better-maps/pull/202) | fix(ios): expose localized provider configuration errors | Merged |
 | [got-a-page/website](https://github.com/got-a-page/website) | [#21](https://github.com/got-a-page/website/pull/21) | feat: add answer-engine metadata and llms.txt | Merged |
 | [got-a-page/website](https://github.com/got-a-page/website) | [#30](https://github.com/got-a-page/website/pull/30) | feat: add sitemap and canonical page metadata | Merged |
+| [GuiDobelin/citerag](https://github.com/GuiDobelin/citerag) | [#21](https://github.com/GuiDobelin/citerag/pull/21) | Add per-query retrieval mode selection | Merged |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | [#69](https://github.com/GustavoBaranda/chatflow-agent/pull/69) | fix: restore session state on cancellation | Merged |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#309](https://github.com/HafidIdrissi/Time-Tracker/pull/309) | docs: explain longest active session with worked example | Merged |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#377](https://github.com/HafidIdrissi/Time-Tracker/pull/377) | test(preferences): reject invalid choices before file writes | Merged |
+| [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#393](https://github.com/HafidIdrissi/Time-Tracker/pull/393) | docs: add read-only SQLite backup walkthrough | Merged |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | [#99](https://github.com/hayagrivai-labs/sciproof/pull/99) | docs: add shell pipeline reproducibility tutorial | Merged |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | [#257](https://github.com/hayagrivai-labs/sciproof/pull/257) | Add tests for manifest output validation | Merged |
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | [#42](https://github.com/helalrules7/tibyan/pull/42) | fix(mushaf): include Saheeh translation version in credits | Merged |
@@ -341,6 +347,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#25](https://github.com/komallsingh/api-contract-guardian/pull/25) | test: cover nested cross-file route discovery | Merged |
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | [#6](https://github.com/Krrishkumar125/create-bullmq-app/pull/6) | fix(redis): rate-limit connection error logs | Merged |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | [#5](https://github.com/Krrishkumar125/zod-india/pull/5) | feat: add Udyam registration validator | Merged |
+| [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | [#6](https://github.com/Krrishkumar125/zod-india/pull/6) | feat: add CIN validator | Merged |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#33](https://github.com/laaielichter/Ai-edit-studio/pull/33) | feat: export timeline captions as SRT and VTT | Merged |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#34](https://github.com/laaielichter/Ai-edit-studio/pull/34) | docs: sync tool counts and version labels | Merged |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#37](https://github.com/laaielichter/Ai-edit-studio/pull/37) | docs: add troubleshooting guidance for common errors | Merged |
@@ -365,6 +372,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#13](https://github.com/MilkteaTW1/piscout/pull/13) | Add Urdu locale (#11) | Merged |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#14](https://github.com/MilkteaTW1/piscout/pull/14) | Add Arabic locale (#11) | Merged |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#17](https://github.com/MilkteaTW1/piscout/pull/17) | Add Spanish locale | Merged |
+| [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | [#229](https://github.com/moizycodes/moizy-open-source-issues/pull/229) | feat: add debounceAsync utility | Merged |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | [#17](https://github.com/Mr-Dark-debug/Moonfold/pull/17) | Map OpenCode usage-limit errors to handoff | Merged |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | [#9](https://github.com/mrsarthi/Chorrent/pull/9) | feat: add shell completion generation | Merged |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | [#10](https://github.com/mrsarthi/Chorrent/pull/10) | Add machine-readable JSON CLI output | Merged |
@@ -509,7 +517,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 203 external repositories</summary>
+<summary>Browse merged PR counts across 205 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -531,6 +539,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | 4 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 4 |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | 4 |
+| [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | 4 |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 4 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | 4 |
@@ -541,6 +550,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
+| [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 3 |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 3 |
@@ -557,6 +567,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | 2 |
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 2 |
 | [adlerqa/wardeniq](https://github.com/adlerqa/wardeniq) | 2 |
+| [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 2 |
 | [amirbena/code-review-skill](https://github.com/amirbena/code-review-skill) | 2 |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | 2 |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 2 |
@@ -572,8 +583,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 2 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 2 |
 | [got-a-page/website](https://github.com/got-a-page/website) | 2 |
-| [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 2 |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 2 |
+| [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 2 |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 2 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
@@ -598,7 +609,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | 1 |
 | [Aepzie/cutline](https://github.com/Aepzie/cutline) | 1 |
 | [agevenkat/vagejs](https://github.com/agevenkat/vagejs) | 1 |
-| [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 1 |
 | [alok-108/phantom](https://github.com/alok-108/phantom) | 1 |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | 1 |
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | 1 |
@@ -631,7 +641,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | 1 |
 | [dominikgobel/kern](https://github.com/dominikgobel/kern) | 1 |
 | [elimu-ai/VoltAir](https://github.com/elimu-ai/VoltAir) | 1 |
-| [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | 1 |
 | [endercodezz/BYDLO](https://github.com/endercodezz/BYDLO) | 1 |
 | [Erfouni/solidworks-GPT-plugin](https://github.com/Erfouni/solidworks-GPT-plugin) | 1 |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | 1 |
@@ -646,6 +655,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [GianlucaBave/murmury](https://github.com/GianlucaBave/murmury) | 1 |
 | [GillMacedo/racesift](https://github.com/GillMacedo/racesift) | 1 |
 | [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) | 1 |
+| [GuiDobelin/citerag](https://github.com/GuiDobelin/citerag) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
@@ -658,7 +668,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [jzheaux/reader](https://github.com/jzheaux/reader) | 1 |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | 1 |
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | 1 |
-| [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 1 |
 | [laaielichter/Godotwright](https://github.com/laaielichter/Godotwright) | 1 |
 | [lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop) | 1 |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | 1 |
@@ -670,6 +679,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | 1 |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | 1 |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | 1 |
+| [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | 1 |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | 1 |
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | 1 |
 | [necoz-oss/is-kit](https://github.com/necoz-oss/is-kit) | 1 |
@@ -716,7 +726,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **388** |
+| **Total** | **396** |
 
 </details>
 

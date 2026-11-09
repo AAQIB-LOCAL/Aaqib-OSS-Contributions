@@ -167,6 +167,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "AkulTyagi11/StarStruck",
+      "number": 9,
+      "description": "feat: add themed top languages card",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "alok-108/phantom",
       "number": 41,
       "description": "docs: add Hindi README and quickstart (#34)",
@@ -924,9 +931,30 @@
     },
     {
       "repository": "embedcatalog/embedcatalog",
+      "number": 26,
+      "description": "Add Discord to footer social links",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "embedcatalog/embedcatalog",
       "number": 27,
       "description": "Add social media icons to public profiles",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "embedcatalog/embedcatalog",
+      "number": 28,
+      "description": "Add a smooth scroll-to-top button",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "embedcatalog/embedcatalog",
+      "number": 29,
+      "description": "Add projects tab to public profiles",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -1196,6 +1224,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "GuiDobelin/citerag",
+      "number": 21,
+      "description": "Add per-query retrieval mode selection",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "GustavoBaranda/chatflow-agent",
       "number": 69,
       "description": "fix: restore session state on cancellation",
@@ -1214,6 +1249,13 @@
       "number": 377,
       "description": "test(preferences): reject invalid choices before file writes",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "HafidIdrissi/Time-Tracker",
+      "number": 393,
+      "description": "docs: add read-only SQLite backup walkthrough",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -1588,6 +1630,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "Krrishkumar125/zod-india",
+      "number": 6,
+      "description": "feat: add CIN validator",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "laaielichter/Ai-edit-studio",
       "number": 33,
       "description": "feat: export timeline captions as SRT and VTT",
@@ -1753,6 +1802,13 @@
       "number": 17,
       "description": "Add Spanish locale",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "moizycodes/moizy-open-source-issues",
+      "number": 229,
+      "description": "feat: add debounceAsync utility",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

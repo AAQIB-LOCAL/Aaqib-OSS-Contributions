@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 849,
+  "authoredPullRequestHighWatermark": 850,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 847,
+  "lastObservedPublicAuthoredPullRequestCount": 850,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -339,6 +339,13 @@
       "number": 25,
       "description": "feat: add baseline mode for existing findings",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "bhargavchintam/llm-inference",
+      "number": 6,
+      "description": "Serving/issue 2 chunked prefill",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -2502,6 +2509,13 @@
       "number": 24,
       "description": "test: cover fragmented SSE framing and invalid UTF-8",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "vr-patel/editmypdf",
+      "number": 82,
+      "description": "fix: Improve emoji search with keywords and group names",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

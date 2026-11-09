@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 850,
+  "authoredPullRequestHighWatermark": 853,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 850,
+  "lastObservedPublicAuthoredPullRequestCount": 853,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -1612,6 +1612,13 @@
       "repository": "laaielichter/Godotwright",
       "number": 155,
       "description": "feat(ci): emit GitHub workflow annotations",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "lachydotmcg/capri-desktop",
+      "number": 209,
+      "description": "fix: fade mod status messages after a delay",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },

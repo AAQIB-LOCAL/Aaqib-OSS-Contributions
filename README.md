@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>387</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>202</strong><br/>External repositories</td>
-    <td align="center"><strong>850</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>388</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>203</strong><br/>External repositories</td>
+    <td align="center"><strong>853</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 387 merged pull requests</summary>
+<summary>Browse all 388 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -345,6 +345,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#34](https://github.com/laaielichter/Ai-edit-studio/pull/34) | docs: sync tool counts and version labels | Merged |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#37](https://github.com/laaielichter/Ai-edit-studio/pull/37) | docs: add troubleshooting guidance for common errors | Merged |
 | [laaielichter/Godotwright](https://github.com/laaielichter/Godotwright) | [#155](https://github.com/laaielichter/Godotwright/pull/155) | feat(ci): emit GitHub workflow annotations | Merged |
+| [lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop) | [#209](https://github.com/lachydotmcg/capri-desktop/pull/209) | fix: fade mod status messages after a delay | Merged |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | [#114](https://github.com/Larson-Logan/medal-sync/pull/114) | fix(cli): align help command categories | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#14](https://github.com/LennardGeissler/blindbucket/pull/14) | feat(cli): add JSON output to keys list | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#192](https://github.com/LennardGeissler/blindbucket/pull/192) | feat(cli): report Go build metadata in version output | Merged |
@@ -508,7 +509,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 202 external repositories</summary>
+<summary>Browse merged PR counts across 203 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -659,6 +660,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | 1 |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 1 |
 | [laaielichter/Godotwright](https://github.com/laaielichter/Godotwright) | 1 |
+| [lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop) | 1 |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | 1 |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | 1 |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
@@ -714,7 +716,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **387** |
+| **Total** | **388** |
 
 </details>
 
@@ -731,7 +733,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **850 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **853 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

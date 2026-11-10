@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>396</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>205</strong><br/>External repositories</td>
-    <td align="center"><strong>853</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>400</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>206</strong><br/>External repositories</td>
+    <td align="center"><strong>855</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 396 merged pull requests</summary>
+<summary>Browse all 400 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -297,6 +297,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | [#99](https://github.com/hayagrivai-labs/sciproof/pull/99) | docs: add shell pipeline reproducibility tutorial | Merged |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | [#257](https://github.com/hayagrivai-labs/sciproof/pull/257) | Add tests for manifest output validation | Merged |
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | [#42](https://github.com/helalrules7/tibyan/pull/42) | fix(mushaf): include Saheeh translation version in credits | Merged |
+| [hexlet-components/ru-my-first-pullrequest](https://github.com/hexlet-components/ru-my-first-pullrequest) | [#5677](https://github.com/hexlet-components/ru-my-first-pullrequest/pull/5677) | docs: add contributor greeting | Merged |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | [#1157](https://github.com/higher-kinded-j/higher-kinded-j/pull/1157) | docs(glossary): add IdPath, LazyPath and OptionalPath entries | Merged |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | [#6](https://github.com/Hosein-imani/hybrid-recommendation-system/pull/6) | docs: document editable installation for issue #5 | Merged |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | [#9](https://github.com/Hosein-imani/hybrid-recommendation-system/pull/9) | fix: handle unknown seed movie titles gracefully | Merged |
@@ -332,6 +333,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#212](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/212) | Handle Ctrl-C at the shell prompt (#209) | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#241](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/241) | feat: add hexadecimal floating-point formatting | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#247](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/247) | Add insertion-ordered LinkedHashMap | Merged |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#261](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/261) | Math: Add nextUp, nextDown, nextAfter, ulp and scalb | Merged |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#169](https://github.com/jaikaran109/51_Web_Projects/pull/169) | Fix: add playable shapes game and correct layout | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#74](https://github.com/JamshidS/aiset/pull/74) | test: cover transcript state transitions | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#104](https://github.com/JamshidS/aiset/pull/104) | Feat/teammap outline | Merged |
@@ -345,6 +347,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#23](https://github.com/komallsingh/api-contract-guardian/pull/23) | docs: add API troubleshooting guidance | Merged |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#24](https://github.com/komallsingh/api-contract-guardian/pull/24) | test: assert contracts for multiple router mounts | Merged |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#25](https://github.com/komallsingh/api-contract-guardian/pull/25) | test: cover nested cross-file route discovery | Merged |
+| [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | [#29](https://github.com/komallsingh/api-contract-guardian/pull/29) | CI: split lint, test, and build jobs | Merged |
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | [#6](https://github.com/Krrishkumar125/create-bullmq-app/pull/6) | fix(redis): rate-limit connection error logs | Merged |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | [#5](https://github.com/Krrishkumar125/zod-india/pull/5) | feat: add Udyam registration validator | Merged |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | [#6](https://github.com/Krrishkumar125/zod-india/pull/6) | feat: add CIN validator | Merged |
@@ -389,6 +392,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#624](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/624) | fix: exclude purchase invoices from GSTR-1 validation | Merged |
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#771](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/771) | feat: add effective-dated TDS/TCS foundation | Merged |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#14](https://github.com/nitturkaryash/open-bpo/pull/14) | feat(console): show session elapsed duration | Merged |
+| [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#18](https://github.com/nitturkaryash/open-bpo/pull/18) | Validate recipe IDs in demo call requests | Merged |
 | [nooriegarg/ContribIQ](https://github.com/nooriegarg/ContribIQ) | [#59](https://github.com/nooriegarg/ContribIQ/pull/59) | fix: Handle unavailable password reset requests correctly | Merged |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | [#389](https://github.com/noruzzamans/gslider-blocks/pull/389) | fix(mcp): stop fabricating media attachment IDs | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
@@ -517,7 +521,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 205 external repositories</summary>
+<summary>Browse merged PR counts across 206 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -532,6 +536,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 5 |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
@@ -540,7 +545,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 4 |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | 4 |
 | [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | 4 |
-| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 4 |
+| [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 4 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
@@ -554,7 +559,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 3 |
-| [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 3 |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | 3 |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
@@ -589,6 +593,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | 2 |
+| [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 2 |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 2 |
 | [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | 2 |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
@@ -658,6 +663,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [GuiDobelin/citerag](https://github.com/GuiDobelin/citerag) | 1 |
 | [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) | 1 |
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
+| [hexlet-components/ru-my-first-pullrequest](https://github.com/hexlet-components/ru-my-first-pullrequest) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
 | [hslee16/Archy](https://github.com/hslee16/Archy) | 1 |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | 1 |
@@ -686,7 +692,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [netweir/netweir](https://github.com/netweir/netweir) | 1 |
 | [ngpdf/ngpdf](https://github.com/ngpdf/ngpdf) | 1 |
 | [nicanor-korir/kenya-regions](https://github.com/nicanor-korir/kenya-regions) | 1 |
-| [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 1 |
 | [nooriegarg/ContribIQ](https://github.com/nooriegarg/ContribIQ) | 1 |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | 1 |
 | [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | 1 |
@@ -726,7 +731,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **396** |
+| **Total** | **400** |
 
 </details>
 
@@ -743,7 +748,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **853 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **855 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

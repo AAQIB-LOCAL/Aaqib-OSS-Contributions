@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>400</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>206</strong><br/>External repositories</td>
+    <td align="center"><strong>401</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>207</strong><br/>External repositories</td>
     <td align="center"><strong>855</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 400 merged pull requests</summary>
+<summary>Browse all 401 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -418,6 +418,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#216](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/216) | feat(ai-voice-studio): show active voice sample playback | Merged |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#217](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/217) | feat(luxury-realms): add curated luxury amenity badges | Merged |
 | [pug-sh/pug](https://github.com/pug-sh/pug) | [#197](https://github.com/pug-sh/pug/pull/197) | Fix/190 expired token cleanup | Merged |
+| [purahan/ros2_lingua](https://github.com/purahan/ros2_lingua) | [#64](https://github.com/purahan/ros2_lingua/pull/64) | fix(packaging): declare maintainers and runtime/build dependencies | Merged |
 | [rafaelsilvabr/pdfHandler](https://github.com/rafaelsilvabr/pdfHandler) | [#23](https://github.com/rafaelsilvabr/pdfHandler/pull/23) | Allow reordering images before creating a PDF | Merged |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | [#162](https://github.com/rakeshnitb23/toolism/pull/162) | Feat/action mcp timeout | Merged |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | [#165](https://github.com/rakeshnitb23/toolism/pull/165) | docs: add feature request issue form | Merged |
@@ -521,7 +522,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 206 external repositories</summary>
+<summary>Browse merged PR counts across 207 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -705,6 +706,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [PocketLLM/pocketllm-lite](https://github.com/PocketLLM/pocketllm-lite) | 1 |
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | 1 |
 | [pug-sh/pug](https://github.com/pug-sh/pug) | 1 |
+| [purahan/ros2_lingua](https://github.com/purahan/ros2_lingua) | 1 |
 | [rafaelsilvabr/pdfHandler](https://github.com/rafaelsilvabr/pdfHandler) | 1 |
 | [rohit746/pdf-view.nvim](https://github.com/rohit746/pdf-view.nvim) | 1 |
 | [rp2839/visio-mcp](https://github.com/rp2839/visio-mcp) | 1 |
@@ -731,7 +733,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **400** |
+| **Total** | **401** |
 
 </details>
 

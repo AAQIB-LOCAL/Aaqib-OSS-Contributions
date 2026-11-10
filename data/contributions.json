@@ -2127,6 +2127,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "purahan/ros2_lingua",
+      "number": 64,
+      "description": "fix(packaging): declare maintainers and runtime/build dependencies",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "rafaelsilvabr/pdfHandler",
       "number": 23,
       "description": "Allow reordering images before creating a PDF",

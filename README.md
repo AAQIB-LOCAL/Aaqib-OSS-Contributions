@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>401</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>207</strong><br/>External repositories</td>
-    <td align="center"><strong>855</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>403</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>208</strong><br/>External repositories</td>
+    <td align="center"><strong>856</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 401 merged pull requests</summary>
+<summary>Browse all 403 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -223,6 +223,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#367](https://github.com/cubrid-lab/cubrid-mcp-server/pull/367) | test(config): cover whitespace around named selector | Merged |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#368](https://github.com/cubrid-lab/cubrid-mcp-server/pull/368) | test: cover a non-matching table-name filter | Merged |
 | [DeandreT/ferrule](https://github.com/DeandreT/ferrule) | [#1120](https://github.com/DeandreT/ferrule/pull/1120) | feat(linux): add desktop and AppStream metadata | Merged |
+| [deimos-hq/ratchet](https://github.com/deimos-hq/ratchet) | [#12](https://github.com/deimos-hq/ratchet/pull/12) | test: enforce source file headers | Merged |
+| [deimos-hq/ratchet](https://github.com/deimos-hq/ratchet) | [#13](https://github.com/deimos-hq/ratchet/pull/13) | test: fuzz MCP JSON-RPC parser | Merged |
 | [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | [#234](https://github.com/dgesteves/onsystem/pull/234) | fix: explain when no components are available | Merged |
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | [#207](https://github.com/dgesteves/signoff-ui/pull/207) | test: cover reasoning stream and duration | Merged |
 | [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | [#19](https://github.com/DhanushNehru/pdf-xss-checker/pull/19) | fix: serialize pdf parsing across concurrent scans | Merged |
@@ -522,7 +524,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 207 external repositories</summary>
+<summary>Browse merged PR counts across 208 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -581,6 +583,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 2 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 2 |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
+| [deimos-hq/ratchet](https://github.com/deimos-hq/ratchet) | 2 |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 2 |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | 2 |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | 2 |
@@ -733,7 +736,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **401** |
+| **Total** | **403** |
 
 </details>
 
@@ -750,7 +753,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **855 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **856 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

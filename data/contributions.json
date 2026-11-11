@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 855,
+  "authoredPullRequestHighWatermark": 856,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 855,
+  "lastObservedPublicAuthoredPullRequestCount": 856,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -759,6 +759,20 @@
       "number": 1120,
       "description": "feat(linux): add desktop and AppStream metadata",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "deimos-hq/ratchet",
+      "number": 12,
+      "description": "test: enforce source file headers",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "deimos-hq/ratchet",
+      "number": 13,
+      "description": "test: fuzz MCP JSON-RPC parser",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -2460,14 +2474,14 @@
       "number": 12,
       "description": "test: enforce source file headers",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "thearchitect0x-glitch/ratchet",
       "number": 13,
       "description": "test: fuzz MCP JSON-RPC parser",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "TheVicky1/Pact_OS",

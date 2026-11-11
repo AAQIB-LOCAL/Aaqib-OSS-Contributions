@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>403</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>208</strong><br/>External repositories</td>
+    <td align="center"><strong>409</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>211</strong><br/>External repositories</td>
     <td align="center"><strong>856</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 403 merged pull requests</summary>
+<summary>Browse all 409 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -246,6 +246,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#27](https://github.com/DhruvHarani1/vega/pull/27) | feat(playlists): import and export M3U8 and JSON playlists | Merged |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#28](https://github.com/DhruvHarani1/vega/pull/28) | Handle YouTube background pauses with tap to resume | Merged |
 | [dominikgobel/kern](https://github.com/dominikgobel/kern) | [#26](https://github.com/dominikgobel/kern/pull/26) | fix: insert Alt-modified characters | Merged |
+| [dsx-ai-factory/workload-map](https://github.com/dsx-ai-factory/workload-map) | [#612](https://github.com/dsx-ai-factory/workload-map/pull/612) | Add API versions to `kli definitions -o wide` | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#7](https://github.com/eklavya2201/breakinggood/pull/7) | test: cover dependency scanner findings | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#8](https://github.com/eklavya2201/breakinggood/pull/8) | fix: detect browser challenge pages during capture | Merged |
 | [elimu-ai/VoltAir](https://github.com/elimu-ai/VoltAir) | [#91](https://github.com/elimu-ai/VoltAir/pull/91) | Update Android package name to ai.elimu.voltair | Merged |
@@ -276,6 +277,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [francordel/kdemos](https://github.com/francordel/kdemos) | [#19](https://github.com/francordel/kdemos/pull/19) | test: enforce translation key parity | Merged |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | [#32](https://github.com/francordel/kdemos/pull/32) | fix: add accessible labels to icon-only buttons | Merged |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | [#33](https://github.com/francordel/kdemos/pull/33) | refactor(i18n): extract English and Spanish translations | Merged |
+| [freddychoudja/kliz-](https://github.com/freddychoudja/kliz-) | [#46](https://github.com/freddychoudja/kliz-/pull/46) | fix(packaging): align setuptools with PEP 639 metadata | Merged |
 | [G4SBO/PatchLight](https://github.com/G4SBO/PatchLight) | [#5](https://github.com/G4SBO/PatchLight/pull/5) | feat: add BleepingComputer news feed | Merged |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | [#81](https://github.com/gabrielmongefranco/privatium/pull/81) | Upgrade GitHub Actions to Node 24 | Merged |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | [#94](https://github.com/gabrielmongefranco/privatium/pull/94) | Fix/52 directory sizes | Merged |
@@ -378,6 +380,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#14](https://github.com/MilkteaTW1/piscout/pull/14) | Add Arabic locale (#11) | Merged |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#17](https://github.com/MilkteaTW1/piscout/pull/17) | Add Spanish locale | Merged |
 | [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | [#229](https://github.com/moizycodes/moizy-open-source-issues/pull/229) | feat: add debounceAsync utility | Merged |
+| [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | [#230](https://github.com/moizycodes/moizy-open-source-issues/pull/230) | feat: add date range validation utility | Merged |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | [#17](https://github.com/Mr-Dark-debug/Moonfold/pull/17) | Map OpenCode usage-limit errors to handoff | Merged |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | [#9](https://github.com/mrsarthi/Chorrent/pull/9) | feat: add shell completion generation | Merged |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | [#10](https://github.com/mrsarthi/Chorrent/pull/10) | Add machine-readable JSON CLI output | Merged |
@@ -395,6 +398,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#771](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/771) | feat: add effective-dated TDS/TCS foundation | Merged |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#14](https://github.com/nitturkaryash/open-bpo/pull/14) | feat(console): show session elapsed duration | Merged |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#18](https://github.com/nitturkaryash/open-bpo/pull/18) | Validate recipe IDs in demo call requests | Merged |
+| [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#19](https://github.com/nitturkaryash/open-bpo/pull/19) | Improve demo shutdown logging | Merged |
 | [nooriegarg/ContribIQ](https://github.com/nooriegarg/ContribIQ) | [#59](https://github.com/nooriegarg/ContribIQ/pull/59) | fix: Handle unavailable password reset requests correctly | Merged |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | [#389](https://github.com/noruzzamans/gslider-blocks/pull/389) | fix(mcp): stop fabricating media attachment IDs | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
@@ -429,6 +433,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#12](https://github.com/RizgarOzan/tmp-glyph-audit/pull/12) | feat: scan Unity Localization string tables | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#13](https://github.com/RizgarOzan/tmp-glyph-audit/pull/13) | test: cover AuditReport behavior | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#14](https://github.com/RizgarOzan/tmp-glyph-audit/pull/14) | feat: allow custom CLI settings file | Merged |
+| [Robert-GeorgeDev/ValidRO](https://github.com/Robert-GeorgeDev/ValidRO) | [#17](https://github.com/Robert-GeorgeDev/ValidRO/pull/17) | feat: add Romanian licence plate validation | Merged |
+| [Robert-GeorgeDev/ValidRO](https://github.com/Robert-GeorgeDev/ValidRO) | [#18](https://github.com/Robert-GeorgeDev/ValidRO/pull/18) | feat: add Romanian phone number validation | Merged |
 | [rohit746/pdf-view.nvim](https://github.com/rohit746/pdf-view.nvim) | [#69](https://github.com/rohit746/pdf-view.nvim/pull/69) | fix: clamp restored viewer positions | Merged |
 | [rp2839/visio-mcp](https://github.com/rp2839/visio-mcp) | [#97](https://github.com/rp2839/visio-mcp/pull/97) | docs: [A01] Document second-user named-pipe isolation acceptance procedure | Merged |
 | [scs0209/claude-locator](https://github.com/scs0209/claude-locator) | [#8](https://github.com/scs0209/claude-locator/pull/8) | Feat/issue 2 svelte 4 example | Merged |
@@ -524,7 +530,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 208 external repositories</summary>
+<summary>Browse merged PR counts across 211 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -564,6 +570,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 3 |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | 3 |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 3 |
+| [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 3 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 3 |
@@ -596,8 +603,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 2 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
+| [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | 2 |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | 2 |
-| [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 2 |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 2 |
 | [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | 2 |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
@@ -605,6 +612,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [PatrickAttankurugu/AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP) | 2 |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | 2 |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | 2 |
+| [Robert-GeorgeDev/ValidRO](https://github.com/Robert-GeorgeDev/ValidRO) | 2 |
 | [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | 2 |
 | [skdas20/SkeoTrace](https://github.com/skdas20/SkeoTrace) | 2 |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | 2 |
@@ -649,6 +657,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [DHEENA0007/typebridge](https://github.com/DHEENA0007/typebridge) | 1 |
 | [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | 1 |
 | [dominikgobel/kern](https://github.com/dominikgobel/kern) | 1 |
+| [dsx-ai-factory/workload-map](https://github.com/dsx-ai-factory/workload-map) | 1 |
 | [elimu-ai/VoltAir](https://github.com/elimu-ai/VoltAir) | 1 |
 | [endercodezz/BYDLO](https://github.com/endercodezz/BYDLO) | 1 |
 | [Erfouni/solidworks-GPT-plugin](https://github.com/Erfouni/solidworks-GPT-plugin) | 1 |
@@ -657,6 +666,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [flisk-sh/run-my-agents](https://github.com/flisk-sh/run-my-agents) | 1 |
 | [ForNeVeR/Fabricator](https://github.com/ForNeVeR/Fabricator) | 1 |
 | [Foxworks-Studios/riftward](https://github.com/Foxworks-Studios/riftward) | 1 |
+| [freddychoudja/kliz-](https://github.com/freddychoudja/kliz-) | 1 |
 | [G4SBO/PatchLight](https://github.com/G4SBO/PatchLight) | 1 |
 | [gabrielvieiraf/finitemonkey](https://github.com/gabrielvieiraf/finitemonkey) | 1 |
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
@@ -689,7 +699,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | 1 |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | 1 |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | 1 |
-| [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | 1 |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | 1 |
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | 1 |
 | [necoz-oss/is-kit](https://github.com/necoz-oss/is-kit) | 1 |
@@ -736,7 +745,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **403** |
+| **Total** | **409** |
 
 </details>
 

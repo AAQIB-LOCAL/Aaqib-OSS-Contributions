@@ -923,6 +923,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "dsx-ai-factory/workload-map",
+      "number": 612,
+      "description": "Add API versions to `kli definitions -o wide`",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "eklavya2201/breakinggood",
       "number": 7,
       "description": "test: cover dependency scanner findings",
@@ -1130,6 +1137,13 @@
       "number": 33,
       "description": "refactor(i18n): extract English and Spanish translations",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "freddychoudja/kliz-",
+      "number": 46,
+      "description": "fix(packaging): align setuptools with PEP 639 metadata",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -1847,6 +1861,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "moizycodes/moizy-open-source-issues",
+      "number": 230,
+      "description": "feat: add date range validation utility",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "Mr-Dark-debug/Moonfold",
       "number": 17,
       "description": "Map OpenCode usage-limit errors to handoff",
@@ -1962,6 +1983,13 @@
       "repository": "nitturkaryash/open-bpo",
       "number": 18,
       "description": "Validate recipe IDs in demo call requests",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "nitturkaryash/open-bpo",
+      "number": 19,
+      "description": "Improve demo shutdown logging",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
@@ -2201,6 +2229,20 @@
       "number": 14,
       "description": "feat: allow custom CLI settings file",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Robert-GeorgeDev/ValidRO",
+      "number": 17,
+      "description": "feat: add Romanian licence plate validation",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Robert-GeorgeDev/ValidRO",
+      "number": 18,
+      "description": "feat: add Romanian phone number validation",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>412</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>211</strong><br/>External repositories</td>
-    <td align="center"><strong>872</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>413</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>212</strong><br/>External repositories</td>
+    <td align="center"><strong>875</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 412 merged pull requests</summary>
+<summary>Browse all 413 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -431,6 +431,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [rafaelsilvabr/pdfHandler](https://github.com/rafaelsilvabr/pdfHandler) | [#23](https://github.com/rafaelsilvabr/pdfHandler/pull/23) | Allow reordering images before creating a PDF | Merged |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | [#162](https://github.com/rakeshnitb23/toolism/pull/162) | Feat/action mcp timeout | Merged |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | [#165](https://github.com/rakeshnitb23/toolism/pull/165) | docs: add feature request issue form | Merged |
+| [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice) | [#216](https://github.com/recodehive/Opensource-practice/pull/216) | Add aaqibhafeez khan | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#10](https://github.com/RizgarOzan/tmp-glyph-audit/pull/10) | Add JSON audit reports for CI (#4) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#11](https://github.com/RizgarOzan/tmp-glyph-audit/pull/11) | Add GitHub Actions glyph annotations (#5) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#12](https://github.com/RizgarOzan/tmp-glyph-audit/pull/12) | feat: scan Unity Localization string tables | Merged |
@@ -533,7 +534,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 211 external repositories</summary>
+<summary>Browse merged PR counts across 212 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -723,6 +724,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [pug-sh/pug](https://github.com/pug-sh/pug) | 1 |
 | [purahan/ros2_lingua](https://github.com/purahan/ros2_lingua) | 1 |
 | [rafaelsilvabr/pdfHandler](https://github.com/rafaelsilvabr/pdfHandler) | 1 |
+| [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice) | 1 |
 | [rohit746/pdf-view.nvim](https://github.com/rohit746/pdf-view.nvim) | 1 |
 | [rp2839/visio-mcp](https://github.com/rp2839/visio-mcp) | 1 |
 | [scs0209/claude-locator](https://github.com/scs0209/claude-locator) | 1 |
@@ -748,7 +750,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **412** |
+| **Total** | **413** |
 
 </details>
 
@@ -765,7 +767,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **872 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **875 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

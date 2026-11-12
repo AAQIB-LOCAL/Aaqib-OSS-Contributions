@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>409</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>412</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>211</strong><br/>External repositories</td>
-    <td align="center"><strong>856</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>872</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 409 merged pull requests</summary>
+<summary>Browse all 412 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -319,6 +319,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#155](https://github.com/Huerte/algo-solutions-python/pull/155) | ci: validate headers in changed solution files | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#156](https://github.com/Huerte/algo-solutions-python/pull/156) | test: add sort012 edge-case assertions | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#190](https://github.com/Huerte/algo-solutions-python/pull/190) | feat: Add Valid Parentheses solutions in Python, JavaScript, and Java | Merged |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#245](https://github.com/Huerte/algo-solutions-python/pull/245) | docs: add source link to practice122 keypad phone simulator | Merged |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#246](https://github.com/Huerte/algo-solutions-python/pull/246) | feat: port alternating digit sum solution to javascript | Merged |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#247](https://github.com/Huerte/algo-solutions-python/pull/247) | feat: add searchable GitHub Pages site for solutions | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#97](https://github.com/Huseynteymurzade28/tuiba/pull/97) | Add cargo-binstall release metadata | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#99](https://github.com/Huseynteymurzade28/tuiba/pull/99) | Feat/configurable colour themes | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#100](https://github.com/Huseynteymurzade28/tuiba/pull/100) | packaging: add Nix flake | Merged |
@@ -534,9 +537,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 
 | Repository | Merged PRs |
 |---|---:|
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 12 |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | 11 |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 9 |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 9 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 9 |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 8 |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 8 |
@@ -745,7 +748,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **409** |
+| **Total** | **412** |
 
 </details>
 
@@ -762,7 +765,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **856 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **872 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

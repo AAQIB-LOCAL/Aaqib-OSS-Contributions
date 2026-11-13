@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>413</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>212</strong><br/>External repositories</td>
-    <td align="center"><strong>875</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>415</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>213</strong><br/>External repositories</td>
+    <td align="center"><strong>878</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 413 merged pull requests</summary>
+<summary>Browse all 415 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -208,8 +208,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | [#44](https://github.com/Bubblegunn/surviving-lines/pull/44) | feat: add author sorting by share gap (#30) | Merged |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#9](https://github.com/Bytewave1/dkit/pull/9) | ci: test dkit across Windows, macOS and Linux | Merged |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#11](https://github.com/Bytewave1/dkit/pull/11) | test: broaden CLI edge-case coverage (#8) | Merged |
+| [Carmineh/CreateMobGrinding](https://github.com/Carmineh/CreateMobGrinding) | [#13](https://github.com/Carmineh/CreateMobGrinding/pull/13) | compat: add Guard Villagers entity to tier 3 | Merged |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#198](https://github.com/cellrishi-code/claude-skills-atlas/pull/198) | docs: add guide for maintainable skill tests | Merged |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#211](https://github.com/cellrishi-code/claude-skills-atlas/pull/211) | Add static smoke tests for documented examples | Merged |
+| [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#212](https://github.com/cellrishi-code/claude-skills-atlas/pull/212) | docs: add resource category READMEs | Merged |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | [#545](https://github.com/chaoss/CollectOSS/pull/545) | docs: fix sample database compose formatting | Merged |
 | [chipfighter/context-attachment-manager](https://github.com/chipfighter/context-attachment-manager) | [#17](https://github.com/chipfighter/context-attachment-manager/pull/17) | Add custom endpoint troubleshooting checklist | Merged |
 | [chipfighter/framekeeper](https://github.com/chipfighter/framekeeper) | [#17](https://github.com/chipfighter/framekeeper/pull/17) | Add custom endpoint troubleshooting checklist | Merged |
@@ -534,7 +536,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 212 external repositories</summary>
+<summary>Browse merged PR counts across 213 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -564,6 +566,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 3 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 3 |
+| [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 3 |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 3 |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
@@ -592,7 +595,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 2 |
-| [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 2 |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
 | [deimos-hq/ratchet](https://github.com/deimos-hq/ratchet) | 2 |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 2 |
@@ -647,6 +649,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [blixvip/GenMotion](https://github.com/blixvip/GenMotion) | 1 |
 | [blixvip/MotionClone](https://github.com/blixvip/MotionClone) | 1 |
 | [boromat/polanon](https://github.com/boromat/polanon) | 1 |
+| [Carmineh/CreateMobGrinding](https://github.com/Carmineh/CreateMobGrinding) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [chipfighter/context-attachment-manager](https://github.com/chipfighter/context-attachment-manager) | 1 |
 | [chipfighter/framekeeper](https://github.com/chipfighter/framekeeper) | 1 |
@@ -750,7 +753,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **413** |
+| **Total** | **415** |
 
 </details>
 
@@ -767,7 +770,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **875 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **878 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

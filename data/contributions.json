@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 875,
+  "authoredPullRequestHighWatermark": 878,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 875,
+  "lastObservedPublicAuthoredPullRequestCount": 878,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -213,42 +213,42 @@
       "number": 232,
       "description": "fix: update indicator count to five",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "AnayDhawan/UCIP",
       "number": 233,
       "description": "fix: add root error boundaries and branded 404",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "AnayDhawan/UCIP",
       "number": 234,
       "description": "fix: reject invalid API limits",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "AnayDhawan/UCIP",
       "number": 235,
       "description": "Fix/cells pagination total",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "AnayDhawan/UCIP",
       "number": 236,
       "description": "fix(embed): show rank uncertainty and data freshness",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "AnayDhawan/UCIP",
       "number": 245,
       "description": "test: cover supported client runtime versions",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "anonhym/latelier",
@@ -657,6 +657,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "Carmineh/CreateMobGrinding",
+      "number": 13,
+      "description": "compat: add Guard Villagers entity to tier 3",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "cellrishi-code/claude-skills-atlas",
       "number": 198,
       "description": "docs: add guide for maintainable skill tests",
@@ -668,6 +675,13 @@
       "number": 211,
       "description": "Add static smoke tests for documented examples",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "cellrishi-code/claude-skills-atlas",
+      "number": 212,
+      "description": "docs: add resource category READMEs",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>422</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>216</strong><br/>External repositories</td>
+    <td align="center"><strong>425</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>219</strong><br/>External repositories</td>
     <td align="center"><strong>895</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 422 merged pull requests</summary>
+<summary>Browse all 425 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -183,11 +183,14 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [blixvip/easyedit](https://github.com/blixvip/easyedit) | [#56](https://github.com/blixvip/easyedit/pull/56) | fix(web): validate /api/new job options before spawning | Merged |
 | [blixvip/easyedit](https://github.com/blixvip/easyedit) | [#59](https://github.com/blixvip/easyedit/pull/59) | Fix preview composition for --no-render builds | Merged |
 | [blixvip/GenMotion](https://github.com/blixvip/GenMotion) | [#18](https://github.com/blixvip/GenMotion/pull/18) | fix: make npm test work on Node 20 | Merged |
+| [blixvip/html-anime](https://github.com/blixvip/html-anime) | [#47](https://github.com/blixvip/html-anime/pull/47) | chore: ignore generated film build output | Merged |
 | [blixvip/MotionClone](https://github.com/blixvip/MotionClone) | [#33](https://github.com/blixvip/MotionClone/pull/33) | fix: validate pasted video URLs before creating projects | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#17](https://github.com/blixvip/NullMotion/pull/17) | feat: add frame-step keyboard shortcuts | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#18](https://github.com/blixvip/NullMotion/pull/18) | feat(export): show estimated time remaining | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#22](https://github.com/blixvip/NullMotion/pull/22) | fix: improve preview page accessibility | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#51](https://github.com/blixvip/NullMotion/pull/51) | test: comprehensively cover media streaming routes | Merged |
+| [blixvip/stick](https://github.com/blixvip/stick) | [#18](https://github.com/blixvip/stick/pull/18) | Fix safeName output validation | Merged |
+| [blixvip/thumbnail-studio](https://github.com/blixvip/thumbnail-studio) | [#19](https://github.com/blixvip/thumbnail-studio/pull/19) | fix(desktop): preserve keyboard focus when toggling favorites | Merged |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#86](https://github.com/bolubo/checkpoint-governor/pull/86) | fix(cdp): remove duplicate TargetLock definition | Merged |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#227](https://github.com/bolubo/checkpoint-governor/pull/227) | feat(waste): support explicit Megatron save intervals | Merged |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#229](https://github.com/bolubo/checkpoint-governor/pull/229) | test(python): measure step glue overhead at 100k steps | Merged |
@@ -543,7 +546,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 216 external repositories</summary>
+<summary>Browse merged PR counts across 219 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -656,7 +659,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [bhargavchintam/llm-inference](https://github.com/bhargavchintam/llm-inference) | 1 |
 | [blixvip/ai-broadcaster](https://github.com/blixvip/ai-broadcaster) | 1 |
 | [blixvip/GenMotion](https://github.com/blixvip/GenMotion) | 1 |
+| [blixvip/html-anime](https://github.com/blixvip/html-anime) | 1 |
 | [blixvip/MotionClone](https://github.com/blixvip/MotionClone) | 1 |
+| [blixvip/stick](https://github.com/blixvip/stick) | 1 |
+| [blixvip/thumbnail-studio](https://github.com/blixvip/thumbnail-studio) | 1 |
 | [boromat/polanon](https://github.com/boromat/polanon) | 1 |
 | [brokspace/brok](https://github.com/brokspace/brok) | 1 |
 | [Carmineh/CreateMobGrinding](https://github.com/Carmineh/CreateMobGrinding) | 1 |
@@ -763,7 +769,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **422** |
+| **Total** | **425** |
 
 </details>
 

@@ -482,6 +482,13 @@
       "lastSeenInSearch": false
     },
     {
+      "repository": "blixvip/html-anime",
+      "number": 47,
+      "description": "chore: ignore generated film build output",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "blixvip/MotionClone",
       "number": 33,
       "description": "fix: validate pasted video URLs before creating projects",
@@ -515,6 +522,20 @@
       "description": "test: comprehensively cover media streaming routes",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": false
+    },
+    {
+      "repository": "blixvip/stick",
+      "number": 18,
+      "description": "Fix safeName output validation",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "blixvip/thumbnail-studio",
+      "number": 19,
+      "description": "fix(desktop): preserve keyboard focus when toggling favorites",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
     },
     {
       "repository": "bolubo/checkpoint-governor",

@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>421</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>215</strong><br/>External repositories</td>
-    <td align="center"><strong>889</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>422</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>216</strong><br/>External repositories</td>
+    <td align="center"><strong>895</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 421 merged pull requests</summary>
+<summary>Browse all 422 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -193,6 +193,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#229](https://github.com/bolubo/checkpoint-governor/pull/229) | test(python): measure step glue overhead at 100k steps | Merged |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#241](https://github.com/bolubo/checkpoint-governor/pull/241) | Add JSON output support to Python demo | Merged |
 | [boromat/polanon](https://github.com/boromat/polanon) | [#26](https://github.com/boromat/polanon/pull/26) | fix(guards): mask Polish phones with bare 48 prefix | Merged |
+| [brokspace/brok](https://github.com/brokspace/brok) | [#41](https://github.com/brokspace/brok/pull/41) | fix: preserve brok.yml comments when saving | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#27](https://github.com/Bubblegunn/ai-slop-linter/pull/27) | Add pre-commit hooks for Markdown and commit messages | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#41](https://github.com/Bubblegunn/ai-slop-linter/pull/41) | feat: add SARIF output for code scanning | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#46](https://github.com/Bubblegunn/ai-slop-linter/pull/46) | Add reference markup residue rule (#14) | Merged |
@@ -542,7 +543,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 215 external repositories</summary>
+<summary>Browse merged PR counts across 216 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -657,6 +658,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [blixvip/GenMotion](https://github.com/blixvip/GenMotion) | 1 |
 | [blixvip/MotionClone](https://github.com/blixvip/MotionClone) | 1 |
 | [boromat/polanon](https://github.com/boromat/polanon) | 1 |
+| [brokspace/brok](https://github.com/brokspace/brok) | 1 |
 | [Carmineh/CreateMobGrinding](https://github.com/Carmineh/CreateMobGrinding) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [chipfighter/context-attachment-manager](https://github.com/chipfighter/context-attachment-manager) | 1 |
@@ -761,7 +763,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **421** |
+| **Total** | **422** |
 
 </details>
 
@@ -778,7 +780,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **889 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **895 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

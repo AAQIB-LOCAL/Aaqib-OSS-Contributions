@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 889,
+  "authoredPullRequestHighWatermark": 895,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 889,
+  "lastObservedPublicAuthoredPullRequestCount": 895,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -548,6 +548,13 @@
       "repository": "boromat/polanon",
       "number": 26,
       "description": "fix(guards): mask Polish phones with bare 48 prefix",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "brokspace/brok",
+      "number": 41,
+      "description": "fix: preserve brok.yml comments when saving",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },

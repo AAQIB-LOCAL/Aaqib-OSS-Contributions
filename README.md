@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>415</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>213</strong><br/>External repositories</td>
-    <td align="center"><strong>878</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>421</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>215</strong><br/>External repositories</td>
+    <td align="center"><strong>889</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 415 merged pull requests</summary>
+<summary>Browse all 421 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -179,6 +179,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | [#235](https://github.com/BistaDinesh03/critique/pull/235) | test: cover Discover eligibility and pagination for #222 | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#19](https://github.com/BitanSarkar/coalesce-java/pull/19) | Run Redis integration tests with Testcontainers | Merged |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | [#20](https://github.com/BitanSarkar/coalesce-java/pull/20) | #10: Make the follower poll interval configurable | Merged |
+| [blixvip/ai-broadcaster](https://github.com/blixvip/ai-broadcaster) | [#18](https://github.com/blixvip/ai-broadcaster/pull/18) | test: assert exact provider host list parity | Merged |
+| [blixvip/easyedit](https://github.com/blixvip/easyedit) | [#56](https://github.com/blixvip/easyedit/pull/56) | fix(web): validate /api/new job options before spawning | Merged |
+| [blixvip/easyedit](https://github.com/blixvip/easyedit) | [#59](https://github.com/blixvip/easyedit/pull/59) | Fix preview composition for --no-render builds | Merged |
 | [blixvip/GenMotion](https://github.com/blixvip/GenMotion) | [#18](https://github.com/blixvip/GenMotion/pull/18) | fix: make npm test work on Node 20 | Merged |
 | [blixvip/MotionClone](https://github.com/blixvip/MotionClone) | [#33](https://github.com/blixvip/MotionClone/pull/33) | fix: validate pasted video URLs before creating projects | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#17](https://github.com/blixvip/NullMotion/pull/17) | feat: add frame-step keyboard shortcuts | Merged |
@@ -343,6 +346,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#241](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/241) | feat: add hexadecimal floating-point formatting | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#247](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/247) | Add insertion-ordered LinkedHashMap | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#261](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/261) | Math: Add nextUp, nextDown, nextAfter, ulp and scalb | Merged |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#289](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/289) | fix: preserve quoted pipe arguments in shell | Merged |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#169](https://github.com/jaikaran109/51_Web_Projects/pull/169) | Fix: add playable shapes game and correct layout | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#74](https://github.com/JamshidS/aiset/pull/74) | test: cover transcript state transitions | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#104](https://github.com/JamshidS/aiset/pull/104) | Feat/teammap outline | Merged |
@@ -386,6 +390,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#17](https://github.com/MilkteaTW1/piscout/pull/17) | Add Spanish locale | Merged |
 | [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | [#229](https://github.com/moizycodes/moizy-open-source-issues/pull/229) | feat: add debounceAsync utility | Merged |
 | [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | [#230](https://github.com/moizycodes/moizy-open-source-issues/pull/230) | feat: add date range validation utility | Merged |
+| [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | [#231](https://github.com/moizycodes/moizy-open-source-issues/pull/231) | feat: add unsaved changes guard | Merged |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | [#17](https://github.com/Mr-Dark-debug/Moonfold/pull/17) | Map OpenCode usage-limit errors to handoff | Merged |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | [#9](https://github.com/mrsarthi/Chorrent/pull/9) | feat: add shell completion generation | Merged |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | [#10](https://github.com/mrsarthi/Chorrent/pull/10) | Add machine-readable JSON CLI output | Merged |
@@ -419,6 +424,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [osrep/Runes2P.jl](https://github.com/osrep/Runes2P.jl) | [#117](https://github.com/osrep/Runes2P.jl/pull/117) | docs: refer to the first radial face (#22) | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#389](https://github.com/pacocartones/free-llm-api-hub/pull/389) | data(vercel-ai-gateway): record prompt retention policy | Merged |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#391](https://github.com/pacocartones/free-llm-api-hub/pull/391) | data(rev-ai): clarify free-credit commercial terms | Merged |
+| [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#505](https://github.com/pacocartones/free-llm-api-hub/pull/505) | docs: remove stale roadmap and backlog claims | Merged |
 | [PatrickAttankurugu/AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP) | [#79](https://github.com/PatrickAttankurugu/AfricaPEP/pull/79) | test: cover Wikidata party affiliation extraction | Merged |
 | [PatrickAttankurugu/AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP) | [#80](https://github.com/PatrickAttankurugu/AfricaPEP/pull/80) | Feat/arabic name transliteration | Merged |
 | [perfectmodelslab/ComfyUI-PerfectLab](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) | [#5](https://github.com/perfectmodelslab/ComfyUI-PerfectLab/pull/5) | feat: add fashion decade wildcard pack | Merged |
@@ -536,7 +542,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 213 external repositories</summary>
+<summary>Browse merged PR counts across 215 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -549,9 +555,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 7 |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 6 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 6 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
-| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 5 |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
@@ -576,8 +582,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 3 |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | 3 |
+| [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | 3 |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 3 |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 3 |
+| [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 3 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 3 |
@@ -593,6 +601,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | 2 |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
+| [blixvip/easyedit](https://github.com/blixvip/easyedit) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 2 |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
@@ -609,12 +618,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 2 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
-| [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | 2 |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | 2 |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 2 |
 | [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | 2 |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
-| [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 2 |
 | [PatrickAttankurugu/AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP) | 2 |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | 2 |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | 2 |
@@ -646,6 +653,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [atomityhq/atomity-cms](https://github.com/atomityhq/atomity-cms) | 1 |
 | [BaryoDev/Vouch](https://github.com/BaryoDev/Vouch) | 1 |
 | [bhargavchintam/llm-inference](https://github.com/bhargavchintam/llm-inference) | 1 |
+| [blixvip/ai-broadcaster](https://github.com/blixvip/ai-broadcaster) | 1 |
 | [blixvip/GenMotion](https://github.com/blixvip/GenMotion) | 1 |
 | [blixvip/MotionClone](https://github.com/blixvip/MotionClone) | 1 |
 | [boromat/polanon](https://github.com/boromat/polanon) | 1 |
@@ -753,7 +761,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **415** |
+| **Total** | **421** |
 
 </details>
 
@@ -770,7 +778,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **878 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **889 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

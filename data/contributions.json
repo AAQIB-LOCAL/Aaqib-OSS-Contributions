@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 878,
+  "authoredPullRequestHighWatermark": 889,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 878,
+  "lastObservedPublicAuthoredPullRequestCount": 889,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -454,6 +454,27 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "blixvip/ai-broadcaster",
+      "number": 18,
+      "description": "test: assert exact provider host list parity",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "blixvip/easyedit",
+      "number": 56,
+      "description": "fix(web): validate /api/new job options before spawning",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "blixvip/easyedit",
+      "number": 59,
+      "description": "Fix preview composition for --no-render builds",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "blixvip/GenMotion",
       "number": 18,
       "description": "fix: make npm test work on Node 20",
@@ -486,7 +507,7 @@
       "number": 22,
       "description": "fix: improve preview page accessibility",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": false
+      "lastSeenInSearch": true
     },
     {
       "repository": "blixvip/NullMotion",
@@ -1602,6 +1623,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "JackFurton/who-would-build-a-kernel-in-java",
+      "number": 289,
+      "description": "fix: preserve quoted pipe arguments in shell",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "jaikaran109/51_Web_Projects",
       "number": 169,
       "description": "Fix: add playable shapes game and correct layout",
@@ -1903,6 +1931,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "moizycodes/moizy-open-source-issues",
+      "number": 231,
+      "description": "feat: add unsaved changes guard",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "Mr-Dark-debug/Moonfold",
       "number": 17,
       "description": "Map OpenCode usage-limit errors to handoff",
@@ -2131,6 +2166,13 @@
       "number": 391,
       "description": "data(rev-ai): clarify free-credit commercial terms",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "pacocartones/free-llm-api-hub",
+      "number": 505,
+      "description": "docs: remove stale roadmap and backlog claims",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

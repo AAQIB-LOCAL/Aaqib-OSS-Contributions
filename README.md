@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>425</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>427</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>219</strong><br/>External repositories</td>
-    <td align="center"><strong>895</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>902</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 425 merged pull requests</summary>
+<summary>Browse all 427 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -136,6 +136,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#50](https://github.com/afrigov/afrigov/pull/50) | feat: add contents navigation component | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#51](https://github.com/afrigov/afrigov/pull/51) | docs: clarify header wrapping at tablet widths | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#52](https://github.com/afrigov/afrigov/pull/52) | feat(video): support direct files and captions | Merged |
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#54](https://github.com/afrigov/afrigov/pull/54) | fix(pack): validate Tanzania NIN as 20 digits | Merged |
 | [agevenkat/vagejs](https://github.com/agevenkat/vagejs) | [#8](https://github.com/agevenkat/vagejs/pull/8) | Fix/long title description warnings | Merged |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | [#7](https://github.com/AkulTyagi11/StarStruck/pull/7) | feat(themes): add Kanagawa Wave palette | Merged |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | [#9](https://github.com/AkulTyagi11/StarStruck/pull/9) | feat: add themed top languages card | Merged |
@@ -534,6 +535,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#10](https://github.com/Yjnnev/Kat-Notes/pull/10) | feat(todo): make list selection functional | Merged |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#11](https://github.com/Yjnnev/Kat-Notes/pull/11) | fix(todo): make deleting todos functional | Merged |
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | [#27](https://github.com/Yjnnev/Lab-Track/pull/27) | feat(survey): add post-slip satisfaction survey | Merged |
+| [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | [#28](https://github.com/Yjnnev/Lab-Track/pull/28) | feat: add offline borrowing PWA support | Merged |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | [#64](https://github.com/YO-WHATS-UP2/minigit/pull/64) | docs: publish MkDocs site with GitHub Pages | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#511](https://github.com/yoavnir/specs2016/pull/511) | Dev 1.1.0 issue510 | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#515](https://github.com/yoavnir/specs2016/pull/515) | Issue #504 - generate manpage automatically | Merged |
@@ -550,8 +552,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 
 | Repository | Merged PRs |
 |---|---:|
+| [afrigov/afrigov](https://github.com/afrigov/afrigov) | 12 |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 12 |
-| [afrigov/afrigov](https://github.com/afrigov/afrigov) | 11 |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 9 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 9 |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 8 |
@@ -639,6 +641,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 2 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 2 |
+| [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 2 |
 | [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | 2 |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | 1 |
 | [Aepzie/cutline](https://github.com/Aepzie/cutline) | 1 |
@@ -767,9 +770,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 1 |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
-| [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **425** |
+| **Total** | **427** |
 
 </details>
 
@@ -786,7 +788,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **895 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **902 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

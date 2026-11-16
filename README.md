@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>444</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>221</strong><br/>External repositories</td>
-    <td align="center"><strong>944</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>450</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>222</strong><br/>External repositories</td>
+    <td align="center"><strong>945</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 444 merged pull requests</summary>
+<summary>Browse all 450 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -221,6 +221,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | [#44](https://github.com/Bubblegunn/surviving-lines/pull/44) | feat: add author sorting by share gap (#30) | Merged |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#9](https://github.com/Bytewave1/dkit/pull/9) | ci: test dkit across Windows, macOS and Linux | Merged |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#11](https://github.com/Bytewave1/dkit/pull/11) | test: broaden CLI edge-case coverage (#8) | Merged |
+| [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#95](https://github.com/Bytewave1/dkit/pull/95) | docs: add GitHub issue forms and PR template | Merged |
 | [Carmineh/CreateMobGrinding](https://github.com/Carmineh/CreateMobGrinding) | [#13](https://github.com/Carmineh/CreateMobGrinding/pull/13) | compat: add Guard Villagers entity to tier 3 | Merged |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#198](https://github.com/cellrishi-code/claude-skills-atlas/pull/198) | docs: add guide for maintainable skill tests | Merged |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#211](https://github.com/cellrishi-code/claude-skills-atlas/pull/211) | Add static smoke tests for documented examples | Merged |
@@ -240,6 +241,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [DeandreT/ferrule](https://github.com/DeandreT/ferrule) | [#1120](https://github.com/DeandreT/ferrule/pull/1120) | feat(linux): add desktop and AppStream metadata | Merged |
 | [deimos-hq/ratchet](https://github.com/deimos-hq/ratchet) | [#12](https://github.com/deimos-hq/ratchet/pull/12) | test: enforce source file headers | Merged |
 | [deimos-hq/ratchet](https://github.com/deimos-hq/ratchet) | [#13](https://github.com/deimos-hq/ratchet/pull/13) | test: fuzz MCP JSON-RPC parser | Merged |
+| [deimos-hq/wardlatch](https://github.com/deimos-hq/wardlatch) | [#36](https://github.com/deimos-hq/wardlatch/pull/36) | test: add seeded property coverage for version comparison | Merged |
 | [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | [#234](https://github.com/dgesteves/onsystem/pull/234) | fix: explain when no components are available | Merged |
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | [#207](https://github.com/dgesteves/signoff-ui/pull/207) | test: cover reasoning stream and duration | Merged |
 | [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | [#19](https://github.com/DhanushNehru/pdf-xss-checker/pull/19) | fix: serialize pdf parsing across concurrent scans | Merged |
@@ -391,6 +393,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | [#8](https://github.com/Louayzouaoui1/claude-hud/pull/8) | test: cover token counting and cache pricing (#7) | Merged |
 | [mahanmntz/pa-varaq](https://github.com/mahanmntz/pa-varaq) | [#32](https://github.com/mahanmntz/pa-varaq/pull/32) | feat(api): redact personal data from logs | Merged |
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | [#16](https://github.com/MAKHMUDuz/melyar/pull/16) | test(innertube): cover parser response fixtures | Merged |
+| [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | [#51](https://github.com/MAKHMUDuz/melyar/pull/51) | fix(core): discover yt-dlp across platforms | Merged |
+| [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | [#52](https://github.com/MAKHMUDuz/melyar/pull/52) | perf(core): isolate CXX bridge compilation | Merged |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | [#32](https://github.com/malav2110/explain-diff-html/pull/32) | fix: name verification artifacts and omit attribution claims | Merged |
 | [marstr/baronial](https://github.com/marstr/baronial) | [#133](https://github.com/marstr/baronial/pull/133) | Check for Perl before building on Windows | Merged |
 | [marstr/baronial](https://github.com/marstr/baronial) | [#134](https://github.com/marstr/baronial/pull/134) | Handle diff against an empty repository | Merged |
@@ -491,6 +495,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#48](https://github.com/SpiliosDimakopoulos/fintwin/pull/48) | Document public export and universe functions | Merged |
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | [#49](https://github.com/SpiliosDimakopoulos/fintwin/pull/49) | Fix accessible names for scenario and forecast charts | Merged |
 | [stlynnxx/PartsandStock](https://github.com/stlynnxx/PartsandStock) | [#16](https://github.com/stlynnxx/PartsandStock/pull/16) | Improve JSON file formatting with trailing newline | Merged |
+| [stlynnxx/PartsandStock](https://github.com/stlynnxx/PartsandStock) | [#42](https://github.com/stlynnxx/PartsandStock/pull/42) | Add tested inventory operations and persistence safeguards | Merged |
+| [stlynnxx/PartsandStock](https://github.com/stlynnxx/PartsandStock) | [#43](https://github.com/stlynnxx/PartsandStock/pull/43) | Clean up CLI routing and unused imports | Merged |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#9](https://github.com/stlynnxx/Slippery-Penguin/pull/9) | feat: allow bypassing startup update check | Merged |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#23](https://github.com/stlynnxx/Slippery-Penguin/pull/23) | fix: clarify empty GTFOBins PDF results | Merged |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#24](https://github.com/stlynnxx/Slippery-Penguin/pull/24) | feat: add CSV report generation | Merged |
@@ -565,7 +571,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 221 external repositories</summary>
+<summary>Browse merged PR counts across 222 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -599,6 +605,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 3 |
 | [blixvip/easyedit](https://github.com/blixvip/easyedit) | 3 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 3 |
+| [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 3 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 3 |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 3 |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 3 |
@@ -609,11 +616,13 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 3 |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | 3 |
+| [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | 3 |
 | [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | 3 |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 3 |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 3 |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
+| [stlynnxx/PartsandStock](https://github.com/stlynnxx/PartsandStock) | 3 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 3 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 3 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 3 |
@@ -628,7 +637,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
-| [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 2 |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
 | [deimos-hq/ratchet](https://github.com/deimos-hq/ratchet) | 2 |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 2 |
@@ -699,6 +707,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [ColinGPT9/clips-studio](https://github.com/ColinGPT9/clips-studio) | 1 |
 | [crbtgab/housing-records](https://github.com/crbtgab/housing-records) | 1 |
 | [DeandreT/ferrule](https://github.com/DeandreT/ferrule) | 1 |
+| [deimos-hq/wardlatch](https://github.com/deimos-hq/wardlatch) | 1 |
 | [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | 1 |
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | 1 |
 | [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | 1 |
@@ -743,7 +752,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [livesport/homer](https://github.com/livesport/homer) | 1 |
 | [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | 1 |
 | [mahanmntz/pa-varaq](https://github.com/mahanmntz/pa-varaq) | 1 |
-| [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | 1 |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | 1 |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | 1 |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | 1 |
@@ -774,7 +782,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [sdageltc/letitloop](https://github.com/sdageltc/letitloop) | 1 |
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
 | [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | 1 |
-| [stlynnxx/PartsandStock](https://github.com/stlynnxx/PartsandStock) | 1 |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
 | [thiagomvas/haven](https://github.com/thiagomvas/haven) | 1 |
 | [timihack/authwarden](https://github.com/timihack/authwarden) | 1 |
@@ -790,7 +797,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **444** |
+| **Total** | **450** |
 
 </details>
 
@@ -807,7 +814,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **944 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **945 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

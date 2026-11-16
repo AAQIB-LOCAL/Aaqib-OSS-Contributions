@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>443</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>444</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>221</strong><br/>External repositories</td>
-    <td align="center"><strong>941</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>944</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 443 merged pull requests</summary>
+<summary>Browse all 444 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -141,6 +141,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [agevenkat/vagejs](https://github.com/agevenkat/vagejs) | [#8](https://github.com/agevenkat/vagejs/pull/8) | Fix/long title description warnings | Merged |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | [#7](https://github.com/AkulTyagi11/StarStruck/pull/7) | feat(themes): add Kanagawa Wave palette | Merged |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | [#9](https://github.com/AkulTyagi11/StarStruck/pull/9) | feat: add themed top languages card | Merged |
+| [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | [#10](https://github.com/AkulTyagi11/StarStruck/pull/10) | feat(themes): add Gruvbox Dark palette | Merged |
 | [alok-108/phantom](https://github.com/alok-108/phantom) | [#41](https://github.com/alok-108/phantom/pull/41) | docs: add Hindi README and quickstart (#34) | Merged |
 | [alok-108/phantom](https://github.com/alok-108/phantom) | [#285](https://github.com/alok-108/phantom/pull/285) | feat(completions): add Elvish tab completion | Merged |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | [#6](https://github.com/AlphaIsYour/eno-qr-studio/pull/6) | Add unit coverage for international phone and SMS encoding | Merged |
@@ -595,6 +596,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | 4 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
+| [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 3 |
 | [blixvip/easyedit](https://github.com/blixvip/easyedit) | 3 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 3 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 3 |
@@ -620,7 +622,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | 2 |
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 2 |
 | [adlerqa/wardeniq](https://github.com/adlerqa/wardeniq) | 2 |
-| [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 2 |
 | [alok-108/phantom](https://github.com/alok-108/phantom) | 2 |
 | [amirbena/code-review-skill](https://github.com/amirbena/code-review-skill) | 2 |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | 2 |
@@ -789,7 +790,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **443** |
+| **Total** | **444** |
 
 </details>
 
@@ -806,7 +807,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **941 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **944 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

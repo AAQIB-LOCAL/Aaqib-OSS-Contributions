@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 922,
+  "authoredPullRequestHighWatermark": 924,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 922,
+  "lastObservedPublicAuthoredPullRequestCount": 924,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -1921,6 +1921,20 @@
       "number": 32,
       "description": "fix: name verification artifacts and omit attribution claims",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "marstr/baronial",
+      "number": 133,
+      "description": "Check for Perl before building on Windows",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "marstr/baronial",
+      "number": 134,
+      "description": "Handle diff against an empty repository",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

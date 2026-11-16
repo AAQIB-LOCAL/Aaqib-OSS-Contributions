@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>434</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>219</strong><br/>External repositories</td>
-    <td align="center"><strong>922</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>436</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>220</strong><br/>External repositories</td>
+    <td align="center"><strong>924</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 434 merged pull requests</summary>
+<summary>Browse all 436 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -389,6 +389,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [mahanmntz/pa-varaq](https://github.com/mahanmntz/pa-varaq) | [#32](https://github.com/mahanmntz/pa-varaq/pull/32) | feat(api): redact personal data from logs | Merged |
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | [#16](https://github.com/MAKHMUDuz/melyar/pull/16) | test(innertube): cover parser response fixtures | Merged |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | [#32](https://github.com/malav2110/explain-diff-html/pull/32) | fix: name verification artifacts and omit attribution claims | Merged |
+| [marstr/baronial](https://github.com/marstr/baronial) | [#133](https://github.com/marstr/baronial/pull/133) | Check for Perl before building on Windows | Merged |
+| [marstr/baronial](https://github.com/marstr/baronial) | [#134](https://github.com/marstr/baronial/pull/134) | Handle diff against an empty repository | Merged |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | Preserve Open With intake order with desktop regression coverage | Merged |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#148](https://github.com/McanKul/offpdf/pull/148) | feat(ocr): remember selected OCR languages | Merged |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | [#11](https://github.com/MeshLive/meshlive-android/pull/11) | docs: clarify release verification and terms | Merged |
@@ -555,7 +557,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 219 external repositories</summary>
+<summary>Browse merged PR counts across 220 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -630,6 +632,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 2 |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 2 |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 2 |
+| [marstr/baronial](https://github.com/marstr/baronial) | 2 |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | 2 |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | 2 |
 | [mrsarthi/Chorrent](https://github.com/mrsarthi/Chorrent) | 2 |
@@ -778,7 +781,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **434** |
+| **Total** | **436** |
 
 </details>
 
@@ -795,7 +798,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **922 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **924 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

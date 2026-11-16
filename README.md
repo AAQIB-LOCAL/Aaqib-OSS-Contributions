@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>441</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>443</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>221</strong><br/>External repositories</td>
-    <td align="center"><strong>934</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>941</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 441 merged pull requests</summary>
+<summary>Browse all 443 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -432,6 +432,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | [#1316](https://github.com/open-telemetry/opentelemetry-kotlin/pull/1316) | fix(logging): isolate failures during log emission | Merged |
 | [openapi/contributors](https://github.com/openapi/contributors) | [#4](https://github.com/openapi/contributors/pull/4) | docs: add Aaqibhafeez Khan to contributors | Merged |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#30](https://github.com/openapi/gknowledge/pull/30) | fix: support source re-ingestion and removal | Merged |
+| [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#31](https://github.com/openapi/gknowledge/pull/31) | fix: verify Flatpak bundles during release | Merged |
+| [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#55](https://github.com/openapi/gknowledge/pull/55) | feat(ui): split review queue by item type | Merged |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | [#22](https://github.com/Orbit-xyz/orbit-docs/pull/22) | docs: add TypeScript SDK contract examples | Merged |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | [#97](https://github.com/oscarbol09/jvm-mcp/pull/97) | Fix/75 actuator default health | Merged |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | [#181](https://github.com/oscarbol09/jvm-mcp/pull/181) | feat(cli): add JSON output to list, memory, and threads | Merged |
@@ -608,6 +610,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | 3 |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 3 |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 3 |
+| [openapi/gknowledge](https://github.com/openapi/gknowledge) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 3 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 3 |
@@ -752,7 +755,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | 1 |
 | [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | 1 |
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
-| [openapi/gknowledge](https://github.com/openapi/gknowledge) | 1 |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | 1 |
 | [osrep/Runes2P.jl](https://github.com/osrep/Runes2P.jl) | 1 |
 | [perfectmodelslab/ComfyUI-PerfectLab](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) | 1 |
@@ -787,7 +789,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **441** |
+| **Total** | **443** |
 
 </details>
 
@@ -804,7 +806,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **934 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **941 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

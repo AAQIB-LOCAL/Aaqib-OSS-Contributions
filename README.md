@@ -13,7 +13,7 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
   <tr>
     <td align="center"><strong>457</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>222</strong><br/>External repositories</td>
-    <td align="center"><strong>959</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>961</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -821,7 +821,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **959 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **961 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

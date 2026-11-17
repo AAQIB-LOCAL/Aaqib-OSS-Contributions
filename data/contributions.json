@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 959,
+  "authoredPullRequestHighWatermark": 961,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 959,
+  "lastObservedPublicAuthoredPullRequestCount": 961,
   "contributions": [
     {
       "repository": "8f4e/8f4e",

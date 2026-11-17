@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>450</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>452</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>222</strong><br/>External repositories</td>
-    <td align="center"><strong>945</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>950</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 450 merged pull requests</summary>
+<summary>Browse all 452 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -195,6 +195,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#18](https://github.com/blixvip/NullMotion/pull/18) | feat(export): show estimated time remaining | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#22](https://github.com/blixvip/NullMotion/pull/22) | fix: improve preview page accessibility | Merged |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#51](https://github.com/blixvip/NullMotion/pull/51) | test: comprehensively cover media streaming routes | Merged |
+| [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | [#79](https://github.com/blixvip/NullMotion/pull/79) | Stream MP4 exports directly to disk | Merged |
 | [blixvip/stick](https://github.com/blixvip/stick) | [#18](https://github.com/blixvip/stick/pull/18) | Fix safeName output validation | Merged |
 | [blixvip/thumbnail-studio](https://github.com/blixvip/thumbnail-studio) | [#19](https://github.com/blixvip/thumbnail-studio/pull/19) | fix(desktop): preserve keyboard focus when toggling favorites | Merged |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#86](https://github.com/bolubo/checkpoint-governor/pull/86) | fix(cdp): remove duplicate TargetLock definition | Merged |
@@ -341,6 +342,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#247](https://github.com/Huerte/algo-solutions-python/pull/247) | feat: add searchable GitHub Pages site for solutions | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#262](https://github.com/Huerte/algo-solutions-python/pull/262) | Fix passphrase shifting and per-word casing | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#264](https://github.com/Huerte/algo-solutions-python/pull/264) | docs: add prefixCount docstring | Merged |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#284](https://github.com/Huerte/algo-solutions-python/pull/284) | Optimize N-Queens II using bitmasks | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#97](https://github.com/Huseynteymurzade28/tuiba/pull/97) | Add cargo-binstall release metadata | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#99](https://github.com/Huseynteymurzade28/tuiba/pull/99) | Feat/configurable colour themes | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#100](https://github.com/Huseynteymurzade28/tuiba/pull/100) | packaging: add Nix flake | Merged |
@@ -575,7 +577,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 
 | Repository | Merged PRs |
 |---|---:|
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 14 |
+| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 15 |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | 12 |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 9 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 9 |
@@ -586,13 +588,13 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 6 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
+| [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 5 |
 | [ujjwalv01/releaseproof](https://github.com/ujjwalv01/releaseproof) | 5 |
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 4 |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
-| [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 4 |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | 4 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 4 |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | 4 |
@@ -797,7 +799,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **450** |
+| **Total** | **452** |
 
 </details>
 
@@ -814,7 +816,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **945 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **950 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

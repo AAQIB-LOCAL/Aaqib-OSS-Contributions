@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>457</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>461</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>222</strong><br/>External repositories</td>
-    <td align="center"><strong>961</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>964</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 457 merged pull requests</summary>
+<summary>Browse all 461 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -364,6 +364,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#261](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/261) | Math: Add nextUp, nextDown, nextAfter, ulp and scalb | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#289](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/289) | fix: preserve quoted pipe arguments in shell | Merged |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#169](https://github.com/jaikaran109/51_Web_Projects/pull/169) | Fix: add playable shapes game and correct layout | Merged |
+| [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#253](https://github.com/jaikaran109/51_Web_Projects/pull/253) | perf: optimize raster images and lazy-load page media | Merged |
+| [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#254](https://github.com/jaikaran109/51_Web_Projects/pull/254) | fix: add SEO metadata and SVG favicons to project pages | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#74](https://github.com/JamshidS/aiset/pull/74) | test: cover transcript state transitions | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#104](https://github.com/JamshidS/aiset/pull/104) | Feat/teammap outline | Merged |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | [#105](https://github.com/JamshidS/aiset/pull/105) | feat: add teammap run command | Merged |
@@ -396,6 +398,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [livesport/homer](https://github.com/livesport/homer) | [#79](https://github.com/livesport/homer/pull/79) | test(console): cover download utilities (#51) | Merged |
 | [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | [#8](https://github.com/Louayzouaoui1/claude-hud/pull/8) | test: cover token counting and cache pricing (#7) | Merged |
 | [mahanmntz/pa-varaq](https://github.com/mahanmntz/pa-varaq) | [#32](https://github.com/mahanmntz/pa-varaq/pull/32) | feat(api): redact personal data from logs | Merged |
+| [mahanmntz/pa-varaq](https://github.com/mahanmntz/pa-varaq) | [#34](https://github.com/mahanmntz/pa-varaq/pull/34) | test(shared): cover validator edge cases (#22) | Merged |
+| [mahanmntz/pa-varaq](https://github.com/mahanmntz/pa-varaq) | [#35](https://github.com/mahanmntz/pa-varaq/pull/35) | chore(infra): harden containers and add health checks (#17) | Merged |
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | [#16](https://github.com/MAKHMUDuz/melyar/pull/16) | test(innertube): cover parser response fixtures | Merged |
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | [#51](https://github.com/MAKHMUDuz/melyar/pull/51) | fix(core): discover yt-dlp across platforms | Merged |
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | [#52](https://github.com/MAKHMUDuz/melyar/pull/52) | perf(core): isolate CXX bridge compilation | Merged |
@@ -622,8 +626,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 3 |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
+| [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | 3 |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 3 |
+| [mahanmntz/pa-varaq](https://github.com/mahanmntz/pa-varaq) | 3 |
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | 3 |
 | [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | 3 |
 | [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 3 |
@@ -749,7 +755,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | 1 |
 | [ika100/sdlc-foundry](https://github.com/ika100/sdlc-foundry) | 1 |
 | [isaaclins/taskboard](https://github.com/isaaclins/taskboard) | 1 |
-| [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | 1 |
 | [JExcellence/JEHibernate](https://github.com/JExcellence/JEHibernate) | 1 |
 | [jzheaux/reader](https://github.com/jzheaux/reader) | 1 |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | 1 |
@@ -759,7 +764,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
 | [livesport/homer](https://github.com/livesport/homer) | 1 |
 | [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | 1 |
-| [mahanmntz/pa-varaq](https://github.com/mahanmntz/pa-varaq) | 1 |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | 1 |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | 1 |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | 1 |
@@ -804,7 +808,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **457** |
+| **Total** | **461** |
 
 </details>
 
@@ -821,7 +825,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **961 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **964 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>461</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>222</strong><br/>External repositories</td>
-    <td align="center"><strong>964</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>469</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>223</strong><br/>External repositories</td>
+    <td align="center"><strong>969</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 461 merged pull requests</summary>
+<summary>Browse all 469 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -223,6 +223,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#9](https://github.com/Bytewave1/dkit/pull/9) | ci: test dkit across Windows, macOS and Linux | Merged |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#11](https://github.com/Bytewave1/dkit/pull/11) | test: broaden CLI edge-case coverage (#8) | Merged |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#95](https://github.com/Bytewave1/dkit/pull/95) | docs: add GitHub issue forms and PR template | Merged |
+| [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#96](https://github.com/Bytewave1/dkit/pull/96) | feat: add guild configuration level lookups | Merged |
 | [Carmineh/CreateMobGrinding](https://github.com/Carmineh/CreateMobGrinding) | [#13](https://github.com/Carmineh/CreateMobGrinding/pull/13) | compat: add Guard Villagers entity to tier 3 | Merged |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#198](https://github.com/cellrishi-code/claude-skills-atlas/pull/198) | docs: add guide for maintainable skill tests | Merged |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#211](https://github.com/cellrishi-code/claude-skills-atlas/pull/211) | Add static smoke tests for documented examples | Merged |
@@ -234,15 +235,18 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) | [#332](https://github.com/codercops/toolbelt/pull/332) | fix(base64): report original invalid character positions | Merged |
 | [ColinGPT9/clips-studio](https://github.com/ColinGPT9/clips-studio) | [#217](https://github.com/ColinGPT9/clips-studio/pull/217) | fix(i18n): translate UI attributes across components | Merged |
 | [crbtgab/housing-records](https://github.com/crbtgab/housing-records) | [#7](https://github.com/crbtgab/housing-records/pull/7) | Fix/borough border hit testing | Merged |
+| [crbtgab/housing-records](https://github.com/crbtgab/housing-records) | [#16](https://github.com/crbtgab/housing-records/pull/16) | feat(data): automate official source refresh workflow | Merged |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | [#156](https://github.com/creatoan/scenet/pull/156) | docs: explain building and checking comics in CI | Merged |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | [#206](https://github.com/creatoan/scenet/pull/206) | feat(cli): rebuild when source files change (`scenet build --watch`) (#78) | Merged |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | [#207](https://github.com/creatoan/scenet/pull/207) | docs: PDF print spike (#80) | Merged |
+| [creatoan/scenet](https://github.com/creatoan/scenet) | [#479](https://github.com/creatoan/scenet/pull/479) | Report script directive faults at their lines | Merged |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#367](https://github.com/cubrid-lab/cubrid-mcp-server/pull/367) | test(config): cover whitespace around named selector | Merged |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#368](https://github.com/cubrid-lab/cubrid-mcp-server/pull/368) | test: cover a non-matching table-name filter | Merged |
 | [DeandreT/ferrule](https://github.com/DeandreT/ferrule) | [#1120](https://github.com/DeandreT/ferrule/pull/1120) | feat(linux): add desktop and AppStream metadata | Merged |
 | [deimos-hq/ratchet](https://github.com/deimos-hq/ratchet) | [#12](https://github.com/deimos-hq/ratchet/pull/12) | test: enforce source file headers | Merged |
 | [deimos-hq/ratchet](https://github.com/deimos-hq/ratchet) | [#13](https://github.com/deimos-hq/ratchet/pull/13) | test: fuzz MCP JSON-RPC parser | Merged |
 | [deimos-hq/wardlatch](https://github.com/deimos-hq/wardlatch) | [#36](https://github.com/deimos-hq/wardlatch/pull/36) | test: add seeded property coverage for version comparison | Merged |
+| [deimos-hq/wardlatch](https://github.com/deimos-hq/wardlatch) | [#40](https://github.com/deimos-hq/wardlatch/pull/40) | test: add seeded properties for hidden-character escaping | Merged |
 | [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | [#234](https://github.com/dgesteves/onsystem/pull/234) | fix: explain when no components are available | Merged |
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | [#207](https://github.com/dgesteves/signoff-ui/pull/207) | test: cover reasoning stream and duration | Merged |
 | [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | [#19](https://github.com/DhanushNehru/pdf-xss-checker/pull/19) | fix: serialize pdf parsing across concurrent scans | Merged |
@@ -328,6 +332,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | [#26](https://github.com/Hosein-imani/hybrid-recommendation-system/pull/26) | Feat/issue 15 single signal recommendations | Merged |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | [#27](https://github.com/Hosein-imani/hybrid-recommendation-system/pull/27) | Feat/issue 17 held out ranking evaluation | Merged |
 | [hslee16/Archy](https://github.com/hslee16/Archy) | [#816](https://github.com/hslee16/Archy/pull/816) | test(affected): cover question mark path separator boundary | Merged |
+| [hslee16/Archy](https://github.com/hslee16/Archy) | [#997](https://github.com/hslee16/Archy/pull/997) | fix(bench): parse quoted and spaced diff paths | Merged |
+| [hslee16/Archy](https://github.com/hslee16/Archy) | [#998](https://github.com/hslee16/Archy/pull/998) | fix(install): preflight every uninstall target | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#129](https://github.com/Huerte/algo-solutions-python/pull/129) | docs: clarify solution directory structure | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#132](https://github.com/Huerte/algo-solutions-python/pull/132) | docs: tag ten solutions by algorithm topic | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#133](https://github.com/Huerte/algo-solutions-python/pull/133) | test: add edge cases for letter percentage solution | Merged |
@@ -543,6 +549,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Veinar/draincheck](https://github.com/Veinar/draincheck) | [#140](https://github.com/Veinar/draincheck/pull/140) | docs: json report jq recipes | Merged |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | [#32](https://github.com/visualfusion/feedkeeper/pull/32) | docs(deployment): cover Caddy, nginx and Traefik proxies | Merged |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | [#5760](https://github.com/vivekchand/clawmetry/pull/5760) | fix: surface OpenClaw session share state | Merged |
+| [vladimirrott/maintainer-agent](https://github.com/vladimirrott/maintainer-agent) | [#249](https://github.com/vladimirrott/maintainer-agent/pull/249) | fix: preserve foreign systemd timer stamps | Merged |
+| [vladimirrott/maintainer-agent](https://github.com/vladimirrott/maintainer-agent) | [#250](https://github.com/vladimirrott/maintainer-agent/pull/250) | fix: enable timers only for deployed profiles | Merged |
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | [#25](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner/pull/25) | Issue 10 expectancy confidence gate | Merged |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | [#24](https://github.com/VOLPAROSSA/volparossa-code/pull/24) | test: cover fragmented SSE framing and invalid UTF-8 | Merged |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | [#82](https://github.com/vr-patel/editmypdf/pull/82) | fix: Improve emoji search with keywords and group names | Merged |
@@ -582,7 +590,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 222 external repositories</summary>
+<summary>Browse merged PR counts across 223 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -607,6 +615,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | 4 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 4 |
+| [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 4 |
+| [creatoan/scenet](https://github.com/creatoan/scenet) | 4 |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | 4 |
 | [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | 4 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 4 |
@@ -618,13 +628,12 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 3 |
 | [blixvip/easyedit](https://github.com/blixvip/easyedit) | 3 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 3 |
-| [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 3 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 3 |
-| [creatoan/scenet](https://github.com/creatoan/scenet) | 3 |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 3 |
+| [hslee16/Archy](https://github.com/hslee16/Archy) | 3 |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | 3 |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
@@ -650,8 +659,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
+| [crbtgab/housing-records](https://github.com/crbtgab/housing-records) | 2 |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
 | [deimos-hq/ratchet](https://github.com/deimos-hq/ratchet) | 2 |
+| [deimos-hq/wardlatch](https://github.com/deimos-hq/wardlatch) | 2 |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 2 |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | 2 |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | 2 |
@@ -683,6 +694,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 2 |
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [VarshithReddy2006/DevTrack](https://github.com/VarshithReddy2006/DevTrack) | 2 |
+| [vladimirrott/maintainer-agent](https://github.com/vladimirrott/maintainer-agent) | 2 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 2 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 2 |
@@ -720,9 +732,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) | 1 |
 | [ColinGPT9/clips-studio](https://github.com/ColinGPT9/clips-studio) | 1 |
-| [crbtgab/housing-records](https://github.com/crbtgab/housing-records) | 1 |
 | [DeandreT/ferrule](https://github.com/DeandreT/ferrule) | 1 |
-| [deimos-hq/wardlatch](https://github.com/deimos-hq/wardlatch) | 1 |
 | [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | 1 |
 | [dgesteves/signoff-ui](https://github.com/dgesteves/signoff-ui) | 1 |
 | [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | 1 |
@@ -751,7 +761,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | 1 |
 | [hexlet-components/ru-my-first-pullrequest](https://github.com/hexlet-components/ru-my-first-pullrequest) | 1 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | 1 |
-| [hslee16/Archy](https://github.com/hslee16/Archy) | 1 |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | 1 |
 | [ika100/sdlc-foundry](https://github.com/ika100/sdlc-foundry) | 1 |
 | [isaaclins/taskboard](https://github.com/isaaclins/taskboard) | 1 |
@@ -808,7 +817,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **461** |
+| **Total** | **469** |
 
 </details>
 
@@ -825,7 +834,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **964 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **969 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

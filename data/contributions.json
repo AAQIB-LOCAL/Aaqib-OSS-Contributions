@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 964,
+  "authoredPullRequestHighWatermark": 969,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 964,
+  "lastObservedPublicAuthoredPullRequestCount": 969,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -493,28 +493,28 @@
       "number": 18,
       "description": "test: assert exact provider host list parity",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "blixvip/easyedit",
       "number": 56,
       "description": "fix(web): validate /api/new job options before spawning",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "blixvip/easyedit",
       "number": 59,
       "description": "Fix preview composition for --no-render builds",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "blixvip/easyedit",
       "number": 63,
       "description": "Fix batch QA report row parsing",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "blixvip/GenMotion",
@@ -528,7 +528,7 @@
       "number": 47,
       "description": "chore: ignore generated film build output",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "blixvip/MotionClone",
@@ -556,7 +556,7 @@
       "number": 22,
       "description": "fix: improve preview page accessibility",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "blixvip/NullMotion",
@@ -570,21 +570,21 @@
       "number": 79,
       "description": "Stream MP4 exports directly to disk",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "blixvip/stick",
       "number": 18,
       "description": "Fix safeName output validation",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "blixvip/thumbnail-studio",
       "number": 19,
       "description": "fix(desktop): preserve keyboard focus when toggling favorites",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true
+      "lastSeenInSearch": false
     },
     {
       "repository": "bolubo/checkpoint-governor",
@@ -762,6 +762,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "Bytewave1/dkit",
+      "number": 96,
+      "description": "feat: add guild configuration level lookups",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "Carmineh/CreateMobGrinding",
       "number": 13,
       "description": "compat: add Guard Villagers entity to tier 3",
@@ -839,6 +846,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "crbtgab/housing-records",
+      "number": 16,
+      "description": "feat(data): automate official source refresh workflow",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "creatoan/scenet",
       "number": 156,
       "description": "docs: explain building and checking comics in CI",
@@ -857,6 +871,13 @@
       "number": 207,
       "description": "docs: PDF print spike (#80)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "creatoan/scenet",
+      "number": 479,
+      "description": "Report script directive faults at their lines",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -898,6 +919,13 @@
       "repository": "deimos-hq/wardlatch",
       "number": 36,
       "description": "test: add seeded property coverage for version comparison",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "deimos-hq/wardlatch",
+      "number": 40,
+      "description": "test: add seeded properties for hidden-character escaping",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
@@ -1493,6 +1521,20 @@
       "repository": "hslee16/Archy",
       "number": 816,
       "description": "test(affected): cover question mark path separator boundary",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "hslee16/Archy",
+      "number": 997,
+      "description": "fix(bench): parse quoted and spaced diff paths",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "hslee16/Archy",
+      "number": 998,
+      "description": "fix(install): preflight every uninstall target",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
@@ -2999,6 +3041,20 @@
       "number": 5760,
       "description": "fix: surface OpenClaw session share state",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "vladimirrott/maintainer-agent",
+      "number": 249,
+      "description": "fix: preserve foreign systemd timer stamps",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "vladimirrott/maintainer-agent",
+      "number": 250,
+      "description": "fix: enable timers only for deployed profiles",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

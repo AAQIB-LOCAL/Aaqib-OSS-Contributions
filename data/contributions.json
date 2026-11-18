@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 969,
+  "authoredPullRequestHighWatermark": 977,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 969,
+  "lastObservedPublicAuthoredPullRequestCount": 977,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -1193,6 +1193,13 @@
       "number": 111,
       "description": "feat(cli): color severity labels in terminal output",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "eyadstein/leaklens",
+      "number": 566,
+      "description": "Add fail-under input to GitHub Action",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -3209,6 +3216,13 @@
       "number": 1212,
       "description": "test: cover generated file validation edge cases",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "yfosp/start-here",
+      "number": 1054,
+      "description": "Add Aaqibhafeez khan to contributors",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

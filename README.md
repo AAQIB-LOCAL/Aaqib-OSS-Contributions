@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>469</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>223</strong><br/>External repositories</td>
-    <td align="center"><strong>969</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>471</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>224</strong><br/>External repositories</td>
+    <td align="center"><strong>977</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 469 merged pull requests</summary>
+<summary>Browse all 471 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -285,6 +285,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | [#1411](https://github.com/eugenioenko/ttt/pull/1411) | feat: prompt to create missing save directories | Merged |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#59](https://github.com/eyadstein/leaklens/pull/59) | Add CITATION.cff for GitHub citation metadata | Merged |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#111](https://github.com/eyadstein/leaklens/pull/111) | feat(cli): color severity labels in terminal output | Merged |
+| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#566](https://github.com/eyadstein/leaklens/pull/566) | Add fail-under input to GitHub Action | Merged |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | [#24](https://github.com/fatihserhatturan/noCap/pull/24) | feat: export report as PNG | Merged |
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | [#14](https://github.com/featherpanel-com/translations/pull/14) | docs: correct README clone and sync instructions | Merged |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | [#58](https://github.com/feimacode/open-design-agent-kit/pull/58) | docs: update bundled content counts | Merged |
@@ -573,6 +574,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#527](https://github.com/yakew7/Fair-Code/pull/527) | Correct a numerical value in `index.html` | Merged |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#1141](https://github.com/yakew7/Fair-Code/pull/1141) | Fix/1098 explainer python smoke tests | Merged |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | [#1212](https://github.com/yakew7/Fair-Code/pull/1212) | test: cover generated file validation edge cases | Merged |
+| [yfosp/start-here](https://github.com/yfosp/start-here) | [#1054](https://github.com/yfosp/start-here/pull/1054) | Add Aaqibhafeez khan to contributors | Merged |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#6](https://github.com/Yjnnev/Kat-Notes/pull/6) | Cancel todo editing on outside click | Merged |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#10](https://github.com/Yjnnev/Kat-Notes/pull/10) | feat(todo): make list selection functional | Merged |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | [#11](https://github.com/Yjnnev/Kat-Notes/pull/11) | fix(todo): make deleting todos functional | Merged |
@@ -590,7 +592,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 223 external repositories</summary>
+<summary>Browse merged PR counts across 224 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -630,6 +632,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 3 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 3 |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 3 |
+| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 3 |
@@ -666,7 +669,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) | 2 |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | 2 |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | 2 |
-| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 2 |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 2 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 2 |
 | [got-a-page/website](https://github.com/got-a-page/website) | 2 |
@@ -816,8 +818,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 1 |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
+| [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **469** |
+| **Total** | **471** |
 
 </details>
 
@@ -834,7 +837,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **969 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **977 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

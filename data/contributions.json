@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 980,
+  "authoredPullRequestHighWatermark": 981,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 980,
+  "lastObservedPublicAuthoredPullRequestCount": 981,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -1672,6 +1672,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "Huseynteymurzade28/tuiba",
+      "number": 116,
+      "description": "docs: add tested game compatibility list",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "hydope/chunkcite",
       "number": 5,
       "description": "Expose verification threshold in CLI",
@@ -3037,6 +3044,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "vimeo/psalm",
+      "number": 14070,
+      "description": "Fix memory-limit option in psalm-refactor",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "visualfusion/feedkeeper",
       "number": 32,
       "description": "docs(deployment): cover Caddy, nginx and Traefik proxies",
@@ -3069,6 +3083,13 @@
       "number": 25,
       "description": "Issue 10 expectancy confidence gate",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "VladPetrariu/Qullamaggie-breakout-scanner",
+      "number": 26,
+      "description": "fix: skip signals with ATR-floored stops",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

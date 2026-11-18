@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>471</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>224</strong><br/>External repositories</td>
-    <td align="center"><strong>980</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>474</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>225</strong><br/>External repositories</td>
+    <td align="center"><strong>981</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 471 merged pull requests</summary>
+<summary>Browse all 474 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -353,6 +353,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#97](https://github.com/Huseynteymurzade28/tuiba/pull/97) | Add cargo-binstall release metadata | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#99](https://github.com/Huseynteymurzade28/tuiba/pull/99) | Feat/configurable colour themes | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#100](https://github.com/Huseynteymurzade28/tuiba/pull/100) | packaging: add Nix flake | Merged |
+| [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#116](https://github.com/Huseynteymurzade28/tuiba/pull/116) | docs: add tested game compatibility list | Merged |
 | [hydope/chunkcite](https://github.com/hydope/chunkcite) | [#5](https://github.com/hydope/chunkcite/pull/5) | Expose verification threshold in CLI | Merged |
 | [ika100/sdlc-foundry](https://github.com/ika100/sdlc-foundry) | [#306](https://github.com/ika100/sdlc-foundry/pull/306) | fix(cplat): resolve sibling component clones (#272) | Merged |
 | [isaaclins/taskboard](https://github.com/isaaclins/taskboard) | [#13](https://github.com/isaaclins/taskboard/pull/13) | Fix issue 6 mobile topbar | Merged |
@@ -548,11 +549,13 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [VarshithReddy2006/DevTrack](https://github.com/VarshithReddy2006/DevTrack) | [#107](https://github.com/VarshithReddy2006/DevTrack/pull/107) | feat(projects): add project task deletion API | Merged |
 | [VarshithReddy2006/DevTrack](https://github.com/VarshithReddy2006/DevTrack) | [#330](https://github.com/VarshithReddy2006/DevTrack/pull/330) | feat(contests): add contest calendar hub and countdown tools | Merged |
 | [Veinar/draincheck](https://github.com/Veinar/draincheck) | [#140](https://github.com/Veinar/draincheck/pull/140) | docs: json report jq recipes | Merged |
+| [vimeo/psalm](https://github.com/vimeo/psalm) | [#14070](https://github.com/vimeo/psalm/pull/14070) | Fix memory-limit option in psalm-refactor | Merged |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | [#32](https://github.com/visualfusion/feedkeeper/pull/32) | docs(deployment): cover Caddy, nginx and Traefik proxies | Merged |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | [#5760](https://github.com/vivekchand/clawmetry/pull/5760) | fix: surface OpenClaw session share state | Merged |
 | [vladimirrott/maintainer-agent](https://github.com/vladimirrott/maintainer-agent) | [#249](https://github.com/vladimirrott/maintainer-agent/pull/249) | fix: preserve foreign systemd timer stamps | Merged |
 | [vladimirrott/maintainer-agent](https://github.com/vladimirrott/maintainer-agent) | [#250](https://github.com/vladimirrott/maintainer-agent/pull/250) | fix: enable timers only for deployed profiles | Merged |
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | [#25](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner/pull/25) | Issue 10 expectancy confidence gate | Merged |
+| [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | [#26](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner/pull/26) | fix: skip signals with ATR-floored stops | Merged |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | [#24](https://github.com/VOLPAROSSA/volparossa-code/pull/24) | test: cover fragmented SSE framing and invalid UTF-8 | Merged |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | [#82](https://github.com/vr-patel/editmypdf/pull/82) | fix: Improve emoji search with keywords and group names | Merged |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#68](https://github.com/Webghost01-NG/stellar-event-sync/pull/68) | fix: centralize diagnostic secret redaction | Merged |
@@ -592,7 +595,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 224 external repositories</summary>
+<summary>Browse merged PR counts across 225 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -621,6 +624,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 4 |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | 4 |
 | [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | 4 |
+| [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 4 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 4 |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | 4 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
@@ -637,7 +641,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 3 |
 | [hslee16/Archy](https://github.com/hslee16/Archy) | 3 |
-| [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 3 |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | 3 |
 | [JamshidS/aiset](https://github.com/JamshidS/aiset) | 3 |
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 3 |
@@ -697,6 +700,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [VarshithReddy2006/DevTrack](https://github.com/VarshithReddy2006/DevTrack) | 2 |
 | [vladimirrott/maintainer-agent](https://github.com/vladimirrott/maintainer-agent) | 2 |
+| [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 2 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 2 |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | 2 |
@@ -813,14 +817,14 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift) | 1 |
 | [Valks-Terraria-Mods/PlatformHelper](https://github.com/Valks-Terraria-Mods/PlatformHelper) | 1 |
 | [Veinar/draincheck](https://github.com/Veinar/draincheck) | 1 |
+| [vimeo/psalm](https://github.com/vimeo/psalm) | 1 |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
-| [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 1 |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **471** |
+| **Total** | **474** |
 
 </details>
 
@@ -837,7 +841,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **980 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **981 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

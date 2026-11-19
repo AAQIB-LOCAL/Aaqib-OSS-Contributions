@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>474</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>225</strong><br/>External repositories</td>
-    <td align="center"><strong>981</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>481</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>226</strong><br/>External repositories</td>
+    <td align="center"><strong>1001</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 474 merged pull requests</summary>
+<summary>Browse all 481 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -155,6 +155,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#236](https://github.com/AnayDhawan/UCIP/pull/236) | fix(embed): show rank uncertainty and data freshness | Merged |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | [#245](https://github.com/AnayDhawan/UCIP/pull/245) | test: cover supported client runtime versions | Merged |
 | [anonhym/latelier](https://github.com/anonhym/latelier) | [#595](https://github.com/anonhym/latelier/pull/595) | test: reduce role queries in drawer tree coverage test (#550) | Merged |
+| [anonhym/latelier](https://github.com/anonhym/latelier) | [#783](https://github.com/anonhym/latelier/pull/783) | fix(builder): wrap condition rows at narrow widths | Merged |
 | [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | [#441](https://github.com/answerLoops/answerLoops/pull/441) | Feat/article supplied context usage | Merged |
 | [argus-code-scanning/argus-codescan-mcp](https://github.com/argus-code-scanning/argus-codescan-mcp) | [#155](https://github.com/argus-code-scanning/argus-codescan-mcp/pull/155) | feat(ml): detect direct LLM output flowing into dangerous sinks | Merged |
 | [ArijitGupta-in/geo-core](https://github.com/ArijitGupta-in/geo-core) | [#5](https://github.com/ArijitGupta-in/geo-core/pull/5) | feat(validation): export decimal axis validators | Merged |
@@ -285,13 +286,17 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | [#1411](https://github.com/eugenioenko/ttt/pull/1411) | feat: prompt to create missing save directories | Merged |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#59](https://github.com/eyadstein/leaklens/pull/59) | Add CITATION.cff for GitHub citation metadata | Merged |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#111](https://github.com/eyadstein/leaklens/pull/111) | feat(cli): color severity labels in terminal output | Merged |
+| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#565](https://github.com/eyadstein/leaklens/pull/565) | Detect future-looking rolling and lag features | Merged |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#566](https://github.com/eyadstein/leaklens/pull/566) | Add fail-under input to GitHub Action | Merged |
+| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#568](https://github.com/eyadstein/leaklens/pull/568) | test: cover RTL explanation output | Merged |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | [#24](https://github.com/fatihserhatturan/noCap/pull/24) | feat: export report as PNG | Merged |
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | [#14](https://github.com/featherpanel-com/translations/pull/14) | docs: correct README clone and sync instructions | Merged |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | [#58](https://github.com/feimacode/open-design-agent-kit/pull/58) | docs: update bundled content counts | Merged |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | [#59](https://github.com/feimacode/open-design-agent-kit/pull/59) | Feat/issue 48 pinterest pin format | Merged |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#123775](https://github.com/firstcontributions/first-contributions/pull/123775) | Add Aaqibhafeez Khan to Contributors list | Merged |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#128079](https://github.com/firstcontributions/first-contributions/pull/128079) | Add aaqibhafeez khan to contributors | Merged |
+| [flisk-sh/flisk](https://github.com/flisk-sh/flisk) | [#4742](https://github.com/flisk-sh/flisk/pull/4742) | docs(schema): describe health check and ulimit fields | Merged |
+| [flisk-sh/flisk](https://github.com/flisk-sh/flisk) | [#4743](https://github.com/flisk-sh/flisk/pull/4743) | fix(open): fail promptly when no native run is active | Merged |
 | [flisk-sh/run-my-agents](https://github.com/flisk-sh/run-my-agents) | [#80](https://github.com/flisk-sh/run-my-agents/pull/80) | test(hook): add node:test suite for check.mjs | Merged |
 | [ForNeVeR/Fabricator](https://github.com/ForNeVeR/Fabricator) | [#116](https://github.com/ForNeVeR/Fabricator/pull/116) | Document required DigitalOcean domain:update scope | Merged |
 | [Foxworks-Studios/riftward](https://github.com/Foxworks-Studios/riftward) | [#19](https://github.com/Foxworks-Studios/riftward/pull/19) | fix(combat): expire abandoned prepared moves | Merged |
@@ -472,6 +477,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Prabodh-dev/fairly](https://github.com/Prabodh-dev/fairly) | [#23](https://github.com/Prabodh-dev/fairly/pull/23) | Add seeded hot-key benchmark distributions | Merged |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#216](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/216) | feat(ai-voice-studio): show active voice sample playback | Merged |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#217](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/217) | feat(luxury-realms): add curated luxury amenity badges | Merged |
+| [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#2452](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/2452) | feat(edtech-academy): add course duration and difficulty badges | Merged |
+| [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#2453](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/2453) | feat(cybersecurity-sentinel): add copy-to-clipboard feedback | Merged |
 | [pug-sh/pug](https://github.com/pug-sh/pug) | [#197](https://github.com/pug-sh/pug/pull/197) | Fix/190 expired token cleanup | Merged |
 | [purahan/ros2_lingua](https://github.com/purahan/ros2_lingua) | [#64](https://github.com/purahan/ros2_lingua/pull/64) | fix(packaging): declare maintainers and runtime/build dependencies | Merged |
 | [purahan/ros2_lingua](https://github.com/purahan/ros2_lingua) | [#74](https://github.com/purahan/ros2_lingua/pull/74) | fix: CI/CD improvements—expand linting, fix badge, add backend tests,… | Merged |
@@ -595,7 +602,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 225 external repositories</summary>
+<summary>Browse merged PR counts across 226 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -611,6 +618,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 6 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 5 |
+| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 5 |
@@ -630,13 +638,13 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | 4 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 4 |
+| [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 3 |
 | [blixvip/easyedit](https://github.com/blixvip/easyedit) | 3 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 3 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 3 |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 3 |
-| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 3 |
@@ -661,6 +669,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [adlerqa/wardeniq](https://github.com/adlerqa/wardeniq) | 2 |
 | [alok-108/phantom](https://github.com/alok-108/phantom) | 2 |
 | [amirbena/code-review-skill](https://github.com/amirbena/code-review-skill) | 2 |
+| [anonhym/latelier](https://github.com/anonhym/latelier) | 2 |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | 2 |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
@@ -674,6 +683,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | 2 |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 2 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 2 |
+| [flisk-sh/flisk](https://github.com/flisk-sh/flisk) | 2 |
 | [got-a-page/website](https://github.com/got-a-page/website) | 2 |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 2 |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 2 |
@@ -688,7 +698,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | 2 |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
 | [PatrickAttankurugu/AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP) | 2 |
-| [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | 2 |
 | [purahan/ros2_lingua](https://github.com/purahan/ros2_lingua) | 2 |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | 2 |
 | [Robert-GeorgeDev/ValidRO](https://github.com/Robert-GeorgeDev/ValidRO) | 2 |
@@ -712,7 +721,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [agevenkat/vagejs](https://github.com/agevenkat/vagejs) | 1 |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | 1 |
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | 1 |
-| [anonhym/latelier](https://github.com/anonhym/latelier) | 1 |
 | [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | 1 |
 | [argus-code-scanning/argus-codescan-mcp](https://github.com/argus-code-scanning/argus-codescan-mcp) | 1 |
 | [ArijitGupta-in/geo-core](https://github.com/ArijitGupta-in/geo-core) | 1 |
@@ -824,7 +832,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **474** |
+| **Total** | **481** |
 
 </details>
 
@@ -841,7 +849,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **981 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1001 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

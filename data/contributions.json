@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 981,
+  "authoredPullRequestHighWatermark": 1001,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 981,
+  "lastObservedPublicAuthoredPullRequestCount": 1001,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -283,6 +283,13 @@
       "number": 595,
       "description": "test: reduce role queries in drawer tree coverage test (#550)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "anonhym/latelier",
+      "number": 783,
+      "description": "fix(builder): wrap condition rows at narrow widths",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {
@@ -1197,8 +1204,22 @@
     },
     {
       "repository": "eyadstein/leaklens",
+      "number": 565,
+      "description": "Detect future-looking rolling and lag features",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "eyadstein/leaklens",
       "number": 566,
       "description": "Add fail-under input to GitHub Action",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "eyadstein/leaklens",
+      "number": 568,
+      "description": "test: cover RTL explanation output",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
@@ -1241,6 +1262,20 @@
       "repository": "firstcontributions/first-contributions",
       "number": 128079,
       "description": "Add aaqibhafeez khan to contributors",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "flisk-sh/flisk",
+      "number": 4742,
+      "description": "docs(schema): describe health check and ulimit fields",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "flisk-sh/flisk",
+      "number": 4743,
+      "description": "fix(open): fail promptly when no native run is active",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
@@ -2502,6 +2537,20 @@
       "number": 217,
       "description": "feat(luxury-realms): add curated luxury amenity badges",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Pratyush-Panda-2006/CAREERFORGE",
+      "number": 2452,
+      "description": "feat(edtech-academy): add course duration and difficulty badges",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "Pratyush-Panda-2006/CAREERFORGE",
+      "number": 2453,
+      "description": "feat(cybersecurity-sentinel): add copy-to-clipboard feedback",
+      "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
     {

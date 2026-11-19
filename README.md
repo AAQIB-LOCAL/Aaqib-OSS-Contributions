@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>481</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>226</strong><br/>External repositories</td>
-    <td align="center"><strong>1001</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>487</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>230</strong><br/>External repositories</td>
+    <td align="center"><strong>1009</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 481 merged pull requests</summary>
+<summary>Browse all 487 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -166,6 +166,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [ashfall-sh/unripe](https://github.com/ashfall-sh/unripe) | [#7](https://github.com/ashfall-sh/unripe/pull/7) | feat: support Elixir mix.lock and Hex publish times | Merged |
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | [#77](https://github.com/AtiinLabs/Ito/pull/77) | Fix Resume label for tracker-synced progress | Merged |
 | [atomityhq/atomity-cms](https://github.com/atomityhq/atomity-cms) | [#14](https://github.com/atomityhq/atomity-cms/pull/14) | fix: return 415 for unsupported request media types | Merged |
+| [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) | [#1794](https://github.com/Avenx-JS/avenx-js/pull/1794) | docs: explain keyed list reconciliation | Merged |
 | [BaryoDev/Vouch](https://github.com/BaryoDev/Vouch) | [#5](https://github.com/BaryoDev/Vouch/pull/5) | fix: reject empty strings in containment assertions | Merged |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#23](https://github.com/basitalisandhu/agent-config-audit/pull/23) | docs: add false-positive issue form | Merged |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [#25](https://github.com/basitalisandhu/agent-config-audit/pull/25) | feat: add baseline mode for existing findings | Merged |
@@ -205,6 +206,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#241](https://github.com/bolubo/checkpoint-governor/pull/241) | Add JSON output support to Python demo | Merged |
 | [boromat/polanon](https://github.com/boromat/polanon) | [#26](https://github.com/boromat/polanon/pull/26) | fix(guards): mask Polish phones with bare 48 prefix | Merged |
 | [brokspace/brok](https://github.com/brokspace/brok) | [#41](https://github.com/brokspace/brok/pull/41) | fix: preserve brok.yml comments when saving | Merged |
+| [btclib-org/seed-scan](https://github.com/btclib-org/seed-scan) | [#127](https://github.com/btclib-org/seed-scan/pull/127) | test: bound subprocess execution time | Merged |
+| [btclib-org/seed-scan](https://github.com/btclib-org/seed-scan) | [#128](https://github.com/btclib-org/seed-scan/pull/128) | fix(identify): validate public input types | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#27](https://github.com/Bubblegunn/ai-slop-linter/pull/27) | Add pre-commit hooks for Markdown and commit messages | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#41](https://github.com/Bubblegunn/ai-slop-linter/pull/41) | feat: add SARIF output for code scanning | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#46](https://github.com/Bubblegunn/ai-slop-linter/pull/46) | Add reference markup residue rule (#14) | Merged |
@@ -451,6 +454,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#19](https://github.com/nitturkaryash/open-bpo/pull/19) | Improve demo shutdown logging | Merged |
 | [nooriegarg/ContribIQ](https://github.com/nooriegarg/ContribIQ) | [#59](https://github.com/nooriegarg/ContribIQ/pull/59) | fix: Handle unavailable password reset requests correctly | Merged |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | [#389](https://github.com/noruzzamans/gslider-blocks/pull/389) | fix(mcp): stop fabricating media attachment IDs | Merged |
+| [nrzz/claude-cost-guard](https://github.com/nrzz/claude-cost-guard) | [#14](https://github.com/nrzz/claude-cost-guard/pull/14) | feat: add budget check command | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#4](https://github.com/oasamz09-ctrl/standup-digest/pull/4) | Add ready-made question templates | Merged |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | [#6](https://github.com/oasamz09-ctrl/standup-digest/pull/6) | docs: clarify Google Forms quick start | Merged |
 | [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | [#200](https://github.com/olo-labs/olo-toolgate/pull/200) | Docs/json validate examples | Merged |
@@ -486,6 +490,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | [#162](https://github.com/rakeshnitb23/toolism/pull/162) | Feat/action mcp timeout | Merged |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | [#165](https://github.com/rakeshnitb23/toolism/pull/165) | docs: add feature request issue form | Merged |
 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice) | [#216](https://github.com/recodehive/Opensource-practice/pull/216) | Add aaqibhafeez khan | Merged |
+| [RhinoLink-Tech/data-fabric](https://github.com/RhinoLink-Tech/data-fabric) | [#773](https://github.com/RhinoLink-Tech/data-fabric/pull/773) | fix(hudi): validate latest incremental commit count | Merged |
+| [RhinoLink-Tech/data-fabric](https://github.com/RhinoLink-Tech/data-fabric) | [#774](https://github.com/RhinoLink-Tech/data-fabric/pull/774) | fix(delta): report vacuum as unsupported | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#10](https://github.com/RizgarOzan/tmp-glyph-audit/pull/10) | Add JSON audit reports for CI (#4) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#11](https://github.com/RizgarOzan/tmp-glyph-audit/pull/11) | Add GitHub Actions glyph annotations (#5) | Merged |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | [#12](https://github.com/RizgarOzan/tmp-glyph-audit/pull/12) | feat: scan Unity Localization string tables | Merged |
@@ -602,7 +608,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 226 external repositories</summary>
+<summary>Browse merged PR counts across 230 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -673,6 +679,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | 2 |
 | [basitalisandhu/agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | 2 |
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
+| [btclib-org/seed-scan](https://github.com/btclib-org/seed-scan) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
 | [crbtgab/housing-records](https://github.com/crbtgab/housing-records) | 2 |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
@@ -700,6 +707,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [PatrickAttankurugu/AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP) | 2 |
 | [purahan/ros2_lingua](https://github.com/purahan/ros2_lingua) | 2 |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) | 2 |
+| [RhinoLink-Tech/data-fabric](https://github.com/RhinoLink-Tech/data-fabric) | 2 |
 | [Robert-GeorgeDev/ValidRO](https://github.com/Robert-GeorgeDev/ValidRO) | 2 |
 | [seep-labs/cablegram-server](https://github.com/seep-labs/cablegram-server) | 2 |
 | [skdas20/SkeoTrace](https://github.com/skdas20/SkeoTrace) | 2 |
@@ -729,6 +737,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [ashfall-sh/unripe](https://github.com/ashfall-sh/unripe) | 1 |
 | [AtiinLabs/Ito](https://github.com/AtiinLabs/Ito) | 1 |
 | [atomityhq/atomity-cms](https://github.com/atomityhq/atomity-cms) | 1 |
+| [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) | 1 |
 | [BaryoDev/Vouch](https://github.com/BaryoDev/Vouch) | 1 |
 | [bhargavchintam/llm-inference](https://github.com/bhargavchintam/llm-inference) | 1 |
 | [blixvip/ai-broadcaster](https://github.com/blixvip/ai-broadcaster) | 1 |
@@ -797,6 +806,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [nicanor-korir/kenya-regions](https://github.com/nicanor-korir/kenya-regions) | 1 |
 | [nooriegarg/ContribIQ](https://github.com/nooriegarg/ContribIQ) | 1 |
 | [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks) | 1 |
+| [nrzz/claude-cost-guard](https://github.com/nrzz/claude-cost-guard) | 1 |
 | [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | 1 |
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | 1 |
@@ -832,7 +842,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **481** |
+| **Total** | **487** |
 
 </details>
 
@@ -849,7 +859,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **1001 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1009 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1001,
+  "authoredPullRequestHighWatermark": 1009,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1001,
+  "lastObservedPublicAuthoredPullRequestCount": 1009,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -363,6 +363,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "Avenx-JS/avenx-js",
+      "number": 1794,
+      "description": "docs: explain keyed list reconciliation",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "BaryoDev/Vouch",
       "number": 5,
       "description": "fix: reject empty strings in containment assertions",
@@ -632,6 +639,20 @@
       "repository": "brokspace/brok",
       "number": 41,
       "description": "fix: preserve brok.yml comments when saving",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "btclib-org/seed-scan",
+      "number": 127,
+      "description": "test: bound subprocess execution time",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "btclib-org/seed-scan",
+      "number": 128,
+      "description": "fix(identify): validate public input types",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },
@@ -2358,6 +2379,13 @@
       "lastSeenInSearch": true
     },
     {
+      "repository": "nrzz/claude-cost-guard",
+      "number": 14,
+      "description": "feat: add budget check command",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
       "repository": "oasamz09-ctrl/standup-digest",
       "number": 4,
       "description": "Add ready-made question templates",
@@ -2599,6 +2627,20 @@
       "repository": "recodehive/Opensource-practice",
       "number": 216,
       "description": "Add aaqibhafeez khan",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "RhinoLink-Tech/data-fabric",
+      "number": 773,
+      "description": "fix(hudi): validate latest incremental commit count",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true
+    },
+    {
+      "repository": "RhinoLink-Tech/data-fabric",
+      "number": 774,
+      "description": "fix(delta): report vacuum as unsupported",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true
     },

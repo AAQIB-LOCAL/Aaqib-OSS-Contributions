@@ -878,12 +878,15 @@ The broader audit currently discovers **1015 authored GitHub pull requests** for
 
 GitHub Actions refreshes this date-free ledger daily or on manual workflow dispatch.
 
+The audit is implemented as a standard-library-only Go program. CI runs its regression tests and static analysis, then builds a statically linked Linux executable with `CGO_ENABLED=0`. The workflow does not install Node.js, npm, TypeScript, or third-party Go modules.
+
 The workflow:
 
-1. audits authored GitHub PRs through the GitHub API;
-2. merges newly discovered PRs into the durable historical ledger;
-3. regenerates date-free contribution rows and technical summaries;
-4. commits the README and ledger directly to the main branch only when content changes.
+1. validates the Go source with regression tests and `go vet`;
+2. builds and runs the standalone contribution-audit executable;
+3. queries GitHub and merges newly discovered PRs into the durable historical ledger;
+4. regenerates date-free contribution rows and technical summaries;
+5. commits README and ledger changes to `main` only when content changes.
 
 
 ## Contribution Counting Rules

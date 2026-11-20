@@ -1896,6 +1896,16 @@
       "pullRequestNodeId": "PR_kwDOUh4kcM8AAAABKwfUUw"
     },
     {
+      "repository": "Fidelis900/soroban-starter-kit",
+      "number": 1545,
+      "description": "ci: enforce optimized Soroban WASM size budget",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1182253678",
+      "pullRequestId": "6502307233",
+      "pullRequestNodeId": "PR_kwDORnfCbs8AAAABQjRlpA"
+    },
+    {
       "repository": "firstcontributions/first-contributions",
       "number": 123775,
       "description": "Add Aaqibhafeez Khan to Contributors list",

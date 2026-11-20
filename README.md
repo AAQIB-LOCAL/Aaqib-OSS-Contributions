@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>494</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>231</strong><br/>External repositories</td>
+    <td align="center"><strong>495</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>232</strong><br/>External repositories</td>
     <td align="center"><strong>1020</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 494 merged pull requests</summary>
+<summary>Browse all 495 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -304,6 +304,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | [#14](https://github.com/featherpanel-com/translations/pull/14) | docs: correct README clone and sync instructions | Merged |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | [#58](https://github.com/feimacode/open-design-agent-kit/pull/58) | docs: update bundled content counts | Merged |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | [#59](https://github.com/feimacode/open-design-agent-kit/pull/59) | Feat/issue 48 pinterest pin format | Merged |
+| [Fidelis900/soroban-starter-kit](https://github.com/Fidelis900/soroban-starter-kit) | [#1545](https://github.com/Fidelis900/soroban-starter-kit/pull/1545) | ci: enforce optimized Soroban WASM size budget | Merged |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#123775](https://github.com/firstcontributions/first-contributions/pull/123775) | Add Aaqibhafeez Khan to Contributors list | Merged |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#128079](https://github.com/firstcontributions/first-contributions/pull/128079) | Add aaqibhafeez khan to contributors | Merged |
 | [flisk-sh/flisk](https://github.com/flisk-sh/flisk) | [#4742](https://github.com/flisk-sh/flisk/pull/4742) | docs(schema): describe health check and ulimit fields | Merged |
@@ -615,7 +616,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 231 external repositories</summary>
+<summary>Browse merged PR counts across 232 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -773,6 +774,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Erfouni/solidworks-GPT-plugin](https://github.com/Erfouni/solidworks-GPT-plugin) | 1 |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | 1 |
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | 1 |
+| [Fidelis900/soroban-starter-kit](https://github.com/Fidelis900/soroban-starter-kit) | 1 |
 | [flisk-sh/run-my-agents](https://github.com/flisk-sh/run-my-agents) | 1 |
 | [ForNeVeR/Fabricator](https://github.com/ForNeVeR/Fabricator) | 1 |
 | [Foxworks-Studios/riftward](https://github.com/Foxworks-Studios/riftward) | 1 |
@@ -850,7 +852,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **494** |
+| **Total** | **495** |
 
 </details>
 

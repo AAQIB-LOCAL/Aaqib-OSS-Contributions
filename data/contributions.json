@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1017,
+  "authoredPullRequestHighWatermark": 1020,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1017,
+  "lastObservedPublicAuthoredPullRequestCount": 1020,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -104,6 +104,16 @@
       "repositoryId": "1296811975",
       "pullRequestId": "6202794753",
       "pullRequestNodeId": "PR_kwDOTUvHx88AAAABMziLsg"
+    },
+    {
+      "repository": "adlerqa/wardeniq",
+      "number": 297,
+      "description": "fix(run.ps1): fail fast when Docker Compose build/start fails",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1296811975",
+      "pullRequestId": "6462716839",
+      "pullRequestNodeId": "PR_kwDOTUvHx88AAAABQDVVMQ"
     },
     {
       "repository": "Aepzie/cutline",

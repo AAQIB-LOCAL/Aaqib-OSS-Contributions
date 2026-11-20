@@ -12,7 +12,7 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 <table>
   <tr>
     <td align="center"><strong>491</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>235</strong><br/>External repositories</td>
+    <td align="center"><strong>230</strong><br/>External repositories</td>
     <td align="center"><strong>1015</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>

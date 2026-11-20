@@ -153,8 +153,11 @@ async function searchPullRequests(query: string): Promise<{ totalCount: number; 
         results.push(...data.items);
       }
 
-      const uniqueResults = [...new Map(
-        results.map((item) => [item.id ?? item.html_url ?? `${item.repository_url ?? ""}#${item.number}`, item]),
+      const uniqueResults = [...new Map<string, GitHubSearchPullRequest>(
+        results.map((item): [string, GitHubSearchPullRequest] => [
+          item.id ?? item.html_url ?? `${item.repository_url ?? ""}#${item.number}`,
+          item,
+        ]),
       ).values()];
 
       if (uniqueResults.length !== totalCount) {
@@ -324,7 +327,7 @@ for (const item of mergedPullRequests.items) {
 
   const resolved = repositoryMetadata.get(normalizeRepositoryName(requestedRepository));
   const repository = resolved?.fullName ?? requestedRepository;
-  const repositoryOwner = repository.split("/")[0]?.toLowerCase();
+  const repositoryOwner = repository.split("/")[0]!.toLowerCase();
   if (excludedOwners.has(repositoryOwner)) continue;
 
   const key = `${repository.toLowerCase()}#${item.number}`;

@@ -161,3 +161,51 @@ func TestRunDoesNotTouchFilesWhenGitHubSearchFails(t *testing.T) {
 		t.Fatal("audit modified files after an API failure")
 	}
 }
+
+
+func TestBuildRepositoryBreakdownAggregatesAndSortsCounts(t *testing.T) {
+	items := []ContributionRecord{
+		{Repository: "owner-b/repo", Number: 1},
+		{Repository: "owner-a/repo", Number: 1},
+		{Repository: "owner-b/repo", Number: 2},
+		{Repository: "owner-c/repo", Number: 1},
+		{Repository: "owner-a/repo", Number: 2},
+		{Repository: "owner-a/repo", Number: 3},
+	}
+	breakdown := buildRepositoryBreakdown(items)
+	if len(breakdown) != 3 {
+		t.Fatalf("got %d repository rows, want 3: %#v", len(breakdown), breakdown)
+	}
+	want := []repositoryCount{
+		{Repository: "owner-a/repo", Count: 3},
+		{Repository: "owner-b/repo", Count: 2},
+		{Repository: "owner-c/repo", Count: 1},
+	}
+	for index := range want {
+		if breakdown[index] != want[index] {
+			t.Fatalf("breakdown[%d] = %#v, want %#v", index, breakdown[index], want[index])
+		}
+	}
+	var total int64
+	for _, item := range breakdown {
+		total += item.Count
+	}
+	if total != int64(len(items)) {
+		t.Fatalf("breakdown sum = %d, want %d", total, len(items))
+	}
+}
+
+func TestBuildRepositoryBreakdownSortsEqualCountsByRepository(t *testing.T) {
+	items := []ContributionRecord{
+		{Repository: "owner-c/repo", Number: 1},
+		{Repository: "owner-a/repo", Number: 1},
+		{Repository: "owner-b/repo", Number: 1},
+	}
+	breakdown := buildRepositoryBreakdown(items)
+	want := []string{"owner-a/repo", "owner-b/repo", "owner-c/repo"}
+	for index, repository := range want {
+		if breakdown[index].Repository != repository {
+			t.Fatalf("breakdown[%d] = %q, want %q", index, breakdown[index].Repository, repository)
+		}
+	}
+}

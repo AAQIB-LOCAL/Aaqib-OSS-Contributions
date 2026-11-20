@@ -96,7 +96,7 @@ The public authored-PR metric retains its highest previously observed public Sea
   <tr>
     <td width="50%" valign="top">
       <strong>Property-Based Testing</strong><br/>
-      <a href="https://github.com/deimos-hq/ratchet/pull/13">Add property-based fuzz coverage for the MCP JSON-RPC parser</a><br/>
+      <a href="https://github.com/thearchitect0x-glitch/ratchet/pull/13">Add property-based fuzz coverage for the MCP JSON-RPC parser</a><br/>
       Exercises parser edge cases with generated inputs.
     </td>
     <td width="50%" valign="top">
@@ -114,6 +114,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <summary>Browse all 491 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
+|---|---:|---|---|
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1083](https://github.com/8f4e/8f4e/pull/1083) | docs: document nearestValue standard-library helper | Merged |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1086](https://github.com/8f4e/8f4e/pull/1086) | fix(tokenizer): parse quoted strings before arithmetic | Merged |
 | [aaliya1719/Odyssey](https://github.com/aaliya1719/Odyssey) | [#48](https://github.com/aaliya1719/Odyssey/pull/48) | Add theme-aware atmospheric backdrop to expedition trail | Merged |
@@ -614,6 +615,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <summary>Browse merged PR counts across 230 external repositories</summary>
 
 | Repository | Merged PRs |
+|---|---:|
 | [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | 15 |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | 12 |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 9 |

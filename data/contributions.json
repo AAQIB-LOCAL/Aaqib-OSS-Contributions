@@ -11,7 +11,9 @@
       "description": "docs: document nearestValue standard-library helper",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "313701704",
+      "pullRequestId": "5901703310",
+      "pullRequestNodeId": "PR_kwDOErK1SM8AAAABJDrLag"
     },
     {
       "repository": "8f4e/8f4e",
@@ -19,7 +21,9 @@
       "description": "fix(tokenizer): parse quoted strings before arithmetic",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "313701704",
+      "pullRequestId": "5904495321",
+      "pullRequestNodeId": "PR_kwDOErK1SM8AAAABJF0-Kg"
     },
     {
       "repository": "aaliya1719/Odyssey",
@@ -27,7 +31,9 @@
       "description": "Add theme-aware atmospheric backdrop to expedition trail",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1347531370",
+      "pullRequestId": "6403979005",
+      "pullRequestNodeId": "PR_kwDOUFGyas8AAAABPUIbvQ"
     },
     {
       "repository": "aamirtechs/beforeyoupaste",
@@ -35,7 +41,9 @@
       "description": "feat: add Aadhaar Verhoeff detector",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1428010399",
+      "pullRequestId": "5979285124",
+      "pullRequestNodeId": "PR_kwDOVR21n88AAAABKBOXIg"
     },
     {
       "repository": "adarshrkumar/ViaBay",
@@ -43,7 +51,9 @@
       "description": "test: add meaningful Playwright browser assertions (#87)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "775023363",
+      "pullRequestId": "6087419514",
+      "pullRequestNodeId": "PR_kwDOLjHrA88AAAABLXWLJw"
     },
     {
       "repository": "adarshrkumar/ViaBay",
@@ -51,7 +61,9 @@
       "description": "test: cover modal backdrop clicks under scroll and zoom (#84)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "775023363",
+      "pullRequestId": "6087476595",
+      "pullRequestNodeId": "PR_kwDOLjHrA88AAAABLXZI9A"
     },
     {
       "repository": "adebayomoses/mcp-detector",
@@ -59,7 +71,9 @@
       "description": "Add SARIF 2.1.0 report output",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1408612647",
+      "pullRequestId": "5845337769",
+      "pullRequestNodeId": "PR_kwDOU_W5J88AAAABIW2AUA"
     },
     {
       "repository": "adebayomoses/mcp-detector",
@@ -67,7 +81,9 @@
       "description": "Improve web app accessibility",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1408612647",
+      "pullRequestId": "6142513092",
+      "pullRequestNodeId": "PR_kwDOU_W5J88AAAABMDWLQA"
     },
     {
       "repository": "adlerqa/wardeniq",
@@ -75,7 +91,9 @@
       "description": "fix: handle installer runs without a tty",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1296811975",
+      "pullRequestId": "6202405112",
+      "pullRequestNodeId": "PR_kwDOTUvHx88AAAABMzN89A"
     },
     {
       "repository": "adlerqa/wardeniq",
@@ -83,7 +101,9 @@
       "description": "fix(config): make Ollama settings fields optional",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1296811975",
+      "pullRequestId": "6202794753",
+      "pullRequestNodeId": "PR_kwDOTUvHx88AAAABMziLsg"
     },
     {
       "repository": "Aepzie/cutline",
@@ -91,7 +111,9 @@
       "description": "feat(render): highlight timed caption words",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1416757950",
+      "pullRequestId": "5832508628",
+      "pullRequestNodeId": "PR_kwDOVHICvs8AAAABIMoD4Q"
     },
     {
       "repository": "afrigov/afrigov",
@@ -99,7 +121,9 @@
       "description": "fix(pack): accurate Maasai shield in ke.svg",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1397023859",
+      "pullRequestId": "5857558874",
+      "pullRequestNodeId": "PR_kwDOU0Tkc88AAAABIgsO7Q"
     },
     {
       "repository": "afrigov/afrigov",
@@ -107,7 +131,9 @@
       "description": "fix(pack): document Senegal NIN format",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1397023859",
+      "pullRequestId": "5857921515",
+      "pullRequestNodeId": "PR_kwDOU0Tkc88AAAABIg-TYw"
     },
     {
       "repository": "afrigov/afrigov",
@@ -115,7 +141,9 @@
       "description": "fix(pack): add Senegal flag star",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1397023859",
+      "pullRequestId": "5872513834",
+      "pullRequestNodeId": "PR_kwDOU0Tkc88AAAABIspeCg"
     },
     {
       "repository": "afrigov/afrigov",
@@ -123,7 +151,9 @@
       "description": "Review French Senegal banner strings (#11)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1397023859",
+      "pullRequestId": "5872581287",
+      "pullRequestNodeId": "PR_kwDOU0Tkc88AAAABIss5Kw"
     },
     {
       "repository": "afrigov/afrigov",
@@ -131,7 +161,9 @@
       "description": "Add Asante Twi strings for Ghana banner",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1397023859",
+      "pullRequestId": "5872896379",
+      "pullRequestNodeId": "PR_kwDOU0Tkc88AAAABIs9J5A"
     },
     {
       "repository": "afrigov/afrigov",
@@ -139,7 +171,9 @@
       "description": "feat(pack): add Tanzania country pack",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1397023859",
+      "pullRequestId": "5873057600",
+      "pullRequestNodeId": "PR_kwDOU0Tkc88AAAABItFUqw"
     },
     {
       "repository": "afrigov/afrigov",
@@ -147,7 +181,9 @@
       "description": "feat(pack): add Uganda country pack",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1397023859",
+      "pullRequestId": "5873187506",
+      "pullRequestNodeId": "PR_kwDOU0Tkc88AAAABItL7dg"
     },
     {
       "repository": "afrigov/afrigov",
@@ -155,7 +191,9 @@
       "description": "docs: add long-list filtering pattern",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1397023859",
+      "pullRequestId": "5976063519",
+      "pullRequestNodeId": "PR_kwDOU0Tkc88AAAABJ-n8ug"
     },
     {
       "repository": "afrigov/afrigov",
@@ -163,7 +201,9 @@
       "description": "feat: add contents navigation component",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1397023859",
+      "pullRequestId": "5976379774",
+      "pullRequestNodeId": "PR_kwDOU0Tkc88AAAABJ-4Jqw"
     },
     {
       "repository": "afrigov/afrigov",
@@ -171,7 +211,9 @@
       "description": "docs: clarify header wrapping at tablet widths",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1397023859",
+      "pullRequestId": "5976456448",
+      "pullRequestNodeId": "PR_kwDOU0Tkc88AAAABJ-8GSw"
     },
     {
       "repository": "afrigov/afrigov",
@@ -179,7 +221,9 @@
       "description": "feat(video): support direct files and captions",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1397023859",
+      "pullRequestId": "5976661235",
+      "pullRequestNodeId": "PR_kwDOU0Tkc88AAAABJ_GwbA"
     },
     {
       "repository": "afrigov/afrigov",
@@ -187,7 +231,9 @@
       "description": "fix(pack): validate Tanzania NIN as 20 digits",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1397023859",
+      "pullRequestId": "6093638941",
+      "pullRequestNodeId": "PR_kwDOU0Tkc88AAAABLcWd3w"
     },
     {
       "repository": "agentsmith-tools/maintainer-agent",
@@ -195,7 +241,9 @@
       "description": "fix: preserve foreign systemd timer stamps",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1356172099"
+      "repositoryId": "1356172099",
+      "pullRequestId": "6443756082",
+      "pullRequestNodeId": "PR_kwDOUNWLQ88AAAABP0B9ZQ"
     },
     {
       "repository": "agentsmith-tools/maintainer-agent",
@@ -203,7 +251,9 @@
       "description": "fix: enable timers only for deployed profiles",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1356172099"
+      "repositoryId": "1356172099",
+      "pullRequestId": "6444223564",
+      "pullRequestNodeId": "PR_kwDOUNWLQ88AAAABP0aMxw"
     },
     {
       "repository": "agevenkat/vagejs",
@@ -211,7 +261,9 @@
       "description": "Fix/long title description warnings",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1430831115",
+      "pullRequestId": "6023159757",
+      "pullRequestNodeId": "PR_kwDOVUjAC88AAAABKj435g"
     },
     {
       "repository": "AkulTyagi11/StarStruck",
@@ -219,7 +271,9 @@
       "description": "feat(themes): add Kanagawa Wave palette",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1424476741",
+      "pullRequestId": "5981276570",
+      "pullRequestNodeId": "PR_kwDOVOfKRc8AAAABKC0ryA"
     },
     {
       "repository": "AkulTyagi11/StarStruck",
@@ -227,7 +281,9 @@
       "description": "feat: add themed top languages card",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1424476741",
+      "pullRequestId": "6274575519",
+      "pullRequestNodeId": "PR_kwDOVOfKRc8AAAABNstqmA"
     },
     {
       "repository": "AkulTyagi11/StarStruck",
@@ -235,7 +291,9 @@
       "description": "feat(themes): add Gruvbox Dark palette",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1424476741",
+      "pullRequestId": "6412851832",
+      "pullRequestNodeId": "PR_kwDOVOfKRc8AAAABPbCBFw"
     },
     {
       "repository": "alok-108/phantom",
@@ -243,7 +301,9 @@
       "description": "docs: add Hindi README and quickstart (#34)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427751937",
+      "pullRequestId": "5984041443",
+      "pullRequestNodeId": "PR_kwDOVRnEAc8AAAABKE80QQ"
     },
     {
       "repository": "alok-108/phantom",
@@ -251,7 +311,9 @@
       "description": "feat(completions): add Elvish tab completion",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427751937",
+      "pullRequestId": "6399189980",
+      "pullRequestNodeId": "PR_kwDOVRnEAc8AAAABPQbRiA"
     },
     {
       "repository": "AlphaIsYour/eno-qr-studio",
@@ -259,7 +321,9 @@
       "description": "Add unit coverage for international phone and SMS encoding",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "AmineChr54/MeetScribe",
@@ -267,7 +331,9 @@
       "description": "Test/pure logic unit tests",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1328936617",
+      "pullRequestId": "5999911083",
+      "pullRequestNodeId": "PR_kwDOTzX2qc8AAAABKRo1-w"
     },
     {
       "repository": "amirbena/code-review-skill",
@@ -275,7 +341,9 @@
       "description": "test: use canonical REPO_ROOT in seven test files",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1326814102",
+      "pullRequestId": "6142969087",
+      "pullRequestNodeId": "PR_kwDOTxWTls8AAAABMDsu9Q"
     },
     {
       "repository": "amirbena/code-review-skill",
@@ -283,7 +351,9 @@
       "description": "test: make capability manifest schema checks exact",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1326814102",
+      "pullRequestId": "6142997347",
+      "pullRequestNodeId": "PR_kwDOTxWTls8AAAABMDuF4g"
     },
     {
       "repository": "AnayDhawan/UCIP",
@@ -291,7 +361,9 @@
       "description": "fix: update indicator count to five",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "AnayDhawan/UCIP",
@@ -299,7 +371,9 @@
       "description": "fix: add root error boundaries and branded 404",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "AnayDhawan/UCIP",
@@ -307,7 +381,9 @@
       "description": "fix: reject invalid API limits",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "AnayDhawan/UCIP",
@@ -315,7 +391,9 @@
       "description": "Fix/cells pagination total",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "AnayDhawan/UCIP",
@@ -323,7 +401,9 @@
       "description": "fix(embed): show rank uncertainty and data freshness",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "AnayDhawan/UCIP",
@@ -331,7 +411,9 @@
       "description": "test: cover supported client runtime versions",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "anonhym/latelier",
@@ -339,7 +421,9 @@
       "description": "test: reduce role queries in drawer tree coverage test (#550)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1236556294",
+      "pullRequestId": "5916006700",
+      "pullRequestNodeId": "PR_kwDOSbRaBs8AAAABJOsI3Q"
     },
     {
       "repository": "anonhym/latelier",
@@ -347,7 +431,9 @@
       "description": "fix(builder): wrap condition rows at narrow widths",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1236556294",
+      "pullRequestId": "6398495615",
+      "pullRequestNodeId": "PR_kwDOSbRaBs8AAAABPP4qRA"
     },
     {
       "repository": "answerLoops/answerLoops",
@@ -355,7 +441,9 @@
       "description": "Feat/article supplied context usage",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1338958542",
+      "pullRequestId": "5989882128",
+      "pullRequestNodeId": "PR_kwDOT87izs8AAAABKJog0Q"
     },
     {
       "repository": "answerLoops/answerLoops",
@@ -363,7 +451,9 @@
       "description": "test(email): lock setup section mount-only fetches",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1338958542",
+      "pullRequestId": "6421757174",
+      "pullRequestNodeId": "PR_kwDOT87izs8AAAABPiL72w"
     },
     {
       "repository": "argus-code-scanning/argus-codescan-mcp",
@@ -371,7 +461,9 @@
       "description": "feat(ml): detect direct LLM output flowing into dangerous sinks",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1285982258",
+      "pullRequestId": "6183274238",
+      "pullRequestNodeId": "PR_kwDOTKaIMs8AAAABMjza7A"
     },
     {
       "repository": "ArijitGupta-in/geo-core",
@@ -379,7 +471,9 @@
       "description": "feat(validation): export decimal axis validators",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1438454980",
+      "pullRequestId": "6128804705",
+      "pullRequestNodeId": "PR_kwDOVb0UxM8AAAABL4qf2g"
     },
     {
       "repository": "arminazimi/evergreen",
@@ -387,7 +481,9 @@
       "description": "feat: add Spring Boot lifecycle rules and migration fixtures",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1417728413",
+      "pullRequestId": "6025039838",
+      "pullRequestNodeId": "PR_kwDOVIDRnc8AAAABKlV-SA"
     },
     {
       "repository": "arminazimi/evergreen",
@@ -395,7 +491,9 @@
       "description": "feat: add Markdown scan report format",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1417728413",
+      "pullRequestId": "6025167136",
+      "pullRequestNodeId": "PR_kwDOVIDRnc8AAAABKlcXMw"
     },
     {
       "repository": "arudaev/THD-Room-Finder",
@@ -403,7 +501,9 @@
       "description": "feat(data): add the THD programme and intake taxonomy",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1153644460",
+      "pullRequestId": "5831582920",
+      "pullRequestNodeId": "PR_kwDORMM3rM8AAAABIL4XDQ"
     },
     {
       "repository": "ASDW51/DanmuFloat",
@@ -411,7 +511,9 @@
       "description": "docs: 修复 PR 指南中的 CI 工作流链接",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1404602651",
+      "pullRequestId": "5893560486",
+      "pullRequestNodeId": "PR_kwDOU7iJG88AAAABI9YYoA"
     },
     {
       "repository": "ashfall-sh/unripe",
@@ -419,7 +521,9 @@
       "description": "feat: support Elixir mix.lock and Hex publish times",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427819023",
+      "pullRequestId": "5971006341",
+      "pullRequestNodeId": "PR_kwDOVRrKD88AAAABJ6nrLg"
     },
     {
       "repository": "AtiinLabs/Ito",
@@ -427,7 +531,9 @@
       "description": "Fix Resume label for tracker-synced progress",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1173622172",
+      "pullRequestId": "5998809902",
+      "pullRequestNodeId": "PR_kwDORfQNnM8AAAABKQvtqg"
     },
     {
       "repository": "atomityhq/atomity-cms",
@@ -435,7 +541,9 @@
       "description": "fix: return 415 for unsupported request media types",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1439706039",
+      "pullRequestId": "6136666266",
+      "pullRequestNodeId": "PR_kwDOVdArt88AAAABL-zYYg"
     },
     {
       "repository": "Avenx-JS/avenx-js",
@@ -443,7 +551,9 @@
       "description": "docs: explain keyed list reconciliation",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1218320061",
+      "pullRequestId": "6483848802",
+      "pullRequestNodeId": "PR_kwDOSJ4Wvc8AAAABQUWHYQ"
     },
     {
       "repository": "BaryoDev/Vouch",
@@ -451,7 +561,9 @@
       "description": "fix: reject empty strings in containment assertions",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1425650563",
+      "pullRequestId": "5960016814",
+      "pullRequestNodeId": "PR_kwDOVPmzg88AAAABJxyXvA"
     },
     {
       "repository": "basitalisandhu/agent-config-audit",
@@ -459,7 +571,9 @@
       "description": "docs: add false-positive issue form",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1404049781",
+      "pullRequestId": "5919727159",
+      "pullRequestNodeId": "PR_kwDOU7AZdc8AAAABJRpcsg"
     },
     {
       "repository": "basitalisandhu/agent-config-audit",
@@ -467,7 +581,9 @@
       "description": "feat: add baseline mode for existing findings",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1404049781",
+      "pullRequestId": "5939330060",
+      "pullRequestNodeId": "PR_kwDOU7AZdc8AAAABJhPRaA"
     },
     {
       "repository": "bhargavchintam/llm-inference",
@@ -475,7 +591,9 @@
       "description": "Serving/issue 2 chunked prefill",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1303224116",
+      "pullRequestId": "6076978455",
+      "pullRequestNodeId": "PR_kwDOTa2fNM8AAAABLO80Zw"
     },
     {
       "repository": "BinaryBaconLabs/todo-app",
@@ -483,7 +601,9 @@
       "description": "feat: add persistent dark mode toggle (#7)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1234568358",
+      "pullRequestId": "6032157548",
+      "pullRequestNodeId": "PR_kwDOSZYEps8AAAABKq6vDA"
     },
     {
       "repository": "BinaryBaconLabs/todo-app",
@@ -491,7 +611,9 @@
       "description": "Feat/issue 9 todo filters",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1234568358",
+      "pullRequestId": "6051588477",
+      "pullRequestNodeId": "PR_kwDOSZYEps8AAAABK6m23g"
     },
     {
       "repository": "BinaryBaconLabs/todo-app",
@@ -499,7 +621,9 @@
       "description": "Add text search for todos",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1234568358",
+      "pullRequestId": "6244224578",
+      "pullRequestNodeId": "PR_kwDOSZYEps8AAAABNUwkqQ"
     },
     {
       "repository": "BinaryBaconLabs/todo-app",
@@ -507,7 +631,9 @@
       "description": "feat: show todo counts on filter tabs",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1234568358",
+      "pullRequestId": "6404512989",
+      "pullRequestNodeId": "PR_kwDOSZYEps8AAAABPUi2-A"
     },
     {
       "repository": "biolend83/tubehaus",
@@ -515,7 +641,9 @@
       "description": "docs(deploy): add nginx reverse proxy example",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1424230892",
+      "pullRequestId": "6008568181",
+      "pullRequestNodeId": "PR_kwDOVOQJ7M8AAAABKYm6Vw"
     },
     {
       "repository": "biolend83/tubehaus",
@@ -523,7 +651,9 @@
       "description": "feat(player): remember playback speed between visits",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1424230892",
+      "pullRequestId": "6008601810",
+      "pullRequestNodeId": "PR_kwDOVOQJ7M8AAAABKYolIw"
     },
     {
       "repository": "biolend83/tubehaus",
@@ -531,7 +661,9 @@
       "description": "design(branding): give TubeHaus an original house-play icon",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1424230892",
+      "pullRequestId": "6010170459",
+      "pullRequestNodeId": "PR_kwDOVOQJ7M8AAAABKZ2aLw"
     },
     {
       "repository": "biolend83/tubehaus",
@@ -539,7 +671,9 @@
       "description": "i18n: polish Spanish translations for issue #5",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1424230892",
+      "pullRequestId": "6018279982",
+      "pullRequestNodeId": "PR_kwDOVOQJ7M8AAAABKgFliA"
     },
     {
       "repository": "BistaDinesh03/critique",
@@ -547,7 +681,9 @@
       "description": "test: fail CI when frontend render tests lack Node",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1345914313",
+      "pullRequestId": "6010315452",
+      "pullRequestNodeId": "PR_kwDOUDkFyc8AAAABKZ9pog"
     },
     {
       "repository": "BistaDinesh03/critique",
@@ -555,7 +691,9 @@
       "description": "fix(projects): select latest active question portably",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1345914313",
+      "pullRequestId": "6010353537",
+      "pullRequestNodeId": "PR_kwDOUDkFyc8AAAABKZ_iNA"
     },
     {
       "repository": "BistaDinesh03/critique",
@@ -563,7 +701,9 @@
       "description": "docs: remove stale localized README test counts",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1345914313",
+      "pullRequestId": "6034063237",
+      "pullRequestNodeId": "PR_kwDOUDkFyc8AAAABKscRGg"
     },
     {
       "repository": "BistaDinesh03/critique",
@@ -571,7 +711,9 @@
       "description": "Docs/first contributor guide",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1345914313",
+      "pullRequestId": "6080533631",
+      "pullRequestNodeId": "PR_kwDOUDkFyc8AAAABLRzGNA"
     },
     {
       "repository": "BistaDinesh03/critique",
@@ -579,7 +721,9 @@
       "description": "test: cover Discover eligibility and pagination for #222",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1345914313",
+      "pullRequestId": "6088671486",
+      "pullRequestNodeId": "PR_kwDOUDkFyc8AAAABLYW2NQ"
     },
     {
       "repository": "BitanSarkar/coalesce-java",
@@ -587,7 +731,9 @@
       "description": "Run Redis integration tests with Testcontainers",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1358806204",
+      "pullRequestId": "5438530765",
+      "pullRequestNodeId": "PR_kwDOUP28vM8AAAABDUNCjA"
     },
     {
       "repository": "BitanSarkar/coalesce-java",
@@ -595,7 +741,9 @@
       "description": "#10: Make the follower poll interval configurable",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1358806204",
+      "pullRequestId": "5456396403",
+      "pullRequestNodeId": "PR_kwDOUP28vM8AAAABDiWNQg"
     },
     {
       "repository": "blixvip/ai-broadcaster",
@@ -603,7 +751,9 @@
       "description": "test: assert exact provider host list parity",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "blixvip/easyedit",
@@ -611,7 +761,9 @@
       "description": "fix(web): validate /api/new job options before spawning",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "blixvip/easyedit",
@@ -619,7 +771,9 @@
       "description": "Fix preview composition for --no-render builds",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "blixvip/easyedit",
@@ -627,7 +781,9 @@
       "description": "Fix batch QA report row parsing",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "blixvip/GenMotion",
@@ -635,7 +791,9 @@
       "description": "fix: make npm test work on Node 20",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "blixvip/html-anime",
@@ -643,7 +801,9 @@
       "description": "chore: ignore generated film build output",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "blixvip/MotionClone",
@@ -651,7 +811,9 @@
       "description": "fix: validate pasted video URLs before creating projects",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "blixvip/NullMotion",
@@ -659,7 +821,9 @@
       "description": "feat: add frame-step keyboard shortcuts",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "blixvip/NullMotion",
@@ -667,7 +831,9 @@
       "description": "feat(export): show estimated time remaining",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "blixvip/NullMotion",
@@ -675,7 +841,9 @@
       "description": "fix: improve preview page accessibility",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "blixvip/NullMotion",
@@ -683,7 +851,9 @@
       "description": "test: comprehensively cover media streaming routes",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "blixvip/NullMotion",
@@ -691,7 +861,9 @@
       "description": "Stream MP4 exports directly to disk",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "blixvip/stick",
@@ -699,7 +871,9 @@
       "description": "Fix safeName output validation",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "blixvip/thumbnail-studio",
@@ -707,7 +881,9 @@
       "description": "fix(desktop): preserve keyboard focus when toggling favorites",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "bolubo/checkpoint-governor",
@@ -715,7 +891,9 @@
       "description": "fix(cdp): remove duplicate TargetLock definition",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1429137884",
+      "pullRequestId": "6032122669",
+      "pullRequestNodeId": "PR_kwDOVS7p3M8AAAABKq46Ow"
     },
     {
       "repository": "bolubo/checkpoint-governor",
@@ -723,7 +901,9 @@
       "description": "feat(waste): support explicit Megatron save intervals",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1429137884",
+      "pullRequestId": "6202620923",
+      "pullRequestNodeId": "PR_kwDOVS7p3M8AAAABMzZIDQ"
     },
     {
       "repository": "bolubo/checkpoint-governor",
@@ -731,7 +911,9 @@
       "description": "test(python): measure step glue overhead at 100k steps",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1429137884",
+      "pullRequestId": "6202731570",
+      "pullRequestNodeId": "PR_kwDOVS7p3M8AAAABMze4dQ"
     },
     {
       "repository": "bolubo/checkpoint-governor",
@@ -739,7 +921,9 @@
       "description": "Add JSON output support to Python demo",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1429137884",
+      "pullRequestId": "6244833018",
+      "pullRequestNodeId": "PR_kwDOVS7p3M8AAAABNVQZwg"
     },
     {
       "repository": "boromat/polanon",
@@ -747,7 +931,9 @@
       "description": "fix(guards): mask Polish phones with bare 48 prefix",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1443590870",
+      "pullRequestId": "6182314640",
+      "pullRequestNodeId": "PR_kwDOVgty1s8AAAABMjBtxA"
     },
     {
       "repository": "brokspace/brok",
@@ -755,7 +941,9 @@
       "description": "fix: preserve brok.yml comments when saving",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1432283154",
+      "pullRequestId": "6294429148",
+      "pullRequestNodeId": "PR_kwDOVV7oEs8AAAABN8m4dA"
     },
     {
       "repository": "btclib-org/seed-scan",
@@ -763,7 +951,9 @@
       "description": "test: bound subprocess execution time",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1455594147",
+      "pullRequestId": "6479262099",
+      "pullRequestNodeId": "PR_kwDOVsKao88AAAABQQsvsw"
     },
     {
       "repository": "btclib-org/seed-scan",
@@ -771,7 +961,9 @@
       "description": "fix(identify): validate public input types",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1455594147",
+      "pullRequestId": "6479268053",
+      "pullRequestNodeId": "PR_kwDOVsKao88AAAABQQtCXQ"
     },
     {
       "repository": "Bubblegunn/ai-slop-linter",
@@ -779,7 +971,9 @@
       "description": "Add pre-commit hooks for Markdown and commit messages",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/ai-slop-linter",
@@ -787,7 +981,9 @@
       "description": "feat: add SARIF output for code scanning",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/ai-slop-linter",
@@ -795,7 +991,9 @@
       "description": "Add reference markup residue rule (#14)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/ai-slop-linter",
@@ -803,7 +1001,9 @@
       "description": "fix: encode SARIF artifact URIs and repair schema URL",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/ai-slop-linter",
@@ -811,7 +1011,9 @@
       "description": "fix: avoid bold-label findings on CV role lists (#8)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/ai-slop-linter",
@@ -819,7 +1021,9 @@
       "description": "docs(bench): define external linter comparison study",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/ai-slop-linter",
@@ -827,7 +1031,9 @@
       "description": "feat: detect chatbot tracking parameters",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/proactive-gate",
@@ -835,7 +1041,9 @@
       "description": "Add `SqliteStore` implementation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/proactive-gate",
@@ -843,7 +1051,9 @@
       "description": "Publish the reusable store contract test suite",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/proactive-gate",
@@ -851,7 +1061,9 @@
       "description": "Add PostgreSQL-backed store implementation with atomic increments, TTL handling, and contract coverage",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/proactive-gate",
@@ -859,7 +1071,9 @@
       "description": "docs: add adopter list and issue form (#67)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/product-engineer",
@@ -867,7 +1081,9 @@
       "description": "feat: add npm hook install command",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/product-engineer",
@@ -875,7 +1091,9 @@
       "description": "feat(notes): generate customer changelog from commit blocks",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/product-engineer",
@@ -883,7 +1101,9 @@
       "description": "Fix/check commits",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/surviving-lines",
@@ -891,7 +1111,9 @@
       "description": "feat: add git subcommand executable alias",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bubblegunn/surviving-lines",
@@ -899,7 +1121,9 @@
       "description": "feat: add author sorting by share gap (#30)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": false,
-      "repositoryId": null
+      "repositoryId": null,
+      "pullRequestId": null,
+      "pullRequestNodeId": null
     },
     {
       "repository": "Bytewave1/dkit",
@@ -907,7 +1131,9 @@
       "description": "ci: test dkit across Windows, macOS and Linux",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1428257339",
+      "pullRequestId": "5960900624",
+      "pullRequestNodeId": "PR_kwDOVSF6O88AAAABJygLFQ"
     },
     {
       "repository": "Bytewave1/dkit",
@@ -915,7 +1141,9 @@
       "description": "test: broaden CLI edge-case coverage (#8)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1428257339",
+      "pullRequestId": "5963444820",
+      "pullRequestNodeId": "PR_kwDOVSF6O88AAAABJ0jlrA"
     },
     {
       "repository": "Bytewave1/dkit",
@@ -923,7 +1151,9 @@
       "description": "docs: add GitHub issue forms and PR template",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1428257339",
+      "pullRequestId": "6245135219",
+      "pullRequestNodeId": "PR_kwDOVSF6O88AAAABNVgBmw"
     },
     {
       "repository": "Bytewave1/dkit",
@@ -931,7 +1161,9 @@
       "description": "feat: add guild configuration level lookups",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1428257339",
+      "pullRequestId": "6274796723",
+      "pullRequestNodeId": "PR_kwDOVSF6O88AAAABNs4umg"
     },
     {
       "repository": "Carmineh/CreateMobGrinding",
@@ -939,7 +1171,9 @@
       "description": "compat: add Guard Villagers entity to tier 3",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1254394310",
+      "pullRequestId": "6363762550",
+      "pullRequestNodeId": "PR_kwDOSsSJxs8AAAABO0Kkmw"
     },
     {
       "repository": "cellrishi-code/claude-skills-atlas",
@@ -947,7 +1181,9 @@
       "description": "docs: add guide for maintainable skill tests",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1402025323",
+      "pullRequestId": "5911010310",
+      "pullRequestNodeId": "PR_kwDOU5E1a88AAAABJKzsjA"
     },
     {
       "repository": "cellrishi-code/claude-skills-atlas",
@@ -955,7 +1191,9 @@
       "description": "Add static smoke tests for documented examples",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1402025323",
+      "pullRequestId": "5998681057",
+      "pullRequestNodeId": "PR_kwDOU5E1a88AAAABKQpH4A"
     },
     {
       "repository": "cellrishi-code/claude-skills-atlas",
@@ -963,7 +1201,9 @@
       "description": "docs: add resource category READMEs",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1402025323",
+      "pullRequestId": "6274690894",
+      "pullRequestNodeId": "PR_kwDOU5E1a88AAAABNszcxQ"
     },
     {
       "repository": "chaoss/CollectOSS",
@@ -971,7 +1211,9 @@
       "description": "docs: fix sample database compose formatting",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1217315136",
+      "pullRequestId": "5874464381",
+      "pullRequestNodeId": "PR_kwDOSI7BQM8AAAABIuNprg"
     },
     {
       "repository": "chipfighter/context-attachment-manager",
@@ -979,7 +1221,9 @@
       "description": "Add custom endpoint troubleshooting checklist",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1384702527"
+      "repositoryId": "1384702527",
+      "pullRequestId": "6153863661",
+      "pullRequestNodeId": "PR_kwDOUojiP88AAAABMMK2aQ"
     },
     {
       "repository": "codercops/discord-bot",
@@ -987,7 +1231,9 @@
       "description": "fix: skip unchanged starter issue feed edits",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1414607729",
+      "pullRequestId": "5866806021",
+      "pullRequestNodeId": "PR_kwDOVFEzcc8AAAABIoDPoA"
     },
     {
       "repository": "codercops/toolbelt",
@@ -995,7 +1241,9 @@
       "description": "fix(base64): report original invalid character positions",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1292753486",
+      "pullRequestId": "6007376103",
+      "pullRequestNodeId": "PR_kwDOTQ3aTs8AAAABKXqnJA"
     },
     {
       "repository": "ColinGPT9/clips-studio",
@@ -1003,7 +1251,9 @@
       "description": "fix(i18n): translate UI attributes across components",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1265640651",
+      "pullRequestId": "6217147175",
+      "pullRequestNodeId": "PR_kwDOS3Aky88AAAABM_G9xA"
     },
     {
       "repository": "crbtgab/housing-records",
@@ -1011,7 +1261,9 @@
       "description": "Fix/borough border hit testing",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1434526457",
+      "pullRequestId": "6044202539",
+      "pullRequestNodeId": "PR_kwDOVYEi-c8AAAABK0qdLg"
     },
     {
       "repository": "crbtgab/housing-records",
@@ -1019,7 +1271,9 @@
       "description": "feat(data): automate official source refresh workflow",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1434526457",
+      "pullRequestId": "6445979733",
+      "pullRequestNodeId": "PR_kwDOVYEi-c8AAAABP11Kqg"
     },
     {
       "repository": "creatoan/scenet",
@@ -1027,7 +1281,9 @@
       "description": "docs: explain building and checking comics in CI",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1343921710",
+      "pullRequestId": "5838252865",
+      "pullRequestNodeId": "PR_kwDOUBqeLs8AAAABIRPmkg"
     },
     {
       "repository": "creatoan/scenet",
@@ -1035,7 +1291,9 @@
       "description": "feat(cli): rebuild when source files change (`scenet build --watch`) (#78)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1343921710",
+      "pullRequestId": "5918822289",
+      "pullRequestNodeId": "PR_kwDOUBqeLs8AAAABJQ7Adw"
     },
     {
       "repository": "creatoan/scenet",
@@ -1043,7 +1301,9 @@
       "description": "docs: PDF print spike (#80)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1343921710",
+      "pullRequestId": "5919498564",
+      "pullRequestNodeId": "PR_kwDOUBqeLs8AAAABJRdtUQ"
     },
     {
       "repository": "creatoan/scenet",
@@ -1051,7 +1311,9 @@
       "description": "Report script directive faults at their lines",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1343921710",
+      "pullRequestId": "6384134921",
+      "pullRequestNodeId": "PR_kwDOUBqeLs8AAAABPEipKw"
     },
     {
       "repository": "cubrid-lab/cubrid-mcp-server",
@@ -1059,7 +1321,9 @@
       "description": "test(config): cover whitespace around named selector",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1208207220",
+      "pullRequestId": "5904981395",
+      "pullRequestNodeId": "PR_kwDOSAPHdM8AAAABJGMi3g"
     },
     {
       "repository": "cubrid-lab/cubrid-mcp-server",
@@ -1067,7 +1331,9 @@
       "description": "test: cover a non-matching table-name filter",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1208207220",
+      "pullRequestId": "5905016854",
+      "pullRequestNodeId": "PR_kwDOSAPHdM8AAAABJGOKsQ"
     },
     {
       "repository": "DeandreT/ferrule",
@@ -1075,7 +1341,9 @@
       "description": "feat(linux): add desktop and AppStream metadata",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1288608954",
+      "pullRequestId": "6054656251",
+      "pullRequestNodeId": "PR_kwDOTM6cus8AAAABK9C8-A"
     },
     {
       "repository": "deimos-hq/ratchet",
@@ -1083,7 +1351,9 @@
       "description": "test: enforce source file headers",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1352062941"
+      "repositoryId": "1352062941",
+      "pullRequestId": "5358286063",
+      "pullRequestNodeId": "PR_kwDOUJbX3c8AAAABCUsa-g"
     },
     {
       "repository": "deimos-hq/ratchet",
@@ -1091,7 +1361,9 @@
       "description": "test: fuzz MCP JSON-RPC parser",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1352062941"
+      "repositoryId": "1352062941",
+      "pullRequestId": "5361038218",
+      "pullRequestNodeId": "PR_kwDOUJbX3c8AAAABCWyhvA"
     },
     {
       "repository": "deimos-hq/wardlatch",
@@ -1099,7 +1371,9 @@
       "description": "test: add seeded property coverage for version comparison",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1428111721",
+      "pullRequestId": "6411768665",
+      "pullRequestNodeId": "PR_kwDOVR9Bac8AAAABPaLYEg"
     },
     {
       "repository": "deimos-hq/wardlatch",
@@ -1107,7 +1381,9 @@
       "description": "test: add seeded properties for hidden-character escaping",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1428111721",
+      "pullRequestId": "6437605484",
+      "pullRequestNodeId": "PR_kwDOVR9Bac8AAAABPvEeJQ"
     },
     {
       "repository": "dgesteves/onsystem",
@@ -1115,7 +1391,9 @@
       "description": "fix: explain when no components are available",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1407852734",
+      "pullRequestId": "5983840234",
+      "pullRequestNodeId": "PR_kwDOU-ogvs8AAAABKEyuAQ"
     },
     {
       "repository": "dgesteves/signoff-ui",
@@ -1123,7 +1401,9 @@
       "description": "test: cover reasoning stream and duration",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1407893234",
+      "pullRequestId": "5983603605",
+      "pullRequestNodeId": "PR_kwDOU-q-8s8AAAABKEnGPA"
     },
     {
       "repository": "DhanushNehru/pdf-xss-checker",
@@ -1131,7 +1411,9 @@
       "description": "fix: serialize pdf parsing across concurrent scans",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "994256681",
+      "pullRequestId": "6134927558",
+      "pullRequestNodeId": "PR_kwDOO0MnKc8AAAABL9dOjA"
     },
     {
       "repository": "DHEENA0007/typebridge",
@@ -1139,7 +1421,9 @@
       "description": "feat(cli): add dry-run previews and colorized drift diffs",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1439806362",
+      "pullRequestId": "6193070368",
+      "pullRequestNodeId": "PR_kwDOVdGzms8AAAABMrvaGA"
     },
     {
       "repository": "dheerajjha/mcp-migrate",
@@ -1147,7 +1431,9 @@
       "description": "fix: use UTF-8 in findings renderer and tests",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1318720001",
+      "pullRequestId": "6022880223",
+      "pullRequestNodeId": "PR_kwDOTpoSAc8AAAABKjq1jQ"
     },
     {
       "repository": "dheerajjha/reviewer",
@@ -1155,7 +1441,9 @@
       "description": "fix: choose the correct default compare base",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1089513631",
+      "pullRequestId": "6022941442",
+      "pullRequestNodeId": "PR_kwDOQPCon88AAAABKjt9ig"
     },
     {
       "repository": "dheerajjha/reviewer",
@@ -1163,7 +1451,9 @@
       "description": "fix: persist the review baseline commit for staleness checks",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1089513631",
+      "pullRequestId": "6134616358",
+      "pullRequestNodeId": "PR_kwDOQPCon88AAAABL9ODwQ"
     },
     {
       "repository": "DhruvHarani1/lyra",
@@ -1171,7 +1461,9 @@
       "description": "feat: add optional Hindi and Punjabi lyric romanization",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421099721",
+      "pullRequestId": "5955618307",
+      "pullRequestNodeId": "PR_kwDOVLRCyc8AAAABJuQyHQ"
     },
     {
       "repository": "DhruvHarani1/lyra",
@@ -1179,7 +1471,9 @@
       "description": "feat(lyrics): add public-domain fallback for issue #2",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421099721",
+      "pullRequestId": "5960338100",
+      "pullRequestNodeId": "PR_kwDOVLRCyc8AAAABJyC38A"
     },
     {
       "repository": "DhruvHarani1/lyra",
@@ -1187,7 +1481,9 @@
       "description": "fix(a11y): improve keyboard navigation in widget and settings",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421099721",
+      "pullRequestId": "5961132183",
+      "pullRequestNodeId": "PR_kwDOVLRCyc8AAAABJysN0g"
     },
     {
       "repository": "DhruvHarani1/lyra",
@@ -1195,7 +1491,9 @@
       "description": "feat: add Hindi UI translations for settings and shared screens",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421099721",
+      "pullRequestId": "6050918936",
+      "pullRequestNodeId": "PR_kwDOVLRCyc8AAAABK6FUNw"
     },
     {
       "repository": "DhruvHarani1/lyra",
@@ -1203,7 +1501,9 @@
       "description": "fix(ui): improve light-theme contrast in settings",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421099721",
+      "pullRequestId": "6051106046",
+      "pullRequestNodeId": "PR_kwDOVLRCyc8AAAABK6OtvA"
     },
     {
       "repository": "DhruvHarani1/lyra",
@@ -1211,7 +1511,9 @@
       "description": "Fix/issue 22 youtube control overlay",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421099721",
+      "pullRequestId": "6051267531",
+      "pullRequestNodeId": "PR_kwDOVLRCyc8AAAABK6WzHg"
     },
     {
       "repository": "DhruvHarani1/lyra",
@@ -1219,7 +1521,9 @@
       "description": "Fix/issue 31 android compatibility report",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421099721",
+      "pullRequestId": "6051519537",
+      "pullRequestNodeId": "PR_kwDOVLRCyc8AAAABK6jZgA"
     },
     {
       "repository": "DhruvHarani1/lyra",
@@ -1227,7 +1531,9 @@
       "description": "feat(studio): add deterministic motion backgrounds",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421099721",
+      "pullRequestId": "6051785166",
+      "pullRequestNodeId": "PR_kwDOVLRCyc8AAAABK6wr9w"
     },
     {
       "repository": "DhruvHarani1/lyra",
@@ -1235,7 +1541,9 @@
       "description": "feat: add fullscreen keyboard shortcuts (#52)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421099721",
+      "pullRequestId": "6134446417",
+      "pullRequestNodeId": "PR_kwDOVLRCyc8AAAABL9FyBg"
     },
     {
       "repository": "DhruvHarani1/vega",
@@ -1243,7 +1551,9 @@
       "description": "feat(library): recover unavailable local music files",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1434120276",
+      "pullRequestId": "6135898984",
+      "pullRequestNodeId": "PR_kwDOVXrwVM8AAAABL-NWbA"
     },
     {
       "repository": "DhruvHarani1/vega",
@@ -1251,7 +1561,9 @@
       "description": "Improve provider failure diagnostics and recovery",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1434120276",
+      "pullRequestId": "6136051303",
+      "pullRequestNodeId": "PR_kwDOVXrwVM8AAAABL-VDpg"
     },
     {
       "repository": "DhruvHarani1/vega",
@@ -1259,7 +1571,9 @@
       "description": "feat(playlists): import and export M3U8 and JSON playlists",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1434120276",
+      "pullRequestId": "6136093474",
+      "pullRequestNodeId": "PR_kwDOVXrwVM8AAAABL-XJPg"
     },
     {
       "repository": "DhruvHarani1/vega",
@@ -1267,7 +1581,9 @@
       "description": "Handle YouTube background pauses with tap to resume",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1434120276",
+      "pullRequestId": "6136264402",
+      "pullRequestNodeId": "PR_kwDOVXrwVM8AAAABL-fjhw"
     },
     {
       "repository": "dominikgobel/kern",
@@ -1275,7 +1591,9 @@
       "description": "fix: insert Alt-modified characters",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1431534126",
+      "pullRequestId": "6031476830",
+      "pullRequestNodeId": "PR_kwDOVVN6Ls8AAAABKqX-Cg"
     },
     {
       "repository": "dsx-ai-factory/workload-map",
@@ -1283,7 +1601,9 @@
       "description": "Add API versions to `kli definitions -o wide`",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1024974235",
+      "pullRequestId": "6209548555",
+      "pullRequestNodeId": "PR_kwDOPRfdm88AAAABM5Ab0g"
     },
     {
       "repository": "eklavya2201/breakinggood",
@@ -1291,7 +1611,9 @@
       "description": "test: cover dependency scanner findings",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423186275",
+      "pullRequestId": "5939610136",
+      "pullRequestNodeId": "PR_kwDOVNQZY88AAAABJhdgCQ"
     },
     {
       "repository": "eklavya2201/breakinggood",
@@ -1299,7 +1621,9 @@
       "description": "fix: detect browser challenge pages during capture",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423186275",
+      "pullRequestId": "5939664236",
+      "pullRequestNodeId": "PR_kwDOVNQZY88AAAABJhgRag"
     },
     {
       "repository": "eklavya2201/breakinggood",
@@ -1307,7 +1631,9 @@
       "description": "test: cover OpenAI-compatible SSE parsing",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423186275",
+      "pullRequestId": "6458636949",
+      "pullRequestNodeId": "PR_kwDOVNQZY88AAAABQAFYLg"
     },
     {
       "repository": "eklavya2201/breakinggood",
@@ -1315,7 +1641,9 @@
       "description": "feat: capture root CSS custom properties",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423186275",
+      "pullRequestId": "6458646481",
+      "pullRequestNodeId": "PR_kwDOVNQZY88AAAABQAF2tQ"
     },
     {
       "repository": "elimu-ai/VoltAir",
@@ -1323,7 +1651,9 @@
       "description": "Update Android package name to ai.elimu.voltair",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "87184444",
+      "pullRequestId": "6193020819",
+      "pullRequestNodeId": "PR_kwDOBTJUPM8AAAABMrs4SA"
     },
     {
       "repository": "embedcatalog/embedcatalog",
@@ -1331,7 +1661,9 @@
       "description": "Add Discord to footer social links",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1290330373",
+      "pullRequestId": "6066749983",
+      "pullRequestNodeId": "PR_kwDOTOjhBc8AAAABLG0y6g"
     },
     {
       "repository": "embedcatalog/embedcatalog",
@@ -1339,7 +1671,9 @@
       "description": "Add social media icons to public profiles",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1290330373",
+      "pullRequestId": "6066826772",
+      "pullRequestNodeId": "PR_kwDOTOjhBc8AAAABLG40Cg"
     },
     {
       "repository": "embedcatalog/embedcatalog",
@@ -1347,7 +1681,9 @@
       "description": "Add a smooth scroll-to-top button",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1290330373",
+      "pullRequestId": "6066944343",
+      "pullRequestNodeId": "PR_kwDOTOjhBc8AAAABLG-7Vw"
     },
     {
       "repository": "embedcatalog/embedcatalog",
@@ -1355,7 +1691,9 @@
       "description": "Add projects tab to public profiles",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1290330373",
+      "pullRequestId": "6067044003",
+      "pullRequestNodeId": "PR_kwDOTOjhBc8AAAABLHECCw"
     },
     {
       "repository": "endercodezz/BYDLO",
@@ -1363,7 +1701,9 @@
       "description": "Update setup-dotnet to v6.1.0",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1442149822",
+      "pullRequestId": "6265093628",
+      "pullRequestNodeId": "PR_kwDOVfV1vs8AAAABNlZGtg"
     },
     {
       "repository": "enlike21/ClimbUp",
@@ -1371,7 +1711,9 @@
       "description": "Mantener el foco del teclado dentro del menú de pausa",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1431680790",
+      "pullRequestId": "6012550096",
+      "pullRequestNodeId": "PR_kwDOVVW3Fs8AAAABKbrrmA"
     },
     {
       "repository": "enlike21/ClimbUp",
@@ -1379,7 +1721,9 @@
       "description": "Añadir tests unitarios para StatisticsService",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1431680790",
+      "pullRequestId": "6014269931",
+      "pullRequestNodeId": "PR_kwDOVVW3Fs8AAAABKc_xQg"
     },
     {
       "repository": "Erfouni/solidworks-GPT-plugin",
@@ -1387,7 +1731,9 @@
       "description": "Fix/issue 26 feedback host validation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1304769310",
+      "pullRequestId": "6070854580",
+      "pullRequestNodeId": "PR_kwDOTcUzHs8AAAABLKF1Lg"
     },
     {
       "repository": "eugenioenko/ttt",
@@ -1395,7 +1741,9 @@
       "description": "test(e2e): isolate find-bar clipboard test",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1135468428",
+      "pullRequestId": "6053815883",
+      "pullRequestNodeId": "PR_kwDOQ63fjM8AAAABK8YDFw"
     },
     {
       "repository": "eugenioenko/ttt",
@@ -1403,7 +1751,9 @@
       "description": "fix(plugin): clean up debug plugin replacements",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1135468428",
+      "pullRequestId": "6111996096",
+      "pullRequestNodeId": "PR_kwDOQ63fjM8AAAABLrMfUg"
     },
     {
       "repository": "eugenioenko/ttt",
@@ -1411,7 +1761,9 @@
       "description": "feat: prompt to create missing save directories",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1135468428",
+      "pullRequestId": "6263993039",
+      "pullRequestNodeId": "PR_kwDOQ63fjM8AAAABNkiEjg"
     },
     {
       "repository": "eyadstein/leaklens",
@@ -1419,7 +1771,9 @@
       "description": "Add CITATION.cff for GitHub citation metadata",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427320203",
+      "pullRequestId": "6023036591",
+      "pullRequestNodeId": "PR_kwDOVRMti88AAAABKjyvbw"
     },
     {
       "repository": "eyadstein/leaklens",
@@ -1427,7 +1781,9 @@
       "description": "feat(cli): color severity labels in terminal output",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427320203",
+      "pullRequestId": "6051354044",
+      "pullRequestNodeId": "PR_kwDOVRMti88AAAABK6bHoQ"
     },
     {
       "repository": "eyadstein/leaklens",
@@ -1435,7 +1791,9 @@
       "description": "Detect future-looking rolling and lag features",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427320203",
+      "pullRequestId": "6458894861",
+      "pullRequestNodeId": "PR_kwDOVRMti88AAAABQASg7A"
     },
     {
       "repository": "eyadstein/leaklens",
@@ -1443,7 +1801,9 @@
       "description": "Add fail-under input to GitHub Action",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427320203",
+      "pullRequestId": "6458899812",
+      "pullRequestNodeId": "PR_kwDOVRMti88AAAABQASxSQ"
     },
     {
       "repository": "eyadstein/leaklens",
@@ -1451,7 +1811,9 @@
       "description": "test: cover RTL explanation output",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427320203",
+      "pullRequestId": "6480922561",
+      "pullRequestNodeId": "PR_kwDOVRMti88AAAABQSBKLQ"
     },
     {
       "repository": "eyadstein/leaklens",
@@ -1459,7 +1821,9 @@
       "description": "test: add prompt rendering golden files",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427320203",
+      "pullRequestId": "6480927527",
+      "pullRequestNodeId": "PR_kwDOVRMti88AAAABQSBaVg"
     },
     {
       "repository": "fatihserhatturan/noCap",
@@ -1467,7 +1831,9 @@
       "description": "feat: export report as PNG",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1221125580",
+      "pullRequestId": "6031608969",
+      "pullRequestNodeId": "PR_kwDOSMjlzM8AAAABKqeq4g"
     },
     {
       "repository": "featherpanel-com/translations",
@@ -1475,7 +1841,9 @@
       "description": "docs: correct README clone and sync instructions",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1131926005",
+      "pullRequestId": "5997733272",
+      "pullRequestNodeId": "PR_kwDOQ3fR9c8AAAABKP4s0Q"
     },
     {
       "repository": "feimacode/open-design-agent-kit",
@@ -1483,7 +1851,9 @@
       "description": "docs: update bundled content counts",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1377707120",
+      "pullRequestId": "6037819483",
+      "pullRequestNodeId": "PR_kwDOUh4kcM8AAAABKvfFxw"
     },
     {
       "repository": "feimacode/open-design-agent-kit",
@@ -1491,7 +1861,9 @@
       "description": "Feat/issue 48 pinterest pin format",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1377707120",
+      "pullRequestId": "6039053653",
+      "pullRequestNodeId": "PR_kwDOUh4kcM8AAAABKwfUUw"
     },
     {
       "repository": "firstcontributions/first-contributions",
@@ -1499,7 +1871,9 @@
       "description": "Add Aaqibhafeez Khan to Contributors list",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "68720867",
+      "pullRequestId": "5239362481",
+      "pullRequestNodeId": "PR_kwDOBBiY488AAAABA2s07g"
     },
     {
       "repository": "firstcontributions/first-contributions",
@@ -1507,7 +1881,9 @@
       "description": "Add aaqibhafeez khan to contributors",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "68720867",
+      "pullRequestId": "6265287445",
+      "pullRequestNodeId": "PR_kwDOBBiY488AAAABNliuVQ"
     },
     {
       "repository": "flisk-sh/flisk",
@@ -1515,7 +1891,9 @@
       "description": "docs(schema): describe health check and ulimit fields",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1377087398",
+      "pullRequestId": "6478899659",
+      "pullRequestNodeId": "PR_kwDOUhSvps8AAAABQQaR3A"
     },
     {
       "repository": "flisk-sh/flisk",
@@ -1523,7 +1901,9 @@
       "description": "fix(open): fail promptly when no native run is active",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1377087398",
+      "pullRequestId": "6478902080",
+      "pullRequestNodeId": "PR_kwDOUhSvps8AAAABQQaZkQ"
     },
     {
       "repository": "flisk-sh/run-my-agents",
@@ -1531,7 +1911,9 @@
       "description": "test(hook): add node:test suite for check.mjs",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1442266670",
+      "pullRequestId": "6155050328",
+      "pullRequestNodeId": "PR_kwDOVfc-Ls8AAAABMNGbvw"
     },
     {
       "repository": "ForNeVeR/Fabricator",
@@ -1539,7 +1921,9 @@
       "description": "Document required DigitalOcean domain:update scope",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "245640708",
+      "pullRequestId": "6031876884",
+      "pullRequestNodeId": "PR_kwDODqQuBM8AAAABKqsaSg"
     },
     {
       "repository": "Foxworks-Studios/riftward",
@@ -1547,7 +1931,9 @@
       "description": "fix(combat): expire abandoned prepared moves",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1435028127",
+      "pullRequestId": "6053876453",
+      "pullRequestNodeId": "PR_kwDOVYjKn88AAAABK8bKOQ"
     },
     {
       "repository": "francordel/kdemos",
@@ -1555,7 +1941,9 @@
       "description": "test: cover Cloudflare input validators",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "895068209",
+      "pullRequestId": "5873396094",
+      "pullRequestNodeId": "PR_kwDONVmoMc8AAAABItWpuA"
     },
     {
       "repository": "francordel/kdemos",
@@ -1563,7 +1951,9 @@
       "description": "fix: contract Catalan date prepositions",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "895068209",
+      "pullRequestId": "5882676812",
+      "pullRequestNodeId": "PR_kwDONVmoMc8AAAABI0t5kA"
     },
     {
       "repository": "francordel/kdemos",
@@ -1571,7 +1961,9 @@
       "description": "test: enforce translation key parity",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "895068209",
+      "pullRequestId": "5893066881",
+      "pullRequestNodeId": "PR_kwDONVmoMc8AAAABI9AZuw"
     },
     {
       "repository": "francordel/kdemos",
@@ -1579,7 +1971,9 @@
       "description": "fix: add accessible labels to icon-only buttons",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "895068209",
+      "pullRequestId": "5933324655",
+      "pullRequestNodeId": "PR_kwDONVmoMc8AAAABJcjEJQ"
     },
     {
       "repository": "francordel/kdemos",
@@ -1587,7 +1981,9 @@
       "description": "refactor(i18n): extract English and Spanish translations",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "895068209",
+      "pullRequestId": "6010246944",
+      "pullRequestNodeId": "PR_kwDONVmoMc8AAAABKZ6RZA"
     },
     {
       "repository": "freddychoudja/kliz-",
@@ -1595,7 +1991,9 @@
       "description": "fix(packaging): align setuptools with PEP 639 metadata",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1316029761",
+      "pullRequestId": "6136595041",
+      "pullRequestNodeId": "PR_kwDOTnEFQc8AAAABL-v3tg"
     },
     {
       "repository": "G4SBO/PatchLight",
@@ -1603,7 +2001,9 @@
       "description": "feat: add BleepingComputer news feed",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1420057717",
+      "pullRequestId": "5976280959",
+      "pullRequestNodeId": "PR_kwDOVKRcdc8AAAABJ-zFfg"
     },
     {
       "repository": "gabrielmongefranco/privatium",
@@ -1611,7 +2011,9 @@
       "description": "Upgrade GitHub Actions to Node 24",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1352510552",
+      "pullRequestId": "5724349934",
+      "pullRequestNodeId": "PR_kwDOUJ2sWM8AAAABG3BIIQ"
     },
     {
       "repository": "gabrielmongefranco/privatium",
@@ -1619,7 +2021,9 @@
       "description": "Fix/52 directory sizes",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1352510552",
+      "pullRequestId": "5997513050",
+      "pullRequestNodeId": "PR_kwDOUJ2sWM8AAAABKPtWKQ"
     },
     {
       "repository": "gabrielmongefranco/privatium",
@@ -1627,7 +2031,9 @@
       "description": "feat: give launcher an app-store layout",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1352510552",
+      "pullRequestId": "5997620483",
+      "pullRequestNodeId": "PR_kwDOUJ2sWM8AAAABKPy5SA"
     },
     {
       "repository": "gabrielvieiraf/finitemonkey",
@@ -1635,7 +2041,9 @@
       "description": "docs(generators): add workflow and flow templates",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1433452049",
+      "pullRequestId": "6040087360",
+      "pullRequestNodeId": "PR_kwDOVXC-Ec8AAAABKxVAiw"
     },
     {
       "repository": "Gautam-aman/ResQNet",
@@ -1643,7 +2051,9 @@
       "description": "docs: correct beta installation release assets",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421021207",
+      "pullRequestId": "5955341601",
+      "pullRequestNodeId": "PR_kwDOVLMQF88AAAABJuC0gQ"
     },
     {
       "repository": "getsotto/sotto",
@@ -1651,7 +2061,9 @@
       "description": "Fix concurrent environment key rotation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1277822711",
+      "pullRequestId": "5447550127",
+      "pullRequestNodeId": "PR_kwDOTCoG988AAAABDbPLbg"
     },
     {
       "repository": "getsotto/sotto",
@@ -1659,7 +2071,9 @@
       "description": "Fix/250 env ls json",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1277822711",
+      "pullRequestId": "5461579001",
+      "pullRequestNodeId": "PR_kwDOTCoG988AAAABDmhb3Q"
     },
     {
       "repository": "getsotto/sotto",
@@ -1667,7 +2081,9 @@
       "description": "fix(web): prevent duplicate environment shares",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1277822711",
+      "pullRequestId": "5461646789",
+      "pullRequestNodeId": "PR_kwDOTCoG988AAAABDmk6dA"
     },
     {
       "repository": "ggfto/DroidDeck",
@@ -1675,7 +2091,9 @@
       "description": "feat(i18n): add Hindi language option",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "353529401",
+      "pullRequestId": "5988279036",
+      "pullRequestNodeId": "PR_kwDOFRJuOc8AAAABKIWxpw"
     },
     {
       "repository": "GianlucaBave/murmury",
@@ -1683,7 +2101,9 @@
       "description": "Add Ollama and LM Studio local providers",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1443260096",
+      "pullRequestId": "6192327316",
+      "pullRequestNodeId": "PR_kwDOVgZmwM8AAAABMrJP4w"
     },
     {
       "repository": "GillMacedo/racesift",
@@ -1691,7 +2111,9 @@
       "description": "test: cover Windows race report paths",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1442301317",
+      "pullRequestId": "6264188614",
+      "pullRequestNodeId": "PR_kwDOVffFhc8AAAABNkr7Gw"
     },
     {
       "repository": "gmi-software/react-native-better-maps",
@@ -1699,7 +2121,9 @@
       "description": "fix(ios): expose localized provider configuration errors",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1280405740",
+      "pullRequestId": "5838144402",
+      "pullRequestNodeId": "PR_kwDOTFFw7M8AAAABIRKAnA"
     },
     {
       "repository": "got-a-page/website",
@@ -1707,7 +2131,9 @@
       "description": "feat: add answer-engine metadata and llms.txt",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427212116",
+      "pullRequestId": "5963137988",
+      "pullRequestNodeId": "PR_kwDOVRGHVM8AAAABJ0Tujg"
     },
     {
       "repository": "got-a-page/website",
@@ -1715,7 +2141,9 @@
       "description": "feat: add sitemap and canonical page metadata",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427212116",
+      "pullRequestId": "6088758113",
+      "pullRequestNodeId": "PR_kwDOVRGHVM8AAAABLYbZVw"
     },
     {
       "repository": "GuiDobelin/citerag",
@@ -1723,7 +2151,9 @@
       "description": "Add per-query retrieval mode selection",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1429827596",
+      "pullRequestId": "6223996244",
+      "pullRequestNodeId": "PR_kwDOVTlwDM8AAAABNEoOCg"
     },
     {
       "repository": "GustavoBaranda/chatflow-agent",
@@ -1731,7 +2161,9 @@
       "description": "fix: restore session state on cancellation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1377567235",
+      "pullRequestId": "5893163492",
+      "pullRequestNodeId": "PR_kwDOUhwCA88AAAABI9E4jA"
     },
     {
       "repository": "HafidIdrissi/Time-Tracker",
@@ -1739,7 +2171,9 @@
       "description": "docs: explain longest active session with worked example",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1306909283",
+      "pullRequestId": "5724152343",
+      "pullRequestNodeId": "PR_kwDOTeXaY88AAAABG23EFg"
     },
     {
       "repository": "HafidIdrissi/Time-Tracker",
@@ -1747,7 +2181,9 @@
       "description": "test(preferences): reject invalid choices before file writes",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1306909283",
+      "pullRequestId": "5909645607",
+      "pullRequestNodeId": "PR_kwDOTeXaY88AAAABJJwtLw"
     },
     {
       "repository": "HafidIdrissi/Time-Tracker",
@@ -1755,7 +2191,9 @@
       "description": "docs: add read-only SQLite backup walkthrough",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1306909283",
+      "pullRequestId": "6173493018",
+      "pullRequestNodeId": "PR_kwDOTeXaY88AAAABMb6ZQA"
     },
     {
       "repository": "hayagrivai-labs/sciproof",
@@ -1763,7 +2201,9 @@
       "description": "docs: add shell pipeline reproducibility tutorial",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423681242",
+      "pullRequestId": "5970650478",
+      "pullRequestNodeId": "PR_kwDOVNum2s8AAAABJ6V1Fw"
     },
     {
       "repository": "hayagrivai-labs/sciproof",
@@ -1771,7 +2211,9 @@
       "description": "Add tests for manifest output validation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423681242",
+      "pullRequestId": "6154241163",
+      "pullRequestNodeId": "PR_kwDOVNum2s8AAAABMMdzdg"
     },
     {
       "repository": "hayagrivai-labs/sciproof",
@@ -1779,7 +2221,9 @@
       "description": "fix: make chain-of-custody violations fail pipeline verification",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423681242",
+      "pullRequestId": "6459807433",
+      "pullRequestNodeId": "PR_kwDOVNum2s8AAAABQBAv4g"
     },
     {
       "repository": "hayagrivai-labs/sciproof",
@@ -1787,7 +2231,9 @@
       "description": "feat: support claims on TSV outputs",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423681242",
+      "pullRequestId": "6459812867",
+      "pullRequestNodeId": "PR_kwDOVNum2s8AAAABQBBCBQ"
     },
     {
       "repository": "helalrules7/tibyan",
@@ -1795,7 +2241,9 @@
       "description": "fix(mushaf): include Saheeh translation version in credits",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1392855185",
+      "pullRequestId": "5975759724",
+      "pullRequestNodeId": "PR_kwDOUwVIkc8AAAABJ-Yb8A"
     },
     {
       "repository": "hexlet-components/ru-my-first-pullrequest",
@@ -1803,7 +2251,9 @@
       "description": "docs: add contributor greeting",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "311216589",
+      "pullRequestId": "6302951018",
+      "pullRequestNodeId": "PR_kwDOEozJzc8AAAABODX02A"
     },
     {
       "repository": "higher-kinded-j/higher-kinded-j",
@@ -1811,7 +2261,9 @@
       "description": "docs(glossary): add IdPath, LazyPath and OptionalPath entries",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "960523141",
+      "pullRequestId": "5904748408",
+      "pullRequestNodeId": "PR_kwDOOUBrhc8AAAABJGBPKw"
     },
     {
       "repository": "Hosein-imani/hybrid-recommendation-system",
@@ -1819,7 +2271,9 @@
       "description": "docs: document editable installation for issue #5",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1316240186",
+      "pullRequestId": "5487790100",
+      "pullRequestNodeId": "PR_kwDOTnQ7Os8AAAABD7mFVA"
     },
     {
       "repository": "Hosein-imani/hybrid-recommendation-system",
@@ -1827,7 +2281,9 @@
       "description": "fix: handle unknown seed movie titles gracefully",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1316240186",
+      "pullRequestId": "5523285684",
+      "pullRequestNodeId": "PR_kwDOTnQ7Os8AAAABEX0FrQ"
     },
     {
       "repository": "Hosein-imani/hybrid-recommendation-system",
@@ -1835,7 +2291,9 @@
       "description": "fix(collaborative): handle empty recommendation candidates",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1316240186",
+      "pullRequestId": "5904595668",
+      "pullRequestNodeId": "PR_kwDOTnQ7Os8AAAABJF50jg"
     },
     {
       "repository": "Hosein-imani/hybrid-recommendation-system",
@@ -1843,7 +2301,9 @@
       "description": "fix: validate hybrid section category consistency",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1316240186",
+      "pullRequestId": "5904821052",
+      "pullRequestNodeId": "PR_kwDOTnQ7Os8AAAABJGEwmQ"
     },
     {
       "repository": "Hosein-imani/hybrid-recommendation-system",
@@ -1851,7 +2311,9 @@
       "description": "Feat/issue 15 single signal recommendations",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1316240186",
+      "pullRequestId": "5904869450",
+      "pullRequestNodeId": "PR_kwDOTnQ7Os8AAAABJGHHHQ"
     },
     {
       "repository": "Hosein-imani/hybrid-recommendation-system",
@@ -1859,7 +2321,9 @@
       "description": "Feat/issue 17 held out ranking evaluation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1316240186",
+      "pullRequestId": "5904941934",
+      "pullRequestNodeId": "PR_kwDOTnQ7Os8AAAABJGKnkQ"
     },
     {
       "repository": "hslee16/Archy",
@@ -1867,7 +2331,9 @@
       "description": "test(affected): cover question mark path separator boundary",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1234104008",
+      "pullRequestId": "6210912805",
+      "pullRequestNodeId": "PR_kwDOSY7uyM8AAAABM6HQQw"
     },
     {
       "repository": "hslee16/Archy",
@@ -1875,7 +2341,9 @@
       "description": "fix(bench): parse quoted and spaced diff paths",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1234104008",
+      "pullRequestId": "6442854513",
+      "pullRequestNodeId": "PR_kwDOSY7uyM8AAAABPzTGzQ"
     },
     {
       "repository": "hslee16/Archy",
@@ -1883,7 +2351,9 @@
       "description": "fix(install): preflight every uninstall target",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1234104008",
+      "pullRequestId": "6442859091",
+      "pullRequestNodeId": "PR_kwDOSY7uyM8AAAABPzTV-g"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1891,7 +2361,9 @@
       "description": "docs: clarify solution directory structure",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6007996317",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABKYKPCA"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1899,7 +2371,9 @@
       "description": "docs: tag ten solutions by algorithm topic",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6031127401",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABKqGXsQ"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1907,7 +2381,9 @@
       "description": "test: add edge cases for letter percentage solution",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6031200768",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABKqKDwQ"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1915,7 +2391,9 @@
       "description": "docs: add issue and pull request templates",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6135537208",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABL97HIA"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1923,7 +2401,9 @@
       "description": "docs(python): add type hints and docstrings to solutions",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6135549850",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABL97vIw"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1931,7 +2411,9 @@
       "description": "docs(python): add complexity notes to solutions",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6135658456",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABL-BFuw"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1939,7 +2421,9 @@
       "description": "ci: validate headers in changed solution files",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6153232125",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABMLrUqg"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1947,7 +2431,9 @@
       "description": "test: add sort012 edge-case assertions",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6173600163",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABMb_0EA"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1955,7 +2441,9 @@
       "description": "feat: Add Valid Parentheses solutions in Python, JavaScript, and Java",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6253382247",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABNcMLcQ"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1963,7 +2451,9 @@
       "description": "docs: add source link to practice122 keypad phone simulator",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6340764108",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABOhpqfg"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1971,7 +2461,9 @@
       "description": "feat: port alternating digit sum solution to javascript",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6340806344",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABOhr0uw"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1979,7 +2471,9 @@
       "description": "feat: add searchable GitHub Pages site for solutions",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6340867764",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABOhu_fA"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1987,7 +2481,9 @@
       "description": "Fix passphrase shifting and per-word casing",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6398374079",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABPPyqmA"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -1995,7 +2491,9 @@
       "description": "docs: add prefixCount docstring",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6398406470",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABPP0Pfw"
     },
     {
       "repository": "Huerte/algo-solutions",
@@ -2003,7 +2501,9 @@
       "description": "Optimize N-Queens II using bitmasks",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1027712578"
+      "repositoryId": "1027712578",
+      "pullRequestId": "6433542119",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABPrwzuQ"
     },
     {
       "repository": "Huseynteymurzade28/tuiba",
@@ -2011,7 +2511,9 @@
       "description": "Add cargo-binstall release metadata",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1378748948",
+      "pullRequestId": "6042438950",
+      "pullRequestNodeId": "PR_kwDOUi4KFM8AAAABKzOzLw"
     },
     {
       "repository": "Huseynteymurzade28/tuiba",
@@ -2019,7 +2521,9 @@
       "description": "Feat/configurable colour themes",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1378748948",
+      "pullRequestId": "6056708985",
+      "pullRequestNodeId": "PR_kwDOUi4KFM8AAAABK-s4bg"
     },
     {
       "repository": "Huseynteymurzade28/tuiba",
@@ -2027,7 +2531,9 @@
       "description": "packaging: add Nix flake",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1378748948",
+      "pullRequestId": "6058044925",
+      "pullRequestNodeId": "PR_kwDOUi4KFM8AAAABK_xsww"
     },
     {
       "repository": "Huseynteymurzade28/tuiba",
@@ -2035,7 +2541,9 @@
       "description": "docs: add tested game compatibility list",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1378748948",
+      "pullRequestId": "6395473539",
+      "pullRequestNodeId": "PR_kwDOUi4KFM8AAAABPNh7gQ"
     },
     {
       "repository": "hydope/chunkcite",
@@ -2043,7 +2551,9 @@
       "description": "Expose verification threshold in CLI",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1432203640",
+      "pullRequestId": "6018742847",
+      "pullRequestNodeId": "PR_kwDOVV2xeM8AAAABKgc7eg"
     },
     {
       "repository": "ika100/sdlc-foundry",
@@ -2051,7 +2561,9 @@
       "description": "fix(cplat): resolve sibling component clones (#272)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1243269922",
+      "pullRequestId": "6102763320",
+      "pullRequestNodeId": "PR_kwDOShrLIs8AAAABLjxYFg"
     },
     {
       "repository": "isaaclins/taskboard",
@@ -2059,7 +2571,9 @@
       "description": "Fix issue 6 mobile topbar",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1432289679",
+      "pullRequestId": "6018954732",
+      "pullRequestNodeId": "PR_kwDOVV8Bj88AAAABKgnYrQ"
     },
     {
       "repository": "ismayilzeynal/tabulint-oss-az",
@@ -2067,7 +2581,9 @@
       "description": "Improve boolean type inference for textual literals",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1369016628",
+      "pullRequestId": "5447749847",
+      "pullRequestNodeId": "PR_kwDOUZmJNM8AAAABDbZgkg"
     },
     {
       "repository": "ismayilzeynal/tabulint-oss-az",
@@ -2075,7 +2591,9 @@
       "description": "Add CLI quiet mode",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1369016628",
+      "pullRequestId": "5447767263",
+      "pullRequestNodeId": "PR_kwDOUZmJNM8AAAABDbaZew"
     },
     {
       "repository": "ismayilzeynal/tabulint-oss-az",
@@ -2083,7 +2601,9 @@
       "description": "Add CLI report output file option",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1369016628",
+      "pullRequestId": "5447783154",
+      "pullRequestNodeId": "PR_kwDOUZmJNM8AAAABDbbNcQ"
     },
     {
       "repository": "ismayilzeynal/tabulint-oss-az",
@@ -2091,7 +2611,9 @@
       "description": "Add CSV delimiter option",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1369016628",
+      "pullRequestId": "5468593287",
+      "pullRequestNodeId": "PR_kwDOUZmJNM8AAAABDsK6vQ"
     },
     {
       "repository": "ismayilzeynal/tabulint-oss-az",
@@ -2099,7 +2621,9 @@
       "description": "Task 05 jsonl ndjson",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1369016628",
+      "pullRequestId": "5468622194",
+      "pullRequestNodeId": "PR_kwDOUZmJNM8AAAABDsMWoQ"
     },
     {
       "repository": "ismayilzeynal/tabulint-oss-az",
@@ -2107,7 +2631,9 @@
       "description": "Add machine-readable JSON report output",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1369016628",
+      "pullRequestId": "5468637704",
+      "pullRequestNodeId": "PR_kwDOUZmJNM8AAAABDsNIjQ"
     },
     {
       "repository": "ismayilzeynal/tabulint-oss-az",
@@ -2115,7 +2641,9 @@
       "description": "Add configurable input encoding",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1369016628",
+      "pullRequestId": "5497825076",
+      "pullRequestNodeId": "PR_kwDOUZmJNM8AAAABEDrRRg"
     },
     {
       "repository": "ismayilzeynal/tabulint-oss-az",
@@ -2123,7 +2651,9 @@
       "description": "Add string-length validation rules",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1369016628",
+      "pullRequestId": "5901524877",
+      "pullRequestNodeId": "PR_kwDOUZmJNM8AAAABJDiVMw"
     },
     {
       "repository": "JackFurton/who-would-build-a-kernel-in-java",
@@ -2131,7 +2661,9 @@
       "description": "Implement getcwd system call (#208)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1403771150",
+      "pullRequestId": "5893624731",
+      "pullRequestNodeId": "PR_kwDOU6vZDs8AAAABI9bhCg"
     },
     {
       "repository": "JackFurton/who-would-build-a-kernel-in-java",
@@ -2139,7 +2671,9 @@
       "description": "Handle Ctrl-C at the shell prompt (#209)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1403771150",
+      "pullRequestId": "5893661175",
+      "pullRequestNodeId": "PR_kwDOU6vZDs8AAAABI9dUQA"
     },
     {
       "repository": "JackFurton/who-would-build-a-kernel-in-java",
@@ -2147,7 +2681,9 @@
       "description": "feat: add hexadecimal floating-point formatting",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1403771150",
+      "pullRequestId": "6142540795",
+      "pullRequestNodeId": "PR_kwDOU6vZDs8AAAABMDXkKg"
     },
     {
       "repository": "JackFurton/who-would-build-a-kernel-in-java",
@@ -2155,7 +2691,9 @@
       "description": "Add insertion-ordered LinkedHashMap",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1403771150",
+      "pullRequestId": "6192940764",
+      "pullRequestNodeId": "PR_kwDOU6vZDs8AAAABMrow9w"
     },
     {
       "repository": "JackFurton/who-would-build-a-kernel-in-java",
@@ -2163,7 +2701,9 @@
       "description": "Math: Add nextUp, nextDown, nextAfter, ulp and scalb",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1403771150",
+      "pullRequestId": "6265189594",
+      "pullRequestNodeId": "PR_kwDOU6vZDs8AAAABNld1Mw"
     },
     {
       "repository": "JackFurton/who-would-build-a-kernel-in-java",
@@ -2171,7 +2711,9 @@
       "description": "fix: preserve quoted pipe arguments in shell",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1403771150",
+      "pullRequestId": "6363869919",
+      "pullRequestNodeId": "PR_kwDOU6vZDs8AAAABO0P7PQ"
     },
     {
       "repository": "jaikaran109/51_Web_Projects",
@@ -2179,7 +2721,9 @@
       "description": "Fix: add playable shapes game and correct layout",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1250688842",
+      "pullRequestId": "6136339154",
+      "pullRequestNodeId": "PR_kwDOSov_Ss8AAAABL-jMUg"
     },
     {
       "repository": "jaikaran109/51_Web_Projects",
@@ -2187,7 +2731,9 @@
       "description": "perf: optimize raster images and lazy-load page media",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1250688842",
+      "pullRequestId": "6441931790",
+      "pullRequestNodeId": "PR_kwDOSov_Ss8AAAABPyjHBA"
     },
     {
       "repository": "jaikaran109/51_Web_Projects",
@@ -2195,7 +2741,9 @@
       "description": "fix: add SEO metadata and SVG favicons to project pages",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1250688842",
+      "pullRequestId": "6441934817",
+      "pullRequestNodeId": "PR_kwDOSov_Ss8AAAABPyjREw"
     },
     {
       "repository": "JamshidS/aiset",
@@ -2203,7 +2751,9 @@
       "description": "test: cover transcript state transitions",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1422845048",
+      "pullRequestId": "5989954712",
+      "pullRequestNodeId": "PR_kwDOVM7keM8AAAABKJsH7Q"
     },
     {
       "repository": "JamshidS/aiset",
@@ -2211,7 +2761,9 @@
       "description": "Feat/teammap outline",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1422845048",
+      "pullRequestId": "6070916538",
+      "pullRequestNodeId": "PR_kwDOVM7keM8AAAABLKI7cQ"
     },
     {
       "repository": "JamshidS/aiset",
@@ -2219,7 +2771,9 @@
       "description": "feat: add teammap run command",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1422845048",
+      "pullRequestId": "6071039082",
+      "pullRequestNodeId": "PR_kwDOVM7keM8AAAABLKPArQ"
     },
     {
       "repository": "JExcellence/JEHibernate",
@@ -2227,7 +2781,9 @@
       "description": "Add project style EditorConfig",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "912946097",
+      "pullRequestId": "6051529877",
+      "pullRequestNodeId": "PR_kwDONmpzsc8AAAABK6j6qw"
     },
     {
       "repository": "jzheaux/reader",
@@ -2235,7 +2791,9 @@
       "description": "Refresh open deck overview when slides or theme change",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1407797920",
+      "pullRequestId": "6141699654",
+      "pullRequestNodeId": "PR_kwDOU-lKoM8AAAABMCtmXg"
     },
     {
       "repository": "KHolodilin/spring-transactional-outbox-kafka",
@@ -2243,7 +2801,9 @@
       "description": "Fix VT observability and naming",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1295283438",
+      "pullRequestId": "6031734348",
+      "pullRequestNodeId": "PR_kwDOTTR07s8AAAABKqlHCw"
     },
     {
       "repository": "knnmelprop/YAADO",
@@ -2251,7 +2811,9 @@
       "description": "test(ackeret-polar): add hand-checked reference cases",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1295781557",
+      "pullRequestId": "6058932918",
+      "pullRequestNodeId": "PR_kwDOTTwOtc8AAAABLAf0SQ"
     },
     {
       "repository": "knnmelprop/YAADO",
@@ -2259,7 +2821,9 @@
       "description": "Fix/102 openvsp script builder tests",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1295781557",
+      "pullRequestId": "6142218773",
+      "pullRequestNodeId": "PR_kwDOTTwOtc8AAAABMDHOzg"
     },
     {
       "repository": "knnmelprop/YAADO",
@@ -2267,7 +2831,9 @@
       "description": "fix: [launch-angle-sweep] replace result dictionaries with typed cont…",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1295781557",
+      "pullRequestId": "6142268800",
+      "pullRequestNodeId": "PR_kwDOTTwOtc8AAAABMDJqdg"
     },
     {
       "repository": "komallsingh/api-contract-guardian",
@@ -2275,7 +2841,9 @@
       "description": "docs: add API troubleshooting guidance",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1357811649",
+      "pullRequestId": "6007644861",
+      "pullRequestNodeId": "PR_kwDOUO6Pwc8AAAABKX4K1Q"
     },
     {
       "repository": "komallsingh/api-contract-guardian",
@@ -2283,7 +2851,9 @@
       "description": "test: assert contracts for multiple router mounts",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1357811649",
+      "pullRequestId": "6010484227",
+      "pullRequestNodeId": "PR_kwDOUO6Pwc8AAAABKaGBaA"
     },
     {
       "repository": "komallsingh/api-contract-guardian",
@@ -2291,7 +2861,9 @@
       "description": "test: cover nested cross-file route discovery",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1357811649",
+      "pullRequestId": "6011587816",
+      "pullRequestNodeId": "PR_kwDOUO6Pwc8AAAABKa8XaA"
     },
     {
       "repository": "komallsingh/api-contract-guardian",
@@ -2299,7 +2871,9 @@
       "description": "CI: split lint, test, and build jobs",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1357811649",
+      "pullRequestId": "6136407982",
+      "pullRequestNodeId": "PR_kwDOUO6Pwc8AAAABL-mqeQ"
     },
     {
       "repository": "Krrishkumar125/create-bullmq-app",
@@ -2307,7 +2881,9 @@
       "description": "fix(redis): rate-limit connection error logs",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1428243442",
+      "pullRequestId": "5980598501",
+      "pullRequestNodeId": "PR_kwDOVSFD8s8AAAABKCSKAw"
     },
     {
       "repository": "Krrishkumar125/zod-india",
@@ -2315,7 +2891,9 @@
       "description": "feat: add Udyam registration validator",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1428229542",
+      "pullRequestId": "5980447004",
+      "pullRequestNodeId": "PR_kwDOVSENps8AAAABKCKbHQ"
     },
     {
       "repository": "Krrishkumar125/zod-india",
@@ -2323,7 +2901,9 @@
       "description": "feat: add CIN validator",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1428229542",
+      "pullRequestId": "6129351026",
+      "pullRequestNodeId": "PR_kwDOVSENps8AAAABL5GM0A"
     },
     {
       "repository": "laaielichter/Ai-edit-studio",
@@ -2331,7 +2911,9 @@
       "description": "feat: export timeline captions as SRT and VTT",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1417279929",
+      "pullRequestId": "6234558944",
+      "pullRequestNodeId": "PR_kwDOVHn5uc8AAAABNNGzdw"
     },
     {
       "repository": "laaielichter/Ai-edit-studio",
@@ -2339,7 +2921,9 @@
       "description": "docs: sync tool counts and version labels",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1417279929",
+      "pullRequestId": "6234695024",
+      "pullRequestNodeId": "PR_kwDOVHn5uc8AAAABNNNqJg"
     },
     {
       "repository": "laaielichter/Ai-edit-studio",
@@ -2347,7 +2931,9 @@
       "description": "docs: add troubleshooting guidance for common errors",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1417279929",
+      "pullRequestId": "6234916494",
+      "pullRequestNodeId": "PR_kwDOVHn5uc8AAAABNNY30Q"
     },
     {
       "repository": "laaielichter/Ai-edit-studio",
@@ -2355,7 +2941,9 @@
       "description": "docs: keep studio_edit operation guide in sync",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1417279929",
+      "pullRequestId": "6441545726",
+      "pullRequestNodeId": "PR_kwDOVHn5uc8AAAABPyO1yg"
     },
     {
       "repository": "laaielichter/Godotwright",
@@ -2363,7 +2951,9 @@
       "description": "feat(ci): emit GitHub workflow annotations",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1436804475",
+      "pullRequestId": "6211024172",
+      "pullRequestNodeId": "PR_kwDOVaPle88AAAABM6NCCg"
     },
     {
       "repository": "laaielichter/Godotwright",
@@ -2371,7 +2961,9 @@
       "description": "feat: add park bench recipe",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1436804475",
+      "pullRequestId": "6441551030",
+      "pullRequestNodeId": "PR_kwDOVaPle88AAAABPyPHZg"
     },
     {
       "repository": "lachydotmcg/capri-desktop",
@@ -2379,7 +2971,9 @@
       "description": "fix: fade mod status messages after a delay",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1431974875",
+      "pullRequestId": "6271737574",
+      "pullRequestNodeId": "PR_kwDOVVoz288AAAABNqhdNQ"
     },
     {
       "repository": "lachydotmcg/capri-desktop",
@@ -2387,7 +2981,9 @@
       "description": "Add a Minecraft starter skill",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1431974875",
+      "pullRequestId": "6406412964",
+      "pullRequestNodeId": "PR_kwDOVVoz288AAAABPWAkdg"
     },
     {
       "repository": "Larson-Logan/medal-sync",
@@ -2395,7 +2991,9 @@
       "description": "fix(cli): align help command categories",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1435333447",
+      "pullRequestId": "6126640524",
+      "pullRequestNodeId": "PR_kwDOVY1zR88AAAABL27WWQ"
     },
     {
       "repository": "LennardGeissler/blindbucket",
@@ -2403,7 +3001,9 @@
       "description": "feat(cli): add JSON output to keys list",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1365924106",
+      "pullRequestId": "5456481273",
+      "pullRequestNodeId": "PR_kwDOUWpZCs8AAAABDiaamA"
     },
     {
       "repository": "LennardGeissler/blindbucket",
@@ -2411,7 +3011,9 @@
       "description": "feat(cli): report Go build metadata in version output",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1365924106",
+      "pullRequestId": "5989184584",
+      "pullRequestNodeId": "PR_kwDOUWpZCs8AAAABKJFJeQ"
     },
     {
       "repository": "Lennonhaha/fibemate-react-native",
@@ -2419,7 +3021,9 @@
       "description": "Fix/67 jest no tests gate",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1359876495",
+      "pullRequestId": "5977914012",
+      "pullRequestNodeId": "PR_kwDOUQ4Rj88AAAABKAHgJw"
     },
     {
       "repository": "lingdojo/kana-dojo",
@@ -2427,7 +3031,9 @@
       "description": "content: add new japanese false friend #36",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "990586271",
+      "pullRequestId": "5356674438",
+      "pullRequestNodeId": "PR_kwDOOwsln88AAAABCTdXGg"
     },
     {
       "repository": "livesport/homer",
@@ -2435,7 +3041,9 @@
       "description": "test(console): cover download utilities (#51)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1426971520",
+      "pullRequestId": "6051577853",
+      "pullRequestNodeId": "PR_kwDOVQ3bgM8AAAABK6mU8Q"
     },
     {
       "repository": "Louayzouaoui1/claude-hud",
@@ -2443,7 +3051,9 @@
       "description": "test: cover token counting and cache pricing (#7)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1405853521",
+      "pullRequestId": "5829611317",
+      "pullRequestNodeId": "PR_kwDOU8ufUc8AAAABIKS1-g"
     },
     {
       "repository": "mahanmntz/pa-varaq",
@@ -2451,7 +3061,9 @@
       "description": "feat(api): redact personal data from logs",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421017560",
+      "pullRequestId": "6192900328",
+      "pullRequestNodeId": "PR_kwDOVLMB2M8AAAABMrmtrg"
     },
     {
       "repository": "mahanmntz/pa-varaq",
@@ -2459,7 +3071,9 @@
       "description": "test(shared): cover validator edge cases (#22)",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421017560",
+      "pullRequestId": "6384377878",
+      "pullRequestNodeId": "PR_kwDOVLMB2M8AAAABPEvNBw"
     },
     {
       "repository": "mahanmntz/pa-varaq",
@@ -2467,7 +3081,9 @@
       "description": "chore(infra): harden containers and add health checks (#17)",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421017560",
+      "pullRequestId": "6384466917",
+      "pullRequestNodeId": "PR_kwDOVLMB2M8AAAABPEzsBQ"
     },
     {
       "repository": "MAKHMUDuz/melyar",
@@ -2475,7 +3091,9 @@
       "description": "test(innertube): cover parser response fixtures",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427584182",
+      "pullRequestId": "6113672554",
+      "pullRequestNodeId": "PR_kwDOVRc0ts8AAAABLsg1Mw"
     },
     {
       "repository": "MAKHMUDuz/melyar",
@@ -2483,7 +3101,9 @@
       "description": "fix(core): discover yt-dlp across platforms",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427584182",
+      "pullRequestId": "6404287119",
+      "pullRequestNodeId": "PR_kwDOVRc0ts8AAAABPUX3MA"
     },
     {
       "repository": "MAKHMUDuz/melyar",
@@ -2491,7 +3111,9 @@
       "description": "perf(core): isolate CXX bridge compilation",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427584182",
+      "pullRequestId": "6404465156",
+      "pullRequestNodeId": "PR_kwDOVRc0ts8AAAABPUghJA"
     },
     {
       "repository": "malav2110/explain-diff-html",
@@ -2499,7 +3121,9 @@
       "description": "fix: name verification artifacts and omit attribution claims",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1367634272",
+      "pullRequestId": "5933493750",
+      "pullRequestNodeId": "PR_kwDOUYRxYM8AAAABJcrnvQ"
     },
     {
       "repository": "marstr/baronial",
@@ -2507,7 +3131,9 @@
       "description": "Check for Perl before building on Windows",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "163442668",
+      "pullRequestId": "6395917866",
+      "pullRequestNodeId": "PR_kwDOCb3v7M8AAAABPN4Ubw"
     },
     {
       "repository": "marstr/baronial",
@@ -2515,7 +3141,9 @@
       "description": "Handle diff against an empty repository",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "163442668",
+      "pullRequestId": "6395957150",
+      "pullRequestNodeId": "PR_kwDOCb3v7M8AAAABPN6PRQ"
     },
     {
       "repository": "McanKul/offpdf",
@@ -2523,7 +3151,9 @@
       "description": "Preserve Open With intake order with desktop regression coverage",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1276070953",
+      "pullRequestId": "5456508868",
+      "pullRequestNodeId": "PR_kwDOTA9MKc8AAAABDibycg"
     },
     {
       "repository": "McanKul/offpdf",
@@ -2531,7 +3161,9 @@
       "description": "feat(ocr): remember selected OCR languages",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1276070953",
+      "pullRequestId": "6025082558",
+      "pullRequestNodeId": "PR_kwDOTA9MKc8AAAABKlYHoQ"
     },
     {
       "repository": "MeshLive/meshlive-android",
@@ -2539,7 +3171,9 @@
       "description": "docs: clarify release verification and terms",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1412791111",
+      "pullRequestId": "5982129602",
+      "pullRequestNodeId": "PR_kwDOVDV7R88AAAABKDfEvA"
     },
     {
       "repository": "michaelegner/architecture-intelligence-platform",
@@ -2547,7 +3181,9 @@
       "description": "test: cover ClaimEffectSet.is_empty",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1348218705",
+      "pullRequestId": "5919779569",
+      "pullRequestNodeId": "PR_kwDOUFwvUc8AAAABJRsE2w"
     },
     {
       "repository": "michaelegner/architecture-intelligence-platform",
@@ -2555,7 +3191,9 @@
       "description": "test: cover utf8 helper encoding behavior",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1348218705",
+      "pullRequestId": "5919828562",
+      "pullRequestNodeId": "PR_kwDOUFwvUc8AAAABJRujWQ"
     },
     {
       "repository": "MilkteaTW1/piscout",
@@ -2563,7 +3201,9 @@
       "description": "i18n: add Hindi locale",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1417598285",
+      "pullRequestId": "5978037260",
+      "pullRequestNodeId": "PR_kwDOVH7VTc8AAAABKAN6Aw"
     },
     {
       "repository": "MilkteaTW1/piscout",
@@ -2571,7 +3211,9 @@
       "description": "Add Urdu locale (#11)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1417598285",
+      "pullRequestId": "5987783005",
+      "pullRequestNodeId": "PR_kwDOVH7VTc8AAAABKH9PLQ"
     },
     {
       "repository": "MilkteaTW1/piscout",
@@ -2579,7 +3221,9 @@
       "description": "Add Arabic locale (#11)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1417598285",
+      "pullRequestId": "5987791797",
+      "pullRequestNodeId": "PR_kwDOVH7VTc8AAAABKH9r7Q"
     },
     {
       "repository": "MilkteaTW1/piscout",
@@ -2587,7 +3231,9 @@
       "description": "Add Spanish locale",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1417598285",
+      "pullRequestId": "6022990793",
+      "pullRequestNodeId": "PR_kwDOVH7VTc8AAAABKjwcxg"
     },
     {
       "repository": "moizycodes/moizy-open-source-issues",
@@ -2595,7 +3241,9 @@
       "description": "feat: add debounceAsync utility",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1096683529",
+      "pullRequestId": "6284260076",
+      "pullRequestNodeId": "PR_kwDOQV4QCc8AAAABN0aeUw"
     },
     {
       "repository": "moizycodes/moizy-open-source-issues",
@@ -2603,7 +3251,9 @@
       "description": "feat: add date range validation utility",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1096683529",
+      "pullRequestId": "6284270758",
+      "pullRequestNodeId": "PR_kwDOQV4QCc8AAAABN0bBbQ"
     },
     {
       "repository": "moizycodes/moizy-open-source-issues",
@@ -2611,7 +3261,9 @@
       "description": "feat: add unsaved changes guard",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1096683529",
+      "pullRequestId": "6284355561",
+      "pullRequestNodeId": "PR_kwDOQV4QCc8AAAABN0fb6g"
     },
     {
       "repository": "moizycodes/moizy-open-source-issues",
@@ -2619,7 +3271,9 @@
       "description": "feat: add form submission state manager",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1096683529",
+      "pullRequestId": "6457744012",
+      "pullRequestNodeId": "PR_kwDOQV4QCc8AAAABP_X_xw"
     },
     {
       "repository": "Mr-Dark-debug/Moonfold",
@@ -2627,7 +3281,9 @@
       "description": "Map OpenCode usage-limit errors to handoff",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1420783593",
+      "pullRequestId": "5989399260",
+      "pullRequestNodeId": "PR_kwDOVK9v6c8AAAABKJQFYQ"
     },
     {
       "repository": "mrsarthi/Chorrent",
@@ -2635,7 +3291,9 @@
       "description": "feat: add shell completion generation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1360388555",
+      "pullRequestId": "6006054311",
+      "pullRequestNodeId": "PR_kwDOURXhy88AAAABKWnBRw"
     },
     {
       "repository": "mrsarthi/Chorrent",
@@ -2643,7 +3301,9 @@
       "description": "Add machine-readable JSON CLI output",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1360388555",
+      "pullRequestId": "6142428254",
+      "pullRequestNodeId": "PR_kwDOURXhy88AAAABMDRz2w"
     },
     {
       "repository": "Muvon/octoweb",
@@ -2651,7 +3311,9 @@
       "description": "Fix host:port address bar navigation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1182719745",
+      "pullRequestId": "5964627707",
+      "pullRequestNodeId": "PR_kwDORn7fAc8AAAABJ1gy2Q"
     },
     {
       "repository": "necoz-oss/is-kit",
@@ -2659,7 +3321,9 @@
       "description": "test: verify oneOf evaluation order and short-circuiting",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1067760372",
+      "pullRequestId": "6192416967",
+      "pullRequestNodeId": "PR_kwDOP6S69M8AAAABMrN4Uw"
     },
     {
       "repository": "netweir/netweir",
@@ -2667,7 +3331,9 @@
       "description": "fix(records): limit row selectors to read rows",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1411168015",
+      "pullRequestId": "6051851982",
+      "pullRequestNodeId": "PR_kwDOVBy3D88AAAABK60BSg"
     },
     {
       "repository": "ngpdf/ngpdf",
@@ -2675,7 +3341,9 @@
       "description": "feat(core): complete document metadata",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1430546916",
+      "pullRequestId": "6031376022",
+      "pullRequestNodeId": "PR_kwDOVURp5M8AAAABKqS9Tw"
     },
     {
       "repository": "nicanor-korir/kenya-regions",
@@ -2683,7 +3351,9 @@
       "description": "Add TypeScript checks for documentation examples",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1342121449",
+      "pullRequestId": "5893027656",
+      "pullRequestNodeId": "PR_kwDOT_8l6c8AAAABI8-dcw"
     },
     {
       "repository": "nikhilb2/simple-invoicing-free-gst-billing-software",
@@ -2691,7 +3361,9 @@
       "description": "fix(a11y): label company and marketplace fields",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": "1195552466"
+      "repositoryId": "1195552466",
+      "pullRequestId": "6127120124",
+      "pullRequestNodeId": "PR_kwDOR0Ku0s8AAAABL3UDuw"
     },
     {
       "repository": "nikhilb2/simple-invoicing-free-gst-billing-software",
@@ -2699,7 +3371,9 @@
       "description": "fix(backend): validate invoice item tax overrides",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": "1195552466"
+      "repositoryId": "1195552466",
+      "pullRequestId": "6127959968",
+      "pullRequestNodeId": "PR_kwDOR0Ku0s8AAAABL3_K5w"
     },
     {
       "repository": "nikhilb2/simple-invoicing-free-gst-billing-software",
@@ -2707,7 +3381,9 @@
       "description": "fix: exclude purchase invoices from GSTR-1 validation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": "1195552466"
+      "repositoryId": "1195552466",
+      "pullRequestId": "6145234702",
+      "pullRequestNodeId": "PR_kwDOR0Ku0s8AAAABMFdRXA"
     },
     {
       "repository": "nikhilb2/simple-invoicing-free-gst-billing-software",
@@ -2715,7 +3391,9 @@
       "description": "feat: add effective-dated TDS/TCS foundation",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": "1195552466"
+      "repositoryId": "1195552466",
+      "pullRequestId": "6254106898",
+      "pullRequestNodeId": "PR_kwDOR0Ku0s8AAAABNcwo1Q"
     },
     {
       "repository": "nitturkaryash/open-bpo",
@@ -2723,7 +3401,9 @@
       "description": "feat(console): show session elapsed duration",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1433116092",
+      "pullRequestId": "6051228595",
+      "pullRequestNodeId": "PR_kwDOVWudvM8AAAABK6U2Sg"
     },
     {
       "repository": "nitturkaryash/open-bpo",
@@ -2731,7 +3411,9 @@
       "description": "Validate recipe IDs in demo call requests",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1433116092",
+      "pullRequestId": "6148579758",
+      "pullRequestNodeId": "PR_kwDOVWudvM8AAAABMIDHlw"
     },
     {
       "repository": "nitturkaryash/open-bpo",
@@ -2739,7 +3421,9 @@
       "description": "Improve demo shutdown logging",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1433116092",
+      "pullRequestId": "6148665199",
+      "pullRequestNodeId": "PR_kwDOVWudvM8AAAABMIHWaA"
     },
     {
       "repository": "nooriegarg/ContribIQ",
@@ -2747,7 +3431,9 @@
       "description": "fix: Handle unavailable password reset requests correctly",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1428560481",
+      "pullRequestId": "6245988919",
+      "pullRequestNodeId": "PR_kwDOVSYaYc8AAAABNWMrjQ"
     },
     {
       "repository": "noruzzamans/gslider-blocks",
@@ -2755,7 +3441,9 @@
       "description": "fix(mcp): stop fabricating media attachment IDs",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "912611373",
+      "pullRequestId": "5979811210",
+      "pullRequestNodeId": "PR_kwDONmVYLc8AAAABKBpo6g"
     },
     {
       "repository": "nrzz/claude-cost-guard",
@@ -2763,7 +3451,9 @@
       "description": "feat: add budget check command",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1403615431",
+      "pullRequestId": "6483043117",
+      "pullRequestNodeId": "PR_kwDOU6l4x88AAAABQTsktQ"
     },
     {
       "repository": "oasamz09-ctrl/standup-digest",
@@ -2771,7 +3461,9 @@
       "description": "Add ready-made question templates",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427537950",
+      "pullRequestId": "5964760580",
+      "pullRequestNodeId": "PR_kwDOVRaAHs8AAAABJ1nsEw"
     },
     {
       "repository": "oasamz09-ctrl/standup-digest",
@@ -2779,7 +3471,9 @@
       "description": "docs: clarify Google Forms quick start",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427537950",
+      "pullRequestId": "6022423917",
+      "pullRequestNodeId": "PR_kwDOVRaAHs8AAAABKjULaw"
     },
     {
       "repository": "olo-labs/olo-toolgate",
@@ -2787,7 +3481,9 @@
       "description": "Docs/json validate examples",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1374866469",
+      "pullRequestId": "6022813176",
+      "pullRequestNodeId": "PR_kwDOUfLMJc8AAAABKjneFw"
     },
     {
       "repository": "olo-labs/olo-toolgate",
@@ -2795,7 +3491,9 @@
       "description": "docs: add automated Markdown link validation",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1374866469",
+      "pullRequestId": "6141481034",
+      "pullRequestNodeId": "PR_kwDOUfLMJc8AAAABMCie0A"
     },
     {
       "repository": "open-telemetry/opentelemetry-kotlin",
@@ -2803,7 +3501,9 @@
       "description": "fix(logging): isolate failures during log emission",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1130082780",
+      "pullRequestId": "6000171559",
+      "pullRequestNodeId": "PR_kwDOQ1ux3M8AAAABKR2apA"
     },
     {
       "repository": "openapi/contributors",
@@ -2811,7 +3511,9 @@
       "description": "docs: add Aaqibhafeez Khan to contributors",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1190434613",
+      "pullRequestId": "5871876268",
+      "pullRequestNodeId": "PR_kwDORvSXNc8AAAABIsI8oQ"
     },
     {
       "repository": "openapi/gknowledge",
@@ -2819,7 +3521,9 @@
       "description": "fix: support source re-ingestion and removal",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1292023799",
+      "pullRequestId": "5838653558",
+      "pullRequestNodeId": "PR_kwDOTQK3988AAAABIRkIZQ"
     },
     {
       "repository": "openapi/gknowledge",
@@ -2827,7 +3531,9 @@
       "description": "fix: verify Flatpak bundles during release",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1292023799",
+      "pullRequestId": "5838701713",
+      "pullRequestNodeId": "PR_kwDOTQK3988AAAABIRmkEg"
     },
     {
       "repository": "openapi/gknowledge",
@@ -2835,7 +3541,9 @@
       "description": "feat(ui): split review queue by item type",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1292023799",
+      "pullRequestId": "6129301455",
+      "pullRequestNodeId": "PR_kwDOTQK3988AAAABL5DrmQ"
     },
     {
       "repository": "Orbit-xyz/orbit-docs",
@@ -2843,7 +3551,9 @@
       "description": "docs: add TypeScript SDK contract examples",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1386471309",
+      "pullRequestId": "5830537301",
+      "pullRequestNodeId": "PR_kwDOUqPfjc8AAAABILCv3A"
     },
     {
       "repository": "oscarbol09/jvm-mcp",
@@ -2851,7 +3561,9 @@
       "description": "Fix/75 actuator default health",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1394052270",
+      "pullRequestId": "5916168931",
+      "pullRequestNodeId": "PR_kwDOUxeMrs8AAAABJO0RIw"
     },
     {
       "repository": "oscarbol09/jvm-mcp",
@@ -2859,7 +3571,9 @@
       "description": "feat(cli): add JSON output to list, memory, and threads",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1394052270",
+      "pullRequestId": "5988488046",
+      "pullRequestNodeId": "PR_kwDOUxeMrs8AAAABKIhfiA"
     },
     {
       "repository": "osrep/Runes2P.jl",
@@ -2867,7 +3581,9 @@
       "description": "docs: refer to the first radial face (#22)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1429850211",
+      "pullRequestId": "6038369956",
+      "pullRequestNodeId": "PR_kwDOVTnIY88AAAABKv7yWg"
     },
     {
       "repository": "pacocartones/free-llm-api-hub",
@@ -2875,7 +3591,9 @@
       "description": "data(vercel-ai-gateway): record prompt retention policy",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1297700154",
+      "pullRequestId": "5873691596",
+      "pullRequestNodeId": "PR_kwDOTVlVOs8AAAABItl5kw"
     },
     {
       "repository": "pacocartones/free-llm-api-hub",
@@ -2883,7 +3601,9 @@
       "description": "data(rev-ai): clarify free-credit commercial terms",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1297700154",
+      "pullRequestId": "5873893039",
+      "pullRequestNodeId": "PR_kwDOTVlVOs8AAAABItwSnQ"
     },
     {
       "repository": "pacocartones/free-llm-api-hub",
@@ -2891,7 +3611,9 @@
       "description": "docs: remove stale roadmap and backlog claims",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1297700154",
+      "pullRequestId": "6023479195",
+      "pullRequestNodeId": "PR_kwDOTVlVOs8AAAABKkI1Tw"
     },
     {
       "repository": "pacocartones/free-llm-api-hub",
@@ -2899,7 +3621,9 @@
       "description": "test: cover API key host pinning in validator",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1297700154",
+      "pullRequestId": "6395023090",
+      "pullRequestNodeId": "PR_kwDOTVlVOs8AAAABPNLmkg"
     },
     {
       "repository": "PatrickAttankurugu/AfricaPEP",
@@ -2907,7 +3631,9 @@
       "description": "test: cover Wikidata party affiliation extraction",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1174409971",
+      "pullRequestId": "5997095809",
+      "pullRequestNodeId": "PR_kwDORgAS888AAAABKPX4bA"
     },
     {
       "repository": "PatrickAttankurugu/AfricaPEP",
@@ -2915,7 +3641,9 @@
       "description": "Feat/arabic name transliteration",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1174409971",
+      "pullRequestId": "6023131455",
+      "pullRequestNodeId": "PR_kwDORgAS888AAAABKj3dwg"
     },
     {
       "repository": "perfectmodelslab/ComfyUI-PerfectLab",
@@ -2923,7 +3651,9 @@
       "description": "feat: add fashion decade wildcard pack",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1158599750",
+      "pullRequestId": "6018946936",
+      "pullRequestNodeId": "PR_kwDORQ7URs8AAAABKgm_Sg"
     },
     {
       "repository": "petertzy/deeplocal-chat-adapter",
@@ -2931,7 +3661,9 @@
       "description": "feat: discover project verification commands",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1352299402",
+      "pullRequestId": "6038104986",
+      "pullRequestNodeId": "PR_kwDOUJpzis8AAAABKvuAZw"
     },
     {
       "repository": "petertzy/markdown-reader",
@@ -2939,7 +3671,9 @@
       "description": "docs: refresh README and organize user documentation",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "995268458",
+      "pullRequestId": "6192501616",
+      "pullRequestNodeId": "PR_kwDOO1KXas8AAAABMrSObQ"
     },
     {
       "repository": "PocketLLM/pocketllm-lite",
@@ -2947,7 +3681,9 @@
       "description": "feat: localize skill details screen",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1112824378",
+      "pullRequestId": "6019240118",
+      "pullRequestNodeId": "PR_kwDOQlRaOs8AAAABKg1coQ"
     },
     {
       "repository": "Prabodh-dev/fairly",
@@ -2955,7 +3691,9 @@
       "description": "Add seeded hot-key benchmark distributions",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423554773",
+      "pullRequestId": "5982389296",
+      "pullRequestNodeId": "PR_kwDOVNm41c8AAAABKDr45g"
     },
     {
       "repository": "Pratyush-Panda-2006/CAREERFORGE",
@@ -2963,7 +3701,9 @@
       "description": "feat(ai-voice-studio): show active voice sample playback",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1334055180",
+      "pullRequestId": "6102218051",
+      "pullRequestNodeId": "PR_kwDOT4QRDM8AAAABLjU6fw"
     },
     {
       "repository": "Pratyush-Panda-2006/CAREERFORGE",
@@ -2971,7 +3711,9 @@
       "description": "feat(luxury-realms): add curated luxury amenity badges",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1334055180",
+      "pullRequestId": "6102368631",
+      "pullRequestNodeId": "PR_kwDOT4QRDM8AAAABLjczBQ"
     },
     {
       "repository": "Pratyush-Panda-2006/CAREERFORGE",
@@ -2979,7 +3721,9 @@
       "description": "feat(edtech-academy): add course duration and difficulty badges",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1334055180",
+      "pullRequestId": "6480116668",
+      "pullRequestNodeId": "PR_kwDOT4QRDM8AAAABQRYUHQ"
     },
     {
       "repository": "Pratyush-Panda-2006/CAREERFORGE",
@@ -2987,7 +3731,9 @@
       "description": "feat(cybersecurity-sentinel): add copy-to-clipboard feedback",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1334055180",
+      "pullRequestId": "6480122230",
+      "pullRequestNodeId": "PR_kwDOT4QRDM8AAAABQRYl1Q"
     },
     {
       "repository": "pug-sh/pug",
@@ -2995,7 +3741,9 @@
       "description": "Fix/190 expired token cleanup",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1259390066",
+      "pullRequestId": "6115125121",
+      "pullRequestNodeId": "PR_kwDOSxDEcs8AAAABLtp5lg"
     },
     {
       "repository": "purahan/ros2_lingua",
@@ -3003,7 +3751,9 @@
       "description": "fix(packaging): declare maintainers and runtime/build dependencies",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1227271939",
+      "pullRequestId": "6259185804",
+      "pullRequestNodeId": "PR_kwDOSSavA88AAAABNgwBNA"
     },
     {
       "repository": "purahan/ros2_lingua",
@@ -3011,7 +3761,9 @@
       "description": "fix: CI/CD improvements—expand linting, fix badge, add backend tests,…",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1227271939",
+      "pullRequestId": "6366518474",
+      "pullRequestNodeId": "PR_kwDOSSavA88AAAABO2XS6g"
     },
     {
       "repository": "rafaelsilvabr/pdfHandler",
@@ -3019,7 +3771,9 @@
       "description": "Allow reordering images before creating a PDF",
       "firstRecordedIn": "GitHub Search API snapshot 2026-11-04",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1322408191",
+      "pullRequestId": "5981733815",
+      "pullRequestNodeId": "PR_kwDOTtJY_88AAAABKDL2ng"
     },
     {
       "repository": "rakeshnitb23/toolism",
@@ -3027,7 +3781,9 @@
       "description": "Feat/action mcp timeout",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421903125",
+      "pullRequestId": "6136649835",
+      "pullRequestNodeId": "PR_kwDOVMCFFc8AAAABL-ykyw"
     },
     {
       "repository": "rakeshnitb23/toolism",
@@ -3035,7 +3791,9 @@
       "description": "docs: add feature request issue form",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1421903125",
+      "pullRequestId": "6141877126",
+      "pullRequestNodeId": "PR_kwDOVMCFFc8AAAABMC2Wyw"
     },
     {
       "repository": "recodehive/Opensource-practice",
@@ -3043,7 +3801,9 @@
       "description": "Add aaqibhafeez khan",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "798294952",
+      "pullRequestId": "6346074219",
+      "pullRequestNodeId": "PR_kwDOL5UDqM8AAAABOl6J-g"
     },
     {
       "repository": "RhinoLink-Tech/data-fabric",
@@ -3051,7 +3811,9 @@
       "description": "fix(hudi): validate latest incremental commit count",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1121540519",
+      "pullRequestId": "6485691065",
+      "pullRequestNodeId": "PR_kwDOQtlZp88AAAABQV0pyg"
     },
     {
       "repository": "RhinoLink-Tech/data-fabric",
@@ -3059,7 +3821,9 @@
       "description": "fix(delta): report vacuum as unsupported",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1121540519",
+      "pullRequestId": "6485707175",
+      "pullRequestNodeId": "PR_kwDOQtlZp88AAAABQV1fHQ"
     },
     {
       "repository": "RizgarOzan/tmp-glyph-audit",
@@ -3067,7 +3831,9 @@
       "description": "Add JSON audit reports for CI (#4)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1368940738",
+      "pullRequestId": "5867157568",
+      "pullRequestNodeId": "PR_kwDOUZhgws8AAAABIoVYCg"
     },
     {
       "repository": "RizgarOzan/tmp-glyph-audit",
@@ -3075,7 +3841,9 @@
       "description": "Add GitHub Actions glyph annotations (#5)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1368940738",
+      "pullRequestId": "5867287858",
+      "pullRequestNodeId": "PR_kwDOUZhgws8AAAABIocGiQ"
     },
     {
       "repository": "RizgarOzan/tmp-glyph-audit",
@@ -3083,7 +3851,9 @@
       "description": "feat: scan Unity Localization string tables",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1368940738",
+      "pullRequestId": "5904347047",
+      "pullRequestNodeId": "PR_kwDOUZhgws8AAAABJFtxBw"
     },
     {
       "repository": "RizgarOzan/tmp-glyph-audit",
@@ -3091,7 +3861,9 @@
       "description": "test: cover AuditReport behavior",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1368940738",
+      "pullRequestId": "5995260559",
+      "pullRequestNodeId": "PR_kwDOUZhgws8AAAABKN5gFw"
     },
     {
       "repository": "RizgarOzan/tmp-glyph-audit",
@@ -3099,7 +3871,9 @@
       "description": "feat: allow custom CLI settings file",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1368940738",
+      "pullRequestId": "5996959498",
+      "pullRequestNodeId": "PR_kwDOUZhgws8AAAABKPQ0ow"
     },
     {
       "repository": "Robert-GeorgeDev/ValidRO",
@@ -3107,7 +3881,9 @@
       "description": "feat: add Romanian licence plate validation",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1435452047",
+      "pullRequestId": "6070536141",
+      "pullRequestNodeId": "PR_kwDOVY9Cj88AAAABLJ15lw"
     },
     {
       "repository": "Robert-GeorgeDev/ValidRO",
@@ -3115,7 +3891,9 @@
       "description": "feat: add Romanian phone number validation",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1435452047",
+      "pullRequestId": "6070576670",
+      "pullRequestNodeId": "PR_kwDOVY9Cj88AAAABLJ36hA"
     },
     {
       "repository": "rohit746/pdf-view.nvim",
@@ -3123,7 +3901,9 @@
       "description": "fix: clamp restored viewer positions",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1412348729",
+      "pullRequestId": "6245258566",
+      "pullRequestNodeId": "PR_kwDOVC67Oc8AAAABNVmbCQ"
     },
     {
       "repository": "rotorflight/rotorflight-lua-ethos-suite",
@@ -3131,7 +3911,9 @@
       "description": "fix(tune-advisor): bound failed history save retries",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "876239251",
+      "pullRequestId": "6485468825",
+      "pullRequestNodeId": "PR_kwDONDpZk88AAAABQVpPug"
     },
     {
       "repository": "rp2839/visio-mcp",
@@ -3139,7 +3921,9 @@
       "description": "docs: [A01] Document second-user named-pipe isolation acceptance procedure",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1402168110",
+      "pullRequestId": "6253637272",
+      "pullRequestNodeId": "PR_kwDOU5NjLs8AAAABNcY80A"
     },
     {
       "repository": "scs0209/claude-locator",
@@ -3147,7 +3931,9 @@
       "description": "Feat/issue 2 svelte 4 example",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1439028203",
+      "pullRequestId": "6114149587",
+      "pullRequestNodeId": "PR_kwDOVcXT688AAAABLs4-zg"
     },
     {
       "repository": "sdageltc/agent-durability-bench",
@@ -3155,7 +3941,9 @@
       "description": "feat: add AutoGen AgentChat v0.4 adapter (#4)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1345013671",
+      "pullRequestId": "5861340190",
+      "pullRequestNodeId": "PR_kwDOUCtHp88AAAABIjqYfg"
     },
     {
       "repository": "sdageltc/letitloop",
@@ -3163,7 +3951,9 @@
       "description": "feat: add interactive WAL crash recovery visualizer (#90)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1337488896",
+      "pullRequestId": "5862468212",
+      "pullRequestNodeId": "PR_kwDOT7h2AM8AAAABIkjjCA"
     },
     {
       "repository": "sdlc-pro/spring-lens",
@@ -3171,7 +3961,9 @@
       "description": "Add transaction propagation behavior enum",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1194262771",
+      "pullRequestId": "5999210959",
+      "pullRequestNodeId": "PR_kwDORy8A888AAAABKREddQ"
     },
     {
       "repository": "seep-labs/cablegram-server",
@@ -3179,7 +3971,9 @@
       "description": "test: cover profile PIN and lock switch routes",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1429922800",
+      "pullRequestId": "6005919320",
+      "pullRequestNodeId": "PR_kwDOVTrj8M8AAAABKWgG-A"
     },
     {
       "repository": "seep-labs/cablegram-server",
@@ -3187,7 +3981,9 @@
       "description": "test: cover TV pairing PIN flows",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1429922800",
+      "pullRequestId": "6007515611",
+      "pullRequestNodeId": "PR_kwDOVTrj8M8AAAABKXxtFA"
     },
     {
       "repository": "Sekelenao/Flinkboot",
@@ -3195,7 +3991,9 @@
       "description": "Enforce the non-null `StartupEnvironment.get(String)` contract with regression coverage",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1290202230",
+      "pullRequestId": "5433661723",
+      "pullRequestNodeId": "PR_kwDOTObsds8AAAABDQby6A"
     },
     {
       "repository": "Sekelenao/Flinkboot",
@@ -3203,7 +4001,9 @@
       "description": "Enforce execution parallelism versus max-parallelism validation with regression tests",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1290202230",
+      "pullRequestId": "5433792162",
+      "pullRequestNodeId": "PR_kwDOTObsds8AAAABDQiKgQ"
     },
     {
       "repository": "Sekelenao/Flinkboot",
@@ -3211,7 +4011,9 @@
       "description": "refactor(kafka): remove dead JUnit opens directive",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1290202230",
+      "pullRequestId": "5904530557",
+      "pullRequestNodeId": "PR_kwDOTObsds8AAAABJF2rjA"
     },
     {
       "repository": "Sekelenao/Flinkboot",
@@ -3219,7 +4021,9 @@
       "description": "refactor(kafka): store delivery guarantees in enum field",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1290202230",
+      "pullRequestId": "5904637440",
+      "pullRequestNodeId": "PR_kwDOTObsds8AAAABJF7z-Q"
     },
     {
       "repository": "Sekelenao/Flinkboot",
@@ -3227,7 +4031,9 @@
       "description": "refactor(savepoint): remove legacy restore mode",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1290202230",
+      "pullRequestId": "5904686430",
+      "pullRequestNodeId": "PR_kwDOTObsds8AAAABJF-NvQ"
     },
     {
       "repository": "Sekelenao/Flinkboot",
@@ -3235,7 +4041,9 @@
       "description": "feat(savepoint): configure default savepoints directory",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1290202230",
+      "pullRequestId": "6053778454",
+      "pullRequestNodeId": "PR_kwDOTObsds8AAAABK8WGOQ"
     },
     {
       "repository": "Sekelenao/Flinkboot",
@@ -3243,7 +4051,9 @@
       "description": "feat(fluss): add sink builder customizer overload",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1290202230",
+      "pullRequestId": "6053899974",
+      "pullRequestNodeId": "PR_kwDOTObsds8AAAABK8cYVg"
     },
     {
       "repository": "Sekelenao/Flinkboot",
@@ -3251,7 +4061,9 @@
       "description": "feat(fluss): add source builder customizer overload",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1290202230",
+      "pullRequestId": "6053971601",
+      "pullRequestNodeId": "PR_kwDOTObsds8AAAABK8gDJg"
     },
     {
       "repository": "Sekelenao/Flinkboot",
@@ -3259,7 +4071,9 @@
       "description": "feat(kafka): add source client ID prefix",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1290202230",
+      "pullRequestId": "6053984100",
+      "pullRequestNodeId": "PR_kwDOTObsds8AAAABK8gsrQ"
     },
     {
       "repository": "shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices",
@@ -3267,7 +4081,9 @@
       "description": "ci: lint and typecheck frontend in PR validation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1147932416",
+      "pullRequestId": "6078482152",
+      "pullRequestNodeId": "PR_kwDORGwPAM8AAAABLQJmQQ"
     },
     {
       "repository": "shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices",
@@ -3275,7 +4091,9 @@
       "description": "fix: parse structured Ollama anomaly scores",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1147932416",
+      "pullRequestId": "6086697481",
+      "pullRequestNodeId": "PR_kwDORGwPAM8AAAABLWw2aA"
     },
     {
       "repository": "shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices",
@@ -3283,7 +4101,9 @@
       "description": "docs: add community issue and pull request templates",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1147932416",
+      "pullRequestId": "6086794504",
+      "pullRequestNodeId": "PR_kwDORGwPAM8AAAABLW1ugg"
     },
     {
       "repository": "sid-lakhani/erml",
@@ -3291,7 +4111,9 @@
       "description": "docs: document edge cases and CPU inference benchmarks",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1205684686",
+      "pullRequestId": "6040468286",
+      "pullRequestNodeId": "PR_kwDOR91Jzs8AAAABKxovyA"
     },
     {
       "repository": "skdas20/SkeoTrace",
@@ -3299,7 +4121,9 @@
       "description": "test: cover ledger hash chain and Merkle integrity",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1038911474",
+      "pullRequestId": "6031672752",
+      "pullRequestNodeId": "PR_kwDOPeyH8s8AAAABKqh9Mw"
     },
     {
       "repository": "skdas20/SkeoTrace",
@@ -3307,7 +4131,9 @@
       "description": "Add Hindi translations to public trace page",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1038911474",
+      "pullRequestId": "6032007267",
+      "pullRequestNodeId": "PR_kwDOPeyH8s8AAAABKqy-PQ"
     },
     {
       "repository": "SpiliosDimakopoulos/fintwin",
@@ -3315,7 +4141,9 @@
       "description": "Document public export and universe functions",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1422096578",
+      "pullRequestId": "6024868987",
+      "pullRequestNodeId": "PR_kwDOVMN4ws8AAAABKlNi8w"
     },
     {
       "repository": "SpiliosDimakopoulos/fintwin",
@@ -3323,7 +4151,9 @@
       "description": "Fix accessible names for scenario and forecast charts",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1422096578",
+      "pullRequestId": "6024903694",
+      "pullRequestNodeId": "PR_kwDOVMN4ws8AAAABKlPO7w"
     },
     {
       "repository": "stlynnxx/PartsandStock",
@@ -3331,7 +4161,9 @@
       "description": "Improve JSON file formatting with trailing newline",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1166400274",
+      "pullRequestId": "6087185426",
+      "pullRequestNodeId": "PR_kwDORYXbEs8AAAABLXJ_dA"
     },
     {
       "repository": "stlynnxx/PartsandStock",
@@ -3339,7 +4171,9 @@
       "description": "Add tested inventory operations and persistence safeguards",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1166400274",
+      "pullRequestId": "6419924085",
+      "pullRequestNodeId": "PR_kwDORYXbEs8AAAABPgtOMg"
     },
     {
       "repository": "stlynnxx/PartsandStock",
@@ -3347,7 +4181,9 @@
       "description": "Clean up CLI routing and unused imports",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1166400274",
+      "pullRequestId": "6419924523",
+      "pullRequestNodeId": "PR_kwDORYXbEs8AAAABPgtPtQ"
     },
     {
       "repository": "stlynnxx/Slippery-Penguin",
@@ -3355,7 +4191,9 @@
       "description": "feat: allow bypassing startup update check",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1194847351",
+      "pullRequestId": "5971584726",
+      "pullRequestNodeId": "PR_kwDORzfsd88AAAABJ7EuOg"
     },
     {
       "repository": "stlynnxx/Slippery-Penguin",
@@ -3363,7 +4201,9 @@
       "description": "fix: clarify empty GTFOBins PDF results",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1194847351",
+      "pullRequestId": "6088269737",
+      "pullRequestNodeId": "PR_kwDORzfsd88AAAABLYCVuQ"
     },
     {
       "repository": "stlynnxx/Slippery-Penguin",
@@ -3371,7 +4211,9 @@
       "description": "feat: add CSV report generation",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1194847351",
+      "pullRequestId": "6088363991",
+      "pullRequestNodeId": "PR_kwDORzfsd88AAAABLYHCkA"
     },
     {
       "repository": "stlynnxx/Slippery-Penguin",
@@ -3379,7 +4221,9 @@
       "description": "docs: add wiki installation guide for issue #10",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1194847351",
+      "pullRequestId": "6088500882",
+      "pullRequestNodeId": "PR_kwDORzfsd88AAAABLYN-Hg"
     },
     {
       "repository": "stlynnxx/Slippery-Penguin",
@@ -3387,7 +4231,9 @@
       "description": "test: add core scanner regression coverage",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1194847351",
+      "pullRequestId": "6253887994",
+      "pullRequestNodeId": "PR_kwDORzfsd88AAAABNcljQQ"
     },
     {
       "repository": "StudentSuite/awesome-study-resources",
@@ -3395,7 +4241,9 @@
       "description": "fix: require HTTPS for study resources (#467)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1308947102",
+      "pullRequestId": "6007161436",
+      "pullRequestNodeId": "PR_kwDOTgTyns8AAAABKXfwUw"
     },
     {
       "repository": "StudentSuite/awesome-study-resources",
@@ -3403,7 +4251,9 @@
       "description": "docs: align PR guidance with contribution workflow (#470)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1308947102",
+      "pullRequestId": "6007211874",
+      "pullRequestNodeId": "PR_kwDOTgTyns8AAAABKXiVPg"
     },
     {
       "repository": "TanbirRamim/open-source-radar",
@@ -3411,7 +4261,9 @@
       "description": "feat(i18n): add German website locale",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1367868049",
+      "pullRequestId": "6010428012",
+      "pullRequestNodeId": "PR_kwDOUYgCkc8AAAABKaDQBw"
     },
     {
       "repository": "TanbirRamim/open-source-radar",
@@ -3419,7 +4271,9 @@
       "description": "feat(languages): add PowerShell quickstart",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1367868049",
+      "pullRequestId": "6173255574",
+      "pullRequestNodeId": "PR_kwDOUYgCkc8AAAABMbuICQ"
     },
     {
       "repository": "Tektrix/pinfold",
@@ -3427,7 +4281,9 @@
       "description": "Fix tab count for group-name searches",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1434338030",
+      "pullRequestId": "6112236793",
+      "pullRequestNodeId": "PR_kwDOVX5C7s8AAAABLrYbDQ"
     },
     {
       "repository": "Tektrix/pinfold",
@@ -3435,7 +4291,9 @@
       "description": "Add tests for format helpers",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1434338030",
+      "pullRequestId": "6112282872",
+      "pullRequestNodeId": "PR_kwDOVX5C7s8AAAABLraugA"
     },
     {
       "repository": "Tektrix/pinfold",
@@ -3443,7 +4301,9 @@
       "description": "test: add coverage for icon utility helpers",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1434338030",
+      "pullRequestId": "6214312740",
+      "pullRequestNodeId": "PR_kwDOVX5C7s8AAAABM82cdQ"
     },
     {
       "repository": "terraplane-org/terraplane",
@@ -3451,7 +4311,9 @@
       "description": "feat: Provide feedback for invalid Terraplane commands",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1267303164",
+      "pullRequestId": "6253698653",
+      "pullRequestNodeId": "PR_kwDOS4mC_M8AAAABNccAhg"
     },
     {
       "repository": "TheVicky1/Pact_OS",
@@ -3459,7 +4321,9 @@
       "description": "a11y(projects): announce accent swatch names and selection",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1358992893",
+      "pullRequestId": "5879810382",
+      "pullRequestNodeId": "PR_kwDOUQCV_c8AAAABIya0Ig"
     },
     {
       "repository": "thiagomvas/haven",
@@ -3467,7 +4331,9 @@
       "description": "feat(dashboard): refine service attention criteria (#152)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1218193365",
+      "pullRequestId": "6087627755",
+      "pullRequestNodeId": "PR_kwDOSJwn1c8AAAABLXg_Tg"
     },
     {
       "repository": "timihack/authwarden",
@@ -3475,7 +4341,9 @@
       "description": "Fix/sqlmodel user store example",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1262619666",
+      "pullRequestId": "6023252562",
+      "pullRequestNodeId": "PR_kwDOS0IMEs8AAAABKj9mAw"
     },
     {
       "repository": "tonianev/eonmark",
@@ -3483,7 +4351,9 @@
       "description": "fix(rules): reject zero rules version and arms cap",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1406526759",
+      "pullRequestId": "5721597138",
+      "pullRequestNodeId": "PR_kwDOU9XlJ88AAAABG019Rw"
     },
     {
       "repository": "tranquilo-art/tranquilo-app",
@@ -3491,7 +4361,9 @@
       "description": "docs: audit user-facing UI strings for #33",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1366763906",
+      "pullRequestId": "6088148864",
+      "pullRequestNodeId": "PR_kwDOUXcpgs8AAAABLX8EKQ"
     },
     {
       "repository": "tranquilo-art/tranquilo-app",
@@ -3499,7 +4371,9 @@
       "description": "test: make shelf share tests independent of build output",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1366763906",
+      "pullRequestId": "6214601757",
+      "pullRequestNodeId": "PR_kwDOUXcpgs8AAAABM9FK-A"
     },
     {
       "repository": "tranquilo-art/tranquilo-app",
@@ -3507,7 +4381,9 @@
       "description": "test: tighten image proxy origin handler tests",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1366763906",
+      "pullRequestId": "6214609420",
+      "pullRequestNodeId": "PR_kwDOUXcpgs8AAAABM9FjvQ"
     },
     {
       "repository": "tranquilo-art/tranquilo-app",
@@ -3515,7 +4391,9 @@
       "description": "fix(sitemap): add reciprocal hreflang entries",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1366763906",
+      "pullRequestId": "6412321000",
+      "pullRequestNodeId": "PR_kwDOUXcpgs8AAAABPanSxQ"
     },
     {
       "repository": "tranquilo-art/tranquilo-app",
@@ -3523,7 +4401,9 @@
       "description": "fix(detail): open lightbox from artwork and expand intro cards",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1366763906",
+      "pullRequestId": "6412324921",
+      "pullRequestNodeId": "PR_kwDOUXcpgs8AAAABPanfmA"
     },
     {
       "repository": "TSKVenkat/osprey",
@@ -3531,7 +4411,9 @@
       "description": "Add viewer role with route-level authorization",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1350793315",
+      "pullRequestId": "5374628498",
+      "pullRequestNodeId": "PR_kwDOUIN4Y88AAAABChTNbg"
     },
     {
       "repository": "tuff-app/TUFF",
@@ -3539,7 +4421,9 @@
       "description": "test: cover comma-containing issue area choices",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1335697199",
+      "pullRequestId": "5829025900",
+      "pullRequestNodeId": "PR_kwDOT50fL88AAAABIJ0cgQ"
     },
     {
       "repository": "ujjwalv01/releaseproof",
@@ -3547,7 +4431,9 @@
       "description": "test: rebuild latest published releaseproof release",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423383295",
+      "pullRequestId": "6235087232",
+      "pullRequestNodeId": "PR_kwDOVNca_88AAAABNNhZgA"
     },
     {
       "repository": "ujjwalv01/releaseproof",
@@ -3555,7 +4441,9 @@
       "description": "ci: retain staged release verification report",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423383295",
+      "pullRequestId": "6235153290",
+      "pullRequestNodeId": "PR_kwDOVNca_88AAAABNNkrmw"
     },
     {
       "repository": "ujjwalv01/releaseproof",
@@ -3563,7 +4451,9 @@
       "description": "ci: report scheduled live test failures",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423383295",
+      "pullRequestId": "6235191889",
+      "pullRequestNodeId": "PR_kwDOVNca_88AAAABNNmmgA"
     },
     {
       "repository": "ujjwalv01/releaseproof",
@@ -3571,7 +4461,9 @@
       "description": "test(ci): smoke test packed CLI tarball",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423383295",
+      "pullRequestId": "6412524457",
+      "pullRequestNodeId": "PR_kwDOVNca_88AAAABPaxkrQ"
     },
     {
       "repository": "ujjwalv01/releaseproof",
@@ -3579,7 +4471,9 @@
       "description": "test(core): cover native code detection branches",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1423383295",
+      "pullRequestId": "6412528604",
+      "pullRequestNodeId": "PR_kwDOVNca_88AAAABPaxx5Q"
     },
     {
       "repository": "uttrflow/uttrflow-swift",
@@ -3587,7 +4481,9 @@
       "description": "Fix picture existence checks without reading image data",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1350661189",
+      "pullRequestId": "5606236438",
+      "pullRequestNodeId": "PR_kwDOUIF0Rc8AAAABFZAWzw"
     },
     {
       "repository": "Valks-Terraria-Mods/PlatformHelper",
@@ -3595,7 +4491,9 @@
       "description": "Prevent extra placement of non-placeable and multi-tile items",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "157143941",
+      "pullRequestId": "5989310063",
+      "pullRequestNodeId": "PR_kwDOCV3Thc8AAAABKJLkAQ"
     },
     {
       "repository": "VarshithReddy2006/DevTrack",
@@ -3603,7 +4501,9 @@
       "description": "feat(projects): add project task deletion API",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1289617269",
+      "pullRequestId": "6259957263",
+      "pullRequestNodeId": "PR_kwDOTN3_dc8AAAABNhW9Hg"
     },
     {
       "repository": "VarshithReddy2006/DevTrack",
@@ -3611,7 +4511,9 @@
       "description": "feat(contests): add contest calendar hub and countdown tools",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1289617269",
+      "pullRequestId": "6404828189",
+      "pullRequestNodeId": "PR_kwDOTN3_dc8AAAABPUyYRQ"
     },
     {
       "repository": "Veinar/draincheck",
@@ -3619,7 +4521,9 @@
       "description": "docs: json report jq recipes",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1413595102",
+      "pullRequestId": "5987520148",
+      "pullRequestNodeId": "PR_kwDOVEG_3s8AAAABKHvpcg"
     },
     {
       "repository": "vimeo/psalm",
@@ -3627,7 +4531,9 @@
       "description": "Fix memory-limit option in psalm-refactor",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "74386167",
+      "pullRequestId": "6444891472",
+      "pullRequestNodeId": "PR_kwDOBG8K988AAAABP08sbQ"
     },
     {
       "repository": "visualfusion/feedkeeper",
@@ -3635,7 +4541,9 @@
       "description": "docs(deployment): cover Caddy, nginx and Traefik proxies",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1374291942",
+      "pullRequestId": "5831990738",
+      "pullRequestNodeId": "PR_kwDOUeoH5s8AAAABIMNXaw"
     },
     {
       "repository": "vivekchand/clawmetry",
@@ -3643,7 +4551,9 @@
       "description": "fix: surface OpenClaw session share state",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1156882085",
+      "pullRequestId": "5397414337",
+      "pullRequestNodeId": "PR_kwDORPSepc8AAAABCzfjxg"
     },
     {
       "repository": "VladPetrariu/Qullamaggie-breakout-scanner",
@@ -3651,7 +4561,9 @@
       "description": "Issue 10 expectancy confidence gate",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1207294994",
+      "pullRequestId": "6103047868",
+      "pullRequestNodeId": "PR_kwDOR_XcEs8AAAABLkAFrA"
     },
     {
       "repository": "VladPetrariu/Qullamaggie-breakout-scanner",
@@ -3659,7 +4571,9 @@
       "description": "fix: skip signals with ATR-floored stops",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1207294994",
+      "pullRequestId": "6234923028",
+      "pullRequestNodeId": "PR_kwDOR_XcEs8AAAABNNZNMw"
     },
     {
       "repository": "VOLPAROSSA/volparossa-code",
@@ -3667,7 +4581,9 @@
       "description": "test: cover fragmented SSE framing and invalid UTF-8",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1393724228",
+      "pullRequestId": "6018847000",
+      "pullRequestNodeId": "PR_kwDOUxKLRM8AAAABKgiFYw"
     },
     {
       "repository": "vr-patel/editmypdf",
@@ -3675,7 +4591,9 @@
       "description": "fix: Improve emoji search with keywords and group names",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427870233",
+      "pullRequestId": "6245946712",
+      "pullRequestNodeId": "PR_kwDOVRuSGc8AAAABNWKdFg"
     },
     {
       "repository": "Webghost01-NG/stellar-event-sync",
@@ -3683,7 +4601,9 @@
       "description": "fix: centralize diagnostic secret redaction",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427606624",
+      "pullRequestId": "5978340295",
+      "pullRequestNodeId": "PR_kwDOVReMYM8AAAABKAdi-w"
     },
     {
       "repository": "Webghost01-NG/stellar-event-sync",
@@ -3691,7 +4611,9 @@
       "description": "Issue 46 rpc fixture builders",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1427606624",
+      "pullRequestId": "6024720509",
+      "pullRequestNodeId": "PR_kwDOVReMYM8AAAABKlGX5g"
     },
     {
       "repository": "Xdabier/themerchantengine",
@@ -3699,7 +4621,9 @@
       "description": "fix(admin-services): return geo validation errors as observables",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1431578391",
+      "pullRequestId": "6114057321",
+      "pullRequestNodeId": "PR_kwDOVVQnF88AAAABLs0Z3w"
     },
     {
       "repository": "Xdabier/themerchantengine",
@@ -3707,7 +4631,9 @@
       "description": "fix(admin-services): return category validation errors as observables",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1431578391",
+      "pullRequestId": "6161515313",
+      "pullRequestNodeId": "PR_kwDOVVQnF88AAAABMSRlQg"
     },
     {
       "repository": "xlebore3o4ka/llvnim23",
@@ -3715,7 +4641,9 @@
       "description": "Fix/issue 1 static linking",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1432043550",
+      "pullRequestId": "6035175040",
+      "pullRequestNodeId": "PR_kwDOVVtAHs8AAAABKtVg3g"
     },
     {
       "repository": "xlebore3o4ka/llvnim23",
@@ -3723,7 +4651,9 @@
       "description": "Add missing LLVM target data bindings",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1432043550",
+      "pullRequestId": "6154695818",
+      "pullRequestNodeId": "PR_kwDOVVtAHs8AAAABMM0kXw"
     },
     {
       "repository": "yakew7/DesignHub",
@@ -3731,7 +4661,9 @@
       "description": "Add palette import from Coolors URLs and hex codes",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1382677065",
+      "pullRequestId": "5606337255",
+      "pullRequestNodeId": "PR_kwDOUmn6Sc8AAAABFZFUeA"
     },
     {
       "repository": "yakew7/DesignHub",
@@ -3739,7 +4671,9 @@
       "description": "perf(typography): virtualize font browser",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1382677065",
+      "pullRequestId": "5606367082",
+      "pullRequestNodeId": "PR_kwDOUmn6Sc8AAAABFZGwtA"
     },
     {
       "repository": "yakew7/DesignHub",
@@ -3747,7 +4681,9 @@
       "description": "feat(pwa): add offline app shell",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1382677065",
+      "pullRequestId": "5606445228",
+      "pullRequestNodeId": "PR_kwDOUmn6Sc8AAAABFZKjNQ"
     },
     {
       "repository": "yakew7/DesignHub",
@@ -3755,7 +4691,9 @@
       "description": "feat(effects): add highlighter text effect",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1382677065",
+      "pullRequestId": "5910001943",
+      "pullRequestNodeId": "PR_kwDOUmn6Sc8AAAABJKB-MQ"
     },
     {
       "repository": "yakew7/DesignHub",
@@ -3763,7 +4701,9 @@
       "description": "feat(export): add Nuxt UI v3 token format",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1382677065",
+      "pullRequestId": "5910228832",
+      "pullRequestNodeId": "PR_kwDOUmn6Sc8AAAABJKM__g"
     },
     {
       "repository": "yakew7/DesignHub",
@@ -3771,7 +4711,9 @@
       "description": "feat(background): add Memphis pattern generator",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1382677065",
+      "pullRequestId": "5910390052",
+      "pullRequestNodeId": "PR_kwDOUmn6Sc8AAAABJKU2_w"
     },
     {
       "repository": "yakew7/DesignHub",
@@ -3779,7 +4721,9 @@
       "description": "feat(social): add Etsy shop banner template",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1382677065",
+      "pullRequestId": "5919949241",
+      "pullRequestNodeId": "PR_kwDOUmn6Sc8AAAABJR0png"
     },
     {
       "repository": "yakew7/DesignHub",
@@ -3787,7 +4731,9 @@
       "description": "feat(colors): add EyeDropper support (#332)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1382677065",
+      "pullRequestId": "5959340980",
+      "pullRequestNodeId": "PR_kwDOUmn6Sc8AAAABJxPwVg"
     },
     {
       "repository": "yakew7/DesignHub",
@@ -3795,7 +4741,9 @@
       "description": "fix(i18n): translate studio page titles",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1382677065",
+      "pullRequestId": "6398454951",
+      "pullRequestNodeId": "PR_kwDOUmn6Sc8AAAABPP2pDQ"
     },
     {
       "repository": "yakew7/Fair-Code",
@@ -3803,7 +4751,9 @@
       "description": "Correct the Benefits Denial audit number",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1237601033",
+      "pullRequestId": "5396814449",
+      "pullRequestNodeId": "PR_kwDOScRLCc8AAAABCzASyA"
     },
     {
       "repository": "yakew7/Fair-Code",
@@ -3811,7 +4761,9 @@
       "description": "Correct a numerical value in `index.html`",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1237601033",
+      "pullRequestId": "5396942311",
+      "pullRequestNodeId": "PR_kwDOScRLCc8AAAABCzG9qA"
     },
     {
       "repository": "yakew7/Fair-Code",
@@ -3819,7 +4771,9 @@
       "description": "Fix/1098 explainer python smoke tests",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1237601033",
+      "pullRequestId": "6000611681",
+      "pullRequestNodeId": "PR_kwDOScRLCc8AAAABKSNHXA"
     },
     {
       "repository": "yakew7/Fair-Code",
@@ -3827,7 +4781,9 @@
       "description": "test: cover generated file validation edge cases",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1237601033",
+      "pullRequestId": "6056754114",
+      "pullRequestNodeId": "PR_kwDOScRLCc8AAAABK-vOFQ"
     },
     {
       "repository": "yfosp/start-here",
@@ -3835,7 +4791,9 @@
       "description": "Add Aaqibhafeez khan to contributors",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "504836796",
+      "pullRequestId": "6457311650",
+      "pullRequestNodeId": "PR_kwDOHhcyvM8AAAABP_B5Ww"
     },
     {
       "repository": "Yjnnev/Kat-Notes",
@@ -3843,7 +4801,9 @@
       "description": "Cancel todo editing on outside click",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1431475429",
+      "pullRequestId": "6024831204",
+      "pullRequestNodeId": "PR_kwDOVVKU5c8AAAABKlLv3w"
     },
     {
       "repository": "Yjnnev/Kat-Notes",
@@ -3851,7 +4811,9 @@
       "description": "feat(todo): make list selection functional",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1431475429",
+      "pullRequestId": "6089163435",
+      "pullRequestNodeId": "PR_kwDOVVKU5c8AAAABLYwUWQ"
     },
     {
       "repository": "Yjnnev/Kat-Notes",
@@ -3859,7 +4821,9 @@
       "description": "fix(todo): make deleting todos functional",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1431475429",
+      "pullRequestId": "6089219040",
+      "pullRequestNodeId": "PR_kwDOVVKU5c8AAAABLYzDlw"
     },
     {
       "repository": "Yjnnev/Lab-Track",
@@ -3867,7 +4831,9 @@
       "description": "feat(survey): add post-slip satisfaction survey",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1412377713",
+      "pullRequestId": "6089260701",
+      "pullRequestNodeId": "PR_kwDOVC8scc8AAAABLY1MRA"
     },
     {
       "repository": "Yjnnev/Lab-Track",
@@ -3875,7 +4841,9 @@
       "description": "feat: add offline borrowing PWA support",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1412377713",
+      "pullRequestId": "6129746971",
+      "pullRequestNodeId": "PR_kwDOVC8scc8AAAABL5aCqA"
     },
     {
       "repository": "YO-WHATS-UP2/minigit",
@@ -3883,7 +4851,9 @@
       "description": "docs: publish MkDocs site with GitHub Pages",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1392112987",
+      "pullRequestId": "5962754132",
+      "pullRequestNodeId": "PR_kwDOUvn1W88AAAABJz_1uw"
     },
     {
       "repository": "yoavnir/specs2016",
@@ -3891,7 +4861,9 @@
       "description": "Dev 1.1.0 issue510",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "161839875",
+      "pullRequestId": "5398390834",
+      "pullRequestNodeId": "PR_kwDOCaV7A88AAAABC0SeqA"
     },
     {
       "repository": "yoavnir/specs2016",
@@ -3899,7 +4871,9 @@
       "description": "Issue #504 - generate manpage automatically",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "161839875",
+      "pullRequestId": "5491033128",
+      "pullRequestNodeId": "PR_kwDOCaV7A88AAAABD-O5vw"
     },
     {
       "repository": "yoavnir/specs2016",
@@ -3907,7 +4881,9 @@
       "description": "docs: add TODclock conversion examples (#496)",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "161839875",
+      "pullRequestId": "6032239834",
+      "pullRequestNodeId": "PR_kwDOCaV7A88AAAABKq-5GA"
     },
     {
       "repository": "zabuton-app/meguri",
@@ -3915,7 +4891,9 @@
       "description": "fix: open folders from anywhere on the folder card",
       "firstRecordedIn": "GitHub Search API",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1298298509",
+      "pullRequestId": "6487092590",
+      "pullRequestNodeId": "PR_kwDOTWJ2jc8AAAABQW8eIw"
     },
     {
       "repository": "zovo-one/crx-permission-risk",
@@ -3923,7 +4901,9 @@
       "description": "feat: classify common Chrome permissions",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1317228495",
+      "pullRequestId": "6070798634",
+      "pullRequestNodeId": "PR_kwDOToNPz88AAAABLKDEXg"
     },
     {
       "repository": "zovo-one/crx-permission-risk",
@@ -3931,7 +4911,9 @@
       "description": "test: compile README example as doctest",
       "firstRecordedIn": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
       "lastSeenInSearch": true,
-      "repositoryId": null
+      "repositoryId": "1317228495",
+      "pullRequestId": "6070802313",
+      "pullRequestNodeId": "PR_kwDOToNPz88AAAABLKDP7w"
     }
   ],
   "identityStrategy": "repository-id + pull-request-number (pull-request ID fallback)"

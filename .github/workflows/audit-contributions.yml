@@ -59,7 +59,7 @@ jobs:
 
       - name: Commit directly when content changes
         run: |
-          if git diff --quiet -- README.md data/contributions.json package-lock.json; then
+          if [ -z "$(git status --porcelain -- README.md data/contributions.json package-lock.json)" ]; then
             echo "Contribution audit is already current."
             exit 0
           fi

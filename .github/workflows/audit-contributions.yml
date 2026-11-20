@@ -11,6 +11,7 @@ on:
       - "scripts/contribution-ledger.ts"
       - "tests/**"
       - "package.json"
+      - "package-lock.json"
       - "tsconfig.json"
   schedule:
     - cron: "30 3 * * *"
@@ -40,7 +41,9 @@ jobs:
           node-version: 22.x
 
       - name: Install pinned TypeScript toolchain
-        run: npm install --no-package-lock --ignore-scripts --no-audit --no-fund
+        run: |
+          npm install --package-lock-only --ignore-scripts --no-audit --no-fund
+          npm ci --ignore-scripts --no-audit --no-fund
 
       - name: Run contribution ledger regression tests
         run: npm test
@@ -56,13 +59,13 @@ jobs:
 
       - name: Commit directly when content changes
         run: |
-          if git diff --quiet -- README.md data/contributions.json; then
+          if git diff --quiet -- README.md data/contributions.json package-lock.json; then
             echo "Contribution audit is already current."
             exit 0
           fi
           git diff --check
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A -- README.md data/contributions.json scripts tests package.json tsconfig.json
+          git add -A -- README.md data/contributions.json scripts tests package.json package-lock.json tsconfig.json
           git commit -m "docs: refresh OSS contribution audit"
           git push origin HEAD:main

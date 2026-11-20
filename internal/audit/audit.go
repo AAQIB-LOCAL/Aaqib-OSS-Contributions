@@ -174,28 +174,8 @@ func Run(ctx context.Context, config Config) error {
 		authoredPullRequestCount = observedAuthoredCount
 	}
 
-	repositoryCounts := make(map[string]repositoryCount)
-	for _, item := range externalContributions {
-		key := strings.ToLower(item.Repository)
-		count, exists := repositoryCounts[key]
-		if exists {
-			count.Count++
-		} else {
-			repositoryCounts[key] = repositoryCount{Repository: item.Repository, Count: 1}
-		}
-	}
-	breakdown := make([]repositoryCount, 0, len(repositoryCounts))
-	for _, item := range repositoryCounts {
-		breakdown = append(breakdown, item)
-	}
-	sort.Slice(breakdown, func(i, j int) bool {
-		if breakdown[i].Count != breakdown[j].Count {
-			return breakdown[i].Count > breakdown[j].Count
-		}
-		left := strings.ToLower(breakdown[i].Repository)
-		right := strings.ToLower(breakdown[j].Repository)
-		return left < right
-	})
+	breakdown := buildRepositoryBreakdown(externalContributions)
+	repositoryCounts := len(breakdown)
 	breakdownRows := make([]string, 0, len(breakdown))
 	for _, item := range breakdown {
 		breakdownRows = append(breakdownRows, fmt.Sprintf("| %s | %d |", MarkdownLink(item.Repository), item.Count))
@@ -204,7 +184,7 @@ func Run(ctx context.Context, config Config) error {
 	readme, err := RenderReadme(
 		string(existingReadmeBytes),
 		int64(len(externalContributions)),
-		int64(len(repositoryCounts)),
+		int64(repositoryCounts),
 		authoredPullRequestCount,
 		BuildContributionTable(externalContributions),
 		strings.Join(breakdownRows, "\n"),
@@ -234,9 +214,41 @@ func Run(ctx context.Context, config Config) error {
 		return fmt.Errorf("write README: %w", err)
 	}
 	if config.Logger != nil {
-		config.Logger.Printf("Updated contribution audit: %d merged PRs across %d external repositories", len(externalContributions), len(repositoryCounts))
+		config.Logger.Printf("Updated contribution audit: %d merged PRs across %d external repositories", len(externalContributions), repositoryCounts)
 	}
 	return nil
+}
+
+
+// buildRepositoryBreakdown aggregates contributions by normalized repository
+// name and persists each incremented map value before materializing the sorted
+// breakdown.
+func buildRepositoryBreakdown(items []ContributionRecord) []repositoryCount {
+	counts := make(map[string]repositoryCount)
+	for _, item := range items {
+		key := strings.ToLower(item.Repository)
+		count, exists := counts[key]
+		if exists {
+			count.Count++
+			counts[key] = count
+		} else {
+			counts[key] = repositoryCount{Repository: item.Repository, Count: 1}
+		}
+	}
+
+	breakdown := make([]repositoryCount, 0, len(counts))
+	for _, item := range counts {
+		breakdown = append(breakdown, item)
+	}
+	sort.Slice(breakdown, func(i, j int) bool {
+		if breakdown[i].Count != breakdown[j].Count {
+			return breakdown[i].Count > breakdown[j].Count
+		}
+		left := strings.ToLower(breakdown[i].Repository)
+		right := strings.ToLower(breakdown[j].Repository)
+		return left < right
+	})
+	return breakdown
 }
 
 func isExcludedOwner(repository string, excluded map[string]struct{}) bool {

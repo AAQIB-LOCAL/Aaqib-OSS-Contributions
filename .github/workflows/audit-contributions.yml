@@ -8,6 +8,8 @@ on:
       - ".github/workflows/audit-contributions.yml"
       - "data/contributions.json"
       - "scripts/audit-contributions.mjs"
+      - "scripts/contribution-ledger.mjs"
+      - "tests/**"
   schedule:
     - cron: "30 3 * * *"
   workflow_dispatch:
@@ -34,6 +36,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+
+      - name: Run contribution ledger regression tests
+        run: node --test tests/*.test.mjs
 
       - name: Validate audit script syntax
         run: node --check scripts/audit-contributions.mjs

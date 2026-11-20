@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import process from "node:process";
+import { mergeContributions, normalizeRepositoryName } from "./contribution-ledger.mjs";
 
 const token = process.env.GITHUB_TOKEN;
 const owner = "AAQIB-LOCAL";
@@ -32,7 +33,9 @@ async function github(path, searchParams) {
 
   if (!response.ok) {
     const body = await response.text();
-    throw new Error(`GitHub API ${response.status}: ${body}`);
+    const error = new Error(`GitHub API ${response.status}: ${body}`);
+    error.status = response.status;
+    throw error;
   }
 
   return response.json();
@@ -143,6 +146,54 @@ function repositoryFromUrl(repositoryUrl) {
   return `${match[1]}/${match[2]}`;
 }
 
+
+async function resolveRepositoryMetadata(repositoryNames, storedRecords, liveRepositoryNames) {
+  const metadata = new Map();
+
+  // Reuse persisted immutable IDs; only resolve legacy names and newly seen repositories.
+  for (const record of storedRecords) {
+    if (!record.repositoryId) continue;
+    const value = { id: String(record.repositoryId), fullName: record.repository };
+    metadata.set(normalizeRepositoryName(record.repository), value);
+  }
+
+  const unresolved = [...new Set(repositoryNames)]
+    .filter((name) => !metadata.has(normalizeRepositoryName(name)))
+    .sort((a, b) => a.localeCompare(b));
+
+  // Keep concurrency modest to avoid secondary API rate limits during migration.
+  for (let offset = 0; offset < unresolved.length; offset += 10) {
+    const batch = unresolved.slice(offset, offset + 10);
+    const resolved = await Promise.all(batch.map(async (repository) => {
+      const [repositoryOwner, repositoryName] = repository.split("/");
+      try {
+        const result = await github(
+          `/repos/${encodeURIComponent(repositoryOwner)}/${encodeURIComponent(repositoryName)}`,
+        );
+        if (!Number.isInteger(result.id) || typeof result.full_name !== "string") {
+          throw new Error(`GitHub returned incomplete repository identity metadata for ${repository}`);
+        }
+        return { requestedName: repository, metadata: { id: String(result.id), fullName: result.full_name } };
+      } catch (error) {
+        if (error.status === 404 && !liveRepositoryNames.has(normalizeRepositoryName(repository))) {
+          console.warn(`Keeping historical repository identity by name because it is no longer accessible: ${repository}`);
+          return { requestedName: repository, metadata: null };
+        }
+        throw new Error(
+          `Unable to resolve repository identity for ${repository}; refusing to publish a potentially duplicated ledger. ${error.message}`,
+        );
+      }
+    }));
+
+    for (const { requestedName, metadata: value } of resolved) {
+      metadata.set(normalizeRepositoryName(requestedName), value);
+      if (value?.fullName) metadata.set(normalizeRepositoryName(value.fullName), value);
+    }
+  }
+
+  return metadata;
+}
+
 function markdownLink(repository) {
   return `[${repository}](https://github.com/${repository})`;
 }
@@ -182,50 +233,74 @@ if (!Array.isArray(storedLedger.contributions)) {
   throw new Error("data/contributions.json must contain a contributions array");
 }
 
-const contributionMap = new Map();
+
 for (const record of storedLedger.contributions) {
   if (
     typeof record.repository !== "string" ||
-    !/^([^/]+)\/([^/]+)$/.test(record.repository) ||
+    record.repository.split("/").length !== 2 ||
     !Number.isInteger(record.number) ||
     record.number < 1 ||
     typeof record.description !== "string"
   ) {
     throw new Error("data/contributions.json contains an invalid contribution record");
   }
-  const key = `${record.repository.toLowerCase()}#${record.number}`;
-  contributionMap.set(key, { ...record, lastSeenInSearch: false });
 }
 
-for (const item of mergedPullRequests.items) {
-  if (!item.pull_request?.merged_at) {
-    continue;
-  }
+const discoveredRepositories = mergedPullRequests.items
+  .map((item) => repositoryFromUrl(item.repository_url))
+  .filter(Boolean)
+  .filter((repository) => !excludedOwners.has(repository.split("/")[0].toLowerCase()));
+const repositoryNames = [
+  ...storedLedger.contributions.map((record) => record.repository),
+  ...discoveredRepositories,
+];
+const liveRepositoryNames = new Set(discoveredRepositories.map(normalizeRepositoryName));
+const repositoryMetadata = await resolveRepositoryMetadata(
+  repositoryNames,
+  storedLedger.contributions,
+  liveRepositoryNames,
+);
 
-  const repository = repositoryFromUrl(item.repository_url);
-  const repositoryOwner = repository?.split("/")[0]?.toLowerCase();
-  if (!repository || !repositoryOwner || excludedOwners.has(repositoryOwner)) {
-    continue;
-  }
+const resolvedHistoricalContributions = storedLedger.contributions.map((record) => {
+  const resolved = repositoryMetadata.get(normalizeRepositoryName(record.repository));
+  return {
+    ...record,
+    repository: resolved?.fullName ?? record.repository,
+    repositoryId: resolved?.id ?? record.repositoryId ?? null,
+    lastSeenInSearch: false,
+  };
+});
+
+const discoveredContributions = [];
+for (const item of mergedPullRequests.items) {
+  if (!item.pull_request?.merged_at) continue;
+
+  const requestedRepository = repositoryFromUrl(item.repository_url);
+  const requestedOwner = requestedRepository?.split("/")[0]?.toLowerCase();
+  if (!requestedRepository || !requestedOwner || excludedOwners.has(requestedOwner)) continue;
+
+  const resolved = repositoryMetadata.get(normalizeRepositoryName(requestedRepository));
+  const repository = resolved?.fullName ?? requestedRepository;
+  const repositoryOwner = repository.split("/")[0]?.toLowerCase();
+  if (excludedOwners.has(repositoryOwner)) continue;
 
   const key = `${repository.toLowerCase()}#${item.number}`;
-  const previous = contributionMap.get(key);
-  contributionMap.set(key, {
-    repository: previous?.repository ?? repository,
+  discoveredContributions.push({
+    repository,
+    repositoryId: resolved?.id ?? null,
     number: item.number,
-    description:
-      descriptions.get(key) ??
-      previous?.description ??
-      escapeMarkdown(item.title),
-    firstRecordedIn: previous?.firstRecordedIn ?? "GitHub Search API",
+    description: descriptions.get(key) ?? escapeMarkdown(item.title),
+    firstRecordedIn: "GitHub Search API",
+    pullRequestId: item.id === undefined || item.id === null ? null : String(item.id),
+    pullRequestNodeId: item.node_id ?? null,
     lastSeenInSearch: true,
   });
 }
 
-const externalContributions = [...contributionMap.values()].sort(
-  (a, b) =>
-    a.repository.toLowerCase().localeCompare(b.repository.toLowerCase()) ||
-    a.number - b.number,
+const externalContributions = mergeContributions(
+  resolvedHistoricalContributions,
+  discoveredContributions,
+  repositoryMetadata,
 );
 const authoredPullRequestCount = Math.max(
   Number(storedLedger.authoredPullRequestHighWatermark) || 0,
@@ -253,7 +328,8 @@ const mergedCount = externalContributions.length;
 
 const updatedLedger = {
   ...storedLedger,
-  schemaVersion: 1,
+  schemaVersion: 2,
+  identityStrategy: "repository-id + pull-request-number (pull-request ID fallback)",
   authoredPullRequestHighWatermark: authoredPullRequestCount,
   lastObservedPublicAuthoredPullRequestCount: observedAuthoredPullRequestCount,
   contributions: externalContributions,
@@ -411,6 +487,7 @@ The broader audit currently discovers **${authoredPullRequestCount} authored Git
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.
 - **Historical retention:** \`data/contributions.json\` is the durable contribution ledger. Previously recorded merged PRs remain included if an upstream repository is deleted, made private, or disappears from GitHub Search.
+- **Stable identity:** Contributions are deduplicated by immutable GitHub repository ID and PR number, with the global PR ID as a fallback. Repository names are display metadata and may change after a rename or transfer.
 - **Authored-PR high-water mark:** The published public authored-PR total never decreases below the highest previously observed public count. The latest raw Search API observation is retained separately for diagnostics.
 - **Deterministic updates:** Existing contribution descriptions are preserved; new entries use PR titles until refined. Re-running without new contribution data produces no README change.
 

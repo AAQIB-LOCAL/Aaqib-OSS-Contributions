@@ -11,7 +11,7 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>514</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>491</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>235</strong><br/>External repositories</td>
     <td align="center"><strong>1015</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
@@ -96,7 +96,7 @@ The public authored-PR metric retains its highest previously observed public Sea
   <tr>
     <td width="50%" valign="top">
       <strong>Property-Based Testing</strong><br/>
-      <a href="https://github.com/thearchitect0x-glitch/ratchet/pull/13">Add property-based fuzz coverage for the MCP JSON-RPC parser</a><br/>
+      <a href="https://github.com/deimos-hq/ratchet/pull/13">Add property-based fuzz coverage for the MCP JSON-RPC parser</a><br/>
       Exercises parser edge cases with generated inputs.
     </td>
     <td width="50%" valign="top">
@@ -111,10 +111,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 514 merged pull requests</summary>
+<summary>Browse all 491 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
-|---|---:|---|---|
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1083](https://github.com/8f4e/8f4e/pull/1083) | docs: document nearestValue standard-library helper | Merged |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1086](https://github.com/8f4e/8f4e/pull/1086) | fix(tokenizer): parse quoted strings before arithmetic | Merged |
 | [aaliya1719/Odyssey](https://github.com/aaliya1719/Odyssey) | [#48](https://github.com/aaliya1719/Odyssey/pull/48) | Add theme-aware atmospheric backdrop to expedition trail | Merged |
@@ -237,7 +236,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#212](https://github.com/cellrishi-code/claude-skills-atlas/pull/212) | docs: add resource category READMEs | Merged |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | [#545](https://github.com/chaoss/CollectOSS/pull/545) | docs: fix sample database compose formatting | Merged |
 | [chipfighter/context-attachment-manager](https://github.com/chipfighter/context-attachment-manager) | [#17](https://github.com/chipfighter/context-attachment-manager/pull/17) | Add custom endpoint troubleshooting checklist | Merged |
-| [chipfighter/framekeeper](https://github.com/chipfighter/framekeeper) | [#17](https://github.com/chipfighter/framekeeper/pull/17) | Add custom endpoint troubleshooting checklist | Merged |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | [#29](https://github.com/codercops/discord-bot/pull/29) | fix: skip unchanged starter issue feed edits | Merged |
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) | [#332](https://github.com/codercops/toolbelt/pull/332) | fix(base64): report original invalid character positions | Merged |
 | [ColinGPT9/clips-studio](https://github.com/ColinGPT9/clips-studio) | [#217](https://github.com/ColinGPT9/clips-studio/pull/217) | fix(i18n): translate UI attributes across components | Merged |
@@ -366,21 +364,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#262](https://github.com/Huerte/algo-solutions/pull/262) | Fix passphrase shifting and per-word casing | Merged |
 | [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#264](https://github.com/Huerte/algo-solutions/pull/264) | docs: add prefixCount docstring | Merged |
 | [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#284](https://github.com/Huerte/algo-solutions/pull/284) | Optimize N-Queens II using bitmasks | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#129](https://github.com/Huerte/algo-solutions-python/pull/129) | docs: clarify solution directory structure | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#132](https://github.com/Huerte/algo-solutions-python/pull/132) | docs: tag ten solutions by algorithm topic | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#133](https://github.com/Huerte/algo-solutions-python/pull/133) | test: add edge cases for letter percentage solution | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#146](https://github.com/Huerte/algo-solutions-python/pull/146) | docs: add issue and pull request templates | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#147](https://github.com/Huerte/algo-solutions-python/pull/147) | docs(python): add type hints and docstrings to solutions | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#148](https://github.com/Huerte/algo-solutions-python/pull/148) | docs(python): add complexity notes to solutions | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#155](https://github.com/Huerte/algo-solutions-python/pull/155) | ci: validate headers in changed solution files | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#156](https://github.com/Huerte/algo-solutions-python/pull/156) | test: add sort012 edge-case assertions | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#190](https://github.com/Huerte/algo-solutions-python/pull/190) | feat: Add Valid Parentheses solutions in Python, JavaScript, and Java | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#245](https://github.com/Huerte/algo-solutions-python/pull/245) | docs: add source link to practice122 keypad phone simulator | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#246](https://github.com/Huerte/algo-solutions-python/pull/246) | feat: port alternating digit sum solution to javascript | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#247](https://github.com/Huerte/algo-solutions-python/pull/247) | feat: add searchable GitHub Pages site for solutions | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#262](https://github.com/Huerte/algo-solutions-python/pull/262) | Fix passphrase shifting and per-word casing | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#264](https://github.com/Huerte/algo-solutions-python/pull/264) | docs: add prefixCount docstring | Merged |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#284](https://github.com/Huerte/algo-solutions-python/pull/284) | Optimize N-Queens II using bitmasks | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#97](https://github.com/Huseynteymurzade28/tuiba/pull/97) | Add cargo-binstall release metadata | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#99](https://github.com/Huseynteymurzade28/tuiba/pull/99) | Feat/configurable colour themes | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#100](https://github.com/Huseynteymurzade28/tuiba/pull/100) | packaging: add Nix flake | Merged |
@@ -466,9 +449,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [netweir/netweir](https://github.com/netweir/netweir) | [#163](https://github.com/netweir/netweir/pull/163) | fix(records): limit row selectors to read rows | Merged |
 | [ngpdf/ngpdf](https://github.com/ngpdf/ngpdf) | [#111](https://github.com/ngpdf/ngpdf/pull/111) | feat(core): complete document metadata | Merged |
 | [nicanor-korir/kenya-regions](https://github.com/nicanor-korir/kenya-regions) | [#44](https://github.com/nicanor-korir/kenya-regions/pull/44) | Add TypeScript checks for documentation examples | Merged |
-| [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#595](https://github.com/nikhilb2/simple_invoicing/pull/595) | fix(a11y): label company and marketplace fields | Merged |
-| [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#596](https://github.com/nikhilb2/simple_invoicing/pull/596) | fix(backend): validate invoice item tax overrides | Merged |
-| [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | [#624](https://github.com/nikhilb2/simple_invoicing/pull/624) | fix: exclude purchase invoices from GSTR-1 validation | Merged |
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#595](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/595) | fix(a11y): label company and marketplace fields | Merged |
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#596](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/596) | fix(backend): validate invoice item tax overrides | Merged |
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#624](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/624) | fix: exclude purchase invoices from GSTR-1 validation | Merged |
@@ -565,8 +545,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#14](https://github.com/Tektrix/pinfold/pull/14) | Add tests for format helpers | Merged |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#35](https://github.com/Tektrix/pinfold/pull/35) | test: add coverage for icon utility helpers | Merged |
 | [terraplane-org/terraplane](https://github.com/terraplane-org/terraplane) | [#114](https://github.com/terraplane-org/terraplane/pull/114) | feat: Provide feedback for invalid Terraplane commands | Merged |
-| [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#12](https://github.com/thearchitect0x-glitch/ratchet/pull/12) | test: enforce source file headers | Merged |
-| [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | [#13](https://github.com/thearchitect0x-glitch/ratchet/pull/13) | test: fuzz MCP JSON-RPC parser | Merged |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | [#613](https://github.com/TheVicky1/Pact_OS/pull/613) | a11y(projects): announce accent swatch names and selection | Merged |
 | [thiagomvas/haven](https://github.com/thiagomvas/haven) | [#160](https://github.com/thiagomvas/haven/pull/160) | feat(dashboard): refine service attention criteria (#152) | Merged |
 | [timihack/authwarden](https://github.com/timihack/authwarden) | [#47](https://github.com/timihack/authwarden/pull/47) | Fix/sqlmodel user store example | Merged |
@@ -591,8 +569,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vimeo/psalm](https://github.com/vimeo/psalm) | [#14070](https://github.com/vimeo/psalm/pull/14070) | Fix memory-limit option in psalm-refactor | Merged |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | [#32](https://github.com/visualfusion/feedkeeper/pull/32) | docs(deployment): cover Caddy, nginx and Traefik proxies | Merged |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | [#5760](https://github.com/vivekchand/clawmetry/pull/5760) | fix: surface OpenClaw session share state | Merged |
-| [vladimirrott/maintainer-agent](https://github.com/vladimirrott/maintainer-agent) | [#249](https://github.com/vladimirrott/maintainer-agent/pull/249) | fix: preserve foreign systemd timer stamps | Merged |
-| [vladimirrott/maintainer-agent](https://github.com/vladimirrott/maintainer-agent) | [#250](https://github.com/vladimirrott/maintainer-agent/pull/250) | fix: enable timers only for deployed profiles | Merged |
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | [#25](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner/pull/25) | Issue 10 expectancy confidence gate | Merged |
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | [#26](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner/pull/26) | fix: skip signals with ATR-floored stops | Merged |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | [#24](https://github.com/VOLPAROSSA/volparossa-code/pull/24) | test: cover fragmented SSE framing and invalid UTF-8 | Merged |
@@ -635,12 +611,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 235 external repositories</summary>
+<summary>Browse merged PR counts across 230 external repositories</summary>
 
 | Repository | Merged PRs |
-|---|---:|
 | [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | 15 |
-| [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 15 |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | 12 |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 9 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 9 |
@@ -691,7 +665,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [knnmelprop/YAADO](https://github.com/knnmelprop/YAADO) | 3 |
 | [mahanmntz/pa-varaq](https://github.com/mahanmntz/pa-varaq) | 3 |
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | 3 |
-| [nikhilb2/simple_invoicing](https://github.com/nikhilb2/simple_invoicing) | 3 |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | 3 |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | 3 |
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 3 |
@@ -744,9 +717,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | 2 |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | 2 |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 2 |
-| [thearchitect0x-glitch/ratchet](https://github.com/thearchitect0x-glitch/ratchet) | 2 |
 | [VarshithReddy2006/DevTrack](https://github.com/VarshithReddy2006/DevTrack) | 2 |
-| [vladimirrott/maintainer-agent](https://github.com/vladimirrott/maintainer-agent) | 2 |
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 2 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 2 |
@@ -780,7 +751,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Carmineh/CreateMobGrinding](https://github.com/Carmineh/CreateMobGrinding) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [chipfighter/context-attachment-manager](https://github.com/chipfighter/context-attachment-manager) | 1 |
-| [chipfighter/framekeeper](https://github.com/chipfighter/framekeeper) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) | 1 |
 | [ColinGPT9/clips-studio](https://github.com/ColinGPT9/clips-studio) | 1 |
@@ -874,7 +844,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **514** |
+| **Total** | **491** |
 
 </details>
 
@@ -896,6 +866,7 @@ The broader audit currently discovers **1015 authored GitHub pull requests** for
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.
 - **Historical retention:** `data/contributions.json` is the durable contribution ledger. Previously recorded merged PRs remain included if an upstream repository is deleted, made private, or disappears from GitHub Search.
+- **Stable identity:** Contributions are deduplicated by immutable GitHub repository ID and PR number, with the global PR ID as a fallback. Repository names are display metadata and may change after a rename or transfer.
 - **Authored-PR high-water mark:** The published public authored-PR total never decreases below the highest previously observed public count. The latest raw Search API observation is retained separately for diagnostics.
 - **Deterministic updates:** Existing contribution descriptions are preserved; new entries use PR titles until refined. Re-running without new contribution data produces no README change.
 

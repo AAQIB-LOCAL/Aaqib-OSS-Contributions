@@ -155,7 +155,7 @@ async function searchPullRequests(query: string): Promise<{ totalCount: number; 
 
       const uniqueResults = [...new Map<string, GitHubSearchPullRequest>(
         results.map((item): [string, GitHubSearchPullRequest] => [
-          item.id ?? item.html_url ?? `${item.repository_url ?? ""}#${item.number}`,
+          String(item.id ?? item.html_url ?? `${item.repository_url ?? ""}#${item.number}`),
           item,
         ]),
       ).values()];
@@ -237,7 +237,7 @@ async function resolveRepositoryMetadata(repositoryNames: string[], storedRecord
   return metadata;
 }
 
-function markdownLink(repository) {
+function markdownLink(repository: string): string {
   return `[${repository}](https://github.com/${repository})`;
 }
 
@@ -273,7 +273,7 @@ const readmePath = "README.md";
 const ledgerPath = "data/contributions.json";
 const existingReadme = fs.readFileSync(readmePath, "utf8");
 const descriptions = existingDescriptions(existingReadme);
-const storedLedger = JSON.parse(fs.readFileSync(ledgerPath, "utf8"));
+const storedLedger = JSON.parse(fs.readFileSync(ledgerPath, "utf8")) as ContributionLedger;
 
 if (!Array.isArray(storedLedger.contributions)) {
   throw new Error("data/contributions.json must contain a contributions array");
@@ -317,7 +317,7 @@ const resolvedHistoricalContributions = storedLedger.contributions.map((record) 
   };
 });
 
-const discoveredContributions = [];
+const discoveredContributions: ContributionRecord[] = [];
 for (const item of mergedPullRequests.items) {
   if (!item.pull_request?.merged_at) continue;
 

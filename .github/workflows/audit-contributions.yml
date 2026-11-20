@@ -7,9 +7,11 @@ on:
     paths:
       - ".github/workflows/audit-contributions.yml"
       - "data/contributions.json"
-      - "scripts/audit-contributions.mjs"
-      - "scripts/contribution-ledger.mjs"
+      - "scripts/audit-contributions.ts"
+      - "scripts/contribution-ledger.ts"
       - "tests/**"
+      - "package.json"
+      - "tsconfig.json"
   schedule:
     - cron: "30 3 * * *"
   workflow_dispatch:
@@ -35,19 +37,22 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22.x
+
+      - name: Install pinned TypeScript toolchain
+        run: npm install --no-package-lock --ignore-scripts --no-audit --no-fund
 
       - name: Run contribution ledger regression tests
-        run: node --test tests/*.test.mjs
+        run: npm test
 
-      - name: Validate audit script syntax
-        run: node --check scripts/audit-contributions.mjs
+      - name: Type-check TypeScript source
+        run: npm run typecheck
 
       - name: Generate contribution audit
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXCLUDED_GITHUB_OWNERS: "Aaqibhafeezkhan,AAQIB-LOCAL,AIOps-Capabilities-Hub,buildtheportfolio,stillbrainstorming,hafeez-dev-labs"
-        run: node scripts/audit-contributions.mjs
+        run: npm run audit
 
       - name: Commit directly when content changes
         run: |
@@ -58,6 +63,6 @@ jobs:
           git diff --check
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data/contributions.json
+          git add -A -- README.md data/contributions.json scripts tests package.json tsconfig.json
           git commit -m "docs: refresh OSS contribution audit"
           git push origin HEAD:main

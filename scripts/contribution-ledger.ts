@@ -1,8 +1,24 @@
-export function normalizeRepositoryName(repository) {
+export interface RepositoryMetadata {
+  id: string;
+  fullName: string;
+}
+
+export interface ContributionRecord {
+  repository: string;
+  repositoryId?: string | null;
+  number: number;
+  description: string;
+  firstRecordedIn?: string;
+  lastSeenInSearch?: boolean;
+  pullRequestId?: string | null;
+  pullRequestNodeId?: string | null;
+}
+
+export function normalizeRepositoryName(repository: string | null | undefined): string {
   return String(repository ?? "").trim().toLowerCase();
 }
 
-export function contributionIdentity(record) {
+export function contributionIdentity(record: ContributionRecord): string {
   const number = Number(record.number);
   if (record.repositoryId !== undefined && record.repositoryId !== null && String(record.repositoryId).trim() !== "") {
     return `repository:${String(record.repositoryId)}#${number}`;
@@ -13,7 +29,7 @@ export function contributionIdentity(record) {
   return `name:${normalizeRepositoryName(record.repository)}#${number}`;
 }
 
-function mergeRecord(previous, incoming) {
+function mergeRecord(previous: ContributionRecord, incoming: ContributionRecord): ContributionRecord {
   return {
     ...previous,
     ...incoming,
@@ -36,13 +52,17 @@ function mergeRecord(previous, incoming) {
  * { id, fullName } returned by GET /repos/{owner}/{repo}. GitHub redirects old
  * repository names to their canonical repository, so aliases share one ID.
  */
-export function mergeContributions(existingRecords, discoveredRecords = [], repositoryMetadata = new Map()) {
-  const merged = new Map();
+export function mergeContributions(
+  existingRecords: ContributionRecord[],
+  discoveredRecords: ContributionRecord[] = [],
+  repositoryMetadata: ReadonlyMap<string, RepositoryMetadata | null> = new Map(),
+): ContributionRecord[] {
+  const merged = new Map<string, ContributionRecord>();
 
-  function add(record, discovered) {
+  function add(record: ContributionRecord, discovered: boolean): void {
     const requestedName = normalizeRepositoryName(record.repository);
     const metadata = repositoryMetadata.get(requestedName) ?? null;
-    const normalized = {
+    const normalized: ContributionRecord = {
       ...record,
       repository: metadata?.fullName || record.repository,
       repositoryId: metadata?.id ?? record.repositoryId ?? null,

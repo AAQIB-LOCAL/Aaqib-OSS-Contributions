@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { contributionIdentity, mergeContributions } from "../scripts/contribution-ledger.mjs";
+import { contributionIdentity, mergeContributions } from "../scripts/contribution-ledger.ts";
 
 const aliases = new Map([
   ["old-owner/project", { id: "42", fullName: "new-owner/project" }],

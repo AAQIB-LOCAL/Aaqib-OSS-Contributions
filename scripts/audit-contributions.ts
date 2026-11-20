@@ -1,12 +1,51 @@
 import fs from "node:fs";
 import process from "node:process";
-import { mergeContributions, normalizeRepositoryName } from "./contribution-ledger.mjs";
+import { mergeContributions, normalizeRepositoryName, type ContributionRecord, type RepositoryMetadata } from "./contribution-ledger.ts";
 
-const token = process.env.GITHUB_TOKEN;
+
+interface ApiError extends Error {
+  status?: number;
+}
+
+interface GitHubSearchPullRequest {
+  id?: number;
+  node_id?: string;
+  number: number;
+  title: string;
+  html_url?: string;
+  repository_url?: string;
+  pull_request?: { merged_at?: string | null };
+}
+
+interface GitHubSearchResponse {
+  total_count: number;
+  incomplete_results: boolean;
+  items: GitHubSearchPullRequest[];
+}
+
+interface GitHubRepositoryResponse {
+  id: number;
+  full_name: string;
+}
+
+interface AuthoredPullRequestCountResponse {
+  total_count: number;
+}
+
+interface ContributionLedger {
+  schemaVersion?: number;
+  identityStrategy?: string;
+  authoredPullRequestHighWatermark?: number;
+  lastObservedPublicAuthoredPullRequestCount?: number;
+  contributions: ContributionRecord[];
+  [key: string]: unknown;
+}
+
+const token: string | undefined = process.env.GITHUB_TOKEN;
 const owner = "AAQIB-LOCAL";
 const repo = "Aaqib-OSS-Contributions";
 const author = "Aaqibhafeezkhan";
-const excludedOwners = new Set(
+const excludedOwners: Set<string> = new Set(
   (process.env.EXCLUDED_GITHUB_OWNERS || "Aaqibhafeezkhan,AAQIB-LOCAL,AIOps-Capabilities-Hub,buildtheportfolio,stillbrainstorming,hafeez-dev-labs")
     .split(",")
     .map((value) => value.trim().toLowerCase())
@@ -17,7 +56,7 @@ if (!token) {
   throw new Error("GITHUB_TOKEN is required");
 }
 
-async function github(path, searchParams) {
+async function github<T>(path: string, searchParams?: Record<string, string>): Promise<T> {
   const url = new URL(`https://api.github.com${path}`);
   for (const [key, value] of Object.entries(searchParams || {})) {
     url.searchParams.set(key, value);
@@ -33,15 +72,15 @@ async function github(path, searchParams) {
 
   if (!response.ok) {
     const body = await response.text();
-    const error = new Error(`GitHub API ${response.status}: ${body}`);
+    const error = new Error(`GitHub API ${response.status}: ${body}`) as ApiError;
     error.status = response.status;
     throw error;
   }
 
-  return response.json();
+  return response.json() as Promise<T>;
 }
 
-async function fetchAuthoredPullRequestCount() {
+async function fetchAuthoredPullRequestCount(): Promise<number> {
   const url = new URL("https://api.github.com/search/issues");
   url.searchParams.set("q", `author:${author} is:pr`);
   url.searchParams.set("per_page", "1");
@@ -59,7 +98,7 @@ async function fetchAuthoredPullRequestCount() {
     throw new Error(`Public GitHub Search API ${response.status}: ${body}`);
   }
 
-  const data = await response.json();
+  const data = await response.json() as AuthoredPullRequestCountResponse;
   if (!Number.isInteger(data.total_count) || data.total_count < 0) {
     throw new Error(`GitHub Search API did not return a valid authored PR count for ${author}`);
   }
@@ -68,13 +107,13 @@ async function fetchAuthoredPullRequestCount() {
   return data.total_count;
 }
 
-async function searchPullRequests(query) {
+async function searchPullRequests(query: string): Promise<{ totalCount: number; items: GitHubSearchPullRequest[] }> {
   const maxAttempts = 3;
-  let lastError;
+  let lastError: unknown;
 
   for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
     try {
-      const firstPage = await github("/search/issues", {
+      const firstPage = await github<GitHubSearchResponse>("/search/issues", {
         q: query,
         per_page: "100",
         page: "1",
@@ -97,7 +136,7 @@ async function searchPullRequests(query) {
       const results = [...firstPage.items];
 
       for (let page = 2; page <= pageCount; page += 1) {
-        const data = await github("/search/issues", {
+        const data = await github<GitHubSearchResponse>("/search/issues", {
           q: query,
           per_page: "100",
           page: String(page),
@@ -115,7 +154,7 @@ async function searchPullRequests(query) {
       }
 
       const uniqueResults = [...new Map(
-        results.map((item) => [item.id ?? item.html_url, item]),
+        results.map((item) => [item.id ?? item.html_url ?? `${item.repository_url ?? ""}#${item.number}`, item]),
       ).values()];
 
       if (uniqueResults.length !== totalCount) {
@@ -128,17 +167,17 @@ async function searchPullRequests(query) {
     } catch (error) {
       lastError = error;
       console.warn(
-        `Contribution search attempt ${attempt}/${maxAttempts} failed: ${error.message}`,
+        `Contribution search attempt ${attempt}/${maxAttempts} failed: ${error instanceof Error ? error.message : String(error)}`,
       );
     }
   }
 
   throw new Error(
-    `Unable to retrieve a complete, consistent contribution result set after ${maxAttempts} attempts. README.md was not updated. Last error: ${lastError?.message ?? "unknown error"}`,
+    `Unable to retrieve a complete, consistent contribution result set after ${maxAttempts} attempts. README.md was not updated. Last error: ${lastError instanceof Error ? lastError.message : String(lastError ?? "unknown error")}`,
   );
 }
 
-function repositoryFromUrl(repositoryUrl) {
+function repositoryFromUrl(repositoryUrl: string | undefined): string | null {
   const match = repositoryUrl?.match(/\/repos\/([^/]+)\/([^/]+)$/);
   if (!match) {
     return null;
@@ -147,8 +186,8 @@ function repositoryFromUrl(repositoryUrl) {
 }
 
 
-async function resolveRepositoryMetadata(repositoryNames, storedRecords, liveRepositoryNames) {
-  const metadata = new Map();
+async function resolveRepositoryMetadata(repositoryNames: string[], storedRecords: ContributionRecord[], liveRepositoryNames: Set<string>): Promise<Map<string, RepositoryMetadata | null>> {
+  const metadata = new Map<string, RepositoryMetadata | null>();
 
   // Reuse persisted immutable IDs; only resolve legacy names and newly seen repositories.
   for (const record of storedRecords) {
@@ -167,7 +206,7 @@ async function resolveRepositoryMetadata(repositoryNames, storedRecords, liveRep
     const resolved = await Promise.all(batch.map(async (repository) => {
       const [repositoryOwner, repositoryName] = repository.split("/");
       try {
-        const result = await github(
+        const result = await github<GitHubRepositoryResponse>(
           `/repos/${encodeURIComponent(repositoryOwner)}/${encodeURIComponent(repositoryName)}`,
         );
         if (!Number.isInteger(result.id) || typeof result.full_name !== "string") {
@@ -175,12 +214,13 @@ async function resolveRepositoryMetadata(repositoryNames, storedRecords, liveRep
         }
         return { requestedName: repository, metadata: { id: String(result.id), fullName: result.full_name } };
       } catch (error) {
-        if (error.status === 404 && !liveRepositoryNames.has(normalizeRepositoryName(repository))) {
+        const apiError = error as ApiError;
+        if (apiError.status === 404 && !liveRepositoryNames.has(normalizeRepositoryName(repository))) {
           console.warn(`Keeping historical repository identity by name because it is no longer accessible: ${repository}`);
           return { requestedName: repository, metadata: null };
         }
         throw new Error(
-          `Unable to resolve repository identity for ${repository}; refusing to publish a potentially duplicated ledger. ${error.message}`,
+          `Unable to resolve repository identity for ${repository}; refusing to publish a potentially duplicated ledger. ${error instanceof Error ? error.message : String(error)}`,
         );
       }
     }));
@@ -198,21 +238,24 @@ function markdownLink(repository) {
   return `[${repository}](https://github.com/${repository})`;
 }
 
-function escapeMarkdown(value) {
+function escapeMarkdown(value: unknown): string {
   return String(value ?? "").replaceAll("|", "\\|").replaceAll("\n", " ").trim();
 }
 
-function existingDescriptions(readme) {
-  const descriptions = new Map();
+function existingDescriptions(readme: string): Map<string, string> {
+  const descriptions = new Map<string, string>();
   const rowPattern = /^\| (\[.*?\]\(https:\/\/github\.com\/([^/]+\/[^)]+)\)) \| (?:\[#(\d+)\]\(https:\/\/github\.com\/[^/]+\/[^/]+\/pull\/\d+\)|#(\d+)) \| (.*?) \| Merged \|$/gm;
   for (const match of readme.matchAll(rowPattern)) {
+    const repository = match[2];
     const number = match[3] || match[4];
-    descriptions.set(match[2] + "#" + number, match[5]);
+    const description = match[5];
+    if (!repository || !number || description === undefined) continue;
+    descriptions.set(repository + "#" + number, description);
   }
   return descriptions;
 }
 
-function buildTable(items) {
+function buildTable(items: ContributionRecord[]): string {
   return items
     .map(({ repository, number, description }) =>
       `| ${markdownLink(repository)} | [#${number}](https://github.com/${repository}/pull/${number}) | ${description} | Merged |`,
@@ -248,14 +291,14 @@ for (const record of storedLedger.contributions) {
 
 const discoveredRepositories = mergedPullRequests.items
   .map((item) => repositoryFromUrl(item.repository_url))
-  .filter(Boolean)
-  .filter((repository) => !excludedOwners.has(repository.split("/")[0].toLowerCase()));
+  .filter((repository): repository is string => repository !== null)
+  .filter((repository) => !excludedOwners.has(repository.split("/")[0]!.toLowerCase()));
 const repositoryNames = [
   ...storedLedger.contributions.map((record) => record.repository),
   ...discoveredRepositories,
 ];
 const liveRepositoryNames = new Set(discoveredRepositories.map(normalizeRepositoryName));
-const repositoryMetadata = await resolveRepositoryMetadata(
+const repositoryMetadata: Map<string, RepositoryMetadata | null> = await resolveRepositoryMetadata(
   repositoryNames,
   storedLedger.contributions,
   liveRepositoryNames,
@@ -306,7 +349,7 @@ const authoredPullRequestCount = Math.max(
   Number(storedLedger.authoredPullRequestHighWatermark) || 0,
   observedAuthoredPullRequestCount,
 );
-const repositoryCounts = new Map();
+const repositoryCounts = new Map<string, { repository: string; count: number }>();
 for (const item of externalContributions) {
   const key = item.repository.toLowerCase();
   const existing = repositoryCounts.get(key);
@@ -326,7 +369,7 @@ const auditTable = buildTable(externalContributions);
 const repositoryCount = repositoryCounts.size;
 const mergedCount = externalContributions.length;
 
-const updatedLedger = {
+const updatedLedger: ContributionLedger = {
   ...storedLedger,
   schemaVersion: 2,
   identityStrategy: "repository-id + pull-request-number (pull-request ID fallback)",

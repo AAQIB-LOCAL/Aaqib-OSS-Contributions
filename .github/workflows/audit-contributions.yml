@@ -1,18 +1,23 @@
 name: Contribution Audit
 
 on:
+  pull_request:
+    paths:
+      - ".github/workflows/audit-contributions.yml"
+      - "cmd/**"
+      - "internal/**"
+      - "go.mod"
+      - "go.sum"
   push:
     branches:
       - main
     paths:
       - ".github/workflows/audit-contributions.yml"
+      - "cmd/**"
+      - "internal/**"
       - "data/contributions.json"
-      - "scripts/audit-contributions.ts"
-      - "scripts/contribution-ledger.ts"
-      - "tests/**"
-      - "package.json"
-      - "package-lock.json"
-      - "tsconfig.json"
+      - "go.mod"
+      - "go.sum"
   schedule:
     - cron: "30 3 * * *"
   workflow_dispatch:
@@ -29,43 +34,45 @@ jobs:
   audit:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out main
+      - name: Check out source revision
         uses: actions/checkout@v4
         with:
-          ref: main
           fetch-depth: 0
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Go
+        uses: actions/setup-go@v7
         with:
-          node-version: 22.x
+          go-version: "1.27.4"
+          cache: false
 
-      - name: Install pinned TypeScript toolchain
+      - name: Run regression tests
+        run: go test -race -cover ./...
+
+      - name: Run static analysis
+        run: go vet ./...
+
+      - name: Build standalone Linux executable
         run: |
-          npm install --package-lock-only --ignore-scripts --no-audit --no-fund
-          npm ci --ignore-scripts --no-audit --no-fund
-
-      - name: Run contribution ledger regression tests
-        run: npm test
-
-      - name: Type-check TypeScript source
-        run: npm run typecheck
+          mkdir -p dist
+          CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -trimpath -ldflags="-s -w" -o dist/contribution-audit ./cmd/audit
 
       - name: Generate contribution audit
+        if: github.event_name != 'pull_request'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXCLUDED_GITHUB_OWNERS: "Aaqibhafeezkhan,AAQIB-LOCAL,AIOps-Capabilities-Hub,buildtheportfolio,stillbrainstorming,hafeez-dev-labs"
-        run: npm run audit
+        run: ./dist/contribution-audit
 
-      - name: Commit directly when content changes
+      - name: Commit directly when generated content changes
+        if: github.event_name != 'pull_request'
         run: |
-          if [ -z "$(git status --porcelain -- README.md data/contributions.json package-lock.json)" ]; then
+          if [ -z "$(git status --porcelain -- README.md data/contributions.json)" ]; then
             echo "Contribution audit is already current."
             exit 0
           fi
           git diff --check
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A -- README.md data/contributions.json scripts tests package.json package-lock.json tsconfig.json
+          git add -- README.md data/contributions.json
           git commit -m "docs: refresh OSS contribution audit"
           git push origin HEAD:main

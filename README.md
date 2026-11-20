@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>491</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>230</strong><br/>External repositories</td>
+    <td align="center"><strong>493</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>231</strong><br/>External repositories</td>
     <td align="center"><strong>1017</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 491 merged pull requests</summary>
+<summary>Browse all 493 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -237,6 +237,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#212](https://github.com/cellrishi-code/claude-skills-atlas/pull/212) | docs: add resource category READMEs | Merged |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | [#545](https://github.com/chaoss/CollectOSS/pull/545) | docs: fix sample database compose formatting | Merged |
 | [chipfighter/context-attachment-manager](https://github.com/chipfighter/context-attachment-manager) | [#17](https://github.com/chipfighter/context-attachment-manager/pull/17) | Add custom endpoint troubleshooting checklist | Merged |
+| [codekongdev/plz](https://github.com/codekongdev/plz) | [#43](https://github.com/codekongdev/plz/pull/43) | docs(plz-3d-explain): distinguish key reads from exfiltration | Merged |
+| [codekongdev/plz](https://github.com/codekongdev/plz) | [#44](https://github.com/codekongdev/plz/pull/44) | docs(plz-3d-explain): clarify Python state persistence | Merged |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | [#29](https://github.com/codercops/discord-bot/pull/29) | fix: skip unchanged starter issue feed edits | Merged |
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) | [#332](https://github.com/codercops/toolbelt/pull/332) | fix(base64): report original invalid character positions | Merged |
 | [ColinGPT9/clips-studio](https://github.com/ColinGPT9/clips-studio) | [#217](https://github.com/ColinGPT9/clips-studio/pull/217) | fix(i18n): translate UI attributes across components | Merged |
@@ -612,7 +614,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 230 external repositories</summary>
+<summary>Browse merged PR counts across 231 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -688,6 +690,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BitanSarkar/coalesce-java](https://github.com/BitanSarkar/coalesce-java) | 2 |
 | [btclib-org/seed-scan](https://github.com/btclib-org/seed-scan) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
+| [codekongdev/plz](https://github.com/codekongdev/plz) | 2 |
 | [crbtgab/housing-records](https://github.com/crbtgab/housing-records) | 2 |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
 | [deimos-hq/ratchet](https://github.com/deimos-hq/ratchet) | 2 |
@@ -846,7 +849,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **491** |
+| **Total** | **493** |
 
 </details>
 

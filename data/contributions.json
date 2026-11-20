@@ -1226,6 +1226,26 @@
       "pullRequestNodeId": "PR_kwDOUojiP88AAAABMMK2aQ"
     },
     {
+      "repository": "codekongdev/plz",
+      "number": 43,
+      "description": "docs(plz-3d-explain): distinguish key reads from exfiltration",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1439246573",
+      "pullRequestId": "6458411355",
+      "pullRequestNodeId": "PR_kwDOVcko7c8AAAABP_5_Ng"
+    },
+    {
+      "repository": "codekongdev/plz",
+      "number": 44,
+      "description": "docs(plz-3d-explain): clarify Python state persistence",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1439246573",
+      "pullRequestId": "6458416927",
+      "pullRequestNodeId": "PR_kwDOVcko7c8AAAABP_6RNw"
+    },
+    {
       "repository": "codercops/discord-bot",
       "number": 29,
       "description": "fix: skip unchanged starter issue feed edits",

@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>493</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>232</strong><br/>External repositories</td>
-    <td align="center"><strong>1010</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>514</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>235</strong><br/>External repositories</td>
+    <td align="center"><strong>1015</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 493 merged pull requests</summary>
+<summary>Browse all 514 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -138,6 +138,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#51](https://github.com/afrigov/afrigov/pull/51) | docs: clarify header wrapping at tablet widths | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#52](https://github.com/afrigov/afrigov/pull/52) | feat(video): support direct files and captions | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#54](https://github.com/afrigov/afrigov/pull/54) | fix(pack): validate Tanzania NIN as 20 digits | Merged |
+| [agentsmith-tools/maintainer-agent](https://github.com/agentsmith-tools/maintainer-agent) | [#249](https://github.com/agentsmith-tools/maintainer-agent/pull/249) | fix: preserve foreign systemd timer stamps | Merged |
+| [agentsmith-tools/maintainer-agent](https://github.com/agentsmith-tools/maintainer-agent) | [#250](https://github.com/agentsmith-tools/maintainer-agent/pull/250) | fix: enable timers only for deployed profiles | Merged |
 | [agevenkat/vagejs](https://github.com/agevenkat/vagejs) | [#8](https://github.com/agevenkat/vagejs/pull/8) | Fix/long title description warnings | Merged |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | [#7](https://github.com/AkulTyagi11/StarStruck/pull/7) | feat(themes): add Kanagawa Wave palette | Merged |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | [#9](https://github.com/AkulTyagi11/StarStruck/pull/9) | feat: add themed top languages card | Merged |
@@ -295,6 +297,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#565](https://github.com/eyadstein/leaklens/pull/565) | Detect future-looking rolling and lag features | Merged |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#566](https://github.com/eyadstein/leaklens/pull/566) | Add fail-under input to GitHub Action | Merged |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#568](https://github.com/eyadstein/leaklens/pull/568) | test: cover RTL explanation output | Merged |
+| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | [#569](https://github.com/eyadstein/leaklens/pull/569) | test: add prompt rendering golden files | Merged |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | [#24](https://github.com/fatihserhatturan/noCap/pull/24) | feat: export report as PNG | Merged |
 | [featherpanel-com/translations](https://github.com/featherpanel-com/translations) | [#14](https://github.com/featherpanel-com/translations/pull/14) | docs: correct README clone and sync instructions | Merged |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | [#58](https://github.com/feimacode/open-design-agent-kit/pull/58) | docs: update bundled content counts | Merged |
@@ -334,6 +337,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | [#393](https://github.com/HafidIdrissi/Time-Tracker/pull/393) | docs: add read-only SQLite backup walkthrough | Merged |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | [#99](https://github.com/hayagrivai-labs/sciproof/pull/99) | docs: add shell pipeline reproducibility tutorial | Merged |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | [#257](https://github.com/hayagrivai-labs/sciproof/pull/257) | Add tests for manifest output validation | Merged |
+| [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | [#331](https://github.com/hayagrivai-labs/sciproof/pull/331) | fix: make chain-of-custody violations fail pipeline verification | Merged |
+| [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | [#332](https://github.com/hayagrivai-labs/sciproof/pull/332) | feat: support claims on TSV outputs | Merged |
 | [helalrules7/tibyan](https://github.com/helalrules7/tibyan) | [#42](https://github.com/helalrules7/tibyan/pull/42) | fix(mushaf): include Saheeh translation version in credits | Merged |
 | [hexlet-components/ru-my-first-pullrequest](https://github.com/hexlet-components/ru-my-first-pullrequest) | [#5677](https://github.com/hexlet-components/ru-my-first-pullrequest/pull/5677) | docs: add contributor greeting | Merged |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | [#1157](https://github.com/higher-kinded-j/higher-kinded-j/pull/1157) | docs(glossary): add IdPath, LazyPath and OptionalPath entries | Merged |
@@ -346,6 +351,21 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [hslee16/Archy](https://github.com/hslee16/Archy) | [#816](https://github.com/hslee16/Archy/pull/816) | test(affected): cover question mark path separator boundary | Merged |
 | [hslee16/Archy](https://github.com/hslee16/Archy) | [#997](https://github.com/hslee16/Archy/pull/997) | fix(bench): parse quoted and spaced diff paths | Merged |
 | [hslee16/Archy](https://github.com/hslee16/Archy) | [#998](https://github.com/hslee16/Archy/pull/998) | fix(install): preflight every uninstall target | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#129](https://github.com/Huerte/algo-solutions/pull/129) | docs: clarify solution directory structure | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#132](https://github.com/Huerte/algo-solutions/pull/132) | docs: tag ten solutions by algorithm topic | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#133](https://github.com/Huerte/algo-solutions/pull/133) | test: add edge cases for letter percentage solution | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#146](https://github.com/Huerte/algo-solutions/pull/146) | docs: add issue and pull request templates | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#147](https://github.com/Huerte/algo-solutions/pull/147) | docs(python): add type hints and docstrings to solutions | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#148](https://github.com/Huerte/algo-solutions/pull/148) | docs(python): add complexity notes to solutions | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#155](https://github.com/Huerte/algo-solutions/pull/155) | ci: validate headers in changed solution files | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#156](https://github.com/Huerte/algo-solutions/pull/156) | test: add sort012 edge-case assertions | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#190](https://github.com/Huerte/algo-solutions/pull/190) | feat: Add Valid Parentheses solutions in Python, JavaScript, and Java | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#245](https://github.com/Huerte/algo-solutions/pull/245) | docs: add source link to practice122 keypad phone simulator | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#246](https://github.com/Huerte/algo-solutions/pull/246) | feat: port alternating digit sum solution to javascript | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#247](https://github.com/Huerte/algo-solutions/pull/247) | feat: add searchable GitHub Pages site for solutions | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#262](https://github.com/Huerte/algo-solutions/pull/262) | Fix passphrase shifting and per-word casing | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#264](https://github.com/Huerte/algo-solutions/pull/264) | docs: add prefixCount docstring | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#284](https://github.com/Huerte/algo-solutions/pull/284) | Optimize N-Queens II using bitmasks | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#129](https://github.com/Huerte/algo-solutions-python/pull/129) | docs: clarify solution directory structure | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#132](https://github.com/Huerte/algo-solutions-python/pull/132) | docs: tag ten solutions by algorithm topic | Merged |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | [#133](https://github.com/Huerte/algo-solutions-python/pull/133) | test: add edge cases for letter percentage solution | Merged |
@@ -606,6 +626,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#511](https://github.com/yoavnir/specs2016/pull/511) | Dev 1.1.0 issue510 | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#515](https://github.com/yoavnir/specs2016/pull/515) | Issue #504 - generate manpage automatically | Merged |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | [#532](https://github.com/yoavnir/specs2016/pull/532) | docs: add TODclock conversion examples (#496) | Merged |
+| [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | [#571](https://github.com/zabuton-app/meguri/pull/571) | fix: open folders from anywhere on the folder card | Merged |
 | [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | [#5](https://github.com/zovo-one/crx-permission-risk/pull/5) | feat: classify common Chrome permissions | Merged |
 | [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | [#6](https://github.com/zovo-one/crx-permission-risk/pull/6) | test: compile README example as doctest | Merged |
 
@@ -614,10 +635,11 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 232 external repositories</summary>
+<summary>Browse merged PR counts across 235 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | 15 |
 | [Huerte/algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | 15 |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | 12 |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 9 |
@@ -626,11 +648,11 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 8 |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 7 |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 6 |
+| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 6 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 6 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 5 |
-| [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 5 |
@@ -645,6 +667,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | 4 |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | 4 |
 | [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | 4 |
+| [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 4 |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 4 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 4 |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | 4 |
@@ -680,6 +703,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | 2 |
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 2 |
 | [adlerqa/wardeniq](https://github.com/adlerqa/wardeniq) | 2 |
+| [agentsmith-tools/maintainer-agent](https://github.com/agentsmith-tools/maintainer-agent) | 2 |
 | [alok-108/phantom](https://github.com/alok-108/phantom) | 2 |
 | [amirbena/code-review-skill](https://github.com/amirbena/code-review-skill) | 2 |
 | [anonhym/latelier](https://github.com/anonhym/latelier) | 2 |
@@ -699,7 +723,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 2 |
 | [flisk-sh/flisk](https://github.com/flisk-sh/flisk) | 2 |
 | [got-a-page/website](https://github.com/got-a-page/website) | 2 |
-| [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 2 |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 2 |
 | [laaielichter/Godotwright](https://github.com/laaielichter/Godotwright) | 2 |
 | [lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop) | 2 |
@@ -850,7 +873,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
-| **Total** | **493** |
+| [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
+| **Total** | **514** |
 
 </details>
 
@@ -867,7 +891,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **1010 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1015 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

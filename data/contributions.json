@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1028,
+  "authoredPullRequestHighWatermark": 1036,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1028,
+  "lastObservedPublicAuthoredPullRequestCount": 1036,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -564,6 +564,16 @@
       "repositoryId": "1218320061",
       "pullRequestId": "6483848802",
       "pullRequestNodeId": "PR_kwDOSJ4Wvc8AAAABQUWHYQ"
+    },
+    {
+      "repository": "Avenx-JS/avenx-js",
+      "number": 1829,
+      "description": "fix(trace): replay redacted traces without false divergence",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1218320061",
+      "pullRequestId": "6527422041",
+      "pullRequestNodeId": "PR_kwDOSJ4Wvc8AAAABQ3TRUA"
     },
     {
       "repository": "BaryoDev/Vouch",
@@ -1687,6 +1697,16 @@
     },
     {
       "repository": "eklavya2201/breakinggood",
+      "number": 87,
+      "description": "fix: support multilingual cookie consent banners",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1423186275",
+      "pullRequestId": "6458642366",
+      "pullRequestNodeId": "PR_kwDOVNQZY88AAAABQAFp1Q"
+    },
+    {
+      "repository": "eklavya2201/breakinggood",
       "number": 88,
       "description": "feat: capture root CSS custom properties",
       "firstRecordedIn": "GitHub Search API",
@@ -2214,6 +2234,16 @@
       "repositoryId": "1427212116",
       "pullRequestId": "6088758113",
       "pullRequestNodeId": "PR_kwDOVRGHVM8AAAABLYbZVw"
+    },
+    {
+      "repository": "GotinhaAzul/Drops",
+      "number": 24,
+      "description": "feat: unify Drops command names and expose version",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1431407797",
+      "pullRequestId": "6529371125",
+      "pullRequestNodeId": "PR_kwDOVVGMtc8AAAABQ40wAQ"
     },
     {
       "repository": "GuiDobelin/citerag",
@@ -3376,6 +3406,16 @@
       "pullRequestNodeId": "PR_kwDOQV4QCc8AAAABP_X_xw"
     },
     {
+      "repository": "moizycodes/moizy-open-source-issues",
+      "number": 237,
+      "description": "feat: add API date-time format validator",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1096683529",
+      "pullRequestId": "6457748298",
+      "pullRequestNodeId": "PR_kwDOQV4QCc8AAAABP_YN7A"
+    },
+    {
       "repository": "Mr-Dark-debug/Moonfold",
       "number": 17,
       "description": "Map OpenCode usage-limit errors to handoff",
@@ -3594,6 +3634,16 @@
       "repositoryId": "1374866469",
       "pullRequestId": "6141481034",
       "pullRequestNodeId": "PR_kwDOUfLMJc8AAAABMCie0A"
+    },
+    {
+      "repository": "Open-Glassbeetle/glassbeetle",
+      "number": 372,
+      "description": "ci: compile Rust desktop shell in CI",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1364856047",
+      "pullRequestId": "6529269066",
+      "pullRequestNodeId": "PR_kwDOUVoM788AAAABQ4vhtg"
     },
     {
       "repository": "open-telemetry/opentelemetry-kotlin",
@@ -4024,6 +4074,26 @@
       "repositoryId": "1402168110",
       "pullRequestId": "6253637272",
       "pullRequestNodeId": "PR_kwDOU5NjLs8AAAABNcY80A"
+    },
+    {
+      "repository": "rp2839/visio-mcp",
+      "number": 102,
+      "description": "docs(a02): add current-build manual acceptance record",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1402168110",
+      "pullRequestId": "6420327285",
+      "pullRequestNodeId": "PR_kwDOU5NjLs8AAAABPhCQ8A"
+    },
+    {
+      "repository": "rp2839/visio-mcp",
+      "number": 103,
+      "description": "docs(a03): add cross-environment acceptance matrix",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1402168110",
+      "pullRequestId": "6420333134",
+      "pullRequestNodeId": "PR_kwDOU5NjLs8AAAABPhCkcg"
     },
     {
       "repository": "scs0209/claude-locator",

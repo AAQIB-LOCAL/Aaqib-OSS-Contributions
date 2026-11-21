@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1020,
+  "authoredPullRequestHighWatermark": 1028,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1020,
+  "lastObservedPublicAuthoredPullRequestCount": 1028,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -1176,16 +1176,6 @@
       "pullRequestNodeId": "PR_kwDOVSF6O88AAAABNs4umg"
     },
     {
-      "repository": "Carmineh/CreateMobGrinding",
-      "number": 13,
-      "description": "compat: add Guard Villagers entity to tier 3",
-      "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true,
-      "repositoryId": "1254394310",
-      "pullRequestId": "6363762550",
-      "pullRequestNodeId": "PR_kwDOSsSJxs8AAAABO0Kkmw"
-    },
-    {
       "repository": "cellrishi-code/claude-skills-atlas",
       "number": 198,
       "description": "docs: add guide for maintainable skill tests",
@@ -1234,6 +1224,16 @@
       "repositoryId": "1384702527",
       "pullRequestId": "6153863661",
       "pullRequestNodeId": "PR_kwDOUojiP88AAAABMMK2aQ"
+    },
+    {
+      "repository": "chocolatey-community/chocolatey-packages",
+      "number": 2860,
+      "description": "(nircmd) Document antivirus false-positive detections",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "8542523",
+      "pullRequestId": "6479728881",
+      "pullRequestNodeId": "PR_kwDOAIJZO88AAAABQREaRw"
     },
     {
       "repository": "codekongdev/plz",
@@ -1574,6 +1574,26 @@
       "repositoryId": "1421099721",
       "pullRequestId": "6134446417",
       "pullRequestNodeId": "PR_kwDOVLRCyc8AAAABL9FyBg"
+    },
+    {
+      "repository": "DhruvHarani1/lyra",
+      "number": 63,
+      "description": "fix: prevent Indic lyric glyph clipping (#50)",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1421099721",
+      "pullRequestId": "6404150476",
+      "pullRequestNodeId": "PR_kwDOVLRCyc8AAAABPURBtw"
+    },
+    {
+      "repository": "DhruvHarani1/lyra",
+      "number": 64,
+      "description": "feat: add Focus and Auto fullscreen layouts (#49)",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1421099721",
+      "pullRequestId": "6404154169",
+      "pullRequestNodeId": "PR_kwDOVLRCyc8AAAABPURNdw"
     },
     {
       "repository": "DhruvHarani1/vega",
@@ -2144,6 +2164,16 @@
       "repositoryId": "1443260096",
       "pullRequestId": "6192327316",
       "pullRequestNodeId": "PR_kwDOVgZmwM8AAAABMrJP4w"
+    },
+    {
+      "repository": "GianlucaBave/murmury",
+      "number": 127,
+      "description": "feat: make unambiguous source tags clickable",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1443260096",
+      "pullRequestId": "6478761507",
+      "pullRequestNodeId": "PR_kwDOVgZmwM8AAAABQQTKpg"
     },
     {
       "repository": "GillMacedo/racesift",
@@ -2756,6 +2786,16 @@
       "pullRequestNodeId": "PR_kwDOU6vZDs8AAAABO0P7PQ"
     },
     {
+      "repository": "JackFurton/who-would-build-a-kernel-in-java",
+      "number": 305,
+      "description": "feat(kernel): support musl startup system calls",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1403771150",
+      "pullRequestId": "6508718486",
+      "pullRequestNodeId": "PR_kwDOU6vZDs8AAAABQoXiUw"
+    },
+    {
       "repository": "jaikaran109/51_Web_Projects",
       "number": 169,
       "description": "Fix: add playable shapes game and correct layout",
@@ -3026,6 +3066,16 @@
       "pullRequestNodeId": "PR_kwDOVVoz288AAAABPWAkdg"
     },
     {
+      "repository": "lacs-project/sysknife",
+      "number": 813,
+      "description": "fix(ci): harden test reachability detection",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1270714989",
+      "pullRequestId": "6484039336",
+      "pullRequestNodeId": "PR_kwDOS72Sbc8AAAABQUfzOA"
+    },
+    {
       "repository": "Larson-Logan/medal-sync",
       "number": 114,
       "description": "fix(cli): align help command categories",
@@ -3164,6 +3214,16 @@
       "repositoryId": "1367634272",
       "pullRequestId": "5933493750",
       "pullRequestNodeId": "PR_kwDOUYRxYM8AAAABJcrnvQ"
+    },
+    {
+      "repository": "Manny-Minecraft/CreateMobGrinding",
+      "number": 13,
+      "description": "compat: add Guard Villagers entity to tier 3",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1254394310",
+      "pullRequestId": "6363762550",
+      "pullRequestNodeId": "PR_kwDOSsSJxs8AAAABO0Kkmw"
     },
     {
       "repository": "marstr/baronial",

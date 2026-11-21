@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>495</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>232</strong><br/>External repositories</td>
-    <td align="center"><strong>1020</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>501</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>234</strong><br/>External repositories</td>
+    <td align="center"><strong>1028</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 495 merged pull requests</summary>
+<summary>Browse all 501 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -232,12 +232,12 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#11](https://github.com/Bytewave1/dkit/pull/11) | test: broaden CLI edge-case coverage (#8) | Merged |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#95](https://github.com/Bytewave1/dkit/pull/95) | docs: add GitHub issue forms and PR template | Merged |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | [#96](https://github.com/Bytewave1/dkit/pull/96) | feat: add guild configuration level lookups | Merged |
-| [Carmineh/CreateMobGrinding](https://github.com/Carmineh/CreateMobGrinding) | [#13](https://github.com/Carmineh/CreateMobGrinding/pull/13) | compat: add Guard Villagers entity to tier 3 | Merged |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#198](https://github.com/cellrishi-code/claude-skills-atlas/pull/198) | docs: add guide for maintainable skill tests | Merged |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#211](https://github.com/cellrishi-code/claude-skills-atlas/pull/211) | Add static smoke tests for documented examples | Merged |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | [#212](https://github.com/cellrishi-code/claude-skills-atlas/pull/212) | docs: add resource category READMEs | Merged |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | [#545](https://github.com/chaoss/CollectOSS/pull/545) | docs: fix sample database compose formatting | Merged |
 | [chipfighter/context-attachment-manager](https://github.com/chipfighter/context-attachment-manager) | [#17](https://github.com/chipfighter/context-attachment-manager/pull/17) | Add custom endpoint troubleshooting checklist | Merged |
+| [chocolatey-community/chocolatey-packages](https://github.com/chocolatey-community/chocolatey-packages) | [#2860](https://github.com/chocolatey-community/chocolatey-packages/pull/2860) | (nircmd) Document antivirus false-positive detections | Merged |
 | [codekongdev/plz](https://github.com/codekongdev/plz) | [#43](https://github.com/codekongdev/plz/pull/43) | docs(plz-3d-explain): distinguish key reads from exfiltration | Merged |
 | [codekongdev/plz](https://github.com/codekongdev/plz) | [#44](https://github.com/codekongdev/plz/pull/44) | docs(plz-3d-explain): clarify Python state persistence | Merged |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | [#29](https://github.com/codercops/discord-bot/pull/29) | fix: skip unchanged starter issue feed edits | Merged |
@@ -272,6 +272,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#43](https://github.com/DhruvHarani1/lyra/pull/43) | Fix/issue 31 android compatibility report | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#44](https://github.com/DhruvHarani1/lyra/pull/44) | feat(studio): add deterministic motion backgrounds | Merged |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#59](https://github.com/DhruvHarani1/lyra/pull/59) | feat: add fullscreen keyboard shortcuts (#52) | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#63](https://github.com/DhruvHarani1/lyra/pull/63) | fix: prevent Indic lyric glyph clipping (#50) | Merged |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | [#64](https://github.com/DhruvHarani1/lyra/pull/64) | feat: add Focus and Auto fullscreen layouts (#49) | Merged |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#25](https://github.com/DhruvHarani1/vega/pull/25) | feat(library): recover unavailable local music files | Merged |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#26](https://github.com/DhruvHarani1/vega/pull/26) | Improve provider failure diagnostics and recovery | Merged |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#27](https://github.com/DhruvHarani1/vega/pull/27) | feat(playlists): import and export M3U8 and JSON playlists | Merged |
@@ -329,6 +331,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#278](https://github.com/getsotto/sotto/pull/278) | fix(web): prevent duplicate environment shares | Merged |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | [#12](https://github.com/ggfto/DroidDeck/pull/12) | feat(i18n): add Hindi language option | Merged |
 | [GianlucaBave/murmury](https://github.com/GianlucaBave/murmury) | [#15](https://github.com/GianlucaBave/murmury/pull/15) | Add Ollama and LM Studio local providers | Merged |
+| [GianlucaBave/murmury](https://github.com/GianlucaBave/murmury) | [#127](https://github.com/GianlucaBave/murmury/pull/127) | feat: make unambiguous source tags clickable | Merged |
 | [GillMacedo/racesift](https://github.com/GillMacedo/racesift) | [#11](https://github.com/GillMacedo/racesift/pull/11) | test: cover Windows race report paths | Merged |
 | [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) | [#202](https://github.com/gmi-software/react-native-better-maps/pull/202) | fix(ios): expose localized provider configuration errors | Merged |
 | [got-a-page/website](https://github.com/got-a-page/website) | [#21](https://github.com/got-a-page/website/pull/21) | feat: add answer-engine metadata and llms.txt | Merged |
@@ -390,6 +393,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#247](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/247) | Add insertion-ordered LinkedHashMap | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#261](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/261) | Math: Add nextUp, nextDown, nextAfter, ulp and scalb | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#289](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/289) | fix: preserve quoted pipe arguments in shell | Merged |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#305](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/305) | feat(kernel): support musl startup system calls | Merged |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#169](https://github.com/jaikaran109/51_Web_Projects/pull/169) | Fix: add playable shapes game and correct layout | Merged |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#253](https://github.com/jaikaran109/51_Web_Projects/pull/253) | perf: optimize raster images and lazy-load page media | Merged |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#254](https://github.com/jaikaran109/51_Web_Projects/pull/254) | fix: add SEO metadata and SVG favicons to project pages | Merged |
@@ -417,6 +421,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [laaielichter/Godotwright](https://github.com/laaielichter/Godotwright) | [#234](https://github.com/laaielichter/Godotwright/pull/234) | feat: add park bench recipe | Merged |
 | [lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop) | [#209](https://github.com/lachydotmcg/capri-desktop/pull/209) | fix: fade mod status messages after a delay | Merged |
 | [lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop) | [#270](https://github.com/lachydotmcg/capri-desktop/pull/270) | Add a Minecraft starter skill | Merged |
+| [lacs-project/sysknife](https://github.com/lacs-project/sysknife) | [#813](https://github.com/lacs-project/sysknife/pull/813) | fix(ci): harden test reachability detection | Merged |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | [#114](https://github.com/Larson-Logan/medal-sync/pull/114) | fix(cli): align help command categories | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#14](https://github.com/LennardGeissler/blindbucket/pull/14) | feat(cli): add JSON output to keys list | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#192](https://github.com/LennardGeissler/blindbucket/pull/192) | feat(cli): report Go build metadata in version output | Merged |
@@ -431,6 +436,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | [#51](https://github.com/MAKHMUDuz/melyar/pull/51) | fix(core): discover yt-dlp across platforms | Merged |
 | [MAKHMUDuz/melyar](https://github.com/MAKHMUDuz/melyar) | [#52](https://github.com/MAKHMUDuz/melyar/pull/52) | perf(core): isolate CXX bridge compilation | Merged |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | [#32](https://github.com/malav2110/explain-diff-html/pull/32) | fix: name verification artifacts and omit attribution claims | Merged |
+| [Manny-Minecraft/CreateMobGrinding](https://github.com/Manny-Minecraft/CreateMobGrinding) | [#13](https://github.com/Manny-Minecraft/CreateMobGrinding/pull/13) | compat: add Guard Villagers entity to tier 3 | Merged |
 | [marstr/baronial](https://github.com/marstr/baronial) | [#133](https://github.com/marstr/baronial/pull/133) | Check for Perl before building on Windows | Merged |
 | [marstr/baronial](https://github.com/marstr/baronial) | [#134](https://github.com/marstr/baronial/pull/134) | Handle diff against an empty repository | Merged |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | Preserve Open With intake order with desktop regression coverage | Merged |
@@ -616,21 +622,21 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 232 external repositories</summary>
+<summary>Browse merged PR counts across 234 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
 | [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | 15 |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | 12 |
-| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 9 |
+| [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 11 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 9 |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 9 |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 8 |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 7 |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 7 |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 6 |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 6 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
-| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 6 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
@@ -702,6 +708,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 2 |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 2 |
 | [flisk-sh/flisk](https://github.com/flisk-sh/flisk) | 2 |
+| [GianlucaBave/murmury](https://github.com/GianlucaBave/murmury) | 2 |
 | [got-a-page/website](https://github.com/got-a-page/website) | 2 |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 2 |
 | [laaielichter/Godotwright](https://github.com/laaielichter/Godotwright) | 2 |
@@ -755,9 +762,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [blixvip/thumbnail-studio](https://github.com/blixvip/thumbnail-studio) | 1 |
 | [boromat/polanon](https://github.com/boromat/polanon) | 1 |
 | [brokspace/brok](https://github.com/brokspace/brok) | 1 |
-| [Carmineh/CreateMobGrinding](https://github.com/Carmineh/CreateMobGrinding) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [chipfighter/context-attachment-manager](https://github.com/chipfighter/context-attachment-manager) | 1 |
+| [chocolatey-community/chocolatey-packages](https://github.com/chocolatey-community/chocolatey-packages) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) | 1 |
 | [ColinGPT9/clips-studio](https://github.com/ColinGPT9/clips-studio) | 1 |
@@ -783,7 +790,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [gabrielvieiraf/finitemonkey](https://github.com/gabrielvieiraf/finitemonkey) | 1 |
 | [Gautam-aman/ResQNet](https://github.com/Gautam-aman/ResQNet) | 1 |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | 1 |
-| [GianlucaBave/murmury](https://github.com/GianlucaBave/murmury) | 1 |
 | [GillMacedo/racesift](https://github.com/GillMacedo/racesift) | 1 |
 | [gmi-software/react-native-better-maps](https://github.com/gmi-software/react-native-better-maps) | 1 |
 | [GuiDobelin/citerag](https://github.com/GuiDobelin/citerag) | 1 |
@@ -798,12 +804,14 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [jzheaux/reader](https://github.com/jzheaux/reader) | 1 |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | 1 |
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | 1 |
+| [lacs-project/sysknife](https://github.com/lacs-project/sysknife) | 1 |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | 1 |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | 1 |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
 | [livesport/homer](https://github.com/livesport/homer) | 1 |
 | [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | 1 |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | 1 |
+| [Manny-Minecraft/CreateMobGrinding](https://github.com/Manny-Minecraft/CreateMobGrinding) | 1 |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | 1 |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | 1 |
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | 1 |
@@ -852,7 +860,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **495** |
+| **Total** | **501** |
 
 </details>
 
@@ -869,7 +877,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **1020 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1028 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

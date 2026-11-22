@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1036,
+  "authoredPullRequestHighWatermark": 1040,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1036,
+  "lastObservedPublicAuthoredPullRequestCount": 1040,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -654,6 +654,16 @@
       "repositoryId": "1234568358",
       "pullRequestId": "6404512989",
       "pullRequestNodeId": "PR_kwDOSZYEps8AAAABPUi2-A"
+    },
+    {
+      "repository": "BinaryBaconLabs/todo-app",
+      "number": 45,
+      "description": "feat: highlight matching text in todo search results",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1234568358",
+      "pullRequestId": "6532642071",
+      "pullRequestNodeId": "PR_kwDOSZYEps8AAAABQ7Yczw"
     },
     {
       "repository": "biolend83/tubehaus",
@@ -3246,6 +3256,16 @@
       "pullRequestNodeId": "PR_kwDOUYRxYM8AAAABJcrnvQ"
     },
     {
+      "repository": "malav2110/explain-diff-html",
+      "number": 45,
+      "description": "fix: detect raw end tags and comments inside code blocks",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1367634272",
+      "pullRequestId": "6411458155",
+      "pullRequestNodeId": "PR_kwDOUYRxYM8AAAABPZ7aFA"
+    },
+    {
       "repository": "Manny-Minecraft/CreateMobGrinding",
       "number": 13,
       "description": "compat: add Guard Villagers entity to tier 3",
@@ -3946,6 +3966,16 @@
       "pullRequestNodeId": "PR_kwDOVMCFFc8AAAABMC2Wyw"
     },
     {
+      "repository": "rakeshnitb23/toolism",
+      "number": 190,
+      "description": "test(mcp): cover stderr tail edge cases",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1421903125",
+      "pullRequestId": "6395593762",
+      "pullRequestNodeId": "PR_kwDOVMCFFc8AAAABPNoBdg"
+    },
+    {
       "repository": "recodehive/Opensource-practice",
       "number": 216,
       "description": "Add aaqibhafeez khan",
@@ -4474,6 +4504,16 @@
       "repositoryId": "1434338030",
       "pullRequestId": "6214312740",
       "pullRequestNodeId": "PR_kwDOVX5C7s8AAAABM82cdQ"
+    },
+    {
+      "repository": "Tektrix/pinfold",
+      "number": 100,
+      "description": "Test ARIA references on settings and dashboard",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1434338030",
+      "pullRequestId": "6532849784",
+      "pullRequestNodeId": "PR_kwDOVX5C7s8AAAABQ7inTg"
     },
     {
       "repository": "terraplane-org/terraplane",

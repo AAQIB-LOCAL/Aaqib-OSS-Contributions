@@ -914,17 +914,19 @@ The broader audit currently discovers **1045 authored GitHub pull requests** for
 
 ## Automation
 
-GitHub Actions refreshes this date-free ledger daily or on manual workflow dispatch.
+GitHub Actions refreshes this date-free ledger daily or on manual workflow dispatch. Audit generation and source validation run as separate workflows so a routine data refresh does not repeat the full test, static-analysis, and build pipeline.
 
-The audit is implemented as a standard-library-only Go program. CI runs its regression tests and static analysis, then builds a statically linked Linux executable with `CGO_ENABLED=0`. The workflow does not install Node.js, npm, TypeScript, or third-party Go modules.
+The audit is implemented as a standard-library-only Go program. The dedicated Go CI workflow runs regression tests with the race detector and coverage, runs `go vet`, and builds a statically linked Linux executable when relevant source or workflow files change. Both workflows use the Go build cache and a shallow checkout. The audit workflow runs the program directly with `go run`, avoiding a separate build step immediately before execution. No Node.js, npm, TypeScript, or third-party Go modules are installed.
 
-The workflow:
+The workflows:
 
-1. validates the Go source with regression tests and `go vet`;
-2. builds and runs the standalone contribution-audit executable;
-3. queries GitHub and merges newly discovered PRs into the durable historical ledger;
-4. regenerates date-free contribution rows and technical summaries;
-5. commits README and ledger changes to `main` only when content changes.
+1. validate source changes in pull requests and pushes to `main`;
+2. refresh the ledger daily or on manual dispatch without rerunning source-validation steps;
+3. query GitHub and merge discovered PRs into the durable historical ledger;
+4. regenerate date-free contribution rows and technical summaries;
+5. commit README and ledger changes to `main` only when content changes.
+
+The scheduled audit still performs the existing complete Search API reconciliation. Incremental discovery is intentionally not enabled until it has its own durable checkpoint, overlap window, and failure-safe reconciliation tests.
 
 
 ## Contribution Counting Rules

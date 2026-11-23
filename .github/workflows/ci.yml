@@ -1,31 +1,16 @@
 name: Go CI
 
 on:
-  pull_request:
-    paths:
-      - ".github/workflows/ci.yml"
-      - ".github/workflows/audit-contributions.yml"
-      - "cmd/**"
-      - "internal/**"
-      - "go.mod"
-      - "go.sum"
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/ci.yml"
-      - ".github/workflows/audit-contributions.yml"
-      - "cmd/**"
-      - "internal/**"
-      - "go.mod"
-      - "go.sum"
+  schedule:
+    - cron: "0 4 * * 0"
+  workflow_dispatch:
 
 permissions:
   contents: read
 
 concurrency:
-  group: go-ci-${{ github.ref }}
-  cancel-in-progress: true
+  group: go-ci
+  cancel-in-progress: false
 
 jobs:
   test:

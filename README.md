@@ -922,11 +922,11 @@ The broader audit currently discovers **1050 authored GitHub pull requests** for
 
 GitHub Actions refreshes this date-free ledger daily or on manual workflow dispatch. Audit generation and source validation run as separate workflows so a routine data refresh does not repeat the full test, static-analysis, and build pipeline.
 
-The audit is implemented as a standard-library-only Go program. The dedicated Go CI workflow runs regression tests with the race detector and coverage, runs `go vet`, and builds a statically linked Linux executable when relevant source or workflow files change. Both workflows use the Go build cache and a shallow checkout. The audit workflow runs the program directly with `go run`, avoiding a separate build step immediately before execution. No Node.js, npm, TypeScript, or third-party Go modules are installed.
+The audit is implemented as a standard-library-only Go program. The dedicated Go CI workflow runs regression tests with the race detector and coverage, runs `go vet`, and builds a statically linked Linux executable every Sunday at 04:00 UTC or when manually dispatched. It does not run on pushes, merges, or pull request events. Both workflows use the Go build cache and a shallow checkout. The audit workflow runs the program directly with `go run`, avoiding a separate build step immediately before execution. No Node.js, npm, TypeScript, or third-party Go modules are installed.
 
 The workflows:
 
-1. validate source changes in pull requests and pushes to `main`;
+1. validate the Go source weekly or on manual workflow dispatch;
 2. refresh the ledger daily or on manual dispatch without rerunning source-validation steps;
 3. query GitHub and merge discovered PRs into the durable historical ledger;
 4. regenerate date-free contribution rows and technical summaries;

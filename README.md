@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>527</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>239</strong><br/>External repositories</td>
-    <td align="center"><strong>1055</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>529</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>240</strong><br/>External repositories</td>
+    <td align="center"><strong>1062</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 527 merged pull requests</summary>
+<summary>Browse all 529 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -244,6 +244,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [chocolatey-community/chocolatey-packages](https://github.com/chocolatey-community/chocolatey-packages) | [#2860](https://github.com/chocolatey-community/chocolatey-packages/pull/2860) | (nircmd) Document antivirus false-positive detections | Merged |
 | [codekongdev/plz](https://github.com/codekongdev/plz) | [#43](https://github.com/codekongdev/plz/pull/43) | docs(plz-3d-explain): distinguish key reads from exfiltration | Merged |
 | [codekongdev/plz](https://github.com/codekongdev/plz) | [#44](https://github.com/codekongdev/plz/pull/44) | docs(plz-3d-explain): clarify Python state persistence | Merged |
+| [codepiyusss/open_source_issue_contribution](https://github.com/codepiyusss/open_source_issue_contribution) | [#162](https://github.com/codepiyusss/open_source_issue_contribution/pull/162) | Add Hypothesis property tests for issue #106 | Merged |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | [#29](https://github.com/codercops/discord-bot/pull/29) | fix: skip unchanged starter issue feed edits | Merged |
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) | [#332](https://github.com/codercops/toolbelt/pull/332) | fix(base64): report original invalid character positions | Merged |
 | [ColinGPT9/clips-studio](https://github.com/ColinGPT9/clips-studio) | [#217](https://github.com/ColinGPT9/clips-studio/pull/217) | fix(i18n): translate UI attributes across components | Merged |
@@ -572,6 +573,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#24](https://github.com/stlynnxx/Slippery-Penguin/pull/24) | feat: add CSV report generation | Merged |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#25](https://github.com/stlynnxx/Slippery-Penguin/pull/25) | docs: add wiki installation guide for issue #10 | Merged |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#28](https://github.com/stlynnxx/Slippery-Penguin/pull/28) | test: add core scanner regression coverage | Merged |
+| [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | [#37](https://github.com/stlynnxx/Slippery-Penguin/pull/37) | Deduplicate scan findings and retain detection evidence | Merged |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#477](https://github.com/StudentSuite/awesome-study-resources/pull/477) | fix: require HTTPS for study resources (#467) | Merged |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#478](https://github.com/StudentSuite/awesome-study-resources/pull/478) | docs: align PR guidance with contribution workflow (#470) | Merged |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | [#283](https://github.com/TanbirRamim/open-source-radar/pull/283) | feat(i18n): add German website locale | Merged |
@@ -648,7 +650,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 239 external repositories</summary>
+<summary>Browse merged PR counts across 240 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -663,6 +665,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 6 |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 6 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
+| [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 6 |
 | [adlerqa/wardeniq](https://github.com/adlerqa/wardeniq) | 5 |
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 5 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
@@ -672,7 +675,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | 5 |
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
-| [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 5 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 5 |
 | [ujjwalv01/releaseproof](https://github.com/ujjwalv01/releaseproof) | 5 |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
@@ -797,6 +799,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [chipfighter/context-attachment-manager](https://github.com/chipfighter/context-attachment-manager) | 1 |
 | [chocolatey-community/chocolatey-packages](https://github.com/chocolatey-community/chocolatey-packages) | 1 |
+| [codepiyusss/open_source_issue_contribution](https://github.com/codepiyusss/open_source_issue_contribution) | 1 |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | 1 |
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) | 1 |
 | [ColinGPT9/clips-studio](https://github.com/ColinGPT9/clips-studio) | 1 |
@@ -891,7 +894,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **527** |
+| **Total** | **529** |
 
 </details>
 
@@ -908,7 +911,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **1055 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1062 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

@@ -52,6 +52,8 @@ The broader audit currently discovers **20 authored GitHub pull requests** for t
 |---|---:|
 | [external/repo](https://github.com/external/repo) | 1 |
 | **Total** | **1** |
+
+</details>
 `
 	if err := os.WriteFile(readmePath, []byte(readme), 0o644); err != nil {
 		t.Fatal(err)
@@ -113,8 +115,10 @@ The broader audit currently discovers **20 authored GitHub pull requests** for t
 	if err != nil {
 		t.Fatal(err)
 	}
-	if !strings.Contains(string(updatedReadme), "Historical contribution") || !strings.Contains(string(updatedReadme), "Curated description") || !strings.Contains(string(updatedReadme), "**20 authored GitHub pull requests**") {
-		t.Fatalf("generated README is missing expected retained content:\n%s", updatedReadme)
+	if !strings.Contains(string(updatedReadme), "interactive dashboard") ||
+		!strings.Contains(string(updatedReadme), "**20 authored GitHub pull requests**") ||
+		strings.Contains(string(updatedReadme), "| Repository | PR |") {
+		t.Fatalf("generated README is not compact or is missing the dashboard link:\n%s", updatedReadme)
 	}
 }
 

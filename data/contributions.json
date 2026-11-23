@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1050,
+  "authoredPullRequestHighWatermark": 1055,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1050,
+  "lastObservedPublicAuthoredPullRequestCount": 1055,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -3664,6 +3664,16 @@
       "repositoryId": "1195552466",
       "pullRequestId": "6254106898",
       "pullRequestNodeId": "PR_kwDOR0Ku0s8AAAABNcwo1Q"
+    },
+    {
+      "repository": "nikhilb2/simple-invoicing-free-gst-billing-software",
+      "number": 954,
+      "description": "ci: add nightly Playwright end-to-end workflow",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1195552466",
+      "pullRequestId": "6556206087",
+      "pullRequestNodeId": "PR_kwDOR0Ku0s8AAAABRN8Ozg"
     },
     {
       "repository": "nitturkaryash/open-bpo",

@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>526</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>527</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>239</strong><br/>External repositories</td>
-    <td align="center"><strong>1050</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>1055</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 526 merged pull requests</summary>
+<summary>Browse all 527 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -481,6 +481,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#596](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/596) | fix(backend): validate invoice item tax overrides | Merged |
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#624](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/624) | fix: exclude purchase invoices from GSTR-1 validation | Merged |
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#771](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/771) | feat: add effective-dated TDS/TCS foundation | Merged |
+| [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | [#954](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/pull/954) | ci: add nightly Playwright end-to-end workflow | Merged |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#14](https://github.com/nitturkaryash/open-bpo/pull/14) | feat(console): show session elapsed duration | Merged |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#18](https://github.com/nitturkaryash/open-bpo/pull/18) | Validate recipe IDs in demo call requests | Merged |
 | [nitturkaryash/open-bpo](https://github.com/nitturkaryash/open-bpo) | [#19](https://github.com/nitturkaryash/open-bpo/pull/19) | Improve demo shutdown logging | Merged |
@@ -669,6 +670,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
 | [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | 5 |
+| [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 5 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 5 |
@@ -685,7 +687,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 4 |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | 4 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
-| [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | 4 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 4 |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | 4 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 4 |
@@ -890,7 +891,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **526** |
+| **Total** | **527** |
 
 </details>
 
@@ -907,7 +908,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **1050 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1055 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

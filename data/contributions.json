@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1045,
+  "authoredPullRequestHighWatermark": 1050,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1045,
+  "lastObservedPublicAuthoredPullRequestCount": 1050,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -114,6 +114,26 @@
       "repositoryId": "1296811975",
       "pullRequestId": "6462716839",
       "pullRequestNodeId": "PR_kwDOTUvHx88AAAABQDVVMQ"
+    },
+    {
+      "repository": "adlerqa/wardeniq",
+      "number": 298,
+      "description": "fix(frontend): show provider-aware Embeddings and SMTP placeholders",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1296811975",
+      "pullRequestId": "6462726027",
+      "pullRequestNodeId": "PR_kwDOTUvHx88AAAABQDVz0g"
+    },
+    {
+      "repository": "adlerqa/wardeniq",
+      "number": 299,
+      "description": "fix(llm): reject non-finite timeouts and clarify timeout behavior",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1296811975",
+      "pullRequestId": "6462732341",
+      "pullRequestNodeId": "PR_kwDOTUvHx88AAAABQDWIhw"
     },
     {
       "repository": "Aepzie/cutline",
@@ -3147,6 +3167,16 @@
     },
     {
       "repository": "laaielichter/Stashpad",
+      "number": 108,
+      "description": "Add OpenCode MCP setup support",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1421763008",
+      "pullRequestId": "6529170486",
+      "pullRequestNodeId": "PR_kwDOVL5hwM8AAAABQ4qjwA"
+    },
+    {
+      "repository": "laaielichter/Stashpad",
       "number": 109,
       "description": "Translate review UI into English",
       "firstRecordedIn": "GitHub Search API",
@@ -3344,6 +3374,16 @@
       "repositoryId": "1254394310",
       "pullRequestId": "6363762550",
       "pullRequestNodeId": "PR_kwDOSsSJxs8AAAABO0Kkmw"
+    },
+    {
+      "repository": "marcovisona/arca",
+      "number": 6,
+      "description": "test: cover Unicode ZIP filenames",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1425262076",
+      "pullRequestId": "5970535502",
+      "pullRequestNodeId": "PR_kwDOVPPF_M8AAAABJ6QB2g"
     },
     {
       "repository": "marstr/baronial",
@@ -4624,6 +4664,16 @@
       "repositoryId": "1358992893",
       "pullRequestId": "5879810382",
       "pullRequestNodeId": "PR_kwDOUQCV_c8AAAABIya0Ig"
+    },
+    {
+      "repository": "TheVicky1/Pact_OS",
+      "number": 790,
+      "description": "feat(audio): add amplitude and decibel converters",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1358992893",
+      "pullRequestId": "6528491925",
+      "pullRequestNodeId": "PR_kwDOUQCV_c8AAAABQ4IwVQ"
     },
     {
       "repository": "thiagomvas/haven",

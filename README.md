@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>521</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>238</strong><br/>External repositories</td>
-    <td align="center"><strong>1045</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>526</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>239</strong><br/>External repositories</td>
+    <td align="center"><strong>1050</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 521 merged pull requests</summary>
+<summary>Browse all 526 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -126,6 +126,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [adlerqa/wardeniq](https://github.com/adlerqa/wardeniq) | [#228](https://github.com/adlerqa/wardeniq/pull/228) | fix: handle installer runs without a tty | Merged |
 | [adlerqa/wardeniq](https://github.com/adlerqa/wardeniq) | [#229](https://github.com/adlerqa/wardeniq/pull/229) | fix(config): make Ollama settings fields optional | Merged |
 | [adlerqa/wardeniq](https://github.com/adlerqa/wardeniq) | [#297](https://github.com/adlerqa/wardeniq/pull/297) | fix(run.ps1): fail fast when Docker Compose build/start fails | Merged |
+| [adlerqa/wardeniq](https://github.com/adlerqa/wardeniq) | [#298](https://github.com/adlerqa/wardeniq/pull/298) | fix(frontend): show provider-aware Embeddings and SMTP placeholders | Merged |
+| [adlerqa/wardeniq](https://github.com/adlerqa/wardeniq) | [#299](https://github.com/adlerqa/wardeniq/pull/299) | fix(llm): reject non-finite timeouts and clarify timeout behavior | Merged |
 | [Aepzie/cutline](https://github.com/Aepzie/cutline) | [#25](https://github.com/Aepzie/cutline/pull/25) | feat(render): highlight timed caption words | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#34](https://github.com/afrigov/afrigov/pull/34) | fix(pack): accurate Maasai shield in ke.svg | Merged |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | [#35](https://github.com/afrigov/afrigov/pull/35) | fix(pack): document Senegal NIN format | Merged |
@@ -429,6 +431,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#164](https://github.com/laaielichter/Ai-edit-studio/pull/164) | docs: keep studio_edit operation guide in sync | Merged |
 | [laaielichter/Godotwright](https://github.com/laaielichter/Godotwright) | [#155](https://github.com/laaielichter/Godotwright/pull/155) | feat(ci): emit GitHub workflow annotations | Merged |
 | [laaielichter/Godotwright](https://github.com/laaielichter/Godotwright) | [#234](https://github.com/laaielichter/Godotwright/pull/234) | feat: add park bench recipe | Merged |
+| [laaielichter/Stashpad](https://github.com/laaielichter/Stashpad) | [#108](https://github.com/laaielichter/Stashpad/pull/108) | Add OpenCode MCP setup support | Merged |
 | [laaielichter/Stashpad](https://github.com/laaielichter/Stashpad) | [#109](https://github.com/laaielichter/Stashpad/pull/109) | Translate review UI into English | Merged |
 | [lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop) | [#209](https://github.com/lachydotmcg/capri-desktop/pull/209) | fix: fade mod status messages after a delay | Merged |
 | [lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop) | [#270](https://github.com/lachydotmcg/capri-desktop/pull/270) | Add a Minecraft starter skill | Merged |
@@ -449,6 +452,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | [#32](https://github.com/malav2110/explain-diff-html/pull/32) | fix: name verification artifacts and omit attribution claims | Merged |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | [#45](https://github.com/malav2110/explain-diff-html/pull/45) | fix: detect raw end tags and comments inside code blocks | Merged |
 | [Manny-Minecraft/CreateMobGrinding](https://github.com/Manny-Minecraft/CreateMobGrinding) | [#13](https://github.com/Manny-Minecraft/CreateMobGrinding/pull/13) | compat: add Guard Villagers entity to tier 3 | Merged |
+| [marcovisona/arca](https://github.com/marcovisona/arca) | [#6](https://github.com/marcovisona/arca/pull/6) | test: cover Unicode ZIP filenames | Merged |
 | [marstr/baronial](https://github.com/marstr/baronial) | [#133](https://github.com/marstr/baronial/pull/133) | Check for Perl before building on Windows | Merged |
 | [marstr/baronial](https://github.com/marstr/baronial) | [#134](https://github.com/marstr/baronial/pull/134) | Handle diff against an empty repository | Merged |
 | [McanKul/offpdf](https://github.com/McanKul/offpdf) | [#113](https://github.com/McanKul/offpdf/pull/113) | Preserve Open With intake order with desktop regression coverage | Merged |
@@ -577,6 +581,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#100](https://github.com/Tektrix/pinfold/pull/100) | Test ARIA references on settings and dashboard | Merged |
 | [terraplane-org/terraplane](https://github.com/terraplane-org/terraplane) | [#114](https://github.com/terraplane-org/terraplane/pull/114) | feat: Provide feedback for invalid Terraplane commands | Merged |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | [#613](https://github.com/TheVicky1/Pact_OS/pull/613) | a11y(projects): announce accent swatch names and selection | Merged |
+| [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | [#790](https://github.com/TheVicky1/Pact_OS/pull/790) | feat(audio): add amplitude and decibel converters | Merged |
 | [thiagomvas/haven](https://github.com/thiagomvas/haven) | [#160](https://github.com/thiagomvas/haven/pull/160) | feat(dashboard): refine service attention criteria (#152) | Merged |
 | [timihack/authwarden](https://github.com/timihack/authwarden) | [#47](https://github.com/timihack/authwarden/pull/47) | Fix/sqlmodel user store example | Merged |
 | [tonianev/eonmark](https://github.com/tonianev/eonmark) | [#17](https://github.com/tonianev/eonmark/pull/17) | fix(rules): reject zero rules version and arms cap | Merged |
@@ -642,7 +647,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 238 external repositories</summary>
+<summary>Browse merged PR counts across 239 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -657,6 +662,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 6 |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 6 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
+| [adlerqa/wardeniq](https://github.com/adlerqa/wardeniq) | 5 |
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 5 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 5 |
@@ -684,7 +690,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | 4 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
-| [adlerqa/wardeniq](https://github.com/adlerqa/wardeniq) | 3 |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 3 |
 | [blixvip/easyedit](https://github.com/blixvip/easyedit) | 3 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 3 |
@@ -736,6 +741,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [got-a-page/website](https://github.com/got-a-page/website) | 2 |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | 2 |
 | [laaielichter/Godotwright](https://github.com/laaielichter/Godotwright) | 2 |
+| [laaielichter/Stashpad](https://github.com/laaielichter/Stashpad) | 2 |
 | [lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop) | 2 |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | 2 |
 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | 2 |
@@ -756,6 +762,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [SpiliosDimakopoulos/fintwin](https://github.com/SpiliosDimakopoulos/fintwin) | 2 |
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | 2 |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 2 |
+| [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 2 |
 | [VarshithReddy2006/DevTrack](https://github.com/VarshithReddy2006/DevTrack) | 2 |
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 2 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
@@ -828,7 +835,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [jzheaux/reader](https://github.com/jzheaux/reader) | 1 |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | 1 |
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | 1 |
-| [laaielichter/Stashpad](https://github.com/laaielichter/Stashpad) | 1 |
 | [lacs-project/sysknife](https://github.com/lacs-project/sysknife) | 1 |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | 1 |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | 1 |
@@ -836,6 +842,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [livesport/homer](https://github.com/livesport/homer) | 1 |
 | [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | 1 |
 | [Manny-Minecraft/CreateMobGrinding](https://github.com/Manny-Minecraft/CreateMobGrinding) | 1 |
+| [marcovisona/arca](https://github.com/marcovisona/arca) | 1 |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | 1 |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | 1 |
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | 1 |
@@ -867,7 +874,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [semlith/semlith](https://github.com/semlith/semlith) | 1 |
 | [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | 1 |
 | [terraplane-org/terraplane](https://github.com/terraplane-org/terraplane) | 1 |
-| [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 1 |
 | [thiagomvas/haven](https://github.com/thiagomvas/haven) | 1 |
 | [timihack/authwarden](https://github.com/timihack/authwarden) | 1 |
 | [tonianev/eonmark](https://github.com/tonianev/eonmark) | 1 |
@@ -884,7 +890,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **521** |
+| **Total** | **526** |
 
 </details>
 
@@ -901,7 +907,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **1045 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1050 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

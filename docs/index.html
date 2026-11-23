@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101411">
+  <meta name="description" content="Searchable portfolio of Aaqib's verified open-source contributions.">
+  <title>Aaqib OSS | Contribution Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="site-shell">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Aaqib OSS dashboard home">
+        <span class="brand-mark" aria-hidden="true">A</span>
+        <span><strong>Aaqib OSS</strong><small>Engineering contributions</small></span>
+      </a>
+      <nav class="top-links" aria-label="Main navigation">
+        <a href="https://github.com/Aaqibhafeezkhan" target="_blank" rel="noopener noreferrer">GitHub profile</a>
+        <a href="https://github.com/AAQIB-LOCAL/Aaqib-OSS-Contributions" target="_blank" rel="noopener noreferrer">Source repository</a>
+        <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch color theme">Light mode</button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="eyebrow-dot"></span> OPEN-SOURCE ENGINEERING PORTFOLIO</p>
+          <h1>Code shipped.<br><em>Impact you can inspect.</em></h1>
+          <p class="hero-description">A searchable record of merged contributions across external repositories. Explore the implementation work, inspect the upstream pull requests, and follow the engineering themes behind each change.</p>
+          <div class="hero-actions">
+            <a class="primary-link" href="#contributions">Explore contributions <span aria-hidden="true">↘</span></a>
+            <a class="secondary-link" href="https://github.com/AAQIB-LOCAL/Aaqib-OSS-Contributions/blob/main/data/contributions.json" target="_blank" rel="noopener noreferrer">View source dataset</a>
+          </div>
+        </div>
+        <aside class="hero-aside">
+          <div class="aside-orbit orbit-one"></div>
+          <div class="aside-orbit orbit-two"></div>
+          <div class="aside-content">
+            <span class="aside-label">CONTRIBUTION LEDGER</span>
+            <strong>Verified<br>upstream work</strong>
+            <span class="aside-caption">Every row links to its repository and merged pull request.</span>
+            <span class="aside-index">01 / OPEN SOURCE</span>
+          </div>
+        </aside>
+      </section>
+
+      <section class="stats-grid" aria-label="Contribution metrics">
+        <article class="stat-card stat-primary">
+          <span class="stat-label">MERGED UPSTREAM PRS</span>
+          <strong id="merged-count">—</strong>
+          <span class="stat-foot">Verified external contributions</span>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">EXTERNAL REPOSITORIES</span>
+          <strong id="repository-count">—</strong>
+          <span class="stat-foot">Distinct upstream projects</span>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">AUTHORED PRS</span>
+          <strong id="authored-count">—</strong>
+          <span class="stat-foot">Public high-water mark</span>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">AVERAGE PER REPOSITORY</span>
+          <strong id="average-count">—</strong>
+          <span class="stat-foot">Merged PRs per project</span>
+        </article>
+      </section>
+
+      <section class="insights-grid">
+        <article class="panel distribution-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">WHERE THE WORK LANDED</p>
+              <h2>Most active repositories</h2>
+            </div>
+            <span class="panel-index">01</span>
+          </div>
+          <div id="top-repositories" class="repository-bars" aria-live="polite">
+            <p class="loading-note">Loading repository breakdown…</p>
+          </div>
+        </article>
+        <article class="panel principles-panel">
+          <p class="eyebrow">HOW TO READ THIS LEDGER</p>
+          <h2>Evidence over activity.</h2>
+          <p>Only merged pull requests to external upstream repositories are counted. Open PRs, fork-only commits, and issue work are not included in the merged contribution total.</p>
+          <div class="principle-rule"></div>
+          <div class="principle-meta"><span>DATA SOURCE</span><a href="https://github.com/AAQIB-LOCAL/Aaqib-OSS-Contributions/blob/main/data/contributions.json" target="_blank" rel="noopener noreferrer">Committed JSON ledger ↗</a></div>
+          <div class="principle-meta"><span>REFRESH</span><strong>Daily audit workflow</strong></div>
+        </article>
+      </section>
+
+      <section class="panel ledger-panel" id="contributions">
+        <div class="panel-heading ledger-heading">
+          <div>
+            <p class="eyebrow">THE COMPLETE RECORD</p>
+            <h2>Contribution ledger</h2>
+            <p class="section-subtitle">Search by repository, pull request number, or contribution description.</p>
+          </div>
+          <span class="result-count" id="result-count">Loading…</span>
+        </div>
+
+        <div class="toolbar">
+          <label class="search-field">
+            <span class="sr-only">Search contributions</span>
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input id="search-input" type="search" placeholder="Search repository, PR, or description…" autocomplete="off">
+          </label>
+          <label class="filter-field">
+            <span class="sr-only">Filter by repository</span>
+            <select id="repository-filter">
+              <option value="">All repositories</option>
+            </select>
+          </label>
+          <label class="filter-field sort-field">
+            <span class="sr-only">Sort contributions</span>
+            <select id="sort-select">
+              <option value="repository">Repository A–Z</option>
+              <option value="pr-desc">PR number high to low</option>
+              <option value="pr-asc">PR number low to high</option>
+              <option value="repo-count">Most contributions first</option>
+            </select>
+          </label>
+          <label class="filter-field page-size-field">
+            <span class="sr-only">Rows per page</span>
+            <select id="page-size">
+              <option value="25">25 rows</option>
+              <option value="50">50 rows</option>
+              <option value="100">100 rows</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th scope="col">Repository</th>
+                <th scope="col">Pull request</th>
+                <th scope="col">Contribution</th>
+                <th scope="col">Status</th>
+              </tr>
+            </thead>
+            <tbody id="contribution-rows">
+              <tr><td colspan="4" class="loading-cell">Loading the contribution ledger…</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="empty-state" id="empty-state" hidden>
+          <strong>No contributions match those filters.</strong>
+          <span>Try another repository or a shorter search phrase.</span>
+        </div>
+
+        <div class="pagination">
+          <span id="pagination-summary" aria-live="polite">Preparing results…</span>
+          <div class="pagination-controls">
+            <button id="previous-page" type="button" disabled>← Previous</button>
+            <span id="page-indicator">Page 1 of 1</span>
+            <button id="next-page" type="button" disabled>Next →</button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>Built from a committed, auditable contribution ledger.</span>
+      <a href="https://github.com/AAQIB-LOCAL/Aaqib-OSS-Contributions" target="_blank" rel="noopener noreferrer">View repository ↗</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -57,39 +57,61 @@ func RenderReadme(template string, mergedCount, repositoryCount, authoredPullReq
 		{`Browse merged PR counts across [0-9,]+ external repositories`, "Browse merged PR counts across " + strconv.FormatInt(repositoryCount, 10) + " external repositories"},
 		{`broader audit currently discovers \*\*[0-9,]+ authored GitHub pull requests\*\*`, fmt.Sprintf("broader audit currently discovers **%d authored GitHub pull requests**", authoredPullRequestCount)},
 	}
-	for _, replacement := range replacements {
-		template, err = replaceFirstRegex(template, replacement.pattern, replacement.value)
-		if err != nil {
-			return "", err
+	for index, replacement := range replacements {
+		pattern, compileErr := regexp.Compile(replacement.pattern)
+		if compileErr != nil {
+			return "", compileErr
 		}
+		if !pattern.MatchString(template) {
+			// The two "Browse" labels belong to the legacy table-heavy README.
+			// The compact dashboard README intentionally omits those labels.
+			if index == 3 || index == 4 {
+				continue
+			}
+			return "", fmt.Errorf("README template is missing expected pattern %q", replacement.pattern)
+		}
+		template = pattern.ReplaceAllString(template, replacement.value)
 	}
 
 	auditHeader := "| Repository | PR | Technical contribution | Status |\n|---|---:|---|---|\n"
-	template, err = replaceContentBetween(template, auditHeader, "\n\n</details>", auditTable)
-	if err != nil {
-		return "", fmt.Errorf("replace contribution table: %w", err)
+	if strings.Contains(template, auditHeader) {
+		template, err = replaceContentBetween(
+			template,
+			auditHeader,
+			"\n\n</details>",
+			"The complete verified contribution ledger is available in the [interactive dashboard](https://aaqib-local.github.io/Aaqib-OSS-Contributions/).",
+		)
+		if err != nil {
+			return "", fmt.Errorf("replace contribution table: %w", err)
+		}
+		template = strings.Replace(template, auditHeader, "", 1)
 	}
 
 	breakdownHeader := "| Repository | Merged PRs |\n|---|---:|\n"
-	breakdownTotalMarker := "\n| **Total** | **"
-	start := strings.Index(template, breakdownHeader)
-	if start < 0 {
-		return "", fmt.Errorf("README template is missing the repository breakdown table")
+	if strings.Contains(template, breakdownHeader) {
+		repositorySummary := fmt.Sprintf(
+			"Repository-level totals are available in the [interactive dashboard](https://aaqib-local.github.io/Aaqib-OSS-Contributions/). **%d merged upstream PRs** across **%d external repositories**.",
+			mergedCount,
+			repositoryCount,
+		)
+		template, err = replaceContentBetween(template, breakdownHeader, "\n\n</details>", repositorySummary)
+		if err != nil {
+			return "", fmt.Errorf("replace repository breakdown: %w", err)
+		}
+		template = strings.Replace(template, breakdownHeader, "", 1)
 	}
-	contentStart := start + len(breakdownHeader)
-	totalStart := strings.Index(template[contentStart:], breakdownTotalMarker)
-	if totalStart < 0 {
-		return "", fmt.Errorf("README template is missing the repository breakdown total")
+
+	if strings.Contains(template, "Repository-level totals are available in the [interactive dashboard]") {
+		summary := fmt.Sprintf(
+			"Repository-level totals are available in the [interactive dashboard](https://aaqib-local.github.io/Aaqib-OSS-Contributions/). **%d merged upstream PRs** across **%d external repositories**.",
+			mergedCount,
+			repositoryCount,
+		)
+		template, err = replaceLineContaining(template, "Repository-level totals are available", summary)
+		if err != nil {
+			return "", fmt.Errorf("update repository summary: %w", err)
+		}
 	}
-	totalStart += contentStart
-	totalLineEnd := strings.Index(template[totalStart+1:], "\n")
-	if totalLineEnd < 0 {
-		totalLineEnd = len(template)
-	} else {
-		totalLineEnd += totalStart + 1
-	}
-	totalLine := fmt.Sprintf("| **Total** | **%d** |", mergedCount)
-	template = template[:contentStart] + repositoryBreakdown + "\n" + totalLine + template[totalLineEnd:]
 
 	if !strings.HasSuffix(template, "\n") {
 		template += "\n"
@@ -106,6 +128,23 @@ func replaceFirstRegex(input, expression, replacement string) (string, error) {
 		return "", fmt.Errorf("README template is missing expected pattern %q", expression)
 	}
 	return pattern.ReplaceAllString(input, replacement), nil
+}
+
+func replaceLineContaining(input, marker, replacement string) (string, error) {
+	start := strings.Index(input, marker)
+	if start < 0 {
+		return "", fmt.Errorf("README template is missing line marker %q", marker)
+	}
+
+	lineStart := strings.LastIndex(input[:start], "\n") + 1
+	lineEnd := strings.Index(input[start:], "\n")
+	if lineEnd < 0 {
+		lineEnd = len(input)
+	} else {
+		lineEnd += start
+	}
+
+	return input[:lineStart] + replacement + input[lineEnd:], nil
 }
 
 func replaceContentBetween(input, startMarker, endMarker, replacement string) (string, error) {

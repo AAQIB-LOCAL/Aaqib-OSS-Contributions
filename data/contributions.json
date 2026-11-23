@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1040,
+  "authoredPullRequestHighWatermark": 1045,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1040,
+  "lastObservedPublicAuthoredPullRequestCount": 1045,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -1996,6 +1996,16 @@
       "pullRequestNodeId": "PR_kwDOUhSvps8AAAABQQaZkQ"
     },
     {
+      "repository": "flisk-sh/flisk",
+      "number": 4758,
+      "description": "fix(cli): emit one JSON result for up wait",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1377087398",
+      "pullRequestId": "6502441035",
+      "pullRequestNodeId": "PR_kwDOUhSvps8AAAABQjYAcw"
+    },
+    {
       "repository": "flisk-sh/run-my-agents",
       "number": 80,
       "description": "test(hook): add node:test suite for check.mjs",
@@ -2004,6 +2014,26 @@
       "repositoryId": "1442266670",
       "pullRequestId": "6155050328",
       "pullRequestNodeId": "PR_kwDOVfc-Ls8AAAABMNGbvw"
+    },
+    {
+      "repository": "flisk-sh/run-my-agents",
+      "number": 431,
+      "description": "test(hook): cover token limit model downgrade helpers",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1442266670",
+      "pullRequestId": "6508640667",
+      "pullRequestNodeId": "PR_kwDOVfc-Ls8AAAABQoTg-Q"
+    },
+    {
+      "repository": "flisk-sh/run-my-agents",
+      "number": 432,
+      "description": "docs: add contributor setup and development guide",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1442266670",
+      "pullRequestId": "6508643166",
+      "pullRequestNodeId": "PR_kwDOVfc-Ls8AAAABQoTpJA"
     },
     {
       "repository": "ForNeVeR/Fabricator",
@@ -2616,6 +2646,36 @@
       "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABPrwzuQ"
     },
     {
+      "repository": "Huerte/algo-solutions",
+      "number": 355,
+      "description": "Fix longest consecutive sequence solution",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1027712578",
+      "pullRequestId": "6542849324",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABRDYXYw"
+    },
+    {
+      "repository": "Huerte/algo-solutions",
+      "number": 356,
+      "description": "Fix move zeroes solution",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1027712578",
+      "pullRequestId": "6542852487",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABRDYhiQ"
+    },
+    {
+      "repository": "Huerte/algo-solutions",
+      "number": 357,
+      "description": "Optimize remove parentheses solution",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1027712578",
+      "pullRequestId": "6542856291",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABRDYtxw"
+    },
+    {
       "repository": "Huseynteymurzade28/tuiba",
       "number": 97,
       "description": "Add cargo-binstall release metadata",
@@ -3084,6 +3144,16 @@
       "repositoryId": "1436804475",
       "pullRequestId": "6441551030",
       "pullRequestNodeId": "PR_kwDOVaPle88AAAABPyPHZg"
+    },
+    {
+      "repository": "laaielichter/Stashpad",
+      "number": 109,
+      "description": "Translate review UI into English",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1421763008",
+      "pullRequestId": "6529173820",
+      "pullRequestNodeId": "PR_kwDOVL5hwM8AAAABQ4queg"
     },
     {
       "repository": "lachydotmcg/capri-desktop",
@@ -3594,6 +3664,16 @@
       "repositoryId": "1428560481",
       "pullRequestId": "6245988919",
       "pullRequestNodeId": "PR_kwDOVSYaYc8AAAABNWMrjQ"
+    },
+    {
+      "repository": "nooriegarg/ContribIQ",
+      "number": 81,
+      "description": "fix: handle inaccessible GitHub repositories gracefully",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1428560481",
+      "pullRequestId": "6528325054",
+      "pullRequestNodeId": "PR_kwDOVSYaYc8AAAABQ4Afnw"
     },
     {
       "repository": "noruzzamans/gslider-blocks",
@@ -4274,6 +4354,16 @@
       "repositoryId": "1290202230",
       "pullRequestId": "6053984100",
       "pullRequestNodeId": "PR_kwDOTObsds8AAAABK8gsrQ"
+    },
+    {
+      "repository": "semlith/semlith",
+      "number": 377,
+      "description": "test: cover client configuration unregistration",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1312203954",
+      "pullRequestId": "6529518631",
+      "pullRequestNodeId": "PR_kwDOTjakss8AAAABQ48YWA"
     },
     {
       "repository": "shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices",

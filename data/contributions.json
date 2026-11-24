@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1070,
+  "authoredPullRequestHighWatermark": 1073,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1070,
+  "lastObservedPublicAuthoredPullRequestCount": 1073,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -594,6 +594,16 @@
       "repositoryId": "1218320061",
       "pullRequestId": "6527422041",
       "pullRequestNodeId": "PR_kwDOSJ4Wvc8AAAABQ3TRUA"
+    },
+    {
+      "repository": "Avenx-JS/avenx-js",
+      "number": 1930,
+      "description": "test(ci): guard diagnostic documentation against catalogue drift",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1218320061",
+      "pullRequestId": "6575069073",
+      "pullRequestNodeId": "PR_kwDOSJ4Wvc8AAAABRdOdgg"
     },
     {
       "repository": "BaryoDev/Vouch",
@@ -1304,6 +1314,16 @@
       "repositoryId": "1409673189",
       "pullRequestId": "6557998531",
       "pullRequestNodeId": "PR_kwDOVAXn5c8AAAABRPaLYQ"
+    },
+    {
+      "repository": "codepiyusss/open_source_issue_contribution",
+      "number": 165,
+      "description": "Add deterministic dice roller command",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1409673189",
+      "pullRequestId": "6573827977",
+      "pullRequestNodeId": "PR_kwDOVAXn5c8AAAABRcPHNQ"
     },
     {
       "repository": "codercops/discord-bot",
@@ -3696,6 +3716,16 @@
       "pullRequestNodeId": "PR_kwDOR0Ku0s8AAAABRN8Ozg"
     },
     {
+      "repository": "NimbleBrainInc/nimblebrain",
+      "number": 2223,
+      "description": "fix(web): make locked skill toggle announcements tier-aware",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1191106689",
+      "pullRequestId": "6573149910",
+      "pullRequestNodeId": "PR_kwDORv7Ygc8AAAABRbsW8g"
+    },
+    {
       "repository": "nitturkaryash/open-bpo",
       "number": 14,
       "description": "feat(console): show session elapsed duration",
@@ -4230,7 +4260,7 @@
       "number": 17,
       "description": "feat: add Romanian licence plate validation",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true,
+      "lastSeenInSearch": false,
       "repositoryId": "1435452047",
       "pullRequestId": "6070536141",
       "pullRequestNodeId": "PR_kwDOVY9Cj88AAAABLJ15lw"
@@ -4240,7 +4270,7 @@
       "number": 18,
       "description": "feat: add Romanian phone number validation",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true,
+      "lastSeenInSearch": false,
       "repositoryId": "1435452047",
       "pullRequestId": "6070576670",
       "pullRequestNodeId": "PR_kwDOVY9Cj88AAAABLJ36hA"
@@ -4484,6 +4514,26 @@
       "repositoryId": "1147932416",
       "pullRequestId": "6086794504",
       "pullRequestNodeId": "PR_kwDORGwPAM8AAAABLW1ugg"
+    },
+    {
+      "repository": "shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices",
+      "number": 62,
+      "description": "Fix misspelled strategies package",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1147932416",
+      "pullRequestId": "6448066601",
+      "pullRequestNodeId": "PR_kwDORGwPAM8AAAABP3iAOA"
+    },
+    {
+      "repository": "shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices",
+      "number": 63,
+      "description": "Add manual blacklist and block visitor modal",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1147932416",
+      "pullRequestId": "6448078497",
+      "pullRequestNodeId": "PR_kwDORGwPAM8AAAABP3ioEg"
     },
     {
       "repository": "sid-lakhani/erml",

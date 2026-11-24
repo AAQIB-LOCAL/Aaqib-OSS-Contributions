@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1073,
+  "authoredPullRequestHighWatermark": 1074,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1073,
+  "lastObservedPublicAuthoredPullRequestCount": 1074,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -4714,6 +4714,16 @@
       "repositoryId": "1367868049",
       "pullRequestId": "6173255574",
       "pullRequestNodeId": "PR_kwDOUYgCkc8AAAABMbuICQ"
+    },
+    {
+      "repository": "Tawjjeh/TalebElm",
+      "number": 609,
+      "description": "test: cover resource filter parameter defaults and record behavior",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1322312432",
+      "pullRequestId": "6561758753",
+      "pullRequestNodeId": "PR_kwDOTtDi8M8AAAABRSeQMA"
     },
     {
       "repository": "Tektrix/pinfold",

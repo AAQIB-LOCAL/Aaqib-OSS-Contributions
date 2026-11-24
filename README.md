@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>537</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>243</strong><br/>External repositories</td>
-    <td align="center"><strong>1073</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>538</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>244</strong><br/>External repositories</td>
+    <td align="center"><strong>1074</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 537 merged pull requests</summary>
+<summary>Browse all 538 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -586,6 +586,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) | [#478](https://github.com/StudentSuite/awesome-study-resources/pull/478) | docs: align PR guidance with contribution workflow (#470) | Merged |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | [#283](https://github.com/TanbirRamim/open-source-radar/pull/283) | feat(i18n): add German website locale | Merged |
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | [#412](https://github.com/TanbirRamim/open-source-radar/pull/412) | feat(languages): add PowerShell quickstart | Merged |
+| [Tawjjeh/TalebElm](https://github.com/Tawjjeh/TalebElm) | [#609](https://github.com/Tawjjeh/TalebElm/pull/609) | test: cover resource filter parameter defaults and record behavior | Merged |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#13](https://github.com/Tektrix/pinfold/pull/13) | Fix tab count for group-name searches | Merged |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#14](https://github.com/Tektrix/pinfold/pull/14) | Add tests for format helpers | Merged |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | [#35](https://github.com/Tektrix/pinfold/pull/35) | test: add coverage for icon utility helpers | Merged |
@@ -658,7 +659,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 243 external repositories</summary>
+<summary>Browse merged PR counts across 244 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -888,6 +889,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [sdlc-pro/spring-lens](https://github.com/sdlc-pro/spring-lens) | 1 |
 | [semlith/semlith](https://github.com/semlith/semlith) | 1 |
 | [sid-lakhani/erml](https://github.com/sid-lakhani/erml) | 1 |
+| [Tawjjeh/TalebElm](https://github.com/Tawjjeh/TalebElm) | 1 |
 | [terraplane-org/terraplane](https://github.com/terraplane-org/terraplane) | 1 |
 | [thiagomvas/haven](https://github.com/thiagomvas/haven) | 1 |
 | [timihack/authwarden](https://github.com/timihack/authwarden) | 1 |
@@ -905,7 +907,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **537** |
+| **Total** | **538** |
 
 </details>
 
@@ -922,7 +924,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **1073 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1074 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

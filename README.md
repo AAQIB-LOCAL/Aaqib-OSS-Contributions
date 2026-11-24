@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>529</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>240</strong><br/>External repositories</td>
-    <td align="center"><strong>1062</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>532</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>242</strong><br/>External repositories</td>
+    <td align="center"><strong>1070</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 529 merged pull requests</summary>
+<summary>Browse all 532 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -295,6 +295,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | [#27](https://github.com/embedcatalog/embedcatalog/pull/27) | Add social media icons to public profiles | Merged |
 | [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | [#28](https://github.com/embedcatalog/embedcatalog/pull/28) | Add a smooth scroll-to-top button | Merged |
 | [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | [#29](https://github.com/embedcatalog/embedcatalog/pull/29) | Add projects tab to public profiles | Merged |
+| [emorgan33/worldforge](https://github.com/emorgan33/worldforge) | [#36](https://github.com/emorgan33/worldforge/pull/36) | Draft D&D 5e character sheet paper-inspired layout | Merged |
 | [endercodezz/BYDLO](https://github.com/endercodezz/BYDLO) | [#471](https://github.com/endercodezz/BYDLO/pull/471) | Update setup-dotnet to v6.1.0 | Merged |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#27](https://github.com/enlike21/ClimbUp/pull/27) | Mantener el foco del teclado dentro del menú de pausa | Merged |
 | [enlike21/ClimbUp](https://github.com/enlike21/ClimbUp) | [#31](https://github.com/enlike21/ClimbUp/pull/31) | Añadir tests unitarios para StatisticsService | Merged |
@@ -500,6 +501,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#30](https://github.com/openapi/gknowledge/pull/30) | fix: support source re-ingestion and removal | Merged |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#31](https://github.com/openapi/gknowledge/pull/31) | fix: verify Flatpak bundles during release | Merged |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#55](https://github.com/openapi/gknowledge/pull/55) | feat(ui): split review queue by item type | Merged |
+| [openvibely/openvibely](https://github.com/openvibely/openvibely) | [#1709](https://github.com/openvibely/openvibely/pull/1709) | Avoid copying recording events on capture timer ticks | Merged |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | [#22](https://github.com/Orbit-xyz/orbit-docs/pull/22) | docs: add TypeScript SDK contract examples | Merged |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | [#97](https://github.com/oscarbol09/jvm-mcp/pull/97) | Fix/75 actuator default health | Merged |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | [#181](https://github.com/oscarbol09/jvm-mcp/pull/181) | feat(cli): add JSON output to list, memory, and threads | Merged |
@@ -519,6 +521,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#217](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/217) | feat(luxury-realms): add curated luxury amenity badges | Merged |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#2452](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/2452) | feat(edtech-academy): add course duration and difficulty badges | Merged |
 | [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#2453](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/2453) | feat(cybersecurity-sentinel): add copy-to-clipboard feedback | Merged |
+| [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | [#3056](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/3056) | feat(fitness-crossfit-pro): add ROI and savings forecaster | Merged |
 | [pug-sh/pug](https://github.com/pug-sh/pug) | [#197](https://github.com/pug-sh/pug/pull/197) | Fix/190 expired token cleanup | Merged |
 | [purahan/ros2_lingua](https://github.com/purahan/ros2_lingua) | [#64](https://github.com/purahan/ros2_lingua/pull/64) | fix(packaging): declare maintainers and runtime/build dependencies | Merged |
 | [purahan/ros2_lingua](https://github.com/purahan/ros2_lingua) | [#74](https://github.com/purahan/ros2_lingua/pull/74) | fix: CI/CD improvements—expand linting, fix badge, add backend tests,… | Merged |
@@ -650,7 +653,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 240 external repositories</summary>
+<summary>Browse merged PR counts across 242 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -674,6 +677,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
 | [moizycodes/moizy-open-source-issues](https://github.com/moizycodes/moizy-open-source-issues) | 5 |
 | [nikhilb2/simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | 5 |
+| [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | 5 |
 | [RizgarOzan/tmp-glyph-audit](https://github.com/RizgarOzan/tmp-glyph-audit) | 5 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 5 |
 | [ujjwalv01/releaseproof](https://github.com/ujjwalv01/releaseproof) | 5 |
@@ -690,7 +694,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | 4 |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | 4 |
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 4 |
-| [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) | 4 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 3 |
@@ -812,6 +815,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [dominikgobel/kern](https://github.com/dominikgobel/kern) | 1 |
 | [dsx-ai-factory/workload-map](https://github.com/dsx-ai-factory/workload-map) | 1 |
 | [elimu-ai/VoltAir](https://github.com/elimu-ai/VoltAir) | 1 |
+| [emorgan33/worldforge](https://github.com/emorgan33/worldforge) | 1 |
 | [endercodezz/BYDLO](https://github.com/endercodezz/BYDLO) | 1 |
 | [Erfouni/solidworks-GPT-plugin](https://github.com/Erfouni/solidworks-GPT-plugin) | 1 |
 | [fatihserhatturan/noCap](https://github.com/fatihserhatturan/noCap) | 1 |
@@ -859,6 +863,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Open-Glassbeetle/glassbeetle](https://github.com/Open-Glassbeetle/glassbeetle) | 1 |
 | [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | 1 |
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
+| [openvibely/openvibely](https://github.com/openvibely/openvibely) | 1 |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | 1 |
 | [osrep/Runes2P.jl](https://github.com/osrep/Runes2P.jl) | 1 |
 | [perfectmodelslab/ComfyUI-PerfectLab](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) | 1 |
@@ -894,7 +899,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **529** |
+| **Total** | **532** |
 
 </details>
 
@@ -911,7 +916,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **1062 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1070 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

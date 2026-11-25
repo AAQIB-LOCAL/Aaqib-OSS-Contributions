@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>538</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>244</strong><br/>External repositories</td>
-    <td align="center"><strong>1074</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>542</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>246</strong><br/>External repositories</td>
+    <td align="center"><strong>1078</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 538 merged pull requests</summary>
+<summary>Browse all 542 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -247,6 +247,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [codekongdev/plz](https://github.com/codekongdev/plz) | [#44](https://github.com/codekongdev/plz/pull/44) | docs(plz-3d-explain): clarify Python state persistence | Merged |
 | [codepiyusss/open_source_issue_contribution](https://github.com/codepiyusss/open_source_issue_contribution) | [#162](https://github.com/codepiyusss/open_source_issue_contribution/pull/162) | Add Hypothesis property tests for issue #106 | Merged |
 | [codepiyusss/open_source_issue_contribution](https://github.com/codepiyusss/open_source_issue_contribution) | [#165](https://github.com/codepiyusss/open_source_issue_contribution/pull/165) | Add deterministic dice roller command | Merged |
+| [codepiyusss/open_source_issue_contribution](https://github.com/codepiyusss/open_source_issue_contribution) | [#166](https://github.com/codepiyusss/open_source_issue_contribution/pull/166) | Add age calculator command | Merged |
 | [codercops/discord-bot](https://github.com/codercops/discord-bot) | [#29](https://github.com/codercops/discord-bot/pull/29) | fix: skip unchanged starter issue feed edits | Merged |
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) | [#332](https://github.com/codercops/toolbelt/pull/332) | fix(base64): report original invalid character positions | Merged |
 | [ColinGPT9/clips-studio](https://github.com/ColinGPT9/clips-studio) | [#217](https://github.com/ColinGPT9/clips-studio/pull/217) | fix(i18n): translate UI attributes across components | Merged |
@@ -341,6 +342,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#252](https://github.com/getsotto/sotto/pull/252) | Fix concurrent environment key rotation | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#275](https://github.com/getsotto/sotto/pull/275) | Fix/250 env ls json | Merged |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | [#278](https://github.com/getsotto/sotto/pull/278) | fix(web): prevent duplicate environment shares | Merged |
+| [getsotto/sotto](https://github.com/getsotto/sotto) | [#852](https://github.com/getsotto/sotto/pull/852) | fix(cli): include config path in read errors | Merged |
 | [ggfto/DroidDeck](https://github.com/ggfto/DroidDeck) | [#12](https://github.com/ggfto/DroidDeck/pull/12) | feat(i18n): add Hindi language option | Merged |
 | [GianlucaBave/murmury](https://github.com/GianlucaBave/murmury) | [#15](https://github.com/GianlucaBave/murmury/pull/15) | Add Ollama and LM Studio local providers | Merged |
 | [GianlucaBave/murmury](https://github.com/GianlucaBave/murmury) | [#127](https://github.com/GianlucaBave/murmury/pull/127) | feat: make unambiguous source tags clickable | Merged |
@@ -429,6 +431,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | [#6](https://github.com/Krrishkumar125/create-bullmq-app/pull/6) | fix(redis): rate-limit connection error logs | Merged |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | [#5](https://github.com/Krrishkumar125/zod-india/pull/5) | feat: add Udyam registration validator | Merged |
 | [Krrishkumar125/zod-india](https://github.com/Krrishkumar125/zod-india) | [#6](https://github.com/Krrishkumar125/zod-india/pull/6) | feat: add CIN validator | Merged |
+| [kylemichaelreaves/budget-visualizer-app](https://github.com/kylemichaelreaves/budget-visualizer-app) | [#156](https://github.com/kylemichaelreaves/budget-visualizer-app/pull/156) | fix(a11y): wire accessible names and descriptions | Merged |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#33](https://github.com/laaielichter/Ai-edit-studio/pull/33) | feat: export timeline captions as SRT and VTT | Merged |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#34](https://github.com/laaielichter/Ai-edit-studio/pull/34) | docs: sync tool counts and version labels | Merged |
 | [laaielichter/Ai-edit-studio](https://github.com/laaielichter/Ai-edit-studio) | [#37](https://github.com/laaielichter/Ai-edit-studio/pull/37) | docs: add troubleshooting guidance for common errors | Merged |
@@ -623,6 +626,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | [#82](https://github.com/vr-patel/editmypdf/pull/82) | fix: Improve emoji search with keywords and group names | Merged |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#68](https://github.com/Webghost01-NG/stellar-event-sync/pull/68) | fix: centralize diagnostic secret redaction | Merged |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#71](https://github.com/Webghost01-NG/stellar-event-sync/pull/71) | Issue 46 rpc fixture builders | Merged |
+| [wheelgap/tracker](https://github.com/wheelgap/tracker) | [#252](https://github.com/wheelgap/tracker/pull/252) | fix(check): include private index in copied fix prompt | Merged |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | [#32](https://github.com/Xdabier/themerchantengine/pull/32) | fix(admin-services): return geo validation errors as observables | Merged |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | [#59](https://github.com/Xdabier/themerchantengine/pull/59) | fix(admin-services): return category validation errors as observables | Merged |
 | [xlebore3o4ka/llvnim23](https://github.com/xlebore3o4ka/llvnim23) | [#2](https://github.com/xlebore3o4ka/llvnim23/pull/2) | Fix/issue 1 static linking | Merged |
@@ -659,7 +663,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 244 external repositories</summary>
+<summary>Browse merged PR counts across 246 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -695,6 +699,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [creatoan/scenet](https://github.com/creatoan/scenet) | 4 |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | 4 |
 | [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | 4 |
+| [getsotto/sotto](https://github.com/getsotto/sotto) | 4 |
 | [hayagrivai-labs/sciproof](https://github.com/hayagrivai-labs/sciproof) | 4 |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | 4 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 4 |
@@ -708,11 +713,11 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [blixvip/easyedit](https://github.com/blixvip/easyedit) | 3 |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) | 3 |
 | [cellrishi-code/claude-skills-atlas](https://github.com/cellrishi-code/claude-skills-atlas) | 3 |
+| [codepiyusss/open_source_issue_contribution](https://github.com/codepiyusss/open_source_issue_contribution) | 3 |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 3 |
 | [flisk-sh/flisk](https://github.com/flisk-sh/flisk) | 3 |
 | [flisk-sh/run-my-agents](https://github.com/flisk-sh/run-my-agents) | 3 |
 | [gabrielmongefranco/privatium](https://github.com/gabrielmongefranco/privatium) | 3 |
-| [getsotto/sotto](https://github.com/getsotto/sotto) | 3 |
 | [HafidIdrissi/Time-Tracker](https://github.com/HafidIdrissi/Time-Tracker) | 3 |
 | [hslee16/Archy](https://github.com/hslee16/Archy) | 3 |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | 3 |
@@ -741,7 +746,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [btclib-org/seed-scan](https://github.com/btclib-org/seed-scan) | 2 |
 | [Bubblegunn/surviving-lines](https://github.com/Bubblegunn/surviving-lines) | 2 |
 | [codekongdev/plz](https://github.com/codekongdev/plz) | 2 |
-| [codepiyusss/open_source_issue_contribution](https://github.com/codepiyusss/open_source_issue_contribution) | 2 |
 | [crbtgab/housing-records](https://github.com/crbtgab/housing-records) | 2 |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | 2 |
 | [deimos-hq/ratchet](https://github.com/deimos-hq/ratchet) | 2 |
@@ -849,6 +853,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [jzheaux/reader](https://github.com/jzheaux/reader) | 1 |
 | [KHolodilin/spring-transactional-outbox-kafka](https://github.com/KHolodilin/spring-transactional-outbox-kafka) | 1 |
 | [Krrishkumar125/create-bullmq-app](https://github.com/Krrishkumar125/create-bullmq-app) | 1 |
+| [kylemichaelreaves/budget-visualizer-app](https://github.com/kylemichaelreaves/budget-visualizer-app) | 1 |
 | [lacs-project/sysknife](https://github.com/lacs-project/sysknife) | 1 |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | 1 |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | 1 |
@@ -904,10 +909,11 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
+| [wheelgap/tracker](https://github.com/wheelgap/tracker) | 1 |
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **538** |
+| **Total** | **542** |
 
 </details>
 
@@ -924,7 +930,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **1074 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1078 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

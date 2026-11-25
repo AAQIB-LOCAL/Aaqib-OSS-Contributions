@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1078,
+  "authoredPullRequestHighWatermark": 1084,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1078,
+  "lastObservedPublicAuthoredPullRequestCount": 1084,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -1716,6 +1716,16 @@
       "pullRequestNodeId": "PR_kwDOVXrwVM8AAAABL-fjhw"
     },
     {
+      "repository": "dhruvmojila/poincare-memory",
+      "number": 8,
+      "description": "Add --root to the tree command",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1429013789",
+      "pullRequestId": "6031251277",
+      "pullRequestNodeId": "PR_kwDOVS0FHc8AAAABKqMlxw"
+    },
+    {
       "repository": "dominikgobel/kern",
       "number": 26,
       "description": "fix: insert Alt-modified characters",
@@ -1734,6 +1744,16 @@
       "repositoryId": "1024974235",
       "pullRequestId": "6209548555",
       "pullRequestNodeId": "PR_kwDOPRfdm88AAAABM5Ab0g"
+    },
+    {
+      "repository": "Edwin-metcalf/MetCode",
+      "number": 64,
+      "description": "Add --help and -h CLI usage output",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1360900935",
+      "pullRequestId": "6572927024",
+      "pullRequestNodeId": "PR_kwDOUR2zR88AAAABRbhSgw"
     },
     {
       "repository": "eklavya2201/breakinggood",
@@ -2050,7 +2070,7 @@
       "number": 4742,
       "description": "docs(schema): describe health check and ulimit fields",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true,
+      "lastSeenInSearch": false,
       "repositoryId": "1377087398",
       "pullRequestId": "6478899659",
       "pullRequestNodeId": "PR_kwDOUhSvps8AAAABQQaR3A"
@@ -2060,7 +2080,7 @@
       "number": 4743,
       "description": "fix(open): fail promptly when no native run is active",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true,
+      "lastSeenInSearch": false,
       "repositoryId": "1377087398",
       "pullRequestId": "6478902080",
       "pullRequestNodeId": "PR_kwDOUhSvps8AAAABQQaZkQ"
@@ -2070,7 +2090,7 @@
       "number": 4758,
       "description": "fix(cli): emit one JSON result for up wait",
       "firstRecordedIn": "GitHub Search API",
-      "lastSeenInSearch": true,
+      "lastSeenInSearch": false,
       "repositoryId": "1377087398",
       "pullRequestId": "6502441035",
       "pullRequestNodeId": "PR_kwDOUhSvps8AAAABQjYAcw"
@@ -3926,6 +3946,16 @@
       "pullRequestNodeId": "PR_kwDOTQK3988AAAABL5DrmQ"
     },
     {
+      "repository": "openslop/openslop",
+      "number": 1401,
+      "description": "fix: scope edit script attrs to element types",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1172360404",
+      "pullRequestId": "6573533527",
+      "pullRequestNodeId": "PR_kwDOReDM1M8AAAABRcAAvA"
+    },
+    {
       "repository": "openvibely/openvibely",
       "number": 1709,
       "description": "Avoid copying recording events on capture timer ticks",
@@ -3944,6 +3974,16 @@
       "repositoryId": "1386471309",
       "pullRequestId": "5830537301",
       "pullRequestNodeId": "PR_kwDOUqPfjc8AAAABILCv3A"
+    },
+    {
+      "repository": "Orbit-xyz/orbit-docs",
+      "number": 29,
+      "description": "feat: add sitemap, robots and custom 404 page",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1386471309",
+      "pullRequestId": "6271295329",
+      "pullRequestNodeId": "PR_kwDOUqPfjc8AAAABNqLrSw"
     },
     {
       "repository": "oscarbol09/jvm-mcp",
@@ -4354,6 +4394,16 @@
       "repositoryId": "1402168110",
       "pullRequestId": "6420333134",
       "pullRequestNodeId": "PR_kwDOU5NjLs8AAAABPhCkcg"
+    },
+    {
+      "repository": "saksham10arora-dotcom/everything-claude-codex",
+      "number": 45,
+      "description": "fix: ask before destructive git clean commands",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1437449722",
+      "pullRequestId": "6574748602",
+      "pullRequestNodeId": "PR_kwDOVa29-s8AAAABRc96xA"
     },
     {
       "repository": "scs0209/claude-locator",
@@ -5044,6 +5094,16 @@
       "repositoryId": "1374291942",
       "pullRequestId": "5831990738",
       "pullRequestNodeId": "PR_kwDOUeoH5s8AAAABIMNXaw"
+    },
+    {
+      "repository": "visualfusion/feedkeeper",
+      "number": 70,
+      "description": "feat: use versioned oEmbed provider patterns",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1374291942",
+      "pullRequestId": "6550450256",
+      "pullRequestNodeId": "PR_kwDOUeoH5s8AAAABRJToUA"
     },
     {
       "repository": "vivekchand/clawmetry",

@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>542</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>246</strong><br/>External repositories</td>
-    <td align="center"><strong>1078</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>548</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>250</strong><br/>External repositories</td>
+    <td align="center"><strong>1084</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 542 merged pull requests</summary>
+<summary>Browse all 548 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -286,8 +286,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#26](https://github.com/DhruvHarani1/vega/pull/26) | Improve provider failure diagnostics and recovery | Merged |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#27](https://github.com/DhruvHarani1/vega/pull/27) | feat(playlists): import and export M3U8 and JSON playlists | Merged |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | [#28](https://github.com/DhruvHarani1/vega/pull/28) | Handle YouTube background pauses with tap to resume | Merged |
+| [dhruvmojila/poincare-memory](https://github.com/dhruvmojila/poincare-memory) | [#8](https://github.com/dhruvmojila/poincare-memory/pull/8) | Add --root to the tree command | Merged |
 | [dominikgobel/kern](https://github.com/dominikgobel/kern) | [#26](https://github.com/dominikgobel/kern/pull/26) | fix: insert Alt-modified characters | Merged |
 | [dsx-ai-factory/workload-map](https://github.com/dsx-ai-factory/workload-map) | [#612](https://github.com/dsx-ai-factory/workload-map/pull/612) | Add API versions to `kli definitions -o wide` | Merged |
+| [Edwin-metcalf/MetCode](https://github.com/Edwin-metcalf/MetCode) | [#64](https://github.com/Edwin-metcalf/MetCode/pull/64) | Add --help and -h CLI usage output | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#7](https://github.com/eklavya2201/breakinggood/pull/7) | test: cover dependency scanner findings | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#8](https://github.com/eklavya2201/breakinggood/pull/8) | fix: detect browser challenge pages during capture | Merged |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | [#86](https://github.com/eklavya2201/breakinggood/pull/86) | test: cover OpenAI-compatible SSE parsing | Merged |
@@ -507,8 +509,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#30](https://github.com/openapi/gknowledge/pull/30) | fix: support source re-ingestion and removal | Merged |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#31](https://github.com/openapi/gknowledge/pull/31) | fix: verify Flatpak bundles during release | Merged |
 | [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#55](https://github.com/openapi/gknowledge/pull/55) | feat(ui): split review queue by item type | Merged |
+| [openslop/openslop](https://github.com/openslop/openslop) | [#1401](https://github.com/openslop/openslop/pull/1401) | fix: scope edit script attrs to element types | Merged |
 | [openvibely/openvibely](https://github.com/openvibely/openvibely) | [#1709](https://github.com/openvibely/openvibely/pull/1709) | Avoid copying recording events on capture timer ticks | Merged |
 | [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | [#22](https://github.com/Orbit-xyz/orbit-docs/pull/22) | docs: add TypeScript SDK contract examples | Merged |
+| [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | [#29](https://github.com/Orbit-xyz/orbit-docs/pull/29) | feat: add sitemap, robots and custom 404 page | Merged |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | [#97](https://github.com/oscarbol09/jvm-mcp/pull/97) | Fix/75 actuator default health | Merged |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | [#181](https://github.com/oscarbol09/jvm-mcp/pull/181) | feat(cli): add JSON output to list, memory, and threads | Merged |
 | [osrep/Runes2P.jl](https://github.com/osrep/Runes2P.jl) | [#117](https://github.com/osrep/Runes2P.jl/pull/117) | docs: refer to the first radial face (#22) | Merged |
@@ -550,6 +554,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [rp2839/visio-mcp](https://github.com/rp2839/visio-mcp) | [#97](https://github.com/rp2839/visio-mcp/pull/97) | docs: [A01] Document second-user named-pipe isolation acceptance procedure | Merged |
 | [rp2839/visio-mcp](https://github.com/rp2839/visio-mcp) | [#102](https://github.com/rp2839/visio-mcp/pull/102) | docs(a02): add current-build manual acceptance record | Merged |
 | [rp2839/visio-mcp](https://github.com/rp2839/visio-mcp) | [#103](https://github.com/rp2839/visio-mcp/pull/103) | docs(a03): add cross-environment acceptance matrix | Merged |
+| [saksham10arora-dotcom/everything-claude-codex](https://github.com/saksham10arora-dotcom/everything-claude-codex) | [#45](https://github.com/saksham10arora-dotcom/everything-claude-codex/pull/45) | fix: ask before destructive git clean commands | Merged |
 | [scs0209/claude-locator](https://github.com/scs0209/claude-locator) | [#8](https://github.com/scs0209/claude-locator/pull/8) | Feat/issue 2 svelte 4 example | Merged |
 | [sdageltc/agent-durability-bench](https://github.com/sdageltc/agent-durability-bench) | [#8](https://github.com/sdageltc/agent-durability-bench/pull/8) | feat: add AutoGen AgentChat v0.4 adapter (#4) | Merged |
 | [sdageltc/letitloop](https://github.com/sdageltc/letitloop) | [#113](https://github.com/sdageltc/letitloop/pull/113) | feat: add interactive WAL crash recovery visualizer (#90) | Merged |
@@ -619,6 +624,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Veinar/draincheck](https://github.com/Veinar/draincheck) | [#140](https://github.com/Veinar/draincheck/pull/140) | docs: json report jq recipes | Merged |
 | [vimeo/psalm](https://github.com/vimeo/psalm) | [#14070](https://github.com/vimeo/psalm/pull/14070) | Fix memory-limit option in psalm-refactor | Merged |
 | [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | [#32](https://github.com/visualfusion/feedkeeper/pull/32) | docs(deployment): cover Caddy, nginx and Traefik proxies | Merged |
+| [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | [#70](https://github.com/visualfusion/feedkeeper/pull/70) | feat: use versioned oEmbed provider patterns | Merged |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | [#5760](https://github.com/vivekchand/clawmetry/pull/5760) | fix: surface OpenClaw session share state | Merged |
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | [#25](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner/pull/25) | Issue 10 expectancy confidence gate | Merged |
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | [#26](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner/pull/26) | fix: skip signals with ATR-floored stops | Merged |
@@ -663,7 +669,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 246 external repositories</summary>
+<summary>Browse merged PR counts across 250 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -769,6 +775,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [nooriegarg/ContribIQ](https://github.com/nooriegarg/ContribIQ) | 2 |
 | [oasamz09-ctrl/standup-digest](https://github.com/oasamz09-ctrl/standup-digest) | 2 |
 | [olo-labs/olo-toolgate](https://github.com/olo-labs/olo-toolgate) | 2 |
+| [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | 2 |
 | [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) | 2 |
 | [PatrickAttankurugu/AfricaPEP](https://github.com/PatrickAttankurugu/AfricaPEP) | 2 |
 | [purahan/ros2_lingua](https://github.com/purahan/ros2_lingua) | 2 |
@@ -781,6 +788,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar) | 2 |
 | [TheVicky1/Pact_OS](https://github.com/TheVicky1/Pact_OS) | 2 |
 | [VarshithReddy2006/DevTrack](https://github.com/VarshithReddy2006/DevTrack) | 2 |
+| [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 2 |
 | [VladPetrariu/Qullamaggie-breakout-scanner](https://github.com/VladPetrariu/Qullamaggie-breakout-scanner) | 2 |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | 2 |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | 2 |
@@ -822,8 +830,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [DhanushNehru/pdf-xss-checker](https://github.com/DhanushNehru/pdf-xss-checker) | 1 |
 | [DHEENA0007/typebridge](https://github.com/DHEENA0007/typebridge) | 1 |
 | [dheerajjha/mcp-migrate](https://github.com/dheerajjha/mcp-migrate) | 1 |
+| [dhruvmojila/poincare-memory](https://github.com/dhruvmojila/poincare-memory) | 1 |
 | [dominikgobel/kern](https://github.com/dominikgobel/kern) | 1 |
 | [dsx-ai-factory/workload-map](https://github.com/dsx-ai-factory/workload-map) | 1 |
+| [Edwin-metcalf/MetCode](https://github.com/Edwin-metcalf/MetCode) | 1 |
 | [elimu-ai/VoltAir](https://github.com/elimu-ai/VoltAir) | 1 |
 | [emorgan33/worldforge](https://github.com/emorgan33/worldforge) | 1 |
 | [endercodezz/BYDLO](https://github.com/endercodezz/BYDLO) | 1 |
@@ -875,8 +885,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Open-Glassbeetle/glassbeetle](https://github.com/Open-Glassbeetle/glassbeetle) | 1 |
 | [open-telemetry/opentelemetry-kotlin](https://github.com/open-telemetry/opentelemetry-kotlin) | 1 |
 | [openapi/contributors](https://github.com/openapi/contributors) | 1 |
+| [openslop/openslop](https://github.com/openslop/openslop) | 1 |
 | [openvibely/openvibely](https://github.com/openvibely/openvibely) | 1 |
-| [Orbit-xyz/orbit-docs](https://github.com/Orbit-xyz/orbit-docs) | 1 |
 | [osrep/Runes2P.jl](https://github.com/osrep/Runes2P.jl) | 1 |
 | [perfectmodelslab/ComfyUI-PerfectLab](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) | 1 |
 | [petertzy/deeplocal-chat-adapter](https://github.com/petertzy/deeplocal-chat-adapter) | 1 |
@@ -888,6 +898,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice) | 1 |
 | [rohit746/pdf-view.nvim](https://github.com/rohit746/pdf-view.nvim) | 1 |
 | [rotorflight/rotorflight-lua-ethos-suite](https://github.com/rotorflight/rotorflight-lua-ethos-suite) | 1 |
+| [saksham10arora-dotcom/everything-claude-codex](https://github.com/saksham10arora-dotcom/everything-claude-codex) | 1 |
 | [scs0209/claude-locator](https://github.com/scs0209/claude-locator) | 1 |
 | [sdageltc/agent-durability-bench](https://github.com/sdageltc/agent-durability-bench) | 1 |
 | [sdageltc/letitloop](https://github.com/sdageltc/letitloop) | 1 |
@@ -905,7 +916,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Valks-Terraria-Mods/PlatformHelper](https://github.com/Valks-Terraria-Mods/PlatformHelper) | 1 |
 | [Veinar/draincheck](https://github.com/Veinar/draincheck) | 1 |
 | [vimeo/psalm](https://github.com/vimeo/psalm) | 1 |
-| [visualfusion/feedkeeper](https://github.com/visualfusion/feedkeeper) | 1 |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
@@ -913,7 +923,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **542** |
+| **Total** | **548** |
 
 </details>
 
@@ -930,7 +940,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **1078 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1084 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

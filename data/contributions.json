@@ -46,6 +46,46 @@
       "pullRequestNodeId": "PR_kwDOVR21n88AAAABKBOXIg"
     },
     {
+      "repository": "aamirtechs/beforeyoupaste",
+      "number": 10,
+      "description": "Add labelled date of birth detector",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1428010399",
+      "pullRequestId": "6142411590",
+      "pullRequestNodeId": "PR_kwDOVR21n88AAAABMDQ8qQ"
+    },
+    {
+      "repository": "aamirtechs/beforeyoupaste",
+      "number": 11,
+      "description": "fix(detectors): validate IBAN country lengths",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1428010399",
+      "pullRequestId": "6479947707",
+      "pullRequestNodeId": "PR_kwDOVR21n88AAAABQRPp5A"
+    },
+    {
+      "repository": "aamirtechs/ratecon-reader",
+      "number": 6,
+      "description": "feat: add strict completeness checks for #4",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1436510796",
+      "pullRequestId": "6088605905",
+      "pullRequestNodeId": "PR_kwDOVZ9qTM8AAAABLYTciQ"
+    },
+    {
+      "repository": "Aaqib-OSS/algo-solutions",
+      "number": 1,
+      "description": "Add a script to generate the solutions index",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1431705428",
+      "pullRequestId": "6153349538",
+      "pullRequestNodeId": "PR_kwDOVVYXVM8AAAABMLxMIA"
+    },
+    {
       "repository": "Aaqib-OSS/api-contract-guardian",
       "number": 1,
       "description": "docs: explain cross-file Express router composition",
@@ -54,6 +94,36 @@
       "repositoryId": "1431678930",
       "pullRequestId": "6383859564",
       "pullRequestNodeId": "PR_kwDOVVWv0s8AAAABPEUbrg"
+    },
+    {
+      "repository": "Aaqib-OSS/nimblebrain",
+      "number": 1,
+      "description": "fix(web): make locked skill toggle announcements tier-aware",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1469532060",
+      "pullRequestId": "6573003197",
+      "pullRequestNodeId": "PR_kwDOV5dHnM8AAAABRblHuQ"
+    },
+    {
+      "repository": "Aaqib-OSS/open-source-radar",
+      "number": 1,
+      "description": "Add PowerShell to the language radar",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1431910468",
+      "pullRequestId": "6153349168",
+      "pullRequestNodeId": "PR_kwDOVVk4RM8AAAABMLxK7g"
+    },
+    {
+      "repository": "Aaqib-OSS/open-source-radar",
+      "number": 2,
+      "description": "Add PowerShell to the language radar",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1431910468",
+      "pullRequestId": "6153380439",
+      "pullRequestNodeId": "PR_kwDOVVk4RM8AAAABMLyt7Q"
     },
     {
       "repository": "Aaqib-OSS/seed-scan",
@@ -84,6 +154,26 @@
       "repositoryId": "1437015807",
       "pullRequestId": "6086665788",
       "pullRequestNodeId": "PR_kwDOVace_88AAAABLWvPuA"
+    },
+    {
+      "repository": "Aaqib-OSS/sotto",
+      "number": 2,
+      "description": "tmp: merge #250 implementation",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1369638890",
+      "pullRequestId": "5468859126",
+      "pullRequestNodeId": "PR_kwDOUaMH6s8AAAABDsYTCA"
+    },
+    {
+      "repository": "Aaqib-OSS/sotto",
+      "number": 6,
+      "description": "Fix/250 env ls json",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1369638890",
+      "pullRequestId": "5468949899",
+      "pullRequestNodeId": "PR_kwDOUaMH6s8AAAABDsc1pg"
     },
     {
       "repository": "Aaqib-OSS/TalebElm",
@@ -3484,6 +3574,16 @@
       "repositoryId": "1359876495",
       "pullRequestId": "5977914012",
       "pullRequestNodeId": "PR_kwDOUQ4Rj88AAAABKAHgJw"
+    },
+    {
+      "repository": "leo-aa88/PetitePass",
+      "number": 73,
+      "description": "ci: pin actions and attest release artifacts",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "444219343",
+      "pullRequestId": "6596087922",
+      "pullRequestNodeId": "PR_kwDOGno_z88AAAABRuLeXw"
     },
     {
       "repository": "lingdojo/kana-dojo",

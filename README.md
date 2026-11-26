@@ -11,8 +11,8 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>563</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>259</strong><br/>External repositories</td>
+    <td align="center"><strong>573</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>265</strong><br/>External repositories</td>
     <td align="center"><strong>1084</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 563 merged pull requests</summary>
+<summary>Browse all 573 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -119,10 +119,19 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1086](https://github.com/8f4e/8f4e/pull/1086) | fix(tokenizer): parse quoted strings before arithmetic | Merged |
 | [aaliya1719/Odyssey](https://github.com/aaliya1719/Odyssey) | [#48](https://github.com/aaliya1719/Odyssey/pull/48) | Add theme-aware atmospheric backdrop to expedition trail | Merged |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | [#9](https://github.com/aamirtechs/beforeyoupaste/pull/9) | feat: add Aadhaar Verhoeff detector | Merged |
+| [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | [#10](https://github.com/aamirtechs/beforeyoupaste/pull/10) | Add labelled date of birth detector | Merged |
+| [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | [#11](https://github.com/aamirtechs/beforeyoupaste/pull/11) | fix(detectors): validate IBAN country lengths | Merged |
+| [aamirtechs/ratecon-reader](https://github.com/aamirtechs/ratecon-reader) | [#6](https://github.com/aamirtechs/ratecon-reader/pull/6) | feat: add strict completeness checks for #4 | Merged |
+| [Aaqib-OSS/algo-solutions](https://github.com/Aaqib-OSS/algo-solutions) | [#1](https://github.com/Aaqib-OSS/algo-solutions/pull/1) | Add a script to generate the solutions index | Merged |
 | [Aaqib-OSS/api-contract-guardian](https://github.com/Aaqib-OSS/api-contract-guardian) | [#1](https://github.com/Aaqib-OSS/api-contract-guardian/pull/1) | docs: explain cross-file Express router composition | Merged |
+| [Aaqib-OSS/nimblebrain](https://github.com/Aaqib-OSS/nimblebrain) | [#1](https://github.com/Aaqib-OSS/nimblebrain/pull/1) | fix(web): make locked skill toggle announcements tier-aware | Merged |
+| [Aaqib-OSS/open-source-radar](https://github.com/Aaqib-OSS/open-source-radar) | [#1](https://github.com/Aaqib-OSS/open-source-radar/pull/1) | Add PowerShell to the language radar | Merged |
+| [Aaqib-OSS/open-source-radar](https://github.com/Aaqib-OSS/open-source-radar) | [#2](https://github.com/Aaqib-OSS/open-source-radar/pull/2) | Add PowerShell to the language radar | Merged |
 | [Aaqib-OSS/seed-scan](https://github.com/Aaqib-OSS/seed-scan) | [#1](https://github.com/Aaqib-OSS/seed-scan/pull/1) | fix(identify): validate public input types | Merged |
 | [Aaqib-OSS/seed-scan](https://github.com/Aaqib-OSS/seed-scan) | [#2](https://github.com/Aaqib-OSS/seed-scan/pull/2) | test: bound subprocess execution time | Merged |
 | [Aaqib-OSS/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/Aaqib-OSS/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | [#1](https://github.com/Aaqib-OSS/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices/pull/1) | fix: parse structured Ollama anomaly scores | Merged |
+| [Aaqib-OSS/sotto](https://github.com/Aaqib-OSS/sotto) | [#2](https://github.com/Aaqib-OSS/sotto/pull/2) | tmp: merge #250 implementation | Merged |
+| [Aaqib-OSS/sotto](https://github.com/Aaqib-OSS/sotto) | [#6](https://github.com/Aaqib-OSS/sotto/pull/6) | Fix/250 env ls json | Merged |
 | [Aaqib-OSS/TalebElm](https://github.com/Aaqib-OSS/TalebElm) | [#1](https://github.com/Aaqib-OSS/TalebElm/pull/1) | test: cover resource filter parameter defaults and record behavior | Merged |
 | [Aaqib-OSS/vega](https://github.com/Aaqib-OSS/vega) | [#1](https://github.com/Aaqib-OSS/vega/pull/1) | Add M3U8 and JSON playlist import/export | Merged |
 | [Aaqib-OSS/workproof](https://github.com/Aaqib-OSS/workproof) | [#1](https://github.com/Aaqib-OSS/workproof/pull/1) | Add an offline workproof report viewer | Merged |
@@ -463,6 +472,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#14](https://github.com/LennardGeissler/blindbucket/pull/14) | feat(cli): add JSON output to keys list | Merged |
 | [LennardGeissler/blindbucket](https://github.com/LennardGeissler/blindbucket) | [#192](https://github.com/LennardGeissler/blindbucket/pull/192) | feat(cli): report Go build metadata in version output | Merged |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | [#71](https://github.com/Lennonhaha/fibemate-react-native/pull/71) | Fix/67 jest no tests gate | Merged |
+| [leo-aa88/PetitePass](https://github.com/leo-aa88/PetitePass) | [#73](https://github.com/leo-aa88/PetitePass/pull/73) | ci: pin actions and attest release artifacts | Merged |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | [#29804](https://github.com/lingdojo/kana-dojo/pull/29804) | content: add new japanese false friend #36 | Merged |
 | [livesport/homer](https://github.com/livesport/homer) | [#79](https://github.com/livesport/homer/pull/79) | test(console): cover download utilities (#51) | Merged |
 | [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | [#8](https://github.com/Louayzouaoui1/claude-hud/pull/8) | test: cover token counting and cache pricing (#7) | Merged |
@@ -684,7 +694,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 259 external repositories</summary>
+<summary>Browse merged PR counts across 265 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -729,6 +739,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 4 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
+| [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | 3 |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 3 |
 | [anonhym/latelier](https://github.com/anonhym/latelier) | 3 |
 | [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) | 3 |
@@ -755,7 +766,9 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 3 |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 3 |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | 2 |
+| [Aaqib-OSS/open-source-radar](https://github.com/Aaqib-OSS/open-source-radar) | 2 |
 | [Aaqib-OSS/seed-scan](https://github.com/Aaqib-OSS/seed-scan) | 2 |
+| [Aaqib-OSS/sotto](https://github.com/Aaqib-OSS/sotto) | 2 |
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | 2 |
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 2 |
 | [agentsmith-tools/maintainer-agent](https://github.com/agentsmith-tools/maintainer-agent) | 2 |
@@ -813,8 +826,10 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Yjnnev/Lab-Track](https://github.com/Yjnnev/Lab-Track) | 2 |
 | [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) | 2 |
 | [aaliya1719/Odyssey](https://github.com/aaliya1719/Odyssey) | 1 |
-| [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | 1 |
+| [aamirtechs/ratecon-reader](https://github.com/aamirtechs/ratecon-reader) | 1 |
+| [Aaqib-OSS/algo-solutions](https://github.com/Aaqib-OSS/algo-solutions) | 1 |
 | [Aaqib-OSS/api-contract-guardian](https://github.com/Aaqib-OSS/api-contract-guardian) | 1 |
+| [Aaqib-OSS/nimblebrain](https://github.com/Aaqib-OSS/nimblebrain) | 1 |
 | [Aaqib-OSS/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/Aaqib-OSS/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 1 |
 | [Aaqib-OSS/TalebElm](https://github.com/Aaqib-OSS/TalebElm) | 1 |
 | [Aaqib-OSS/vega](https://github.com/Aaqib-OSS/vega) | 1 |
@@ -890,6 +905,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [lacs-project/sysknife](https://github.com/lacs-project/sysknife) | 1 |
 | [Larson-Logan/medal-sync](https://github.com/Larson-Logan/medal-sync) | 1 |
 | [Lennonhaha/fibemate-react-native](https://github.com/Lennonhaha/fibemate-react-native) | 1 |
+| [leo-aa88/PetitePass](https://github.com/leo-aa88/PetitePass) | 1 |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | 1 |
 | [livesport/homer](https://github.com/livesport/homer) | 1 |
 | [Louayzouaoui1/claude-hud](https://github.com/Louayzouaoui1/claude-hud) | 1 |
@@ -947,7 +963,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **563** |
+| **Total** | **573** |
 
 </details>
 

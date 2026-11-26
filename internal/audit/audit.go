@@ -176,18 +176,14 @@ func Run(ctx context.Context, config Config) error {
 
 	breakdown := buildRepositoryBreakdown(externalContributions)
 	repositoryCounts := len(breakdown)
-	breakdownRows := make([]string, 0, len(breakdown))
-	for _, item := range breakdown {
-		breakdownRows = append(breakdownRows, fmt.Sprintf("| %s | %d |", MarkdownLink(item.Repository), item.Count))
-	}
 
 	readme, err := RenderReadme(
 		string(existingReadmeBytes),
 		int64(len(externalContributions)),
 		int64(repositoryCounts),
 		authoredPullRequestCount,
-		BuildContributionTable(externalContributions),
-		strings.Join(breakdownRows, "\n"),
+		"",
+		"",
 	)
 	if err != nil {
 		return err

@@ -3,7 +3,7 @@
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
   "authoredPullRequestHighWatermark": 1084,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1081,
+  "lastObservedPublicAuthoredPullRequestCount": 1083,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -46,6 +46,66 @@
       "pullRequestNodeId": "PR_kwDOVR21n88AAAABKBOXIg"
     },
     {
+      "repository": "Aaqib-OSS/api-contract-guardian",
+      "number": 1,
+      "description": "docs: explain cross-file Express router composition",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1431678930",
+      "pullRequestId": "6383859564",
+      "pullRequestNodeId": "PR_kwDOVVWv0s8AAAABPEUbrg"
+    },
+    {
+      "repository": "Aaqib-OSS/seed-scan",
+      "number": 1,
+      "description": "fix(identify): validate public input types",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1463449787",
+      "pullRequestId": "6479066700",
+      "pullRequestNodeId": "PR_kwDOVzp4u88AAAABQQiyFg"
+    },
+    {
+      "repository": "Aaqib-OSS/seed-scan",
+      "number": 2,
+      "description": "test: bound subprocess execution time",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1463449787",
+      "pullRequestId": "6479073138",
+      "pullRequestNodeId": "PR_kwDOVzp4u88AAAABQQjHIw"
+    },
+    {
+      "repository": "Aaqib-OSS/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices",
+      "number": 1,
+      "description": "fix: parse structured Ollama anomaly scores",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1437015807",
+      "pullRequestId": "6086665788",
+      "pullRequestNodeId": "PR_kwDOVace_88AAAABLWvPuA"
+    },
+    {
+      "repository": "Aaqib-OSS/TalebElm",
+      "number": 1,
+      "description": "test: cover resource filter parameter defaults and record behavior",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1468872706",
+      "pullRequestId": "6561704399",
+      "pullRequestNodeId": "PR_kwDOV404As8AAAABRSbdxA"
+    },
+    {
+      "repository": "Aaqib-OSS/vega",
+      "number": 1,
+      "description": "Add M3U8 and JSON playlist import/export",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1440913476",
+      "pullRequestId": "6135735855",
+      "pullRequestNodeId": "PR_kwDOVeKYRM8AAAABL-FBZg"
+    },
+    {
       "repository": "Aaqib-OSS/workproof",
       "number": 1,
       "description": "Add an offline workproof report viewer",
@@ -54,6 +114,16 @@
       "repositoryId": "1425369917",
       "pullRequestId": "5921354682",
       "pullRequestNodeId": "PR_kwDOVPVrPc8AAAABJS8vaw"
+    },
+    {
+      "repository": "Aaqib-OSS/worldforge",
+      "number": 1,
+      "description": "Draft D&D 5e character sheet paper-inspired layout",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1437702203",
+      "pullRequestId": "6527054269",
+      "pullRequestNodeId": "PR_kwDOVbGYO88AAAABQ3A3_g"
     },
     {
       "repository": "adarshrkumar/ViaBay",
@@ -476,6 +546,16 @@
       "pullRequestNodeId": "PR_kwDOSbRaBs8AAAABPP4qRA"
     },
     {
+      "repository": "anonhym/latelier",
+      "number": 784,
+      "description": "Keep navigator rows stable during pointer interactions",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1236556294",
+      "pullRequestId": "6398605955",
+      "pullRequestNodeId": "PR_kwDOSbRaBs8AAAABPP-Kzw"
+    },
+    {
       "repository": "answerLoops/answerLoops",
       "number": 441,
       "description": "Feat/article supplied context usage",
@@ -504,6 +584,16 @@
       "repositoryId": "1285982258",
       "pullRequestId": "6183274238",
       "pullRequestNodeId": "PR_kwDOTKaIMs8AAAABMjza7A"
+    },
+    {
+      "repository": "argus-code-scanning/argus-codescan-mcp",
+      "number": 253,
+      "description": "feat(ml): detect unbounded LLM consumption",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1285982258",
+      "pullRequestId": "6594070188",
+      "pullRequestNodeId": "PR_kwDOTKaIMs8AAAABRsk04g"
     },
     {
       "repository": "ArijitGupta-in/geo-core",
@@ -1987,6 +2077,16 @@
     },
     {
       "repository": "eyadstein/leaklens",
+      "number": 567,
+      "description": "docs: add manual release checklist issue template",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1427320203",
+      "pullRequestId": "6480234894",
+      "pullRequestNodeId": "PR_kwDOVRMti88AAAABQReUPg"
+    },
+    {
+      "repository": "eyadstein/leaklens",
       "number": 568,
       "description": "test: cover RTL explanation output",
       "firstRecordedIn": "GitHub Search API",
@@ -2004,6 +2104,16 @@
       "repositoryId": "1427320203",
       "pullRequestId": "6480927527",
       "pullRequestNodeId": "PR_kwDOVRMti88AAAABQSBaVg"
+    },
+    {
+      "repository": "eyadstein/leaklens",
+      "number": 651,
+      "description": "feat(readers): support JSONL and NDJSON datasets",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1427320203",
+      "pullRequestId": "6543449691",
+      "pullRequestNodeId": "PR_kwDOVRMti88AAAABRD2DRw"
     },
     {
       "repository": "fatihserhatturan/noCap",
@@ -3176,6 +3286,16 @@
       "pullRequestNodeId": "PR_kwDOUO6Pwc8AAAABL-mqeQ"
     },
     {
+      "repository": "komallsingh/api-contract-guardian",
+      "number": 31,
+      "description": "docs: explain cross-file Express router composition",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1357811649",
+      "pullRequestId": "6384267985",
+      "pullRequestNodeId": "PR_kwDOUO6Pwc8AAAABPEpm0g"
+    },
+    {
       "repository": "Krrishkumar125/create-bullmq-app",
       "number": 6,
       "description": "fix(redis): rate-limit connection error logs",
@@ -3604,6 +3724,16 @@
       "repositoryId": "1417598285",
       "pullRequestId": "6022990793",
       "pullRequestNodeId": "PR_kwDOVH7VTc8AAAABKjwcxg"
+    },
+    {
+      "repository": "modrollstudio/Modroll-Studio-Website",
+      "number": 110,
+      "description": "feat(navbar): add interactive d20 logo roll",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1297212809",
+      "pullRequestId": "6575237296",
+      "pullRequestNodeId": "PR_kwDOTVHlic8AAAABRdXHMg"
     },
     {
       "repository": "moizycodes/moizy-open-source-issues",

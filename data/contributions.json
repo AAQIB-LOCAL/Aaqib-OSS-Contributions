@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1084,
+  "authoredPullRequestHighWatermark": 1097,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1083,
+  "lastObservedPublicAuthoredPullRequestCount": 1097,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -214,6 +214,16 @@
       "repositoryId": "1437702203",
       "pullRequestId": "6527054269",
       "pullRequestNodeId": "PR_kwDOVbGYO88AAAABQ3A3_g"
+    },
+    {
+      "repository": "abhi478jeetur-rgb/env-saaf",
+      "number": 445,
+      "description": "fix: treat whitespace-only env values as unset",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1455467660",
+      "pullRequestId": "6624331875",
+      "pullRequestNodeId": "PR_kwDOVsCsjM8AAAABSE4byA"
     },
     {
       "repository": "adarshrkumar/ViaBay",
@@ -684,6 +694,16 @@
       "repositoryId": "1285982258",
       "pullRequestId": "6594070188",
       "pullRequestNodeId": "PR_kwDOTKaIMs8AAAABRsk04g"
+    },
+    {
+      "repository": "argus-code-scanning/argus-codescan-mcp",
+      "number": 254,
+      "description": "feat(scanner): detect ReDoS patterns in compiled regexes   Open PR creation page",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1285982258",
+      "pullRequestId": "6594240333",
+      "pullRequestNodeId": "PR_kwDOTKaIMs8AAAABRstXQQ"
     },
     {
       "repository": "ArijitGupta-in/geo-core",
@@ -2334,6 +2354,16 @@
       "repositoryId": "1442266670",
       "pullRequestId": "6508643166",
       "pullRequestNodeId": "PR_kwDOVfc-Ls8AAAABQoTpJA"
+    },
+    {
+      "repository": "fork-commit-merge/fork-commit-merge",
+      "number": 8610,
+      "description": "Implement TypeScript product listing and filters",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "667384015",
+      "pullRequestId": "6625079345",
+      "pullRequestNodeId": "PR_kwDOJ8d4z88AAAABSFflfw"
     },
     {
       "repository": "ForNeVeR/Fabricator",
@@ -4214,6 +4244,16 @@
       "repositoryId": "1163595500",
       "pullRequestId": "6559244902",
       "pullRequestNodeId": "PR_kwDORVsO7M8AAAABRQbpbQ"
+    },
+    {
+      "repository": "OpenWave-India/modeldiff",
+      "number": 47,
+      "description": "feat(cli): add offline starter suite initializer",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1438013445",
+      "pullRequestId": "6263661506",
+      "pullRequestNodeId": "PR_kwDOVbZYBc8AAAABNkRS9A"
     },
     {
       "repository": "Orbit-xyz/orbit-docs",

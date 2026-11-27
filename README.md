@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>577</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>268</strong><br/>External repositories</td>
-    <td align="center"><strong>1097</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>580</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>269</strong><br/>External repositories</td>
+    <td align="center"><strong>1099</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,12 +111,13 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 577 merged pull requests</summary>
+<summary>Browse all 580 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1083](https://github.com/8f4e/8f4e/pull/1083) | docs: document nearestValue standard-library helper | Merged |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1086](https://github.com/8f4e/8f4e/pull/1086) | fix(tokenizer): parse quoted strings before arithmetic | Merged |
+| [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1214](https://github.com/8f4e/8f4e/pull/1214) | Add pointee start-address prefix | Merged |
 | [aaliya1719/Odyssey](https://github.com/aaliya1719/Odyssey) | [#48](https://github.com/aaliya1719/Odyssey/pull/48) | Add theme-aware atmospheric backdrop to expedition trail | Merged |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | [#9](https://github.com/aamirtechs/beforeyoupaste/pull/9) | feat: add Aadhaar Verhoeff detector | Merged |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | [#10](https://github.com/aamirtechs/beforeyoupaste/pull/10) | Add labelled date of birth detector | Merged |
@@ -439,6 +440,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#261](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/261) | Math: Add nextUp, nextDown, nextAfter, ulp and scalb | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#289](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/289) | fix: preserve quoted pipe arguments in shell | Merged |
 | [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#305](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/305) | feat(kernel): support musl startup system calls | Merged |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | [#329](https://github.com/JackFurton/who-would-build-a-kernel-in-java/pull/329) | test: cover ArrayDeque removeLast edge cases | Merged |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#169](https://github.com/jaikaran109/51_Web_Projects/pull/169) | Fix: add playable shapes game and correct layout | Merged |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#253](https://github.com/jaikaran109/51_Web_Projects/pull/253) | perf: optimize raster images and lazy-load page media | Merged |
 | [jaikaran109/51_Web_Projects](https://github.com/jaikaran109/51_Web_Projects) | [#254](https://github.com/jaikaran109/51_Web_Projects/pull/254) | fix: add SEO metadata and SVG favicons to project pages | Merged |
@@ -661,6 +663,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | [#82](https://github.com/vr-patel/editmypdf/pull/82) | fix: Improve emoji search with keywords and group names | Merged |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#68](https://github.com/Webghost01-NG/stellar-event-sync/pull/68) | fix: centralize diagnostic secret redaction | Merged |
 | [Webghost01-NG/stellar-event-sync](https://github.com/Webghost01-NG/stellar-event-sync) | [#71](https://github.com/Webghost01-NG/stellar-event-sync/pull/71) | Issue 46 rpc fixture builders | Merged |
+| [WeighInNG/WeighIn](https://github.com/WeighInNG/WeighIn) | [#509](https://github.com/WeighInNG/WeighIn/pull/509) | feat(cli): format local benchmark diff summary | Merged |
 | [wheelgap/tracker](https://github.com/wheelgap/tracker) | [#252](https://github.com/wheelgap/tracker/pull/252) | fix(check): include private index in copied fix prompt | Merged |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | [#32](https://github.com/Xdabier/themerchantengine/pull/32) | fix(admin-services): return geo validation errors as observables | Merged |
 | [Xdabier/themerchantengine](https://github.com/Xdabier/themerchantengine) | [#59](https://github.com/Xdabier/themerchantengine/pull/59) | fix(admin-services): return category validation errors as observables | Merged |
@@ -698,7 +701,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 268 external repositories</summary>
+<summary>Browse merged PR counts across 269 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
@@ -709,8 +712,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) | 9 |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) | 8 |
 | [ismayilzeynal/tabulint-oss-az](https://github.com/ismayilzeynal/tabulint-oss-az) | 8 |
+| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 8 |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | 7 |
-| [JackFurton/who-would-build-a-kernel-in-java](https://github.com/JackFurton/who-would-build-a-kernel-in-java) | 7 |
 | [AnayDhawan/UCIP](https://github.com/AnayDhawan/UCIP) | 6 |
 | [Hosein-imani/hybrid-recommendation-system](https://github.com/Hosein-imani/hybrid-recommendation-system) | 6 |
 | [stlynnxx/Slippery-Penguin](https://github.com/stlynnxx/Slippery-Penguin) | 6 |
@@ -743,6 +746,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 4 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
+| [8f4e/8f4e](https://github.com/8f4e/8f4e) | 3 |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | 3 |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 3 |
 | [anonhym/latelier](https://github.com/anonhym/latelier) | 3 |
@@ -770,7 +774,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [stlynnxx/PartsandStock](https://github.com/stlynnxx/PartsandStock) | 3 |
 | [Yjnnev/Kat-Notes](https://github.com/Yjnnev/Kat-Notes) | 3 |
 | [yoavnir/specs2016](https://github.com/yoavnir/specs2016) | 3 |
-| [8f4e/8f4e](https://github.com/8f4e/8f4e) | 2 |
 | [Aaqib-OSS/open-source-radar](https://github.com/Aaqib-OSS/open-source-radar) | 2 |
 | [Aaqib-OSS/seed-scan](https://github.com/Aaqib-OSS/seed-scan) | 2 |
 | [Aaqib-OSS/sotto](https://github.com/Aaqib-OSS/sotto) | 2 |
@@ -966,11 +969,12 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | 1 |
 | [VOLPAROSSA/volparossa-code](https://github.com/VOLPAROSSA/volparossa-code) | 1 |
 | [vr-patel/editmypdf](https://github.com/vr-patel/editmypdf) | 1 |
+| [WeighInNG/WeighIn](https://github.com/WeighInNG/WeighIn) | 1 |
 | [wheelgap/tracker](https://github.com/wheelgap/tracker) | 1 |
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **577** |
+| **Total** | **580** |
 
 </details>
 
@@ -987,7 +991,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **1097 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1099 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

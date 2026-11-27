@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>580</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>581</strong><br/>Merged upstream PRs</td>
     <td align="center"><strong>269</strong><br/>External repositories</td>
-    <td align="center"><strong>1099</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>1100</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 580 merged pull requests</summary>
+<summary>Browse all 581 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
@@ -138,6 +138,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Aaqib-OSS/workproof](https://github.com/Aaqib-OSS/workproof) | [#1](https://github.com/Aaqib-OSS/workproof/pull/1) | Add an offline workproof report viewer | Merged |
 | [Aaqib-OSS/worldforge](https://github.com/Aaqib-OSS/worldforge) | [#1](https://github.com/Aaqib-OSS/worldforge/pull/1) | Draft D&D 5e character sheet paper-inspired layout | Merged |
 | [abhi478jeetur-rgb/env-saaf](https://github.com/abhi478jeetur-rgb/env-saaf) | [#445](https://github.com/abhi478jeetur-rgb/env-saaf/pull/445) | fix: treat whitespace-only env values as unset | Merged |
+| [abhi478jeetur-rgb/env-saaf](https://github.com/abhi478jeetur-rgb/env-saaf) | [#503](https://github.com/abhi478jeetur-rgb/env-saaf/pull/503) | Fix protocol-aware URL examples | Merged |
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | [#89](https://github.com/adarshrkumar/ViaBay/pull/89) | test: add meaningful Playwright browser assertions (#87) | Merged |
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | [#90](https://github.com/adarshrkumar/ViaBay/pull/90) | test: cover modal backdrop clicks under scroll and zoom (#84) | Merged |
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | [#7](https://github.com/adebayomoses/mcp-detector/pull/7) | Add SARIF 2.1.0 report output | Merged |
@@ -777,6 +778,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Aaqib-OSS/open-source-radar](https://github.com/Aaqib-OSS/open-source-radar) | 2 |
 | [Aaqib-OSS/seed-scan](https://github.com/Aaqib-OSS/seed-scan) | 2 |
 | [Aaqib-OSS/sotto](https://github.com/Aaqib-OSS/sotto) | 2 |
+| [abhi478jeetur-rgb/env-saaf](https://github.com/abhi478jeetur-rgb/env-saaf) | 2 |
 | [adarshrkumar/ViaBay](https://github.com/adarshrkumar/ViaBay) | 2 |
 | [adebayomoses/mcp-detector](https://github.com/adebayomoses/mcp-detector) | 2 |
 | [agentsmith-tools/maintainer-agent](https://github.com/agentsmith-tools/maintainer-agent) | 2 |
@@ -842,7 +844,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Aaqib-OSS/vega](https://github.com/Aaqib-OSS/vega) | 1 |
 | [Aaqib-OSS/workproof](https://github.com/Aaqib-OSS/workproof) | 1 |
 | [Aaqib-OSS/worldforge](https://github.com/Aaqib-OSS/worldforge) | 1 |
-| [abhi478jeetur-rgb/env-saaf](https://github.com/abhi478jeetur-rgb/env-saaf) | 1 |
 | [Aepzie/cutline](https://github.com/Aepzie/cutline) | 1 |
 | [agevenkat/vagejs](https://github.com/agevenkat/vagejs) | 1 |
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | 1 |
@@ -974,7 +975,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **580** |
+| **Total** | **581** |
 
 </details>
 
@@ -991,7 +992,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **1099 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1100 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

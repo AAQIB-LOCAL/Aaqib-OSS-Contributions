@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1099,
+  "authoredPullRequestHighWatermark": 1100,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1099,
+  "lastObservedPublicAuthoredPullRequestCount": 1100,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -234,6 +234,16 @@
       "repositoryId": "1455467660",
       "pullRequestId": "6624331875",
       "pullRequestNodeId": "PR_kwDOVsCsjM8AAAABSE4byA"
+    },
+    {
+      "repository": "abhi478jeetur-rgb/env-saaf",
+      "number": 503,
+      "description": "Fix protocol-aware URL examples",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1455467660",
+      "pullRequestId": "6643599205",
+      "pullRequestNodeId": "PR_kwDOVsCsjM8AAAABSUUDkQ"
     },
     {
       "repository": "adarshrkumar/ViaBay",

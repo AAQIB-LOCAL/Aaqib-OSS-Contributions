@@ -11,9 +11,9 @@ A portfolio of shipped open-source work by `Aaqibhafeezkhan` , focused on practi
 
 <table>
   <tr>
-    <td align="center"><strong>581</strong><br/>Merged upstream PRs</td>
-    <td align="center"><strong>269</strong><br/>External repositories</td>
-    <td align="center"><strong>1100</strong><br/>Public authored PRs (high-water mark)</td>
+    <td align="center"><strong>588</strong><br/>Merged upstream PRs</td>
+    <td align="center"><strong>272</strong><br/>External repositories</td>
+    <td align="center"><strong>1106</strong><br/>Public authored PRs (high-water mark)</td>
   </tr>
 </table>
 
@@ -111,13 +111,14 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## Verified Upstream OSS Contributions
 
 <details>
-<summary>Browse all 581 merged pull requests</summary>
+<summary>Browse all 588 merged pull requests</summary>
 
 | Repository | PR | Technical contribution | Status |
 |---|---:|---|---|
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1083](https://github.com/8f4e/8f4e/pull/1083) | docs: document nearestValue standard-library helper | Merged |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1086](https://github.com/8f4e/8f4e/pull/1086) | fix(tokenizer): parse quoted strings before arithmetic | Merged |
 | [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1214](https://github.com/8f4e/8f4e/pull/1214) | Add pointee start-address prefix | Merged |
+| [8f4e/8f4e](https://github.com/8f4e/8f4e) | [#1488](https://github.com/8f4e/8f4e/pull/1488) | fix(editor): resolve inline memory directives on continued declarations | Merged |
 | [aaliya1719/Odyssey](https://github.com/aaliya1719/Odyssey) | [#48](https://github.com/aaliya1719/Odyssey/pull/48) | Add theme-aware atmospheric backdrop to expedition trail | Merged |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | [#9](https://github.com/aamirtechs/beforeyoupaste/pull/9) | feat: add Aadhaar Verhoeff detector | Merged |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | [#10](https://github.com/aamirtechs/beforeyoupaste/pull/10) | Add labelled date of birth detector | Merged |
@@ -190,6 +191,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [ArijitGupta-in/geo-core](https://github.com/ArijitGupta-in/geo-core) | [#5](https://github.com/ArijitGupta-in/geo-core/pull/5) | feat(validation): export decimal axis validators | Merged |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | [#1161](https://github.com/arminazimi/evergreen/pull/1161) | feat: add Spring Boot lifecycle rules and migration fixtures | Merged |
 | [arminazimi/evergreen](https://github.com/arminazimi/evergreen) | [#1162](https://github.com/arminazimi/evergreen/pull/1162) | feat: add Markdown scan report format | Merged |
+| [arthurlunkes/ferrix](https://github.com/arthurlunkes/ferrix) | [#44](https://github.com/arthurlunkes/ferrix/pull/44) | feat(frontend): add YAML syntax highlighting to config editor | Merged |
 | [arudaev/THD-Room-Finder](https://github.com/arudaev/THD-Room-Finder) | [#46](https://github.com/arudaev/THD-Room-Finder/pull/46) | feat(data): add the THD programme and intake taxonomy | Merged |
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | [#149](https://github.com/ASDW51/DanmuFloat/pull/149) | docs: 修复 PR 指南中的 CI 工作流链接 | Merged |
 | [ashfall-sh/unripe](https://github.com/ashfall-sh/unripe) | [#7](https://github.com/ashfall-sh/unripe/pull/7) | feat: support Elixir mix.lock and Hex publish times | Merged |
@@ -238,6 +240,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | [#241](https://github.com/bolubo/checkpoint-governor/pull/241) | Add JSON output support to Python demo | Merged |
 | [boromat/polanon](https://github.com/boromat/polanon) | [#26](https://github.com/boromat/polanon/pull/26) | fix(guards): mask Polish phones with bare 48 prefix | Merged |
 | [brokspace/brok](https://github.com/brokspace/brok) | [#41](https://github.com/brokspace/brok/pull/41) | fix: preserve brok.yml comments when saving | Merged |
+| [btclib-org/btclib-wallet](https://github.com/btclib-org/btclib-wallet) | [#1093](https://github.com/btclib-org/btclib-wallet/pull/1093) | Validate the exact confirmation target (closes #1091) | Merged |
 | [btclib-org/seed-scan](https://github.com/btclib-org/seed-scan) | [#127](https://github.com/btclib-org/seed-scan/pull/127) | test: bound subprocess execution time | Merged |
 | [btclib-org/seed-scan](https://github.com/btclib-org/seed-scan) | [#128](https://github.com/btclib-org/seed-scan/pull/128) | fix(identify): validate public input types | Merged |
 | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | [#27](https://github.com/Bubblegunn/ai-slop-linter/pull/27) | Add pre-commit hooks for Markdown and commit messages | Merged |
@@ -280,6 +283,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [creatoan/scenet](https://github.com/creatoan/scenet) | [#206](https://github.com/creatoan/scenet/pull/206) | feat(cli): rebuild when source files change (`scenet build --watch`) (#78) | Merged |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | [#207](https://github.com/creatoan/scenet/pull/207) | docs: PDF print spike (#80) | Merged |
 | [creatoan/scenet](https://github.com/creatoan/scenet) | [#479](https://github.com/creatoan/scenet/pull/479) | Report script directive faults at their lines | Merged |
+| [creatoan/scenet](https://github.com/creatoan/scenet) | [#494](https://github.com/creatoan/scenet/pull/494) | Fix spoken caption accessibility labels | Merged |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#367](https://github.com/cubrid-lab/cubrid-mcp-server/pull/367) | test(config): cover whitespace around named selector | Merged |
 | [cubrid-lab/cubrid-mcp-server](https://github.com/cubrid-lab/cubrid-mcp-server) | [#368](https://github.com/cubrid-lab/cubrid-mcp-server/pull/368) | test: cover a non-matching table-name filter | Merged |
 | [DeandreT/ferrule](https://github.com/DeandreT/ferrule) | [#1120](https://github.com/DeandreT/ferrule/pull/1120) | feat(linux): add desktop and AppStream metadata | Merged |
@@ -419,6 +423,8 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#355](https://github.com/Huerte/algo-solutions/pull/355) | Fix longest consecutive sequence solution | Merged |
 | [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#356](https://github.com/Huerte/algo-solutions/pull/356) | Fix move zeroes solution | Merged |
 | [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#357](https://github.com/Huerte/algo-solutions/pull/357) | Optimize remove parentheses solution | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#446](https://github.com/Huerte/algo-solutions/pull/446) | Fix character triangle leading spacing | Merged |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | [#447](https://github.com/Huerte/algo-solutions/pull/447) | Fix Bigger Price ordering and duplicate handling | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#97](https://github.com/Huseynteymurzade28/tuiba/pull/97) | Add cargo-binstall release metadata | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#99](https://github.com/Huseynteymurzade28/tuiba/pull/99) | Feat/configurable colour themes | Merged |
 | [Huseynteymurzade28/tuiba](https://github.com/Huseynteymurzade28/tuiba) | [#100](https://github.com/Huseynteymurzade28/tuiba/pull/100) | packaging: add Nix flake | Merged |
@@ -499,6 +505,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | [#11](https://github.com/MeshLive/meshlive-android/pull/11) | docs: clarify release verification and terms | Merged |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | [#602](https://github.com/michaelegner/architecture-intelligence-platform/pull/602) | test: cover ClaimEffectSet.is_empty | Merged |
 | [michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | [#603](https://github.com/michaelegner/architecture-intelligence-platform/pull/603) | test: cover utf8 helper encoding behavior | Merged |
+| [midtownrobotics/Gearbox](https://github.com/midtownrobotics/Gearbox) | [#364](https://github.com/midtownrobotics/Gearbox/pull/364) | fix(inventory): edit quantities from Locations | Merged |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#12](https://github.com/MilkteaTW1/piscout/pull/12) | i18n: add Hindi locale | Merged |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#13](https://github.com/MilkteaTW1/piscout/pull/13) | Add Urdu locale (#11) | Merged |
 | [MilkteaTW1/piscout](https://github.com/MilkteaTW1/piscout) | [#14](https://github.com/MilkteaTW1/piscout/pull/14) | Add Arabic locale (#11) | Merged |
@@ -702,11 +709,11 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 ## External OSS Contribution Breakdown
 
 <details>
-<summary>Browse merged PR counts across 269 external repositories</summary>
+<summary>Browse merged PR counts across 272 external repositories</summary>
 
 | Repository | Merged PRs |
 |---|---:|
-| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | 18 |
+| [Huerte/algo-solutions](https://github.com/Huerte/algo-solutions) | 20 |
 | [afrigov/afrigov](https://github.com/afrigov/afrigov) | 12 |
 | [DhruvHarani1/lyra](https://github.com/DhruvHarani1/lyra) | 11 |
 | [Sekelenao/Flinkboot](https://github.com/Sekelenao/Flinkboot) | 9 |
@@ -722,6 +729,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app) | 5 |
 | [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) | 5 |
 | [blixvip/NullMotion](https://github.com/blixvip/NullMotion) | 5 |
+| [creatoan/scenet](https://github.com/creatoan/scenet) | 5 |
 | [eklavya2201/breakinggood](https://github.com/eklavya2201/breakinggood) | 5 |
 | [francordel/kdemos](https://github.com/francordel/kdemos) | 5 |
 | [komallsingh/api-contract-guardian](https://github.com/komallsingh/api-contract-guardian) | 5 |
@@ -732,11 +740,11 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices](https://github.com/shrihari7396/SentientGate--AI-Powered-Runtime-Security-for-Cloud-Native-Microservices) | 5 |
 | [tranquilo-art/tranquilo-app](https://github.com/tranquilo-art/tranquilo-app) | 5 |
 | [ujjwalv01/releaseproof](https://github.com/ujjwalv01/releaseproof) | 5 |
+| [8f4e/8f4e](https://github.com/8f4e/8f4e) | 4 |
 | [biolend83/tubehaus](https://github.com/biolend83/tubehaus) | 4 |
 | [bolubo/checkpoint-governor](https://github.com/bolubo/checkpoint-governor) | 4 |
 | [Bubblegunn/proactive-gate](https://github.com/Bubblegunn/proactive-gate) | 4 |
 | [Bytewave1/dkit](https://github.com/Bytewave1/dkit) | 4 |
-| [creatoan/scenet](https://github.com/creatoan/scenet) | 4 |
 | [DhruvHarani1/vega](https://github.com/DhruvHarani1/vega) | 4 |
 | [embedcatalog/embedcatalog](https://github.com/embedcatalog/embedcatalog) | 4 |
 | [getsotto/sotto](https://github.com/getsotto/sotto) | 4 |
@@ -747,7 +755,6 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | 4 |
 | [Tektrix/pinfold](https://github.com/Tektrix/pinfold) | 4 |
 | [yakew7/Fair-Code](https://github.com/yakew7/Fair-Code) | 4 |
-| [8f4e/8f4e](https://github.com/8f4e/8f4e) | 3 |
 | [aamirtechs/beforeyoupaste](https://github.com/aamirtechs/beforeyoupaste) | 3 |
 | [AkulTyagi11/StarStruck](https://github.com/AkulTyagi11/StarStruck) | 3 |
 | [anonhym/latelier](https://github.com/anonhym/latelier) | 3 |
@@ -849,6 +856,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [AlphaIsYour/eno-qr-studio](https://github.com/AlphaIsYour/eno-qr-studio) | 1 |
 | [AmineChr54/MeetScribe](https://github.com/AmineChr54/MeetScribe) | 1 |
 | [ArijitGupta-in/geo-core](https://github.com/ArijitGupta-in/geo-core) | 1 |
+| [arthurlunkes/ferrix](https://github.com/arthurlunkes/ferrix) | 1 |
 | [arudaev/THD-Room-Finder](https://github.com/arudaev/THD-Room-Finder) | 1 |
 | [ASDW51/DanmuFloat](https://github.com/ASDW51/DanmuFloat) | 1 |
 | [ashfall-sh/unripe](https://github.com/ashfall-sh/unripe) | 1 |
@@ -864,6 +872,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [blixvip/thumbnail-studio](https://github.com/blixvip/thumbnail-studio) | 1 |
 | [boromat/polanon](https://github.com/boromat/polanon) | 1 |
 | [brokspace/brok](https://github.com/brokspace/brok) | 1 |
+| [btclib-org/btclib-wallet](https://github.com/btclib-org/btclib-wallet) | 1 |
 | [chaoss/CollectOSS](https://github.com/chaoss/CollectOSS) | 1 |
 | [chipfighter/context-attachment-manager](https://github.com/chipfighter/context-attachment-manager) | 1 |
 | [chocolatey-community/chocolatey-packages](https://github.com/chocolatey-community/chocolatey-packages) | 1 |
@@ -922,6 +931,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [Manny-Minecraft/CreateMobGrinding](https://github.com/Manny-Minecraft/CreateMobGrinding) | 1 |
 | [marcovisona/arca](https://github.com/marcovisona/arca) | 1 |
 | [MeshLive/meshlive-android](https://github.com/MeshLive/meshlive-android) | 1 |
+| [midtownrobotics/Gearbox](https://github.com/midtownrobotics/Gearbox) | 1 |
 | [modrollstudio/Modroll-Studio-Website](https://github.com/modrollstudio/Modroll-Studio-Website) | 1 |
 | [Mr-Dark-debug/Moonfold](https://github.com/Mr-Dark-debug/Moonfold) | 1 |
 | [Muvon/octoweb](https://github.com/Muvon/octoweb) | 1 |
@@ -975,7 +985,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 | [yfosp/start-here](https://github.com/yfosp/start-here) | 1 |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) | 1 |
 | [zabuton-app/meguri](https://github.com/zabuton-app/meguri) | 1 |
-| **Total** | **581** |
+| **Total** | **588** |
 
 </details>
 
@@ -992,7 +1002,7 @@ Explore the complete verified ledger below for every counted merged upstream PR.
 <details>
 <summary>Counting rules and automation details</summary>
 
-The broader audit currently discovers **1100 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
+The broader audit currently discovers **1106 authored GitHub pull requests** for `Aaqibhafeezkhan`. This is a public Search API total, not a count of merged contributions. The verified OSS ledger counts merged PRs after filtering configured non-external namespaces.
 
 - **Namespace handling:** The automation excludes configured personal, organizational, portfolio, and internal namespaces. Update EXCLUDED_GITHUB_OWNERS in the workflow when needed.
 - **Fork handling:** A merged PR is attributed to the external upstream repository where it lands, not to the contributor's fork.

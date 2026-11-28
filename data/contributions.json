@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "seededFromCommit": "794e5b9bbc4f27ad04a4c3300f4984569b1852d1",
-  "authoredPullRequestHighWatermark": 1100,
+  "authoredPullRequestHighWatermark": 1106,
   "authoredPullRequestHighWatermarkSource": "Previously observed public GitHub Pull Requests search snapshot",
-  "lastObservedPublicAuthoredPullRequestCount": 1100,
+  "lastObservedPublicAuthoredPullRequestCount": 1106,
   "contributions": [
     {
       "repository": "8f4e/8f4e",
@@ -34,6 +34,16 @@
       "repositoryId": "313701704",
       "pullRequestId": "5983266993",
       "pullRequestNodeId": "PR_kwDOErK1SM8AAAABKEWzQg"
+    },
+    {
+      "repository": "8f4e/8f4e",
+      "number": 1488,
+      "description": "fix(editor): resolve inline memory directives on continued declarations",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "313701704",
+      "pullRequestId": "6479845636",
+      "pullRequestNodeId": "PR_kwDOErK1SM8AAAABQRKYNg"
     },
     {
       "repository": "aaliya1719/Odyssey",
@@ -756,6 +766,16 @@
       "pullRequestNodeId": "PR_kwDOVIDRnc8AAAABKlcXMw"
     },
     {
+      "repository": "arthurlunkes/ferrix",
+      "number": 44,
+      "description": "feat(frontend): add YAML syntax highlighting to config editor",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1363477890",
+      "pullRequestId": "6596159580",
+      "pullRequestNodeId": "PR_kwDOUUUFgs8AAAABRuPKRw"
+    },
+    {
       "repository": "arudaev/THD-Room-Finder",
       "number": 46,
       "description": "feat(data): add the THD programme and intake taxonomy",
@@ -1236,6 +1256,16 @@
       "pullRequestNodeId": "PR_kwDOVV7oEs8AAAABN8m4dA"
     },
     {
+      "repository": "btclib-org/btclib-wallet",
+      "number": 1093,
+      "description": "Validate the exact confirmation target (closes #1091)",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1385694869",
+      "pullRequestId": "6529661928",
+      "pullRequestNodeId": "PR_kwDOUpgGlc8AAAABQ5DrMQ"
+    },
+    {
       "repository": "btclib-org/seed-scan",
       "number": 127,
       "description": "test: bound subprocess execution time",
@@ -1654,6 +1684,16 @@
       "repositoryId": "1343921710",
       "pullRequestId": "6384134921",
       "pullRequestNodeId": "PR_kwDOUBqeLs8AAAABPEipKw"
+    },
+    {
+      "repository": "creatoan/scenet",
+      "number": 494,
+      "description": "Fix spoken caption accessibility labels",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1343921710",
+      "pullRequestId": "6534093439",
+      "pullRequestNodeId": "PR_kwDOUBqeLs8AAAABQ8hDuA"
     },
     {
       "repository": "cubrid-lab/cubrid-mcp-server",
@@ -3046,6 +3086,26 @@
       "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABRDYtxw"
     },
     {
+      "repository": "Huerte/algo-solutions",
+      "number": 446,
+      "description": "Fix character triangle leading spacing",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1027712578",
+      "pullRequestId": "6658971940",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABSgAvNg"
+    },
+    {
+      "repository": "Huerte/algo-solutions",
+      "number": 447,
+      "description": "Fix Bigger Price ordering and duplicate handling",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1027712578",
+      "pullRequestId": "6658975722",
+      "pullRequestNodeId": "PR_kwDOPUGmQs8AAAABSgA6fQ"
+    },
+    {
       "repository": "Huseynteymurzade28/tuiba",
       "number": 97,
       "description": "Add cargo-binstall release metadata",
@@ -3844,6 +3904,16 @@
       "repositoryId": "1348218705",
       "pullRequestId": "5919828562",
       "pullRequestNodeId": "PR_kwDOUFwvUc8AAAABJRujWQ"
+    },
+    {
+      "repository": "midtownrobotics/Gearbox",
+      "number": 364,
+      "description": "fix(inventory): edit quantities from Locations",
+      "firstRecordedIn": "GitHub Search API",
+      "lastSeenInSearch": true,
+      "repositoryId": "1240869997",
+      "pullRequestId": "6618556505",
+      "pullRequestNodeId": "PR_kwDOSfYsbc8AAAABSAQ4vg"
     },
     {
       "repository": "MilkteaTW1/piscout",
